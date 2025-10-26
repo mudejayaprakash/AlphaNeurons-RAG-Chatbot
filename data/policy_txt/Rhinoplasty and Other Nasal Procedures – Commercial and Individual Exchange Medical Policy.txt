@@ -1,0 +1,901 @@
+UnitedHealthcare® Commercial and Individual Exchange Medical Policy
+
+Rhinoplasty and Other Nasal Procedures
+
+Policy Number: MP.019.32 Effective Date: May 1, 2025
+
+ Instructions for Use
+
+Table of Contents Page Application ............................................................................. 1 Coverage Rationale .............................................................. 1 Definitions .............................................................................. 3 Medical Records Documentation Used for Reviews ............. 4 Applicable Codes .................................................................. 4 Description of Services ......................................................... 5 Benefit Considerations .......................................................... 5 Clinical Evidence ................................................................... 6 U.S. Food and Drug Administration .................................... 22 References .......................................................................... 22 Policy History/Revision Information .................................... 26 Instructions for Use ............................................................. 27
+
+Related Commercial/Individual Exchange Policies • Cosmetic and Reconstructive Procedures • Obstructive and Central Sleep Apnea Treatment • Omnibus Codes • Orthognathic (Jaw) Surgery • Plagiocephaly and Craniosynostosis Treatment
+
+Community Plan Policy • Rhinoplasty and Other Nasal Procedures
+
+Medicare Advantage Policy • Ear, Nose, and Throat Procedures
+
+Application
+
+UnitedHealthcare Commercial This Medical Policy applies to UnitedHealthcare Commercial benefit plans.
+
+UnitedHealthcare Individual Exchange This Medical Policy applies to Individual Exchange benefit plans.
+
+Coverage Rationale
+
+ See Benefit Considerations
+
+Nasal valve procedures/repair of nasal vestibular stenosis or alar collapse are considered reconstructive and medically necessary when all of the following criteria are present: Prolonged, Persistent Obstructed nasal breathing due to internal and/or External Nasal Valve compromise; and Other causes of nasal obstruction (e.g., rhinosinusitis, allergic rhinitis, vasomotor rhinitis, nasal polyposis, adenoid
+
+hypertrophy, and/or nasopharyngeal masses) have been adequately treated with maximal therapy and nasal obstruction persists; and
+
+Nasal septal deviation and turbinate hypertrophy either:
+
+o Are not present; or o Have been previously surgically treated; or o Are scheduled to be surgically treated at the same time as the nasal valve procedure/repair as part of the surgery
+
+plan
+
+and
+
+Documented evidence of visible collapse of the alar (lower lateral) cartilage (External Nasal Valve) and/or lateral nasal
+
+wall (internal nasal valve) with deep inspiration; and
+
+Documented evidence of subjective and audible improvement in nasal airflow during modified Cottle maneuver; and Photos clearly document either dynamic collapse of the internal and/or External Nasal Valve or anatomic deformities
+
+narrowing the internal and/or External Nasal Valve as a main cause of an anatomic Mechanical Nasal Airway Obstruction and are consistent with the clinical exam; and
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 1 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+The surgeon has clearly described:
+
+o Whether the nasal valve compromise is static or dynamic; and o Whether the nasal valve compromise involves internal nasal valve, External Nasal Valve, or both; and o A plainly stated and clear surgical plan including the need for a cartilage graft
+
+Nasal valve procedures/repair of nasal vestibular stenosis or alar collapse are not considered reconstructive and medically necessary in all other indications.
+
+Rhinophyma excision is considered reconstructive and medically necessary when all of the following criteria are present: One of the following:
+
+o Prolonged, Persistent Obstructed nasal breathing due to rhinophyma; or o Chronic infection or bleeding unresponsive to medical management due to rhinophyma and
+
+Photos clearly document rhinophyma as the primary cause of an anatomic Mechanical Nasal Airway Obstruction or
+
+chronic infection and are consistent with the clinical exam; and
+
+The proposed procedure is designed to correct the anatomic Mechanical Nasal Airway Obstruction and relieve the Nasal Airway Obstruction by correcting the deformity or the proposed procedure is designed to address the chronic infection
+
+Rhinophyma excision is not considered reconstructive and medically necessary in all other indications.
+
+Rhinoplasty for congenital anomalies is considered reconstructive and medically necessary when the following are present: Rhinoplasty is performed for a nasal deformity associated with congenital craniofacial anomalies including but not
+
+limited to Pierre Robin syndrome, Apert syndrome, Fraser syndrome, Binder syndrome, Goldenhar syndrome, nasal dermoids, Tessier nasal cleft (most commonly no. 1), or associated with a cleft lip or cleft palate
+
+Rhinoplasty for congenital anomalies is not considered reconstructive and medically necessary in all other indications.
+
+Rhinoplasty–primary is considered reconstructive and medically necessary when all of the following criteria are present: The indication for surgery is one of the following:
+
+o Prolonged, Persistent Obstructed nasal breathing due to nasal bone and septal deviation that are the primary
+
+causes of an anatomic Mechanical Nasal Airway Obstruction; or
+
+o Nasal fracture with nasal bone displacement severe enough to cause nasal airway obstruction; or o Residual large cutaneous defect following resection of a malignancy or nasal trauma and
+
+The Nasal Airway Obstruction cannot be corrected by septoplasty alone as documented in the medical record; and Photos clearly document the nasal bone/septal deviation as the primary cause of an anatomic Mechanical Nasal
+
+Airway Obstruction and are consistent with the clinical exam; and
+
+The proposed procedure is designed to correct the anatomic Mechanical Nasal Airway Obstruction and relieve the
+
+Nasal Airway Obstruction by centralizing the nasal bony pyramid and straightening the septum; and
+
+Nasal Airway Obstruction is causing significant symptoms (e.g., Chronic Rhinosinusitis, difficulty breathing); and Obstructive symptoms persist despite conservative management for 4 weeks or greater, which includes, where
+
+appropriate, nasal steroids or immunotherapy
+
+Rhinoplasty–primary is not considered reconstructive and medically necessary in all other indications.
+
+Rhinoplasty–revision is primarily cosmetic. However, it is considered reconstructive and medically necessary when all of the following criteria are present: Required as treatment of a complication/residual deformity from primary surgery performed to address a Functional Impairment when a documented Functional Impairment persists due to the complication/deformity (these codes are usually cosmetic); and
+
+Photos clearly document the secondary deformity/complication as the primary cause of an anatomic Mechanical
+
+Nasal Airway Obstruction and are consistent with the clinical exam; and
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 2 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+The proposed procedure is designed to correct the anatomic Mechanical Nasal Airway Obstruction and relieve the
+
+nasal airway obstruction by correcting the deformity or treating the complication (these codes are usually cosmetic); and
+
+Nasal airway obstruction is causing significant symptoms (e.g., Chronic Rhinosinusitis, difficulty breathing); and Obstructive symptoms persist despite conservative management for 4 weeks or greater, which includes, where
+
+appropriate, nasal steroids or immunotherapy
+
+Rhinoplasty–revision is not considered reconstructive and medically necessary in all other indications.
+
+Rhinoplasty tip is primarily cosmetic. However, it is considered reconstructive and medically necessary when all of the following criteria are present: Prolonged, Persistent Obstructed nasal breathing due to tip drop that is the primary cause of an anatomic Mechanical
+
+Nasal Airway Obstruction (this code is usually cosmetic); and
+
+Photos clearly document tip drop as the primary cause of an anatomic Mechanical Nasal Airway Obstruction and are
+
+consistent with the clinical exam (acute columellar-labial angle); and
+
+The proposed procedure is designed to correct the anatomic Mechanical Nasal Airway Obstruction and relieve the
+
+nasal airway obstruction by lifting the nasal tip; and
+
+Nasal airway obstruction is causing significant symptoms (e.g., Chronic Rhinosinusitis, difficulty breathing); and Obstructive symptoms persist despite conservative management for 4 weeks or greater, which includes, where
+
+appropriate, nasal steroids or immunotherapy
+
+Rhinoplasty–tip is not considered reconstructive and medically necessary in all other indications.
+
+Nasal polypectomy is considered reconstructive and medically necessary in certain circumstances. For medical necessity clinical coverage criteria, refer to the InterQual® CP: Procedures, Polypectomy, Nasal.
+
+Click here to view the InterQual® criteria.
+
+Nasal polypectomy is not considered reconstructive and medically necessary in all other indications.
+
+The following procedures are considered unproven and not medically necessary due to insufficient evidence of safety and/or efficacy: • Absorbable polylactic acid nasal cartilage support implants [e.g., Latera Absorbable Nasal Implant (Stryker)] for
+
+supporting nasal upper and lower lateral cartilage
+
+Nasal septal swell body (NSB) reduction for the treatment of nasal obstruction • Posterior nasal nerve or sphenopalatine ganglion ablation using any method (such as radiofrequency or cryoablation;
+
+e.g., RhinAer, ClariFix) for the treatment of chronic rhinitis
+
+Radiofrequency treatment of nasal valves for the treatment of nasal airway obstruction (e.g., VivAer ARC Stylus)
+
+Definitions
+
+The following definitions may not apply to all plans. Refer to the member specific benefit plan document for applicable definitions.
+
+Acute Rhinosinusitis (ARS): ARS is a clinical condition characterized by inflammation of the mucosa of the nose and paranasal sinuses with associated sudden onset of symptoms of purulent nasal drainage accompanied by nasal obstruction, facial pain/pressure/fullness, or both of up to four weeks duration (Rosenfeld, 2015).
+
+Chronic Rhinosinusitis (CRS): CRS is one of the more prevalent chronic illnesses in the United States and is an inflammatory process that involves the paranasal sinuses and persists for longer than 12 weeks (Rosenfeld et al., 2015).
+
+External Nasal Valve: The caudal septum, along with lower lateral cartilage, alar rim, and nostril sill contribute to the External Nasal Valve (Rohrich, 2009).
+
+Functional or Physical or Physiological Impairment: A Functional or Physical or Physiological Impairment causes deviation from the normal function of a tissue or organ. This results in a significantly limited, impaired, or delayed capacity to move, coordinate actions, or perform physical activities and is exhibited by difficulties in one or more of the following areas: physical and motor tasks; independent movement; performing basic life functions (Medicare, 2023).
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 3 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Mechanical Nasal Airway Obstruction: Trouble breathing through the nose (not snoring) due to a bony or cartilaginous deformity (Corey, 2009).
+
+Prolonged, Persistent Nasal Airway Obstruction: Trouble breathing through the nose (not snoring) that has not responded to six weeks of medical management such as nasal steroids, antihistamines, and decongestants. Elimination of drug-induced rhinitis, including Rhinitis Medicamentosa, as a cause for airway obstruction (Corey, 2009).
+
+Rhinitis Medicamentosa (RM): A condition of rebound nasal congestion brought on by extended use of topical decongestants (e.g., oxymetazoline, phenylephrine, xylometazoline, and naphazoline nasal sprays) that constrict blood vessels in the lining of the nose. It classifies as a subset of drug-induced rhinitis (Wahid, 2022).
+
+Recurrent Acute Rhinosinusitis (RARS): RARS has been defined as four episodes per year of Acute Rhinosinusitis with distinct symptom free intervals between episodes (Rosenfeld et al., 2015).
+
+Medical Records Documentation Used for Reviews
+
+Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service. Medical records documentation may be required to assess whether the member meets the clinical criteria for coverage but does not guarantee coverage of the service requested; refer to the protocol titled Medical Records Documentation Used for Reviews.
+
+Applicable Codes
+
+The following list(s) of procedure and/or diagnosis codes is provided for reference purposes only and may not be all inclusive. Listing of a code in this policy does not imply that the service described by the code is a covered or non-covered health service. Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service. The inclusion of a code does not imply any right to reimbursement or guarantee claim payment. Other Policies and Guidelines may apply.
+
+Note: All nasal surgical claims may be subject to coding review. The following codes may be cosmetic; review is required to determine if considered cosmetic or reconstructive.
+
+CPT Code 30117 30120 30400 30410
+
+Description
+
+Excision or destruction (e.g., laser), of intranasal lesion; internal approach Excision or surgical planing of skin of nose for rhinophyma Rhinoplasty, primary; lateral and alar cartilages and/or elevation of nasal tip Rhinoplasty, primary; complete, external parts including bony pyramid, lateral and alar cartilages, and/or elevation of nasal tip Rhinoplasty, primary; including major septal repair Rhinoplasty, secondary; minor revision (small amount of nasal tip work) Rhinoplasty, secondary; intermediate revision (bony work with osteotomies) Rhinoplasty, secondary; major revision (nasal tip work and osteotomies) Rhinoplasty for nasal deformity secondary to congenital cleft lip and/or palate, including columellar lengthening; tip only Rhinoplasty for nasal deformity secondary to congenital cleft lip and/or palate, including columellar lengthening; tip, septum, osteotomies Repair of nasal vestibular stenosis (e.g., spreader grafting, lateral nasal wall reconstruction) Repair of nasal valve collapse with subcutaneous/submucosal lateral wall implant(s) Repair of nasal valve collapse with low energy, temperature-controlled (i.e., radiofrequency) subcutaneous/submucosal remodeling Nasal/sinus endoscopy, surgical; with biopsy, polypectomy or debridement (separate procedure) Nasal/sinus endoscopy, surgical; with destruction by radiofrequency ablation, posterior nasal nerve Nasal/sinus endoscopy, surgical; with destruction by cryoablation, posterior nasal nerve Unlisted procedure, nervous system
+
+30420 30430 30435 30450 30460
+
+30462
+
+30465 30468 30469
+
+31237 31242 31243 64999
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 4 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+CPT® is a registered trademark of the American Medical Association
+
+HCPCS Code L8699
+
+Description
+
+Prosthetic implant, not otherwise specified
+
+Description of Services
+
+Nasal Valve Procedures/Repair of Nasal Vestibular Stenosis or Alar Collapse: Surgical procedures to correct nasal valve or vestibule impairment caused by aging, congenital anomaly, or prior nasal surgery to restore the nasal airway.
+
+Rhinophyma Excision: The surgical removal of nasal bumps, known as rhinophyma. In advanced cases, the condition may cause Functional Impairment, such as airway obstruction, and surgical removal is necessary to restore the airway.
+
+Rhinoplasty: A surgical procedure of the nose for reconstructive reasons to improve a nasal deformity, or a damaged nasal structure or to replace lost tissue, while maintaining or improving the physiological function of the nose. It can also be done for cosmetic purposes to correct or improve the external appearance of the nose.
+
+Rhinoplasty for Congenital Anomalies: A rhinoplasty procedure to address a medical condition present at or from birth that significantly deviates from the common structure or function of the nose or nasal airway; these procedures are most commonly done to treat cleft lip and palate abnormalities, or for removal of a nasal dermoid.
+
+Rhinoplasty–Primary: The first rhinoplasty operation performed on a nose.
+
+Rhinoplasty–Revision: Any subsequent or revision rhinoplasty surgeries performed on a nose.
+
+Rhinoplasty–Tip: A surgical procedure of the tip of the nose to improve nasal function by repairing an existing defect or to enhance the appearance.
+
+Nasal Polypectomy: A surgical procedure to remove polyps located in the nasal passages.
+
+Absorbable Nasal Cartilage Support Implant: A synthetic nasal graft made out of polylactic acid (to stimulate collagen production) that absorbs over two years, leaving behind a collagen track to support the nasal valve for the treatment of nasal congestion. It is not a drug eluting nasal stent. Latera (Stryker, Inc) is the only Food and Drug Administration (FDA) approved absorbable nasal implant at this time. According to the manufacturer’s website, the Latera implant is used to support upper and lower lateral cartilage in the nose, reinforcing the nasal wall like traditional cartilage and polymer grafts. Supporting the cartilage in this manner may reduce nasal airway obstruction symptoms and help patients breathe better. The Latera implant supports the upper and lower lateral cartilage by anchoring above the maxilla to provide cantilever support. Through a minimally invasive procedure, the nasal implant is inserted through a small incision made inside a patient’s nose. (Stryker, 2019).
+
+Nasal Septal Swell Body (NSB) Reduction: A procedure to address the symptoms of chronic rhinitis, Chronic Rhinosinusitis, or nasal obstruction by decreasing the size of an enlarged NSB. Several methods of reducing enlarged NSBs have been used. The NSB is a thickened mucosa of the anterior nasal septum superior to the inferior turbinate and anterior to the middle turbinate. The NSB is also referred to in medical literature as nasal septal turbinate (NST), septal turbinate, Kiesselbach’s body, septal swell body (SSB), nasal septal body, septal body, nasal swell body, swell body, septal erectile body, septal cavernous body, anterior septum tuberculum, and intumenscentia septi nasi anterior. The nasal vestibular body (NVB) is also described as a dynamic swell body situated inferior and anterior to the head of the inferior turbinate. It is felt that the NSB can impact nasal resistance because of its location in the internal valve area.
+
+Benefit Considerations
+
+Some states require benefit coverage for services that UnitedHealthcare considers cosmetic procedures, such as repair of external congenital anomalies in the absence of a Functional Impairment. Refer to the member specific benefit plan document.
+
+UnitedHealthcare excludes cosmetic procedures from coverage, including but not limited to the following: Procedures that correct an anatomical congenital anomaly without improving or restoring physiologic function are
+
+considered cosmetic procedures. The fact that a covered person may suffer psychological consequences or socially
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 5 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+avoidant behavior as a result of an injury, sickness, or congenital anomaly does not classify surgery (or other procedures done to relieve such consequences or behavior) as a reconstructive procedure.
+
+Clinical Evidence
+
+Nasal Valve Procedures/Repair of Nasal Vestibular Stenosis or Alar Collapse Marianetti et al. (2024) conducted a prospective, single-center, single-arm study to evaluate the efficacy of the alar extension graft for the correction of external nasal valve collapse and to evaluate the functional and aesthetic results. The study included 51 adults (23.5% male, mean age 35.4 years) with external nasal valve collapse as the sole factor of nasal obstruction who underwent open rhinoplasty. Rhinomanometry was performed before and after surgery along with the completion of the NOSE and SNOT 20 questionnaires at baseline and at nine months after surgery. The authors reported that 90% of the participants were subjectively satisfied with the post-operative improvement in nasal breathing and that there was significant improvement in the values of the pre- (62 points) and post- (29 points) operative NOSE scores and SNOT 20 questionnaire scores (28 points pre-operative and 18 points post-operative). The authors also reported that rhinomanometry showed increased nasal flow with a statistically significant difference between pre- (515.53 ml/s) and post- (588.61 ml/s) operative results. Limitations of the study include the small study population size, the single-center design, the lack of a control group, and the short-term follow-up. The authors concluded that the alar extension graft was proven to be effective and reliable in the surgical treatment of external nasal valve collapse, with improvement in objective and subjective breathing with good functional and aesthetic results.
+
+In a single-center, retrospective study on the efficacy of septal extension graft (SEG) use in the treatment of alar collapse, Resuli et al. (2023) and reported that the SEG technique which they applied for nasal projection in rhinoplasty surgery, increased the extension of the lower lateral cartilage lateral ridge (LC) and alar structures. The study included 23 patients, 18 male and five female with mean ages of 45.5 and 39.7 years respectively, with alar collapse with a positive Cottle test and bilateral dynamic nasal collapse. Other causes of nasal obstruction (such as septal deviation, allergic rhinitis, turbinate hypertrophy, acute and/or chronic sinusitis, and nasal polyp) were not found in any of the patients, and facial nerve examinations were normal. The authors reported that there were no complaints of nasal obstruction on deep inspiration noted by the patients at their six-month post-operative follow-up. The mean respiratory score was 152 postoperatively, compared to 66.5 preoperatively. The authors concluded that SEG use is effective for patients with bilateral nasal collapse and thick-short columella which results in a significant increase in nasal vestibular volume.
+
+Goudakos et al. (2016) performed a systematic review to assess knowledge and evidence of management options for the treatment of nasal valve collapse. Fifty-three studies were identified and systematically reviewed. The majority (50 of 53) of the included articles were graded as level IV evidence and only one randomized trial was identified. The included randomized study reported no difference in improvement between the intervention group (auto-spreader flap) and placebo arms. Most of the included studies presented in this systematic review provide level IV evidence concerning the optimal approach for cases of nasal valve collapse. At the time of the review, research was driven by reports of techniques rather than patient outcomes. The authors concluded that proper evaluation and identification of the cause of internal valve (INV) collapse is paramount prior to selection of the preferred surgical solution. Treatment approaches should be directed at specific involved sites in the INV and need to be tailored towards the patient’s specific problem. This systematic review of the literature revealed that the available evidence is based on low-level studies and focuses more on the description of various surgical techniques rather than on patient-reported outcome measures, the latter of which is recommended in future studies. Further research with randomized controlled trials (RCT) is needed to validate these findings.
+
+A systematic review was completed by Spielmann et al. (2009) to evaluate surgical treatment strategies for nasal valve collapse. The review included 43 articles from 1970 to 2008, with at least 10 patients in each study, stated aim to improve airway obstruction, and a minimum of one month follow-up for every patient. Of these studies, one trial presented level IIIb evidence, and all other studies were classed as level IV. Seven authors present objective measurements of nasal airflow or cross-sectional area, and four authors present validated outcome measures. The authors concluded that there is a variety of focused surgical techniques described which deal with nasal valve collapse. They could find no randomized controlled trials on nasal valve surgery. Research in nasal valve surgery is frequently driven by technical description of surgical technique rather than the establishment of evidence of long-term patient benefit. Although the understanding of the role of the nasal valve in the pathophysiology of nasal obstruction has improved vastly, the myriads of surgical techniques described reflects the uncertainty in choice of technique and in degree of patient benefit. Well designed, adequately powered, prospective, randomized controlled clinical trials of a single surgical technique are needed to further describe safety and clinical outcomes.
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 6 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Clinical Practice Guidelines American Academy of Otolaryngology-Head and Neck Surgery (AAO-HNS) In their 2023 Position Statement on nasal valve repair, the AAO-HNS recognized surgical repair of the nasal valve as a distinct surgical procedure that can improve nasal obstruction symptoms for appropriately selected patients with nasal valve collapse. The AAO-HNS statement indicates that surgical approaches for the treatment of nasal valve dysfunction may include cartilage grafting and open surgical repair, suture suspension techniques, and implants or radiofrequency treatment aimed at stabilizing the nasal valve. It also states that surgical treatment of nasal valve collapse, along with treatment of other possible causes of nasal airway obstruction, is required to optimize patient outcomes for patients who require anatomic widening and definitive stabilization of the nasal valve.
+
+Rhinophyma Excision Zheng et al. (2024) conducted a retrospective, single-center study to evaluate the clinical effectiveness and recurrence rates after treating severe rhinophyma with the five-blade scratcher. The study included 28 adults (mean age 52 years, 92.9% male) with severe rhinophyma rosacea who were assessed with the Global Flushing Severity Score (GFSS), Clinician Erythema Assessment (CEA), Rhinophyma Severity Index (RHISI), Glasgow Benefit Inventory (GBI), and with satisfaction scores at baseline, six months, and five years postoperatively. The recurrence rate was calculated at five years postoperatively and the levels of pro-inflammatory factors in the serum of patients was detected before and after surgery. The authors reported that the GFSS, CEA and RHISI scores at six months and five years postoperatively were significantly lower than those preoperatively with a small number of participants (25%) reporting recurrence after surgical treatment. The authors also reported that the expression of pro-inflammatory factors was significantly reduced after surgery. The authors concluded that the five-blade scratcher treatment demonstrated simplicity, safety, and efficacy, as well as reduced bleeding, minimized scarring, demonstrated lower recurrence rates, decreased pro-inflammatory factors, and improved patient satisfaction. Limitations of the study include the lack of comparator, the single center design, and the small sample size.
+
+Chauhan et al. (2020) completed a systematic review comparing laser therapy, scalpel excision, and subunit treatment outcomes on patients with rhinophyma from 1946 to 2020, using an OVID Medline literature search. From a total of 351 articles, 23 met criteria for inclusion. Among 12 studies, 247 patients with a mean age of 61 years and minor to major disease (minor, n = 67); moderate (n = 64); and major (n = 87) were treated with a carbon dioxide laser in an average of 1.1 sessions. A total of 18 patients was treated, with a mean age of 62 years, and a total of one patient with minor, 12 with moderate, and five with major rhinophyma using the erbium: YAG (Er:YAG) laser in 1.0 sessions. A total of 108 patients underwent cold knife tangential excision among eight studies. Patients had a mean age of 61 years, treated for minor to major rhinophyma, and all required a single session for treatment. Seven patients with a mean age of 67 years underwent treatment with a Shaw scalpel, and all required a single session for treatment. Eight patients (mean age 63 years) underwent treatment with the subunit method. Four patients had external valve collapse. Four patients received alar batten cartilage grafts, all had interdomal sutures, and one patient required a skin graft. Both the complication and revision rates were 75%, but only minor revisions under local anesthetic were required and no recurrence of disease was noted. The authors concluded that the subunit method had the highest complication and revision rates followed by carbon dioxide laser therapy. Outcomes between carbon dioxide laser and scalpel therapy and electrocautery were equivalent. They also concluded that scalpel excision was a cost-effective treatment modality with less post-operative complications; however, it risked poor hemostasis intraoperatively. Patient satisfaction was common post-therapy regardless of the treatment method. Over 89% of patients would recommend undergoing treatment for rhinophyma irrespective of treatment type. Treatment options vary, and choice of treatment can be dependent on practitioner and patients’ treatment goals. Reporting of quantitative and qualitative outcomes between studies is not standardized. Further research with randomized controlled trials is needed to validate these findings.
+
+Rhinoplasty Yuan and An (2024) conducted a systematic review to evaluate the improvement in nasal airway obstruction after secondary rhinoplasty for cleft lip. The review included 29 studies (15 case series, seven prospective cohort, five retrospective cohort and two case reports) with a total population of 1031 patients with cleft lip. Nasal ventilation outcomes were measured using subjective methods in 21 studies and with objective methods in eight studies. Comparison groups were included in six of the studies that used subjective methods and all of the studies that used objective methods to assess nasal ventilation outcomes. All of the studies included human patients undergoing secondary rhinoplasty with cleft lip nasal deformity (CLND) and were published between 2004 and 2023. The authors reported that all 29 studies consistently demonstrated that secondary rhinoplasty can effectively eliminate or alleviate symptoms of nasal airway obstruction with improvement seen in the domains of snoring, trouble breathing through the nose and the ability to get enough air through the nose during physical exertion. The authors also reported that it is generally recommended to perform definitive rhinoplasty after complete facial development as it had a higher improvement rate and avoided potential subsequent anatomical changes in nasal structure; however, if severe nasal obstruction caused by caudal septal
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 7 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+deviation is present, or significant emotional distress due to peer psychological pressure is present, intermediate rhinoplasty can be considered as an early intervention. Limitations of the study included the heterogeneity of the study designs, measurement tools, and surgical techniques and the overall lo, The authors concluded that the review posits that secondary cleft lip rhinoplasty can effectively ameliorate nasal airway obstruction and recommended larger scale comparative studies be conducted to address more specific inquiries including surgical techniques and optimal measurement methodologies.
+
+In a single-center, retrospective cohort study of patients who underwent closed nasal reduction of nasal bone fractures, Besmens et al., (2023) determined the rate of rhinoplasty after fracture reduction and analyzed the factors affecting the outcome and need for revision rhinoplasty. The study included a record review of 417 consecutive patients (306 male and 111 female patients) with a median age of 30 years. There were 371 (89%) patients who had a closed fracture and 46 (11%) who had open fractures. One third of all patients (n = 139, 33.3%) had an associated nasal septum fracture and septal deviation was visible via CT or was clinically present in 135 patients (32.4%), and a dislocated septum was noted in 56 patients (13.4%). There were 46 patients who had sustained at least one prior nasal fracture, and these patients were more likely to require revision rhinoplasty. Closed reduction was performed on average of six days post trauma with gauze removal two days post operatively and cast removal occurred after seven days. The authors reported that 47 patients (11.3%) required revision rhinoplasty after fracture healing, which was performed on average of 398 days (range 214 to 592 days) after the initial reduction. The authors reported that patients who suffered an additional septum fracture or septal deviation were more likely to undergo rhinoplasty and that the risk of the need for open revision rhinoplasty after fracture healing was significantly increased for patients complaining of airway obstruction at the time of cast removal after closed reduction. Limitations of the study include the retrospective design, the inclusion of cases operated on by multiple surgeons, the lack of medical records related to possible existence of airway obstruction prior to the nasal fracture and the lack of medical records for patients lost to follow up who may have undergone revision rhinoplasty elsewhere. The authors concluded that a significant number of patients will require secondary revision rhinoplasty even though closed reduction of nasal fractures is frequently considered a straightforward procedure. The authors recommended prospective studies to support the findings of their investigation.
+
+A meta-analysis by Zhao et al. (2022) was performed to evaluate the effects of functional rhinoplasty (FRP) on nasal obstruction in patients with nasal valve problems. A total of 57 cohorts from 43 studies involving 2024 patients were included in the current meta-analysis (Level of Evidence III). The Nasal Obstruction Symptom Evaluation (NOSE) scores indicated significant improvement in nasal obstruction at the one-month, three-month, six-month, 12-month, and the last follow-up with respect to the preoperative baseline. The Visual Analogue Scale (VAS) scores indicated a similar trend at the one-month, three-month, six-month, and last follow-up. Nasal obstruction was demonstrated as relieved through rhino- manometry but not through peak nasal inspiratory flow (PNIF). The authors concluded that FRP may have a positive effect on nasal obstruction caused by nasal valve problems. The findings of this study need to be validated by broader, well-designed studies.
+
+A systematic review and meta-analysis by Pfaff et al. (2021) were performed to evaluate the effects of septoplasty, septorhinoplasty, and rhinoplasty procedures on post-operative olfactory function and their relationship to nasal airflow and quality of life. Pre-operative and post-operative values for olfaction, nasal airflow, and quality of life/nasal symptoms were analyzed. The effect size was calculated from each study and used for meta-analysis. As studies evaluated patients at different points in the postoperative period, the latest time point reported by each study was used in the meta-analysis. All included studies were Level of Evidence II. There were 25 included studies. Three studies were randomized prospective studies, seven were comparative studies, and 15 were noncomparative studies Following nasal surgery, patients experienced significant improvements in olfaction (p < 0.001), nasal airflow (p < 0.001), and quality of life/nasal symptoms (p < 0.001). Patients often experienced a transient decrease in olfaction immediately after surgery, followed by improvement post-operatively. Pre-operative olfactory dysfunction rates were low and post-operative dysfunction was equally low. Olfaction improvement was directly correlated with improvement in nasal airflow and quality of life. The authors concluded that functional and aesthetic nasal operations appear to improve olfaction, which is directly correlated with nasal airflow. Some studies reported a transient worsening of these measures in the immediate post-operative period, which improved at later time points. The study is limited due to a heterogeneous patient population. In addition, due to smaller sample sizes, there is an inherent risk of publication bias.
+
+Martin et al. (2021) completed a prospective randomized controlled trial (RCT) to evaluate the subjective and objective outcome of septoplasty (SPL) and septorhinoplasty (SRP) on patient satisfaction. Patients with functional indication for SPL (n = 19) or SRP (n = 54) were included and randomized for additional turbinoplasty. Preoperative clinical symptoms were collected with SNOT-20 GAV (Sinu-nasal outcome test-20—German adapted version) and NOSE questionnaires. The final evaluation of treatment success was performed nine months after surgery with SNOT-20 GAV, NOSE© and a self-established feedback questionnaire. Nasal breathing and obstruction were objectively measured with rhinomanometry and acoustic rhinometry [minimum cross-sectional area 2 (MCA2)]. MCA2 was statistically improved compared to the pre-
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 8 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+treatment value in SPL (p = 0.0004) and SRP (p = 0.0001). Regarding MCA2 values of matched patient groups, similar findings were detected (SPL: p = 0.0013, SRP: p < 0.0001). Sinu-nasal outcome test-20 GAV and NOSE© scores were reduced after both surgical procedures (NOSE©: SPL: p < 0.0001, SRP: p < 0.0001; SNOT-20 GAV: SPL: p = 0.0068, SRP: p < 0.0001). Evaluation of patient satisfaction in a self-established feedback questionnaire revealed a motivation of 81% of patients to redo the surgery (SPL 13/16, SRP 34/42) and a notably general satisfaction of 86% for SPL and 80% for SRP. The authors concluded that rhino surgery leads improved nasal breathing and increased disease-specific satisfaction quantitatively. Further research with randomized controlled trials is needed to validate these findings.
+
+Floyd et al. (2017) completed a systematic review and meta-analysis of studies evaluating functional rhinoplasty outcomes with the NOSE score. A search by the authors was performed with the terms ‘‘nasal obstruction’’ and ‘‘rhinoplasty.’’ Studies were included if they evaluated the effect of functional rhinoplasty on nasal obstruction with the NOSE score. Case reports, narratives, and articles that did not use the NOSE score were excluded. Functional rhinoplasty was defined as surgery on the nasal valve. The search resulted in 665 articles. After dual-investigator independent screening, 16 articles remained. Study results were pooled with a random effects model of meta-analysis. Change in NOSE score after surgery was assessed via the mean difference between baseline and postoperative results and the standardized mean difference. Heterogeneity was assessed and reported through the I² statistic. Patients in the included studies had moderate to severe nasal obstructive symptoms at baseline. The NOSE scores were improved at 3- 6, 6-12, and ≥ 12 months, with absolute reductions of 50 points (95% CI, 45-54), 43 points (95% CI, 36-51), and 49 points (95% CI, 39-58), respectively. All these analyses showed high heterogeneity. The authors concluded that nasal obstruction as measured by the NOSE survey is reduced by 43 to 50 points (out of 100 points) for 12 months after rhinoplasty. However, the study is limited due to a heterogeneous patient population, large variability in outcomes beyond 12 months, and the potential for bias in observational studies.
+
+Clinical Practice Guidelines American Academy of Otolaryngology-Head and Neck Surgery (AAO-HNS) A clinical practice guideline developed by the AAO-HNS states that rhinoplasty is often performed to enhance function by improving nasal respiration and relieving congenital or acquired obstruction. The AAO-HNS definition of rhinoplasty documented by Ishii et al. (2017) states that rhinoplasty as a surgical procedure that alters the shape or appearance of the nose while preserving or enhancing the nasal airway. The change in appearance may be a consequence of addressing a functional abnormality (e.g., deviated septum, nasal valve compromise) and for cosmetic purposes (e.g., an incidental cosmetic procedure). The primary reason for surgery can be aesthetic, functional, or both, and it may include adjunctive procedures on the nasal septum, nasal valve, nasal turbinates, or the paranasal sinuses. When these adjunctive procedures are performed without an impact on the nasal shape or appearance, they do not meet the definition of rhinoplasty and are therefore excluded from further consideration in the guideline.
+
+American Cleft Palate-Craniofacial Association (ACPA) The ACPA developed standards for the evaluation and treatment of patients with cleft lip/palate or other craniofacial differences under a project funded by the U.S. Public Health Service Department of Health and Human Services. They advise that rhinoplasty and nasal septal surgery are usually advocated only after completion of nasal growth; however, primary rhinoplasty may be done at the time of the primary cleft/lip palate repair surgery depending on the severity of the nasal difference. They further advise that earlier intervention including rhinoplasty and nasal septal surgery may be indicated for reasons of airway problem or nasal tip difference and that the timing of the nasal surgery should be discussed with the patient and parents so that the goals are understood, and expectations are realistic (2018).
+
+American Society of Plastic Surgeons (ASPS) The ASPS published a Nasal Policy Statement (2021) indicating that nasal surgery is considered reconstructive surgery and medically necessary to improve nasal airway function, to treat or revise anatomic abnormalities caused by birth defects or disease, and to revise structural deformities resulting from trauma.
+
+Absorbable Nasal Cartilage Support Implants Current available evidence for absorbable nasal cartilage support implants, such as Latera, are promising for the treatment of nasal airway obstruction; however, overall, the evidence is of low quality with inadequate long-term follow-up, control-group comparisons and objective measurement tools. More robust, multi-center, randomized trials with long-term results are needed to demonstrate the safety and efficacy of these devices.
+
+Clark et al. (2024) conducted a retrospective, single-center study to compare quantitative NOSE scores for autologous cartilage grafts (ACG) and Latera nasal implants for nasal valve repair. The study included 63 patients who had completed NOSE surveys pre-and post-operatively at one, three, and six months. There were 24 patients who underwent
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 9 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+ACG (62.5% male) and 39 (48.7% male) who received Latera nasal implants. The authors reported that there were no differences in demographic characteristics or in pre-operative baseline NOSE scores between the two groups and that the mean operative times were not significantly different between groups. The authors reported that the NOSE scores were significantly improved at each post-operative visit compared to baselines and that, between groups, the mean NOSE scores were lower at each post-operative visit for ACG compared to Latera with the NOSE score of 21.7 for ACG and 45.9 for Latera at one month, 14.5 for ACG and 39.9 for Latera at three months and 8.4 for ACG and 44.2 for Latera at six months. Limitations of the study include the heterogeneity of concomitant procedures performed in both groups, the small number of participants, and the retrospective, single-center design. The authors concluded that both ACG and Latera offer significant improvements in patient-reported nasal obstruction severity; however, ACG may yield more favorable subjective symptom scores.
+
+In their Executive Summary on the Latera Absorbable Nasal Implant, ECRI (2022) reviewed evidence from one systematic review with meta-analysis (Kim et al., 2020 study below), one RCT (Bikhazi et al., 2022 below and also included in the Kim et al., 2020 systematic review with meta-analysis), one non-randomized comparison study (Olson and Barrera, 2021 below) and three pretest/posttest studies and found that Latera appears to improve breathing in patients with nasal wall collapse at two-year follow-up; however, they noted that the efficacy of Latera compared to rhinoplasty is unclear because the studies provided too few data. The authors noted that the pooled findings are at risk of bias due to the subjective measurement tools used to assess efficacy, the lack of parallel control groups and the inclusion of other treatments along with Latera. They also noted that some studies were at high risk of bias due to small sample size, lack of randomization and lack of control groups. Sham-controlled, double-blind RCTs with uniform treatment protocols and long- term follow-up (> two years) are needed demonstrate the durability of Latera’s benefits and to support stronger conclusions.
+
+In an Evolving Evidence Review, Hayes (2022, updated 2024) completed a systematic search and findings summary on clinical studies, systematic reviews, and clinical practice guidelines on absorbable nasal implants. In the 2024 annual review, Hayes noted that they have identified two additional published clinical studies since the report was initially published in 2022. including the Olson and Barrera, 2021 study below and the Clark et al., 2023 study above) to add to the two prospective pretest/posttest studies (three publications), and one RCT (two publications) that were included in the initial report. There was no change to the quality of available studies, which were found to be of generally very poor quality, and there was a lack of studies with control groups to demonstrate if absorbable nasal implants perform better, worse, or similar to competing technologies. No relevant clinical practice guidelines or position statements were identified from any nationally recognized medical society. Many of the included studies were the same as those reviewed in the ECRI (2022) Executive Summary above (Bikhazi et al., 2021, Olson and Barrera, 2021, Sidle et al., 2021 and San Nicoló et al., 2018) and three of the studies (Bikhazi et al., 2021, Olson and Barrera, 2021, and San Nicoló et al., 2017) are included in this policy below. Hayes concluded that, while available published evidence suggested absorbable nasal implants were technically reasonable to implant and were associated with reduced nasal airway obstruction and pain, the clinical studies and systematic reviews were of generally very poor quality. Hayes noted that only one study had a control group to demonstrate whether absorbable nasal implants perform clinically better, worse, or similar to competing technologies; however, the control participants were allowed to crossover to treatment after three months, so long term comparison was not available. In other studies, Hayes noted that many patients received adjunctive treatment with the nasal implants which confounded the interpretation of the results.
+
+In a follow-up of a cross-over trial by Stolovitzky et al. (2019), using a case series design, Bikhazi, et al. (2022) followed 40 of the sham participants who subsequently had absorbable nasal implants placed along with the initial 71 participants in the treatment group for up to 24 months post placement. At each follow-up visit at three, six, 12, 18, and 24 months, post implant assessment was completed that included collection of patient-reported outcome measures using the nasal obstructive symptom evaluation (NOSE), nasal obstruction visual analog scale (VAS), and the Epworth Sleepiness Scale (ESS) tools and adverse event monitoring. The authors reported that at all follow-ups from three months through 24 months, 70.0% or more participants reported improvement to mild or moderate NOSE scores, mean VAS score reduction was 29.7 points or greater and statistically significant and that the mean baseline ESS value for the whole participant cohort was within the normal range for the ESS, so while the changes in scores were statistically significant (p < 0.001), the clinical impact was unclear. The authors noted 34 device/procedure-related adverse events in 26 participants that were mild to moderate in severity and that resolved without clinical sequelae or were ongoing but stable at study completion. Study limitations the authors reported included the lack of long-term follow-up of the control arm, significant loss of study participants to follow-up at 18 months (74 participants) and 24 months (70 participants), a lack of an objective assessment tool for nasal valve collapse and an uneven distribution of participants of varying race or ethnicity. The authors concluded that use of an absorbable nasal implant is a safe and effective treatment option for dynamic nasal valve collapse in patients with severe to extreme nasal obstruction and that the procedure provides symptom improvement through 24 months following placement.
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 10 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+In a single center, retrospective, non-randomized cohort study by Olson and Barrera (2021), the records of ninety patients diagnosed with septal deviation, inferior turbinate hypertrophy and nasal valve incompetence with lateral wall insufficiency who were treated between July 2016 until January 2019 were reviewed. All patients underwent septoplasty and inferior turbinate submucous reductions with correction of the nasal wall abnormalities managed by various approaches including insertion of an absorbable nasal implant, alar batten grafts, spreader grafts, or lateral crural strut grafts. Of those 90 patients, 50 underwent bilateral placement of the absorbable nasal implant, septoplasty, and inferior turbinate submucous reduction (SMR) while the other 40 patients underwent an open functional rhinoplasty with a variety of nasal valve techniques including septoplasty and SMR. The study groups were noted to be inequitable in that the treatment group consisted of older participants and a higher proportion of men choosing the implant. The authors reported that patients in both groups had a statistically significant difference in their pre- and post-operative NOSE and SNOT-22 scoring and the delta between the pre and post NOSE and SNOT-22 testing was not significantly different either. Limitations noted by the authors beyond the retrospective, single-center design include the age and gender differences between the two groups, that the surgical approach itself could also result in the improvements noted by the patients, and that the patients were not followed beyond six months post-procedure, so the long-term efficacy is not known. The authors concluded that the use of an absorbable nasal implant can be equivalent to a variety of open techniques in the reduction of the patient-reported outcome measures over a limited time.
+
+Kim et al. (2020) conducted a systemic review with meta-analysis on the effectiveness of using the Latera bioabsorbable implant to treat nasal valve collapse in patients with nasal obstruction. Five databases (PubMed, SCOPUS, EMBASE, Web of Science, and the Cochrane Database) were independently reviewed by two researchers. The review started at the earliest time point recorded in the database to September 2019. The inclusion criteria were studies that scored endoscopic lateral wall movement and nasal obstruction related to quality of life (QOL) postoperatively before and after bioabsorbable nasal implants and those that compared the outcomes of nasal implants (treatment group) with outcomes of sham surgery (control group). Five studies (396 patients) met the inclusion criteria, four of which being case series and one including a comparison group described in detail below (Stolovitzky et al. 2019). The authors found that bioabsorbable nasal implants significantly reduced endoscopic lateral wall motion compared to pretreatment values and improved QOL at 12 months postoperatively. Most adverse effects were reported with a 5% incidence rate following nasal implant and included skin or mucosal reaction, infection, or implant retrieval. All adverse outcomes resolved without significant sequelae. In one study, compared with the sham surgery (control group), patients receiving bioabsorbable nasal implants (treatment group) significantly improved disease specific QOL. The authors concluded bioabsorbable nasal implants may reduce nasal wall movement and subjective symptom scores compared to preoperative status. However, more randomized clinical trials should be conducted to further verify the effectiveness of bioabsorbable nasal implants. This systematic review with meta-analysis is limited by lack of comparison group undergoing a different therapeutic approach in most of the included studies.
+
+Sidle, et al, (2019, included in Kim et al. (2020) systematic review above) performed a prospective multicenter case series to examine 12 implant. One hundred sixty ‐ (November 2016–July 2017). Patients were treated with a bioabsorbable implant (Latera, Spirox Inc., Redwood City, CA) to support the lateral wall, with or without concurrent inferior turbinate reduction (ITR), in an office setting. NOSE scores and Visual Analog Scale (VAS) were measured at baseline and one, three, six, and 12 months postoperatively. The Lateral Wall Insufficiency (LWI) score was determined by independent physicians observing the lateral wall motion video. Using a disease minimally invasive procedure to stabilize the nasal wall with an absorbable implant significantly improves NAO symptoms in patients with dynamic NVC. The authors concluded that at 12 months, the Latera implant is safe and efficacious for selected patients in whom dynamic NVC is a main contributor to their NAO. Longer follow efficacy beyond 12 months. Limitation of this study is lack of comparison with a group of participants receiving a treatment other than the Latera implant.
+
+month outcomes for in
+
+office treatment of dynamic nasal valve collapse (NVC) with a bioabsorbable
+
+six patients with severe
+
+to
+
+extreme class of NOSE scores were enrolled at 16 U.S. clinics
+
+‐
+
+‐
+
+‐
+
+‐
+
+specific quality
+
+of
+
+life instrument and objective physical examination, the study shows that an in
+
+office,
+
+‐
+
+‐
+
+‐
+
+‐
+
+up is needed to determine
+
+‐
+
+Stolovitzky et al. (2019, included in Kim et al., 2020 systematic review above) conducted a multicenter, single-blinded randomized control study to evaluate the safety and effectiveness of a bioabsorbable implant (Latera) to support the lateral nasal wall in nasal valve collapse. 137 patients from 10 clinics were randomized into two arms: treatment arm (70 patients) and sham control arm (67 patients). Outcome measures were followed through three months after the procedure. The primary endpoint was the responder rate (percentage of patients with reduction in clinical severity by one or more categories or ≥ 20% reduction in NOSE score). There were no statistically significant differences in patient demographics and nasal obstruction symptom measures between the two arms. Three months after the procedure, responder rate was significantly higher for the treatment arm compared to the control (82.5% vs 54.7%, p = 0.001). Patients in the treatment arm also had a significantly greater decrease in NOSE score (-42.4 ±23.4 vs -22.7 ±27.9, p < 0.0001) and significantly lower visual analogue scale (VAS) scores (-39.0 ±29.7 vs -13.3 ±30.0, p < 0.0001) than the sham control arm. Seventeen patients reported 19 procedure/implant-related adverse events, all of which resolved with no
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 11 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+clinical sequelae. The authors concluded that the study did show the safety and effectiveness of the bioabsorbable implant in reducing patients’ nasal obstruction symptoms. However, there are limitations of this study. This study reports up data up to three months only. However, previous studies of the bioabsorbable implant have shown short month, 18 that patients’ response to treatment stabilized at three months and were consistent with data observed at 12 month, and 24 blinded study in which all patients were blinded but physicians were ‐ aware of the assignment, which may have introduced risk of bias. Additionally, eight participants in the implant group (11%) were excluded after randomization due to protocol deviation and implant retrieval and the data are analyzed per protocol rather than using intent-to-treat, which could have introduced biases in the findings.
+
+term follow
+
+‐
+
+‐
+
+month follow
+
+up. This is a single
+
+‐
+
+‐
+
+‐
+
+‐
+
+Stolovitzky et al. (2018, included in Kim et al. (2020) systematic review above) reported six-month outcomes from a prospective, multicenter, single-blinded (blinded assessor) case series for treatment of nasal valve collapse due to lateral wall insufficiency. One hundred and one patients with severe-to-extreme class of Nasal Obstruction Symptom Evaluation (NOSE) scores were enrolled at 14 U.S. clinics. Some participants appear to overlap with these of Sidle, et al (2020) discussed above. Patients were treated with a bioabsorbable implant designed to support lateral wall, with or without concurrent septoplasty and/or turbinate reduction procedure(s). NOSE scores and visual analog scale (VAS) were measured at baseline and month one, three and six postoperatively. The Lateral Wall Insufficiency (LWI) score was determined by independent physicians observing the lateral wall motion video. Forty-three patients were treated with implants alone, whereas 58 had adjunctive procedures. Seventeen patients reported 19 AEs, all of which resolved with no clinical sequelae. Patients showed significant reduction in NOSE scores at one, three, and six months postoperatively (79.5 postoperatively; p preoperatively, 32.7 0.01 for all). These results were similar in patients treated with the implant alone compared to those treated with the implant and adjunctive procedures. Consistent with patient-reported outcomes, postoperative LWI scores were demonstrably lower (1.83 ±0.11 pre- and postoperatively; p < stabilization of the lateral nasal wall with a bioabsorbable implant improves patients’ nasal obstructive symptoms over six months. Longer-term outcomes are needed to validate the efficacy of a bioabsorbable implant for the treatment of nasal valve collapse. This study was also limited by lack of comparison group that did not receive the studied implant.
+
+±13.5 preoperatively, 34.6 ±25.0 at one month, 32.0
+
+±28.4 at three months, and 30.6
+
+±25.8 at six months
+
+< 0.01 for all). They also showed significant reduction in VAS scores postoperatively (71.9
+
+±18.8
+
+±27.1 at one month, 30.1
+
+±28.3 at three months, and 30.7
+
+±29.6 at six months postoperatively; p <
+
+±0.10 and 1.30
+
+0.01). The authors concluded that
+
+San Nicolo et al. (2017, included in Kim et al., 2020 systematic review above) conducted a prospective case series to evaluate the safety and effectiveness of an absorbable implant for lateral cartilage support in subjects with nasal valve collapse (NVC) with 12 months follow-up. Thirty subjects with NOSE score ≥ 55 and isolated NVC were treated; 14 cases were performed in an operating suite under general anesthesia and 16 cases were performed in a clinic-based setting under local anesthesia. The implant, a polylactic acid copolymer, was placed with a delivery tool within the nasal wall to provide lateral cartilage support. Subjects were followed up through 12 months post procedure. Fifty-six implants were placed in 30 subjects. The mean preoperative NOSE score was 76.7 mean score was 35.2 ±31.2 points. The majority (76%) of the subjects were responders defined as having at least one NOSE class improvement or a NOSE score reduction of at least 20%. There were no adverse changes in cosmetic appearance at 12 months post procedure. Three implants in three subjects required retrieval within 30 days post procedure and resulted in no clinical sequelae. The authors conclude that this study demonstrates safety and effectiveness of an absorbable implant for lateral cartilage support in subjects with NVC at 12 months post procedure. Well-designed randomized clinical trials with larger patient populations and longer follow-up periods are needed to further assess absorbable nasal implants. This study is limited by lack of comparison group.
+
+±14.8, with a range of 55 to 100. At 12 months, the
+
+±29.2, reflecting an average within-patient reduction of -40.9
+
+Clinical Practice Guidelines American Academy of Otolaryngology-Head and Neck Surgery (AAO-HNS) In a 2015 (reviewed 2021) position statement, the American Academy of Otolaryngology-Head and Neck Surgery (AAO- HNS) determined that the use of FDA-approved biomaterials can be utilized in sinonasal procedures to improve patient outcomes and reduce complications. These items, such as implants, stents, and packing materials, have functions including, but not limited to, local drug delivery, stenting, and hemostasis. The AAO-HNS does not consider FDA- approved biomaterials for rhinologic application to be investigational and recommends that the final decision regarding use of these biomaterials should be determined by the treating physician, factoring in best available scientific evidence, surgeon experience and the clinical situation, and individual patient preference. The references cited in the position statement do not specifically address non-steroid-releasing absorbable nasal implants, e.g., Latera.
+
+American Rhinologic Society (ARS) The ARS issued a position statement (2022) on the use of bioabsorbable nasal implants stating that it supports the use of a bioabsorbable nasal implant to treat nasal obstruction due to nasal valve collapse. The position paper states that this
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 12 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+procedure should be considered as an effective option in treating nasal valve collapse and improving patient quality of life in those suffering from nasal airway obstruction due to nasal valve collapse based on their review of the San Nicolo (2017), Stolovitzky (2018) and Stolovitzky (2019) studies included above.
+
+Nasal Septal Swell Body (NSB) Reduction Various surgical approaches have been identified for the reduction of enlarged nasal septal swell bodies including radiofrequency ablation (RFA), coblation, and the use of micro-debridement. The evidence for NSB reduction is promising, however, current published quality evidence is lacking due to small sample sizes, lack of long-term follow-up, and weak study design. Additional robust, randomized trials with long-term results are needed.
+
+Pritikin et al. (2024) published 12-month follow-up results from their prospective, open-label study below (Pritikin 2023) with 65 participants (92.9%) completing the study assessment at six months and 62 participants (88.6%) completing the study assessment at 12 months. The authors reported that there was a 67.5% decrease in adjusted mean NOSE scores at six months and a 65.4% decrease at 12 months which was consistent with their previously reported three-month results. The authors also reported there was a 62% improvement in the NRS ease-of-breathing score at six months and 62.5% improvement at 12 months. The authors concluded that temperature-controlled radiofrequency (TCRF) treatment of septal swell body (SSB) hypertrophy showed significant and durable improvements on symptoms of nasal obstruction and congestion through 12 months postprocedure.
+
+In their prospective, open-label, single-arm multicenter study, Pritikin et al. (2023) assessed the clinical use of a TCRF device (VivAer) to treat SSB hypertrophy to improve symptoms in adults with nasal airway obstruction (NAO). The study included 70 patients between 22 and 85 years old (mean age of 47.5 years, 51.4% male, 88.6% white) with severe (61.4%) or extreme (38.6%) NAO related to SBB hypertrophy. All patients received TCRF treatment in the SSB area with an average of 4.8 treatments per nostril (range two to six). The primary endpoint was improvement in the NOSE score from baseline to three months post-procedure. One participant was lost to follow-up before the three-month post- procedure assessment. The authors reported significant improvement in mean NOSE Scale scores from 73.5 at baseline to 27.9 at three months post-procedure with 4.3% of patients reporting no further breathing problems and 46.4% reporting mild NAO, 39.1% reporting moderate NAO, 10.1% continued to report severe NAO, and no patients reporting extreme NAO. The responder rate was reported by the authors to be 95.7%. In a subset of participants (n = 37) who underwent CT imaging to evaluate post-treatment changes in SBB size, the authors reported that the CT results at three months showed statistically significant reductions in SBB with the greatest reduction in the middle thickness. Limitations of the study include the study design (open-label, single arm), the homogeneity of the study population’s race, lack of medication management of the participants, industry sponsorship, and the short-term follow-up. The authors concluded that the study demonstrated that TCRF treatment of SSB hypertrophy is well tolerated and effective for reducing both SSB size and symptoms of NAO at three months. The authors plan to follow the participants through 36 months post procedure.
+
+Meng et al. (2021) conducted a systematic review of the existing knowledge on recent NSB developments. The review was performed using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. PubMed, Embase, Web of Science, Ovid, Cochrane Library, and Google Scholar were used for the literature search. Of the 345 journal articles that were initially obtained in the literature search, 28 were included in the review. Three articles evaluated NSB treatment outcomes: Yu et al., Kim et al., and Catalano et al. Yu et al. (described in detail below) conducted a prospective randomized controlled study that suggested a microdebrider-assisted procedure for inferior turbinate and NSB hypertrophy was superior to turbinoplasty alone. The review notes the limitations of Yu et al. were a small sample size (26 patients) and a short follow-up period. Kim et al. (described in detail below) conducted a study on using coblation to treat patients with an abnormally thickened NSB. The review notes Kim et al. demonstrated that coblation is an effective treatment option for NSB hypertrophy. Catalano et al. treated 60 patients with a prominent NSB using radiofrequency ablation (RFA). Nose obstruction symptom evaluation scores and NSB size scores were assessed at three and six months postoperatively. Patients reported satisfactory results and improved nasal congestion. One patient developed septal perforation which required attention. The authors concluded that it is still unclear if surgical intervention of the NSB for nasal obstruction improves the long-term therapeutic effect. Additional evidence on NSB surgical intervention is needed.
+
+Ibrahim et al. (2020) conducted a retrospective cohort study to study the nasal vestibular body (NVB), persistent nasal obstruction, and the effects of treatment with RFA. The review included 35 patients with recalcitrant nasal obstruction. Twenty-five patients (48 sides) had NVBs reduced with RFA. Another cohort of ten patients (20 sides) had untreated NVBs. Follow-up included an assessment of healing and complications post-RFA at two timepoints, early (< one month) and late (mean, 7.3 months). A subset of patients who underwent RFA (18 of 25 patients) were compared with the 10 untreated patients using the 22-item Sino-Nasal Outcome Test (SNOT-22) and subdomain scoring. NVBs were found successfully reduced in all 35 patients (48 of 48 sides) who had NVBs reduced with RFA at both the early and late time- points. Early sequelae of RFA, including local crusting (22 of 23 patients) and bone exposure (four of 23 patients),
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 13 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+resolved with complete remucosalization (23 of 23 patients) by the late timepoint. No persistent pain, sensory loss, or pyriform aperture stenosis was observed in any patient. There were significant differences in reductions between mean pre- and postoperative SNOT-22 and individual subdomain scores observed in patients who had NVBs reduced with RFA (-24 and -2) compared to the reductions in patients who had untreated NVBs (-8 and -1). The authors concluded that treatment of the NVB using RFA is safe and effective and that RFA treatment of the NVB provides complete swell body reduction and significant improvement in nasal airway function with only transient local morbidity. The study is limited by the observational nature of the retrospective design, concurrent treatments, including septoplasty and turbinate reduction in many cases, and lack of adjustment for possible confounding factors.
+
+Moss, et al. (2019) conducted a systematic review of the nasal septal turbinate (NST) to summarize and assess existing research and to evaluate its potential as a treatment target. The review was performed using the PRISMA guidelines. Medline, Embase, Web of Science, and Cochrane databases were used for the literature search. Of the 1,069 journal articles that were initially obtained in the literature search, 24 were included in the review. Four articles evaluated NST treatment outcomes: Haight et al., Catalano et al., Kim et al. and Yu et al. Haight et al. conducted a prospective non- randomized study of 28 patients who underwent inferior turbinate reduction alone and 28 patients who underwent inferior turbinate reduction in conjunction with NST reduction. Both cryosurgery and cautery were utilized. At 10 to 16 weeks postoperatively, there were no differences in patient symptoms or rhinometry between the two patient groups. Catalano et al. conducted a prospective study of NST RFA in 60 patients who had a history of a failed prior septoplasty and turbinate reduction. There were statistically significant reductions in NOSE scores: 41.6 at pre-treatment, 17 at month three, and 21 at month six. There were also statistically significant improvements in endoscopic middle turbinate visualization. There were three minor infections, one small, asymptomatic septal perforation, and five patients who required multiple treatments. Kim et al. (described in detail below) retrospectively reviewed nasal obstruction scores in eight patients who underwent NST coblation. Utilizing a visual analog scale, an average pre-treatment score of 7.63 was reduced to 3.88 (month three) 4.16 (month six), and 4.63 (month 12). There were no complications reported. Yu et al. (described in detail below) conducted a prospective randomized controlled study of 51 patients. Of those patients, 25 underwent a microdebrider submucous turbinate reduction alone and 26 underwent a concurrent NST reduction. At three months postoperatively, there were multiple statistically significant advantages in the NST group, including larger nasal obstruction score improvements (2.02 versus 1.43) and pronounced improvement in total nasal volume on rhinometry (0.83 mL versus 0.36 mL). Olfaction, rhinorrhea, and sneezing were similar between both treatment groups. There were no complications found related to NST reduction. The authors concluded that evaluating the NST as a treatment target is encouraging, as three of the four treatment studies found significant benefits to surgical intervention. There was no benefit with NST cautery or cryosurgery. NST RFA, coblation, and submucosa reduction were safe and effective. However, the studies included in the review have some limitations. Haight et al. was non-randomized and included multiple treatment modalities. Yu et al. was the only prospective randomized controlled trial. Kim et al. was retrospective and included only a small sample size. Study follow-up in these studies was rarely longer than three to six months, limiting conclusions about long-term results. Future prospective studies evaluating NST treatment as an isolated and adjunct treatment are needed.
+
+In a retrospective, case-series study, Kim and associates (2016) presented the results of coblation NSB reduction for the treatment of nasal obstruction in patients with abnormally thickened NSB. The study was conducted at a single tertiary medical center; eight patients underwent coblation NSB reduction. Pre- and post-operative nasal functions were evaluated by acoustic rhinometry and subjective symptom scales, as well as pre-operative CT scan images and nasal endoscopic findings. The post-procedure follow-up period was three, six, and 12 months. The mean maximal NSB width was 16.4 ±2.2 mm on pre-operative coronal CT scan images. The mean visual analog scale score for nasal obstruction was decreased from preoperative 7.63 (±0.99) points to 3.88, 4.16, and 4.63 points at three, six, and 12 months, respectively. Clinical satisfaction at one year was reported by 75% of participants. The authors concluded that coblation can be an effective treatment modality for nasal valve narrowing in patients with abnormally thickened NSB. Limitations to this study include small sample size and study design, lacking a comparison group.
+
+Yu and colleagues (2015) conducted a prospective randomized study to evaluate the efficacy of septal body volume reduction (SBVR) for the treatment of septal body hypertrophy. Fifty-one subjects with nasal obstruction associated with septal body and inferior turbinate hypertrophy refractory to medical therapy were included. Conventional inferior turbinoplasty (ITR) was performed on 25 subjects (control group). A combination of ITR plus concurrent bilateral microdebrider-assisted SBVR was performed on 26 patients (study group). All were followed postoperatively for three months. The nasal symptoms, including nasal obstruction, rhinorrhea, itching, and sneezing, had significantly improved at three months in both groups. However, a greater improvement in nasal obstruction and a more significant increase in nasal volume were demonstrated in the study group with no AEs encountered. The researchers concluded that combined SBVR and turbinoplasty appears to be more effective than turbinoplasty alone for the treatment of nasal obstruction in patients with inferior turbinate and septal body hypertrophy. The study design did not however allow for evaluation of the long-term efficacy and safety of the procedure.
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 14 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Posterior Nasal Nerve (PNN) or Sphenopalatine Ganglion (SPG) Ablation The quality of the body of evidence for posterior nasal nerve and for sphenopalatine ganglion ablation is insufficient to demonstrate the benefit of this procedure on long-term patents’ outcomes, compared to established therapies.
+
+Takashima et al. (2024) published two-year outcomes of their prospective, multi-center, participant-blinded RCT (RHINTRAC). The results included 77 of the original 104 participants in the initial active treatment arm and 27 participants from the control-arm who were allowed to cross-over after their three-month follow-up visit and underwent TCRF ablation of the PNN. The authors reported that the mean baseline rTNSS was 8.2 and that the mean change at two years was -5.3 points while the responder rate (>30% improvement) was 87.3%. The authors also reported that all four components of the rTNSS (rhinorrhea, congestion, sneezing, and nasal itching) showed significant improvement over baseline, with the most improvement seen in rhinorrhea and congestion. The mini-RQLQ was reported by the authors to show that 81% of participants achieved a minimal clinical important difference, while 44.6% of the participants were using chronic rhinitis medications at baseline either stopped all medication use (12.5%) or stopped/decreased (32.1%) the use of one or more medication class at two years. The authors also imputed the responder statuses of the 13 participants with follow-up data who were lost to follow-up and one who withdrew, and of the nine patients who had additional nasal procedures and reported that this resulted in a two-year responder rate of 79.4%. Limitations of the study include the lack of a sustained control group, lack of management of medication usage, and the inclusion of participants with both allergic and non- allergic rhinitis. The authors concluded that TCRF ablation of the PNN was safe and resulted in significant and sustained reduction in chronic rhinitis symptom burden through two years and a substantial reduction in concomitant medication burden.
+
+Rosi-Schumacher et al. (2023) conducted a single-center, retrospective cohort study to evaluate medication usage and adverse effects of in-office PNN in adults with a history of chronic allergic or non-allergic rhinitis who have failed medical management. The study included 127 patients (60.6% female, mean age 52.4 years, 49.6% with allergic rhinitis) with rhinitis lasting longer that six months who had failed medical management and had inadequate symptom relief over at least four weeks of treatment with nasal medications, including steroids, antihistamines, and/or anticholinergics. Patients were evaluated using the rTNSS and the mini RQLQ (mRQLQ) scores which were compared before and after treatment. The authors reported that the mean TNSS decreased from a baseline score of 5.94 to a post-procedure score of 3.44 (mean difference -2.50) after the procedure with clinically important decreases in 59.1% (n = 71) patients, while the mean mRQLQ scores decreased from a total baseline score of 2.51 to a total score of 1.28 after the procedure. The authors also reported that 28.6% of medications were discontinued after the procedure and that 18.1% of patients reported adverse effects with most patients reporting that headaches, facial pain, and dizziness only lasted hours to days after the procedure. The authors concluded that that PNN cryoablation improved nasal symptoms and QOL in patients with chronic rhinitis with more significant symptomatic improvement seen in those with a higher baseline TNSS. The study was limited by the single-center, retrospective design, the lack of a comparator, and the short follow-up duration.
+
+In a systematic review and meta-analysis on the efficacy of cryoablation as a treatment of chronic rhinitis, Young et al. (2023) included five studies with a pooled total of 247 adults. The study population was predominantly female (61.9%) with 47% having nonallergic rhinitis, and with mean ages ranging from 52.3 to 60.0 years and four of the five studies were single arm clinical trials. Of the three studies that included data on ethnicities, approximately 90% of the participants were White. All of the studies included reflective TNSS (rTNSS) at baseline, one and three months postoperatively, while three of the studies included RQLQ scores at baseline and three months postoperatively. The authors reported that the pooled rTNSS mean difference from baseline to one and three months postoperatively was found to be -3.48 points and -3.50 points, respectively while the mean difference from baseline to three months postoperatively for the RQLQ was found to be -1.53 points. The authors also reported that there were 99 counts of adverse effects noted within three studies with the most common adverse effects experienced after cryoablation including facial or surgical site pain (40.4%), headache (18.2%), oral numbness (11.1%) and sinusitis (4.0%). Limitations include the small number of studies available, the lack of a comparator in four of the five studies, the short follow-up period, the paucity of data and symptom specificity regarding the adverse effects of PNN cryoablation, the lack of randomization and blinding, the homogeneity of the ethnicity and ages of the study population and the heterogeneity of the types of rhinitis included in the studies. The authors concluded that cryoablation was effective in reducing the symptoms associated with chronic rhinitis; however, higher-quality RCTs with longer term outcomes are needed to affirm their findings. This systematic review included the Del Signore, et al. 2022 study currently summarized in this policy and the Gerka Stuyt, et al. 2021 and Chang, et al., 2020 studies previously included in this policy.
+
+Takashima et al (2023) published twelve-month outcomes to the Stolovitzky et al., 2021 industry sponsored, prospective, multicenter, patient-blinded crossover RCT below (NCT04533438). There were 116 adults (mean age of 57.5 years, 64.7% female) in the study with 77 randomized to the active treatment arm that received temperature-controlled
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 15 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+radiofrequency (RF) neurolysis of the PNN via RhinAer®, and 39 randomized to sham procedure arm. Eligibility criteria included having chronic rhinitis of 6 months duration, and total 24 hour reflective total nasal symptom score (rTNSS) of ≥6, with moderate to severe symptoms of rhinorrhea (rhinorrhea sub score of 2 congestion (congestion sub score of 1 endpoint) and 27 of the 39 patients were transitioned to crossover active treatment as they still met eligibility criteria and agreed to continue participation in the trial. Those patients in the sham control group who were not eligible for crossover or did not wish to continue to participate in the trial were exited from the trial as were patients who underwent additional nasal procedures at any time during follow-up. The authors reported that the responder rate of the active treatment arm (which was superior to the sham control group at 3 months) was sustained through 12 months (with a rate of 80.6%), as was the rTNSS (improvement of 57.8%). Similarly, the distribution of postnasal drip and cough scores within the active treatment arm were also improved over baseline at all timepoints. The authors reported that the baseline characteristics of the crossover group were not significantly different from those of the active treatment group at baseline and that the mean rTNSS has followed the same course as that of the active treatment group. Limitations of the study include the lack of control of medication use, the lack of a sustained control group through trial completion, and the inclusion of patients with both allergic and nonallergic rhinitis. The authors concluded that the study demonstrated that the treatment effect of temperature-controlled RF neurolysis of the PNN area is safe and effective in reducing the symptom burden of chronic rhinitis patients through 12 months post procedure. The authors plan to follow the combined active treatment group through 2 years.
+
+3) and mild to severe symptoms of nasal
+
+‐
+
+3). The sham control group was unblinded at 3 months post procedure (primary ‐
+
+‐
+
+Desai et al. (2023) conducted a systematic review to assess the efficacy and adverse outcomes of cryotherapy delivered using the ClariFix™ device for the treatment of chronic rhinitis refractory to medical management. The review included eight published studies (including the Del Signore, et al., 2022 study below and the Chang, et al., 2020 study previously included in this policy) consisting of one RCT, five prospective and two retrospective single-arm or cohort studies. There were 472 adults who had chronic rhinitis lasting more than four weeks in total from all of the studies with the mean age in each study being between 52.3 and 60.04 years. The authors reported that seven of the studies utilized the TNSS and rTNSS score with an average baseline score of 7.12 and that four of the seven studies had an endpoint assessing symptom improvement after one month and three months. The authors reported that the data showed a significant reduction in scores post-treatment across all studies based on validated outcome measures as there was a significant improvement in outcome scores from baseline in all studies and at all interval times. They noted that no major adverse events were identified in any of the studies. Risk of bias was assessed by the authors with the risk of bias for the single RCT ranging from “low” to “unclear,” and the cohort studies were rated as good and fair. Limitations of the study included the low quantity of published studies on the use of ClariFix cryoablation for the treatment of chronic rhinitis, the lack of comparators in most of the studies, the small sample size in four of the studies, industry sponsorship of five of the studies, and the variability of study reporting. The authors noted that statistical analysis of the pooled means was not able to be performed because of the lack of access to the raw data from the included studies. The authors concluded that cryotherapy provided a significant reduction in validated outcome scores for the treatment of chronic rhinitis that is refractory to medical management and is safe with only minor adverse effects reported. They, however, recommended more independent, high-quality RCTs to perform a meta-analysis analyzing the effect of cryoablation on chronic rhinitis.
+
+In their systematic review and meta-analysis of PNN neurectomy, Balai et al. (2023) evaluated eight studies (two RCTs and six prospective, single arm, unblinded, uncontrolled studies) with 463 participants to assess the effect of PNN neurectomy on TNSS in adults with chronic rhinitis. The mean age ranged from 53.3 years to 60 years and two of the studies reported results from the same patient cohort (pilot data and longer-term follow-up respectively). Three of the studies (Ow, et al., 2021, Stolovitzky, et al., 2021 and Del Signore, et al. 2022) are included in this section of the policy and one of the studies (Chang, et al., 2020) was previously included in this policy. All six of the non-randomized studies were deemed to be at an overall moderate risk of bias with two of the studies deemed at serious risk of bias due to confounding factors and missing data due to participant attrition; one study was deemed to have serious risk of bias with 44% of the cohort lost to follow up; and the two RCTs were deemed to be at an overall low risk of bias. Interventions included cryotherapy (six studies, with five studies using ClariFix), radiofrequency (one study) or continuous wave laser (one study). The authors reported that a pooled analysis of data from the two RCTs found active treatment was associated with a significantly higher responder rate (> 30% reduction in TNSS from baseline) when compared to a sham control procedure although both RCTs had a short duration of follow-up and relatively high baseline TNSS suggesting a patient group with severe and refractory symptoms. With regards to the remaining six non-randomized studies, the authors reported a reduction in the average post-operative TNSS sustained over longer periods of follow-up. The authors also found a relatively high total number of reported adverse events with 125 reported from 461 procedures, although the adverse events were predominantly non-serious and transient. Limitations of the study include the broad design in the six non-RCTs and their moderate risk of bias, the racial homogeneity of the two RCTs and their patient selection criteria that required more severe symptoms at baseline than was required in the non-RCTs, the heterogeneity of the treatment approaches, and industry sponsorship of six of the eight studies. The authors concluded that there was some limited
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 16 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+evidence suggesting that cryotherapy or radiofrequency ablation of the of the PNN can improve TNSS in adults with chronic rhinitis. The authors recommended additional prospective RCTs with larger numbers of participants and medium to long-term follow-up to draw more valid conclusions regarding the true effectiveness of PNN neurectomy.
+
+In an industry sponsored prospective, multicenter, single-arm study of 129 adults with chronic rhinitis, Lee et al. (2022) sought to determine clinical outcomes and quality of life (QoL) following temperature-controlled radiofrequency neurolysis (TCRF) of the PNN. The study was conducted in 16 centers in the United States and Germany and included adults with chronic rhinitis symptoms > 6 months with a 24-hour reflective total nasal symptom score (rTNSS) > 6, moderate to severe rhinorrhea, and mild to severe nasal congestion. All participants underwent TCRF with the RhinAer device with treatment at one to five nonoverlapping regions on each side depending on the target anatomy size. The primary endpoint was the mean change in 24-h fTNSS from baseline to three months. Secondary endpoints included responder rate and the mean change in the mini rhinoconjunctivitis quality of life questionnaire (MiniRQLQ) score from baseline to three months. The authors reported that there was a mean 24-h rTNSS improvement of 53.8% over baseline at 3 months (n = 128) and 62.8% improvement at 6 months (n = 123). They also reported that rhinorrhea, congestion, sneezing and itching sub scores and postnasal drip and cough scores were all significantly improved over baseline at both 3 and 6 months and that 80.3% of participants reported a minimal clinically important difference of > 0.4-point improvement in the mini rhinoconjunctivitis QoL questionnaire score at 3 months with 87.7% of participants achieving such improvement at 6 months. The authors reported that there were no safety concerns or post procedure major adverse events reported. Limitations of the study include the lack of a control arm, lack of blinding, and short follow-up period. The authors concluded that TCRF neurolysis of the PNN was safe and resulted in a significant reduction in rhinitis symptoms at 3 months that was sustained/improved through 6 months with the majority of participants reporting a clinically relevant improvement in QoL at 3 and 6 months.
+
+A 2022 Evolving Evidence Review (Hayes 2022a, updated 2024) addressed the use of ClariFix (Arrinex, Inc.) for improving the symptoms of chronic rhinitis. The review of full-text clinical studies, including one good-quality randomized controlled trial (RCT), two poor-quality single-arm studies, showed minimal support for the use of ClariFix to treat chronic rhinitis. The 2023 update included a review of the abstract only of a systematic review, which did not identify any new evidence regarding efficacy, safety, or longer-term follow-up. One systematic review including a study utilizing ClariFix was identified, but no conclusions or findings specific to ClariFix were reported. In the 2024 update, Hayes reviewed the abstracts of one retrospective, single-arm, pretest-posttest study and three systematic reviews (including the Desai, et al., 2023 study above). However, Hayes maintained that the existing evidence suggests minimal or unclear support for the utilization of ClariFix at this time.
+
+In their updated Evolving Evidence Review (Hayes 2022b, updated 2024), use of the RhinAer procedure (Aerin Medical) for treatment of chronic rhinitis was reviewed. The 2023 update included review of abstracts only for one RCT and two pretest-posttest studies (including Takashima, et al., 2023, Lee, et al., 2022, and Ehmer, et al., 2022 studies summarized in this policy). Two of these studies reported longer-term follow-up data on the studies included in the 2022 report which included one poor quality and one fair quality study. Both of the initial studies reported that most individuals showed clinically significant relief of nasal symptoms post-treatment with RhinAer. One of these studies compared individual improvements to sham; the RhinAer group displayed improvement when compared with sham, but no studies compared RhinAer with other treatments. No relevant systematic reviews or guidelines were found. The Hayes Review notes that several clinical trials are currently underway, but at this time, evidence does not permit conclusions regarding whether outcomes of the RhinAer procedure are better, worse, or the same as any other treatment.
+
+Del Signore et al. (2022, included in the 2022a Hayes Evolving Evidence review) directed a prospective, multicenter, 1:1 randomized, sham-controlled, patient-blinded trial to test if cryotherapy is superior to the sham procedure for reducing symptoms of chronic rhinitis. Adults with moderate to severe symptoms of chronic rhinitis and candidates for cryotherapy under local anesthesia were enrolled in the trial resulting in 61 participants per arm. The trial also applied additional requirements such as a minimum reflective Total Nasal Symptom Scores (rTNSSs) of 4 for total, 2 for rhinorrhea, and 1 for nasal congestion. Patient-reported outcome measures were assessed through the rTNSS, standardized Rhinoconjunctivitis Quality of Life Questionnaire (RQLQ), and Nasal Obstruction Symptom Evaluation (NOSE) questionnaires at follow up visits 30- and 90-days post-procedure. The comparison between treatment and sham arms for the percentage of responders at 90 days was the primary endpoint, and responders were defined as those with a 30% or more significant reduction in rTNSS relative to baseline. The trial enrolled 133 participants at 12 US investigational centers with the primary endpoint analysis, including 127 of those participants with 90-day results. Superior to the sham arm, the treatment arm at the 90-day follow-up was 73.4% responders compared to the 36.5% in the sham arm. The active arm improved rTNSS, RQLQ (s), and NOSE scores over the sham at the 90-day follow-up. Although the trial showed cryotherapy as superior to a sham procedure for improving chronic rhinitis symptoms and patient quality of life, the study had several limitations including racial homogeneity, restriction on rhinoscopies during the COVID-19 pandemic,
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 17 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+precluded a meaningful evaluation of the objective endpoint, and short-term duration of follow-up. Future studies aiming to examine the broader racial diversity of participants, comparison to other treatments, and extended follow-up would aid in testing cryotherapy’s effects on those with chronic rhinitis.
+
+Ehmer et al. (2022, included in the 2022b Hayes Evolving Evidence Review) conducted a prospective, single-arm multicenter study with follow-up through 52 weeks. The study aimed to determine the outcomes of patients diagnosed with chronic refractory rhinitis and treated with temperature-controlled radiofrequency (RF) neurolysis of the posterior nasal nerve (PNN) area in a minimally invasive procedure. To be eligible for the study, participants had to have had chronic rhinitis symptoms for at least six months without adequate response to at least four weeks of treatment with intranasal steroids. Additionally, participants had to have an overall 12-hour reflective rTNSS greater than or equal to six with sub- scores two to three for rhinorrhea, one to three for nasal congestion, and zero to three for each nasal itching and sneezing. The temperature-controlled radiofrequency energy was delivered via the nasal cavity mucosa overlying the PNN region with a novel single-use, disposable, handheld device. The study resulted in 50 individuals being treated, with 47 completing the study at 52 weeks. The average rTNSS improved from 8.5 at baseline to 3.6 at 52 weeks, showing a 57.6% improvement. Similarly, improvements were noted for rTNSS sub-scores for rhinorrhea, nasal congestion, itching, sneezing, postnasal drip, and chronic cough scores. Treatment was effective regardless of rhinitis classification according to the subgroup analysis. Adverse events (AEs) were recorded in 16 individuals, with eight events considered possibly device or procedure related. Although the study resulted in significant improvements in symptoms of chronic rhinitis after temperature-controlled RF neurolysis of the PNN area, limitations to the study exist. Limiting factors include lack of control or blinding and possible placebo effects contributing to the reported outcomes. More extensive, controlled studies are necessary to demonstrate the device’s efficacy.
+
+Ow et al. (2021, included in the 2022a Hayes Evolving Evidence Review) conducted a prospective single-arm multicenter study to assess the long-term safety and effectiveness of the PNN cryoablation as a treatment for chronic rhinitis. Change from baseline in the rTNSS, physician assessment of improvement using the Clinical Global Impression Improvement (CG-I), Rhinoconjunctivitis Quality of Life Questionnaire (RQLQ), and the incidence of treatment-related adverse events were the studies endpoints. Of the 100 participants enrolled at six US investigational sites, in the first 12 months, ninety- one participants completed the study, and sixty-two participants consented to the long-term follow-up, with 57 completing the 24month follow-up. The total rTNSS showed significant improvements with the median change from baseline of -3.0 or -4.0. The minimum clinically importance difference (MCID) was achieved by greater than 80% of participants on the rTNSS at all follow-ups. RQLQ scores showed a significant improvement in quality of life, with over 77% of participants achieving the MCID for the total RQLQ score. The CGI-I resulted in greater than or equal 83% of participants experiencing improvement at all visits except the 12-month follow-up (61.9%). AEs were reported in 23 participants, with one participant experiencing epistaxis and retained pledget. Although the study included a relatively large population of participants followed through 24 months after treatment using multiple validated assessments to evaluate various outcomes, the single-arm design without a concurrent control arm and the loss of nearly 30% of individuals after 12 months creates significant limitations. After the study, no significant differences were seen in rTNSS outcomes between allergic and nonallergic rhinitis participants. Furthermore, between the observed and imputed rTNSS results, there was a -1 difference in the change from baseline and a 3% difference in the percent of participants who achieved MCID.
+
+Stolovitzky et al. (2021, included in the 2022b Hayes Evolving Evidence Review) headed a multicenter, prospective, single-blinded, RCT in which the control arm underwent a sham procedure to determine the safety and efficacy of temperature-controlled RF neurolysis of the PNN for the treatment of chronic rhinitis. In the setting of 16 otolaryngology centers, individuals with an rTNSS greater than or equal to 6 were randomized 2:1 to active treatment of the PNN area with a temperature-controlled RF or sham procedure without the delivery of RF energy. At three months, the primary endpoint responder rate showed a response greater than or equal to a 30% improvement (decrease) in rTNSS from baseline. The active treatment group showed results of average baseline rTNSS of 8.3, and the results of the sham control were 8.2. At three months in the active treatment arm, the responder rate was significantly higher, resulting in 67.5% vs. 41.0%. Additionally, the active treatment arm showed a significantly greater decrease in rTNSS than that sham arm. The authors concluded that the results of the RCT demonstrated that RF neurolysis is superior to sham control in reducing the overall symptom burden experienced by individuals with chronic rhinitis. However, the trial was pragmatic in its design as it did not demonstrate a reduction in medication use with active treatment and did not dictate medication use. Additional limitations include the short three-month follow-up, lack of comparison to other treatments, and no investigator blinding during the study. Longer-term follow-up is necessary to report on the durability of treatment effects.
+
+In a 2020 ECRI Clinical Evidence Assessment (updated 2023), data from one SR/meta-analysis with pooled results of symptom improvement, one RCT, and six before-and-after studies that reported on symptoms, quality of life, need for medication, and AEs in patients with chronic rhinitis treated with ClariFix that were published between January 1, 2015 through July 27, 2022 were reviewed. The studies indicate that the ClariFix procedure is safe and may provide symptom relief for individuals with chronic rhinitis although whether its benefits are sustained long-term (for more than two years)
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 18 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+could not be determined from the available data. Other evidence limitations included the lack of comparators to other treatment options, and the high risk of bias within the six before-and-after studies due to lack of controls, randomization and blinding, and small sample sizes. The assessment concluded that overall, Clarifix is safe and relieves symptoms of chronic rhinitis at three-month to two-year-follow-up although additional RCTs with longer follow-up periods are needed to enable firm conclusions on the device’s long-term effectiveness, as are RCTs that compare the device with other procedures to assess its comparative safety and effectiveness for treating chronic rhinitis in adults. This ECRI review included the Del Signore (2022), and Ow (2021) studies currently summarized in this policy and the Gerka Stuyt (2021) study previously summarized in this policy.
+
+Prasanna et al. (1997) evaluated the effectiveness of sphenopalatine ganglion (SPG) block for the relief of symptoms in chronic vasomotor rhinitis in a single-arm, single-center study with 30 patients, aged 15-45 years, who had established diagnoses of chronic rhinitis of several years’ duration. All participants had been receiving regular medical therapy without relief. Each participant was administered bilateral SPG block at weekly intervals for four weeks. The participants were instructed to continue other symptomatic therapies if needed. A subjective assessment of symptom relief was performed at weekly intervals with a monthly follow-up. The authors reported that all participants experienced mild discomfort (facial flushing, increased nasal congestion and breathing discomfort) for 24 hours after the first block and then reported a sense of roominess in the nose, a feeling of lightheadedness and greater ease of breathing. None of the participants reported discomfort with subsequent blocks. The number of blocks varied from two to four, depending on the subjective assessment of symptom reduction. Five participants (16.7%) needed four blocks, 20 (66.7%) had three blocks, and five (16.7%) required two blocks. Sixteen participants (53.3%) had deviated nasal septum, and four participants (13.3%) had vascular congestion. The authors reported that during a follow-up of 12-20 months, no recurrence was reported in 29 of the 30 participants (96.7%) and that the one patient was symptom free for eight months before recurrence of early morning sneezing and mild difficulty breathing through the nose and was lost to follow-up. Three patients reported using antihistamines in the first week after the block due to fear of precipitating symptoms. The authors concluded that SPG block may be useful in the treatment of vasomotor rhinitis. The study is limited by lack of comparison group.
+
+Clinical Practice Guidelines American Academy of Otolaryngology-Head and Neck Surgery (AAO-HNS) In a 2023 position statement that addresses PNN ablation for the treatment of chronic rhinitis, the AAO-HNS stated that PNN neurolysis techniques such as RFA and cryotherapy thermal application methods have demonstrated clinical benefit for nasal symptoms. The position statement included a review of one multicenter, patient-blinded, sham-controlled RCT (including the Stolovinsky 2021 study above with three-month outcomes and the Takashima (2023) study above with 12- month outcomes for clinical trial NCT04533438) on radiofrequency neurolysis and one multicenter, patient-blinded, sham- controlled RCT (the Del Signore 2022 study above) on cryotherapy that evaluated the clinical benefit of these treatments on chronic rhinitis. They also reviewed five studies that included quality of life surveys that the society stated showed statistically significant improvement with treatment (3 studies, including the Ow 2021 study above and the Chang 2020 study previously included in this policy) with therapeutic effect (two studies, including the Ehmer 2022 study above). Based on their review of these studies, the AAO-HNS endorsed the use of PNN ablation for the treatment of medically refractory chronic rhinitis.
+
+Radiofrequency Treatment of Nasal Valves While the use of transmucosal, temperature-controlled radiofrequency (RF) technology for the treatment of nasal airway obstruction is promising, there is a lack of published high quality, robust, multi-center, RCTs with long-term results that demonstrate the safety and efficacy of this approach.
+
+Han et al. (2024) conducted a systematic review and meta-analysis to compare surgical techniques with temperature- controlled radiofrequency (TCRF) treatment of nasal valve dysfunction (NVD). The meta-analysis included five prospective, non-comparative studies (n = 318 patients) that described TCRF treatment and 63 studies describing functional rhinoplasty procedures (primary or revision), with or without concomitant procedures including septoplasty and turbinate treatment (n = 6201). The mean age of study populations ranged from 21.4 to 51.7 years with 50.9% of the total study population being male. Of the 68 studies included in the meta-analysis, 54 (76.5%) were prospective and 63 (92.6%) were single center. The authors reported that the treatment effect was equally durable for TCRF and each of the rhinoplasty procedures, as evidenced by the comparable effects in each group at each timepoint and when comparing the results temporally at three, six, and 12 months. Limitations of the meta-analysis include the lack of comparators, the predominance of single-center designs, and the heterogeneity of the types of procedures and medical conditions in the included studies. The authors concluded that TCRF treatment of the internal nasal valve for NVD was associated with sustained effects comparable to functional rhinoplasty of the nasal valve only, rhinoplasty without concomitant turbinate treatment and all rhinoplasties. The Han, et al., 2022 study summarized below is included in this meta-analysis.
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 19 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+In another systematic review and meta-analysis, Kang et al. (2024) evaluated the efficacy of TCRF treatment in alleviating nasal obstruction by rectifying nasal valve collapse. The review included eight prospective studies (three RCTs, two case series, one single-arm, one open label and one non-randomized extended follow-up study) with a total population of 451 patients that evaluated the QOL and nasal obstruction scores before and after TCRF treatment. Participant demographic information could not be determined as the data was not uniformly reported across the included studies. The authors reported that patients who underwent TCRF treatment reported a significantly enhanced QOL at 24 months post- treatment compared to their pre-treatment scores as measured by the NOSE questionnaire during post-procedure visits and that the rates of clinically improved states and positive responses regarding QOL after treatment were 82% and 91%, respectively. Limitations of the study include the heterogeneity of the study designs, the lack of demographic information, the preponderance of short-term follow up (four studies reported out results to three months and one study reported out to 24 months), the lack of a control group undergoing sham surgery, the small number of studies available and sample sizes in most of the studies, the lack of diversity in the study populations, the lack of control for medication usage, and the preponderance (six of the eight studies) were either authored or funded by the manufacturer. The authors concluded that TCRF may help improve nasal obstruction symptoms and recommended further RCTs on larger cohorts to substantiate its efficacy in enhancing nasal function and they recommended further independent research on RFD treatment to address the potential impact of the confounders. This systematic review included the Silvers, et al., 2021, Jacobowitz, et al., 2022, and Han, et al. 2022 studies summarized below.
+
+Silvers et al. (2024) published two-year outcomes for their prospective, multi-center, patient-blinded, cross-over RCT included in this policy (Stolovitzky, et al., 2021) to determine treatment effect durability and changes in medication/nasal dilator usage following TCRF treatment of nasal NVD. All 108 participants who underwent active treatment (index active treatment participants and treated crossover participants) were collapsed into a single analysis group for follow-up from three months through two years, with data from 85 participants (78.7%) available for the two-year outcome study. The authors reported that the two-year responder rate was 90.4% and the NOSE score treatment effect showed a 54.7% improvement with a 41.7-point decrease from a baseline score of 76.3 with all components of the NOSE score having had a significant and sustained improvement in mean score from three months through two years. The authors also reported that, of the 57 participants who were using medications or nasal dilators at baseline, 45 (78.9%) either stopped use all together (33.3%) or stopped or decreased (45.6%) use in one or more class at two years. Limitations of this industry sponsored study include the small sample size, and the lack of a comparison group who did not receive TCRF treatment. The authors concluded that TCRF treatment of NVD resulted in significant and sustained improvements in the symptoms of NAO at two years with a substantial reduction in medication or nasal dilator use.
+
+Casale et al. (2023) conducted a systematic review and meta-analysis to assess the efficacy of temperature-controlled radiofrequency (RF) to treat nasal obstruction. There were four prospective studies with 218 adults between the ages of 19 and 83 years old included in the review and analysis, including the Silvers, et al., 2021 study discussed below, with one RCT and three observational studies. All four studies followed the same protocol with bilateral treatment of the nasal valve regions in an office-based procedure under local anesthesia using the VivAer™ System. Three of the studies showed a moderate risk of bias and one had a serious risk of bias, and the authors also noted that two of the four studies were industry sponsored. The authors reported that the NOSE score was reduced at three months post operatively (pre- treatment: 76.16 moderate heterogeneity. The authors concluded that RF treatment could be useful for treating nasal valve collapse, improving significant subjective breathing symptom scores and they stated that the outcomes should be considered with caution due to the moderate heterogeneity of the results and the limited number of studies with small populations and short follow-up periods. The findings are limited by the lack of comparison group for most of the included studies. The authors recommended more extensive comparative studies and well-designed RCTs with validated patient-reported outcome measures to provide more definitive recommendations.
+
+±
+
+6.39; post-treatment: 31.20 ±
+
+2.73; MD: 46.13; 95% confidence interval [CI] 43.27–48.99) with
+
+Yao, et al. (2023) published results from their clinical study with two-year results on the use of temperature radiofrequency (TCRF) for the treatment of the nasal airway obstruction (NAO) due to nasal valve collapse (NVC). This prospective, single arm, multicenter cohort study included 122 adults with NVC as a primary or significant contributor to their NAO who had baseline NOSE Scale 15 scores of ≥ 60. There were 101 participants who completed the 2-year follow up, of which 12 study participants underwent additional nasal procedures. The data from those who had undergone additional nasal procedures were not included in the 2-year analyses. Responders were defined as patients with ≥ 20% improvement in NOSE Scale score or ≥1 severity class improvement from baseline. The authors reported that the mean baseline NOSE Scale score for the 91 participants who completed the 2-year follow-up and had not undergone additional nasal procedures was 80.3 and the adjusted mean change in score at 2 the 2 year responder rate was 90.1%. The authors also reported that there was significant and sustained symptom improvement in subpopulations based on sex, age, body mass index, baseline NAO severity, nasal surgery history, NVC mechanism, septal deviation, and other anatomic contributors of NAO. Limitations of the study included the lack of a control group, randomization and blinding, and racial homogeneity of the study population. The authors concluded that
+
+controlled
+
+‐
+
+‐
+
+years was −45.8 (a 57.0% improvement) while
+
+‐
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 20 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+TCRF treatment of the internal nasal valve for NAO was well tolerated and led to significant and sustained improvement in NAO symptom severity through 2 years, including in patients with both static and dynamic NVC, septal deviation, turbinate enlargement, or prior nasal surgery.
+
+ECRI published a Clinical Evidence Assessment (2022, updated 2024) on the VivAer nasal airway remodeling stylus with full text review of eight studies consisting of two systematic reviews, one RCT, and five pre-post studies (including the Silvers 2021, Pritikin 2023, Yao 2023 and Jacobowitz 2022 studies summarized in this policy) with a total population of 521 patients who had been treated with the device. ECRI has a favorable outlook that the device works well for reshaping the nasal airway and improving nasal breathing at three-month and up to 24-month follow-up and determined that the effects reported in the studies were clinically significant and consistent. However, ECRI noted that the studies they reviewed provided very-low-quality evidence and that they were not able to make conclusions about the device’s comparative effectiveness. ECRI recommended that additional studies providing head-to-head comparisons, or comparison studies with appropriately matched patients which account for patient prognosis and report on patient- oriented outcomes with longer-term follow-up (more than two years) are needed to determine how well the device works compared with other NAO treatments (such as functional rhinoplasty, or nasal implants).
+
+In an Evolving Evidence Review, Hayes (2021, updated 2024) reviewed four full-text clinical studies and determined there was minimal support for using the VivAer radiofrequency procedure for remodeling the nasal valve area when collapse of the nasal valve is associated with chronic nasal obstructive symptoms. Three of the four studies were single-group, non- randomized, pretest-posttest studies with small populations of 20 to 50 participants. One was found to be of very poor quality, and two were found to be of poor quality, while the RCT (Silvers, 2021 study below) was found to be fair quality and showed clinical benefit over sham at up to three months post-procedure. No systematic reviews or clinical practice guidelines were identified to include in the review. The 2024 updated review identified two additional published clinical studies and three published systematic reviews, including the Casale, et al., 2023, Han, et al., 2024, Kang, et al., 2024, Silvers, et al., 2024, and Yao, et al., 2023 studies summarized in this policy. After reviewing the study abstracts, Hayes determined that new evidence regarding efficacy and safety has become available but that there was no new evidence with longer-term follow-up since the original 2023 report. Hayes they concluded that there was no change in their current minimal level of support for the use of the VivAer radiofrequency (RF) procedure for remodeling the nasal valve area when collapse of the nasal valve is associated with chronic nasal obstructive symptoms.
+
+Han, et al (2022) completed a 12 month follow up study on a cohort from the Silvers, et al. 2021 study (below) to determine if active treatment of the nasal valve with a temperature-controlled radiofrequency (TCRF) was safe and had sustained improvements in symptoms of nasal airway obstruction through 12 months. In the initial Silvers study, 108 patients received active treatment (77 in the initial treatment group and 31 in the control group who then crossed over to receive TCRF treatment after three months). The authors found that, at 12 months post-treatment with TCRF, the NOSE Scale score improved from an average of 76.3 at baseline to an adjusted mean change of -40.9 at three months, -43.2 at six months and -44.9 at 12 months with a responder rate of 89.8% (n = 88) and no reported device/procedure-related serious adverse events. The use of medications, nasal strips and cones were tracked during the trial and an analysis of their use showed decreased use overall from baseline to 12 months post procedure. Limitations of their study included the fact that medication use was not defined by the protocol and could potentially have had some confounding effect on symptom relief, the small sample size, the lack of a control group that did not crossover/receive TCRF and the short length of follow up of 12 months. The authors concluded that patients who receive active TCRF device treatment of the nasal valve demonstrated that the treatment was safe and that the effect was durable through 12 months post-procedure. However, the study design did not allow comparison to the sham procedure beyond three months and loss-to-follow-up may have introduced biases.
+
+A randomized controlled trial (RCT) was completed by Silvers et al. (2021) to evaluate the safety and efficacy of a temperature-controlled radiofrequency (RF) device for the treatment of the nasal valve for nasal airway obstruction (NAO). The objective of the trial was to compare active device treatment against a sham procedure (control). The study included a total of 117 patients assigned to two separate groups: bilateral temperature-controlled RF treatment of the nasal valve (n = 77) or a sham procedure (n = 40), in which no RF energy was applied. The device was applied to the mucosa over the lower lateral cartilage on the lateral nasal wall. The primary endpoint was responder rate at three months, defined as a ≥ 20% reduction in NOSE-scale score or one or more reduction in clinical severity category. At baseline, patients had a mean NOSE-scale score of 76.7 (95% confidence interval [CI], 73.8 to 79.5) and 78.8 (95% CI, 74.2 to 83.3) (p = 0.424) in the active treatment and sham-control arms, respectively. At three months, the responder rate was higher in the active treatment arm (88.3% [95% CI, 79.2%-93.7%] vs 42.5% [95% CI, 28.5%-57.8%]; p < 0.001). The active treatment arm had a decrease in NOSE-scale score (mean, −42.3 [95% CI, −47.6 to −37.1] vs −16.8 [95% CI, −26.3 to −7.2]; p < 0.001). Three adverse events at least possibly related to the device and/or procedure were reported, including vasovagal reaction, headache, and nasal bleeding with mucous which all resolved. The authors concluded that temperature-
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 21 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+controlled RF treatment of the nasal valve is safe and effective in reducing symptoms of NAO in short-term follow-up. Limitations included the lack of masking of the investigators and relatively short follow-up.
+
+U.S. Food and Drug Administration (FDA)
+
+This section is to be used for informational purposes only. FDA approval alone is not a basis for coverage.
+
+The FDA classifies devices used for rhinoplasty and other sinus surgeries under product code LRC (instrument, ENT, manual surgical). This is a broad product code category that includes a variety of devices used in ear, nose, and throat surgeries (e.g., knives, hooks, injection systems, dilation devices). Additionally, this product code is 510(k)-exempt. Although manufacturers may voluntarily submit product information via the 510(k) process, it is not a requirement. All manufacturers are, however, required to register their establishment and submit a “Device Listing” form; these records can be viewed in the Registration and Device Listing Database (search by product code, device, or manufacturer name). Refer to the following website for more information: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm. (Accessed December 11, 2024)
+
+The VivAer® Stylus received 510K clearance in March 2020 as a Class II device for use in otorhinolaryngology (ENT) surgery for the coagulation of soft tissue in the nasal airway, to treat nasal airway obstruction by shrinking submucosal tissue, including cartilage, in the internal nasal valve area. Refer to the following website for more information: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K200300. (Accessed December 11, 2024)
+
+Intranasal septal splint devices are classified by the FDA as class 1 devices under product code LYA. This category includes over 40 devices including, but not limited to, Alar Nasal Valve Stent, Spiway Endonasal Access Guide, Novashield Injectable Nasal Packing and Stent and the Macropore Ent Reconstruction Film. The FDA has exempted almost all class I devices (except for reserved devices) from the premarket notification requirement, including those devices that were exempted by final regulation published in the Federal Registers of December 7, 1994, and January 16, 1996. It is important to confirm the exempt status and any limitations that apply with 21 CFR 874.9. Refer to the following website for more information: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm. (Accessed December 11, 2024)
+
+The Latera Absorbable Nasal Implant (Stryker) received U.S. Food and Drug Administration (FDA) clearance through the 510(k) premarket notification pathway on June 23, 2016, and is indicated for supporting nasal upper and lower lateral cartilage. The System consists of the Latera Absorbable Nasal Implant and Accessory Delivery Device and is composed of a PLLA-PDLA copolymer. The predicate device, INEX Absorbable Nasal Implant (Spiros®), was cleared by the FDA on December 4, 2024.
+
+For additional information, refer to: https://www.accessdata.fda.gov/cdrh_docs/pdf16/k161191.pdf https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?ID = K161191 (Accessed December 11, 2024)
+
+The ClariFix Device is a cryosurgical tool intended to be used for the destruction of unwanted tissue during surgical procedures, including in adults with chronic rhinitis. It received U.S. Food and Drug Administration (FDA) clearance as a Class II device through the 510(k) premarket notification pathway on February 14, 2017. Refer to the following website for more information: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K190356. (Accessed December 11, 2024)
+
+U.S. Food and Drug Administration (FDA) cleared the RhinAer Stylus as a Class II device through the 510(k) premarket notification pathway on July 29, 2022. This device is indicated for use in otorhinolaryngology (ENT) surgery for the destruction of soft tissue in the nasal airway, including in posterior nasal nerve regions in patients with chronic rhinitis. Refer to the following website for more information: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm?ID=K221907. (Accessed December 11, 2024)
+
+References
+
+Ahmad J, Rohrich RJ. The Crooked Nose. Clin Plast Surg. 2016 Jan;43(1):99-113.
+
+American Academy of Otolaryngology—Head and Neck Surgery (AAO-HNS). Clinical practice guideline: Improving nasal form and function after rhinoplasty. February 2017. Available at: https://www.entnet.org/quality-practice/quality- products/clinical-practice-guidelines/improving-nasal-form-and-function-after-rhinoplasty/. Accessed December 12, 2024.
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 22 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+American Academy of Otolaryngology—Head and Neck Surgery (AAO-HNS). Position statement: Nasal valve repair. March 22, 2023. Available at: https://www.entnet.org/resource/position-statement-nasal-valve-repair/. Accessed December 12, 2024.
+
+American Academy of Otolaryngology—Head and Neck Surgery (AAO-HNS). Position statement: PNN Ablation for the treatment of chronic rhinitis. January 17, 2023. Available at: https://www.entnet.org/resource/position-statement-posterior- nasal-nerve/. Accessed December 12, 2024.
+
+American Academy of Otolaryngology—Head and Neck Surgery (AAO-HNS). Position statement: the use of biomaterials in sinonasal procedures. September 2015. Updated April 21, 2021. Available at: https://www.entnet.org/resource/position- statement-the-use-of-biomaterials-in-sinonasal-procedures/. Accessed December 12, 2024.
+
+American Rhinologic Society (ARS). ARS Position Statement: Bioabsorbable Nasal Implants Jan 2022. Available at: https://www.american-rhinologic.org/position-statements. Accessed December 12, 2024.
+
+American Society of Plastic Surgeons (ASPS). ASPS Recommended insurance coverage criteria for third-party payers – nasal surgery. 2021 May. Available at: https://www.plasticsurgery.org/for-medical-professionals/health- policy/recommended-insurance-coverage-criteria. Accessed December 12, 2024. Azizzadeh, B. et al. Master Techniques in Rhinoplasty. 1st ed. Elsevier/Saunders. 2011. Chapter 35, Nasal Airway Obstruction; p. 447-453.
+
+Balai E, Gupta KK, Jolly K, Darr A. Posterior nasal nerve neurectomy for the treatment of rhinitis: a systematic review and meta-analysis. Eur Ann Allergy Clin Immunol. 2023 May;55(3):101-114.
+
+Beck DO, Kenkel JM. Evidence-based medicine: Rhinoplasty. Plast Reconstr Surg. 2014 Dec;134 (6):1356-71.
+
+Besmens IS, Shahrdar C, Fontein DBY, et al. Efficacy of closed reduction of nasal fractures-a retrospective analysis with focus on factors affecting functional and aesthetic outcomes. J Plast Reconstr Aesthet Surg. 2023 Feb; 77:371-378.
+
+Bikhazi N, Ow RA, O’Malley EM, et al. Long-term follow-up from the treatment and crossover arms of a randomized controlled trial of an absorbable nasal implant for dynamic nasal valve collapse. Facial Plast Surg. 2022 Oct;38(5):495- 503.
+
+Casale M, Moffa A, Giorgi L, et al. Could the use of a new novel bipolar radiofrequency device (Aerin) improve nasal valve collapse? A systematic review and meta-analysis. J Otolaryngol Head Neck Surg. 2023 Jun 22;52(1):42.
+
+Catalano P, Ashmead MG, Carlson D. Radiofrequency ablation of septal swell body. Ann Otolaryngol Rhinol. 2015;2(11): 1069.
+
+Chandra RK, Patadia MO, Raviv J. Diagnosis of nasal airway obstruction. Otolaryngol Clin North Am. 2009 Apr;42 (2):207-25, vii.
+
+Chang MT, Song S, Hwang PH. Cryosurgical ablation for treatment of rhinitis: a prospective multicenter study. laryngoscope. 2020 Aug;130(8):1877-1884.
+
+Chauhan R, Loewenstein SN, Hassanein AH. Rhinophyma: prevalence, severity, impact and management. Clin Cosmet Investig Dermatol. 2020 Aug 11; 13:537-551.
+
+Christophel JJ, Park SS. Complications in rhinoplasty. Facial Plast Surg Clin North Am. 2009 Feb;17 (1):145-56, vii.
+
+Clark CM, Hakimi AA, Parsa KM, et al. Comparison of nasal obstruction symptom evaluation score outcomes after autologous cartilage grafts and latera nasal implants. Ann Otol Rhinol Laryngol. 2023 Aug;132(8):912-916.
+
+Constantian MB. What motivates secondary rhinoplasty? A study of 150 consecutive patients. Plast Reconstr Surg. 2012 Sep;130 (3):667-78.
+
+Corey CL, Most SP. Treatment of nasal obstruction in the posttraumatic nose. Otolaryngol Clin North Am. 2009 Jun;42 (3):567-78.
+
+Daines SM, Orlandi RR. Chronic rhinosinusitis. Facial Plast Surg Clin North Am. 2012 Feb;20 (1):1-10.
+
+Del Signore AG, Greene JB, Russell JL, et al. Cryotherapy for treatment of chronic rhinitis: 3-month outcomes of a randomized, sham-controlled trial. Int Forum Allergy Rhinol. 2022 Jan;12(1).
+
+Desai V, Sampieri G, Namavarian A, Lee JM. Cryoablation for the treatment of chronic rhinitis: a systematic review. J Otolaryngol Head Neck Surg. 2023 Apr 29;52(1):37.
+
+Dobratz EJ, Hilger PA. Osteotomies. Clin Plast Surg. 2010 Apr;37 (2):301-11.
+
+ECRI. ClariFix (Stryker Corp.) for treating chronic rhinitis. Plymouth Meeting (PA). Clinical Evidence Assessment. 2020 Sept. Updated September 26, 2023.
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 23 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+ECRI. Latera Absorbable Nasal Implant (Stryker Corp.) for treating nasal valve collapse. Clinical Evidence Assessment. 2022 Sept.
+
+ECRI. Vivaer Nasal Airway Remodeling Stylus (Aerin Medical, Inc.) for treating nasal airway obstruction. Clinical Evidence Assessment. 2022 Sept. Updated May 15, 2024.
+
+Ehmer D, McDuffie CM, Scurry WC Jr, et al. Temperature-controlled radiofrequency neurolysis for the treatment of rhinitis. Am J Rhinol Allergy. 2022 Jan;36(1).
+
+Fattahi T, Steinberg B, Fernandes R, et al. Repair of nasal complex fractures and the need for secondary septo- rhinoplasty. J Oral Maxillofac Surg. 2006 Dec;64 (12):1785-9.
+
+Fermin JM, Bui R, McCoul E, Alt J, Avila-Quintero VJ, Chang BA, Yim MT. Surgical repair of nasal septal perforations: A systematic review and meta-analysis. Int Forum Allergy Rhinol. 2022 Jan 3.
+
+Floyd EM, Ho S, Patel P, et al. Systematic review and meta-analysis of studies evaluating functional rhinoplasty outcomes with the NOSE score. Otolaryngol Head Neck Surg. 2017 May;156(5):809-815.
+
+Friedman O, Cekic E, Gunel C. Functional rhinoplasty. Facial Plast Surg Clin North Am. 2017 May;25(2):195-199.
+
+Gerka Stuyt JA, Luk L, Keschner D, Garg R. Evaluation of in-office cryoablation of posterior nasal nerves for the treatment of rhinitis. Allergy Rhinol (Providence). 2021 Jan 29; 12:2152656720988565.
+
+Ghosh A, Friedman O. Surgical treatment of nasal obstruction in rhinoplasty. Clin Plast Surg. 2016 Jan;43 (1):29-40.
+
+Goiato MC, Dos Santos DM, et al. Solutions for nasal defects. Journal of Craniofacial Surgery 2009;20(6):2238-41. DOI: 10.1097/SCS.0b013e3181bf858c.
+
+Goudakos JK, Fishman JM, Patel K. A systematic review of the surgical techniques for the treatment of internal nasal valve collapse: where do we stand? Clin Otolaryngol. 2017 Feb;42(1):60-70.
+
+Gruber RP, Wall Jr SH, Kaufman DL, et al. Plastic Surgery. 3rd ed. Elsevier Inc. 2013. Chapter 21, Secondary rhinoplasty; p. 466-484.
+
+Guyuron, B. Rhinoplasty. 1st ed. Elsevier Inc. 2012. Chapter 1, Surgical Anatomy and Physiology of the Nose; p. 1-26.
+
+Han JK, Perkins J, Lerner D, et al. Comparison of nasal valve dysfunction treatment outcomes for temperature-controlled radiofrequency and functional rhinoplasty surgery: a systematic review and meta-analyses. Rhinology. 2024 Jun 1;62(3):258-270.
+
+Han JK, Silvers SL, Rosenthal JN, et al. Outcomes 12 months after temperature-controlled radiofrequency device treatment of the nasal valve for patients with nasal airway obstruction. JAMA Otolaryngol Head Neck Surg. 2022 Oct 1;148(10):940-946.
+
+Hayes Inc. Evolving Evidence Review. Absorbable nasal implants (Latera, Stryker) for the treatment of nasal valve collapse. Lansdale, PA: Hayes, Inc.; March 10, 2022. Updated March 13, 2024.
+
+Hayes Inc. Evolving Evidence Review. ClariFix (Arrinex Inc.) for treatment of chronic rhinitis. Lansdale, PA: Hayes, Inc.; March 7 2022a. Updated March 15, 2024.
+
+Hayes Inc. Evolving Evidence Review. RhinAer Procedure (Aerin Medical) for treatment of chronic rhinitis. Lansdale, PA: Hayes, Inc.; January 13, 2022b. Updated April 11, 2023.
+
+Hayes Inc. Evolving Evidence Review. VivAer (Aerin Medical Inc.) for nasal airway remodeling to treat nasal obstruction. Lansdale, PA: Hayes, Inc.; August 31, 2021. Updated January 26, 2024.
+
+Howard BK, Rohrich RJ. Understanding the nasal airway: principles and practice. Plast Reconstr Surg. 2002 Mar;109 (3):1128-46.
+
+Ibrahim N, Tyler MA, Borchard NA, et al. Nasal vestibular body treatment for recalcitrant nasal obstruction. Int Forum Allergy Rhinol. 2020 Mar;10(3):388-394.
+
+International Forum Allergy and Rhinology. Volume 3. January 2013.
+
+Ishii LE, Tollefson TT, Basura GJ, et al. Clinical practice guideline: improving nasal form and function after rhinoplasty executive summary. Otolaryngol Head Neck Surg. 2017 Feb;156(2):205-219.
+
+Jacobowitz O, Ehmer D, Lanier B, et al. Long-term outcomes following repair of nasal valve collapse with temperature- controlled radiofrequency treatment for patients with nasal obstruction. Int Forum Allergy Rhinol. 2022 Nov;12(11):1442- 1446. Jafek B.W., Dodson B.T., et al: Nasal obstruction. In Bailey B.J., (eds): Head and neck surgery—otolaryngology, 5th edition. Philadelphia: Lippincott-Raven, 2013. Pp. 371-377.
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 24 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Kang YJ, Kim DH, Stybayeva G, Hwang SH. Effectiveness of radiofrequency device treatment for nasal valve collapse in patients with nasal obstruction. Otolaryngol Head Neck Surg. 2024 Jan;170(1):34-44.
+
+Kim DH, Lee HH, Kim SH, et al. Effectiveness of using a bioabsorbable implant (Latera) to treat nasal valve collapse in patients with nasal obstruction: systemic review and meta-analysis. Int Forum Allergy Rhinol. 2020 Jun;10(6):719-725.
+
+Kim SJ, Kim HT, Park YH, et al. Coblation nasal septal swell body reduction for treatment of nasal obstruction: a preliminary report. Eur Arch Otorhinolaryngol. 2016 Sep;273(9):2575-8.
+
+Lazovic GD, Daniel RK, Janosevic LB, et al. Rhinoplasty: the nasal bones – anatomy and analysis. Aesthet Surg J. 2015 Mar;35 (3):255-63.
+
+Lee JT, Abbas GM, Charous DD, et al. Clinical and quality of life outcomes following temperature-controlled radiofrequency neurolysis of the posterior nasal nerve (RhinAer) for treatment of chronic rhinitis. Am J Rhinol Allergy. 2022 Nov;36(6):747-754.
+
+Marianetti T, De Luca P, Iademarco A, Perna L. The alar extension graft technique for the treatment of external nasal valve collapse: preliminary results of a single-centre prospective analysis. Aesthetic Plast Surg. 2024 Jul 11.
+
+Martin MM, Hauck K, von Witzleben A, et al. Treatment success after rhinosurgery: an evaluation of subjective and objective parameters. Eur Arch Otorhinolaryngol. 2022 Jan;279(1):205-211.
+
+Medicare Coverage Database. Local Coverage Determination. Sacroiliac Joint Injections and Procedures L39462. 2023. https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39462. Accessed December 12, 2024.
+
+Meng X, Zhu G. Nasal septal swell body: a distinctive structure in the nasal cavity. Ear Nose Throat J. 2021 Apr 21:1455613211010093.
+
+Moss WJ, Faraji F, Jafari A, et al. A systematic review of the nasal septal turbinate: An overlooked surgical target. Am J Otolaryngol. 2019 Nov-Dec;40(6):102188.
+
+Olson MD, Barrera JE. A comparison of an absorbable nasal implant versus functional rhinoplasty for nasal obstruction. Am J Otolaryngol. 2021 Nov-Dec;42(6):103118.
+
+Ow RA, O'Malley EM, Han JK, et al. Cryosurgical ablation for treatment of rhinitis: two-year results of a prospective multicenter study. Laryngoscope. 2021 Sep;131(9):1952-1957.
+
+Parameters for evaluation and treatment of patients with cleft lip/palate or other craniofacial differences. Cleft Palate Craniofac J. 2018 Jan;55(1):137-156. https://acpacares.org/parameters-of-care/. Accessed December 5, 2024.
+
+Peters AT, Spector S, Hsu J, et al. Diagnosis and management of rhinosinusitis: A practice parameter update, 2014-a0- 01Z, Volume 113, Issue 4, Pages 347-385, Copyright 2014 American College of Allergy, Asthma & Immunology.
+
+Pfaff MJ, Bertrand AA, Lipman KJ, et al. The effect of functional nasal surgery on olfactory function. Plast Reconstr Surg. 2021 Mar 1;147(3):707-718.
+
+Prasanna A, Murthy PS. Vasomotor rhinitis and sphenopalatine ganglion block. J Pain Symptom Manage. 1997 Jun;13(6):332-8.
+
+Pritikin J, Silvers S, Rosenbloom J, et al. Temperature-controlled radiofrequency device treatment of septal swell bodies for nasal airway obstruction: An open-label, single arm multicenter study. Int Forum Allergy Rhinol. 2023 Mar 13.
+
+Pritikin J, Silvers S, Rosenbloom J, et al. Twelve-month outcomes following temperature-controlled radiofrequency treatment of the septal swell body for nasal airway obstruction. Int Forum Allergy Rhinol. 2024 Oct;14(10):1549-1557.
+
+Ramey JT, Bailen E, Lockey RF. Rhinitis medicamentosa. J Investig Allergol Clin Immunol. 2006;16(3):148-55.
+
+Resuli AS, Dilber M, Bayar Muluk N, Cingi C. Septal extension graft use in the treatment of alar collapse. Eur Rev Med Pharmacol Sci. 2023 Mar;27(2 Suppl):8-13.
+
+Rimmer J, Fokkens W, Chong LY, et al. Surgical versus medical interventions for chronic rhinosinusitis with nasal polyps. Cochrane Database Syst Rev. 2014;(12):CD006991.
+
+Rohrich, Rod J. et al. Plastic Surgery: Indication and Practice. 1st ed. CRC Press. 2009. Chapter 113, Primary Rhinoplasty; p. 1479-1508.
+
+Rosenfeld RM, Piccirillo JF, Chandrasekhar SS, et al. Clinical practice guideline (update): adult sinusitis. Otolaryngol Head Neck Surg. 2015;152(2 Suppl):S1-S39.
+
+Rosi-Schumacher M, Abbas A, Young PR. Improvement in nasal symptoms of chronic rhinitis after cryoablation of the posterior nasal nerve. OTO Open. 2023 Oct 17;7(4):e77.
+
+San Nicoló M, Stelter K, Sadick H, et al. Absorbable implant to treat nasal valve collapse. Facial Plast Surg. 2017 Apr;33(2):233-240.
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 25 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Sidle DM, Stolovitzky P, Ow RA, et al. Twelve-month outcomes of a bioabsorbable implant for in-office treatment of dynamic nasal valve collapse. Laryngoscope. 2020;130(5):1132
+
+1137. doi:10.1002/lary.28151.
+
+Silvers SL, McDuffie CM, Yen DM, et al. Two-year outcomes of radiofrequency device treatment of the nasal valve for ‐ nasal airway obstruction. Rhinology. 2024 Jun 1;62(3):310-319.
+
+Silvers SL, Rosenthal JN, McDuffie CM, et al. Temperature-controlled radiofrequency device treatment of the nasal valve for nasal airway obstruction: a randomized controlled trial. Int Forum Allergy Rhinol. 2021 Dec;11(12):1676-1684.
+
+Smith TL, Kern RC, Palmer JN, et al. Medical therapy vs surgery for chronic rhinosinusitis: a prospective, multi- institutional study. Int Forum Allergy Rhinol. 2011; 1:235-241.
+
+Spielmann PM, White PS, Hussain SS. Surgical techniques for the treatment of nasal valve collapse: a systematic review. Laryngoscope. 2009 Jul;119(7):1281-90.
+
+Stolovitzky JP, Ow RA, Silvers SL, et al. Effect of radiofrequency neurolysis on the symptoms of chronic rhinitis: a randomized controlled trial. OTO Open. 2021 Sep 10;5(3).
+
+Stolovitzky P, Sidle DM, Ow RA, et al. A prospective study for treatment of nasal valve collapse due to lateral wall insufficiency: Outcomes using a bioabsorbable implant. Laryngoscope. 2018 Nov;128(11):2483-2489.
+
+Stolovitzky P, Senior B, Ow RA, et al. Assessment of bioabsorbable implant treatment for nasal valve collapse compared to a sham group: a randomized control trial. Int Forum Allergy Rhinol. 2019;9(8):850
+
+856.
+
+Stryker website. Available at: https://ent.stryker.com/medical-devices/nasal-implant/latera. Accessed December 12, 2024.
+
+‐
+
+Takashima M, Stolovitzky JP, Ow RA, et al. Temperature-controlled radiofrequency ablation for the treatment of chronic rhinitis: Two-year outcomes from a prospective multicenter trial. Int Forum Allergy Rhinol. 2024 Jul;14(7):1182-1194.
+
+Takashima M, Stolovitzky JP, Ow RA, et al. Temperature-controlled radiofrequency neurolysis for treatment of chronic rhinitis: 12-month outcomes after treatment in a randomized controlled trial. Int Forum Allergy Rhinol. 2023 Feb;13(2):107- 115.
+
+Tanna N, Nguyen K, Ashkan G, et al. Evidence-based medicine: Current practices in rhinoplasty. PRSJournal.com. 2017Aug;PRS.0000000000003977:137-151.
+
+Wahid NWB, Shermetaro C. Rhinitis Medicamentosa. 2022 Sep 5. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2022 Jan.
+
+Yao WC, Pritikin J, Sillers MJ, Barham HP. Two-year outcomes of temperature-controlled radiofrequency device treatment of the nasal valve for patients with nasal airway obstruction. Laryngoscope Investig Otolaryngol. 2023 Jun 15;8(4):808-815.
+
+Young K, Bulosan H, Kejriwal S, et al. Efficacy of cryoablation on chronic rhinitis management: A systematic review and meta-analysis. Am J Rhinol Allergy. 2023 Jul;37(4):502-511.
+
+Yu MS, Kim JY, Kim BH, et al. Feasibility of septal body volume reduction for patients with nasal obstruction. Laryngoscope. 2015 Jul;125(7):1523-8.
+
+Yuan J, An Y. Improvement in nasal airway obstruction after secondary rhinoplasty for cleft lip: A systematic review. J Plast Reconstr Aesthet Surg. 2024 Mar;90:130-148.
+
+Zhao R, Chen K, Tang Y. Effects of functional rhinoplasty on nasal obstruction: a meta-analysis. Aesthetic Plast Surg. 2022 Jan 31.
+
+Zheng YP, He XF, Zhang YF, et al. Five-blade scratcher for treating severe rhinophyma: A retrospective study. World J Clin Cases. 2024 Jul 16;12(20):4180-4190.
+
+Policy History/Revision Information
+
+Date 05/01/2025
+
+Summary of Changes
+
+Template Update Created shared policy version to support application to Rocky Mountain Health Plans
+
+membership
+
+Application Individual Exchange Removed language indicating this Medical Policy does not apply to the state of Colorado Medical Records Documentation Used for Reviews Updated list of Medical Records Documentation Used for Reviews:
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 26 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Date
+
+Summary of Changes
+
+o Added “relevant surgical history, including dates” o Replaced:
+
+
+
+“Detailed history of nasal symptoms for the date of service and the note for the day the decision to perform surgery was made” with “detailed history of nasal symptoms including detailed notes with specific date(s) related to evaluation and management” “Evidence of chronic sinusitis with treatment, response, and duration” with “evidence of rhinosinusitis” “History of treatments tried, failed, or contraindicated” with “history of treatments tried, failed, or contraindicated; include the dates, duration of treatment, and reason for discontinuation” “High-quality color image(s) (full face photos in cases of post-traumatic nasal deformity)” with “high-quality color photographs, including but not limited to full face, that clearly show the deformity/dynamic collapse/complication being treated” o Removed reference link to the Medical Policy titled Cosmetic and Reconstructive
+
+
+
+
+
+
+
+Procedures for CPT code 30560
+
+Applicable Codes Removed CPT code 30999 Supporting Information Updated Description of Services, Clinical Evidence, and References sections to reflect the most
+
+current information
+
+Archived previous policy version MP.019.31
+
+Instructions for Use
+
+This Medical Policy provides assistance in interpreting UnitedHealthcare standard benefit plans. When deciding coverage, the member specific benefit plan document must be referenced as the terms of the member specific benefit plan may differ from the standard plan. In the event of a conflict, the member specific benefit plan document governs. Before using this policy, please check the member specific benefit plan document and any applicable federal or state mandates. UnitedHealthcare reserves the right to modify its Policies and Guidelines as necessary. This Medical Policy is provided for informational purposes. It does not constitute medical advice.
+
+This Medical Policy may also be applied to Medicare Advantage plans in certain instances. In the absence of a Medicare National Coverage Determination (NCD), Local Coverage Determination (LCD), or other Medicare coverage guidance, CMS allows a Medicare Advantage Organization (MAO) to create its own coverage determinations, using objective evidence-based rationale relying on authoritative evidence (Medicare IOM Pub. No. 100-16, Ch. 4, §90.5).
+
+UnitedHealthcare may also use tools developed by third parties, such as the InterQual® criteria, to assist us in administering health benefits. UnitedHealthcare Medical Policies are intended to be used in connection with the independent professional medical judgment of a qualified health care provider and do not constitute the practice of medicine or medical advice.
+
+Rhinoplasty and Other Nasal Procedures UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 27 of 27 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.

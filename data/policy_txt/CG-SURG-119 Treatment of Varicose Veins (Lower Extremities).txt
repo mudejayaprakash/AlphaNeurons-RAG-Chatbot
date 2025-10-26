@@ -1,0 +1,1537 @@
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+Clinical UM Guideline
+
+Subject: Treatment of Varicose Veins (Lower Extremities)
+
+Guideline #: CG-SURG-119
+
+Publish Date: 04/16/2025
+
+Status: Revised
+
+Last Review Date: 02/20/2025
+
+Description
+
+This document addresses various modalities for the treatment of valvular incompetence (reflux) of the great saphenous vein (GSV), anterior accessory great saphenous vein (AAGSV)/anterior saphenous vein (ASV), or small saphenous vein (SSV) (also known as greater saphenous vein or lesser saphenous vein, respectively) and associated varicose tributaries as well as telangiectatic dermal veins.
+
+Cosmetic: In this document, procedures are considered cosmetic when intended to change a physical appearance that would be considered within normal human anatomic variation. Cosmetic services are often described as those that are primarily intended to preserve or improve appearance.
+
+Clinical Indications
+
+Medically Necessary:
+
+Endoluminal radiofrequency ablation or endoluminal laser ablation:
+
+The following modalities are considered medically necessary when the criteria below (I, II, and III) have been met:
+
+I. Ablative Modalities:
+
+A. Endoluminal radiofrequency; or B. Endoluminal laser;
+
+F e e d b a c k
+
+and
+
+II. The veins to be treated include one or more of the following:
+
+A. Anterior accessory great saphenous vein (AAGSV) also known as anterior saphenous vein (ASV); or B. Great saphenous vein (GSV); or C. Small saphenous veins (SSV)
+
+and
+
+III. The following criteria are met:
+
+A. There is ultrasound documented truncal vein incompetence with retrograde flow of 0.5 seconds duration or
+
+greater in the GSV, AAGSV/ASV, or SSV; and
+
+B. The vein to be treated has not been treated with ablative modalities within the timeframes below (1 or 2):
+
+1. Within the previous 6 weeks; or 2. More than 3 times in the previous 12 months;
+
+and
+
+C. One or more of the following criteria (1, 2, or 3) are met:
+
+1. There is ulceration secondary to stasis dermatitis; or 2. There is hemorrhage from a superficial varicosity; or 3. Symptoms of venous insufficiency or recurrent thrombophlebitis (including, but not limited to,
+
+aching, burning, itching, cramping, or swelling during activity or after prolonged sitting) which meet all of the following (a, b, and c):
+
+a. Are causing discomfort to the degree that employment or activities of daily living are
+
+compromised; and
+
+b. Persist despite appropriate conservative therapy, for no less than 6 weeks (for example, leg
+
+elevation, weight loss, and exercise); and
+
+c. Persist despite a trial of properly fitted gradient compression stockings for at least 6 weeks.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+1/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+Sclerotherapy or Echosclerotherapy (including ultrasound guided foam sclerotherapy [UGFS])
+
+The following modalities are considered medically necessary when the criteria below (I, II and III) have been met:
+
+I. Sclerotherapy or Echosclerotherapy Modality:
+
+A. Sclerotherapy; or B. Echosclerotherapy; or C. UGFS (for example, Varithena [polidocanol injectable foam]);
+
+and
+
+II. The veins to be treated include one or more of the following:
+
+A. Perforator veins; or B. Varicose tributary or extension (for example, anterolateral thigh vein, anterior accessory saphenous
+
+vein/anterior saphenous vein, or intersaphenous vein[s]); and
+
+III. The following criteria are met:
+
+A. The vein being treated is greater than 3.0 mm in diameter; and B. Reflux is confirmed by Doppler or duplex ultrasound; and C. The service is provided during the same operative session as an endoluminal radiofrequency ablation
+
+procedure or endoluminal laser ablation procedure which meets the criteria above; or
+
+D. The service is performed when all of the following criteria are met:
+
+1. Surgical ligation and stripping, endoluminal radiofrequency ablation, or endoluminal laser ablation of
+
+the AAGSV/ASV, GSV or SSV was previously performed; and
+
+2. It has been at least 6 weeks since any prior sclerotherapy, echosclerotherapy, or UGFS in the same
+
+extremity; and
+
+3. One or more of the following criteria (a, b, or c) are met:
+
+a. There is ulceration secondary to stasis dermatitis; or b. There is hemorrhage from a superficial varicosity; or c. Symptoms of venous insufficiency or recurrent thrombophlebitis (including but not limited to: aching, burning, itching, cramping, or swelling during activity or after prolonged sitting) which meet all of the following (i, ii, iii):
+
+i. Are causing discomfort to the degree that employment or activities of daily living are
+
+compromised; and
+
+ii. Persist despite appropriate conservative therapy for 6 weeks (such as leg elevation,
+
+weight loss and exercise), excluding similar management prior to the required treatment of the great or small saphenous vein; and
+
+iii. Persist despite a trial of properly fitted compression stockings for at least 6 weeks, excluding similar management prior to the required treatment of the great or small saphenous vein; and
+
+4. The service being performed is not the sole* treatment for any of the following:
+
+a. Symptomatic varicose tributary or extension or perforator veins in the presence of valvular incompetence of the great or small saphenous veins (by Doppler or duplex ultrasound scanning); or
+
+b. Symptomatic varicose tributary or perforator veins in the absence of saphenous vein reflux
+
+or major saphenous vein tributary reflux.
+
+The term “sole” refers to sclerotherapy without concomitant or prior treatment for valvular incompetence of the great or small saphenous veins, including ligation (with or without vein stripping), endoluminal radiofrequency ablation, or endoluminal laser ablation
+
+Not Medically Necessary:
+
+Endoluminal radiofrequency ablation and endoluminal laser ablation, are considered not medically necessary when the above criteria are not met, including for the treatment of saphenous vein tributaries or extensions (for example, anterolateral thigh and intersaphenous veins) and as an alternative to perforator vein ligation.
+
+Sclerotherapy, echosclerotherapy, and UGFS (for example Varithena [polidocanol injectable foam]) are considered not medically necessary when the above criteria are not met, including but not limited to treatment of secondary varicose veins resulting from deep-vein thrombosis or arteriovenous fistulae.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+2/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+The COMPASS protocol (Comprehensive Objective Mapping, Precise Image-guided Injection, Antireflux Positioning and Sequential Sclerotherapy) is considered not medically necessary.
+
+The VenoValve device is considered not medically necessary for the treatment of chronic venous insufficiency in the lower extremities.
+
+The following procedures and modalities are considered not medically necessary for the treatment of varicose veins of the lower extremities:
+
+I. Balloon catheter (for example, KAVS procedure) II. Coil embolization III. Cyanoacrylate adhesion (for example, VenaSeal Closure System) IV. Endoluminal cryoablation V. Mechanochemical ablation
+
+Cosmetic and Not Medically Necessary:
+
+The following are considered cosmetic and not medically necessary for the treatment of telangiectatic dermal veins**:
+
+A. Sclerotherapy; or B. Laser treatments (including tunable dye or pulsed dye laser, for example, PhotoDerm®, VeinLase™, Vasculite™)
+
+** Also known as “spider veins” or “broken blood vessels”
+
+Coding
+
+The following codes for treatments and procedures applicable to this guideline are included below for informational purposes. Inclusion or exclusion of a procedure, diagnosis or device code(s) does not constitute or imply member coverage or provider reimbursement policy. Please refer to the member's contract benefits in effect at the time of service to determine coverage or non-coverage of these services as it applies to an individual member.
+
+Radiofrequency or laser ablation, sclerotherapy, echosclerotherapy, UGFS When services may be Medically Necessary when criteria are met:
+
+CPT 36465
+
+Injection of non-compounded foam sclerosant with ultrasound compression maneuvers to guide dispersion of the injectate, inclusive of all imaging guidance and monitoring; single incompetent extremity truncal vein (eg, great saphenous vein, accessory saphenous vein) [when specified as adjunctive to RF or laser ablation or follow-up treatment after ablation or stripping of the great saphenous vein, anterior accessory great saphenous vein, or small saphenous vein] Injection of non-compounded foam sclerosant with ultrasound compression maneuvers to guide dispersion of the injectate, inclusive of all imaging guidance and monitoring; multiple incompetent truncal veins (eg, great saphenous vein, accessory saphenous vein), same leg [when specified as adjunctive to RF or laser ablation or follow-up treatment after ablation or stripping of the great saphenous vein, anterior accessory great saphenous vein, or small saphenous vein] Injection of sclerosant; single incompetent vein (other than telangiectasia) Injection of sclerosant; multiple incompetent veins (other than telangiectasia), same leg Endovenous ablation therapy of incompetent vein, extremity, inclusive of all imaging guidance and monitoring, percutaneous, radiofrequency; first vein treated Endovenous ablation therapy of incompetent vein, extremity, inclusive of all imaging guidance and monitoring, percutaneous, radiofrequency; subsequent vein(s) treated in a single extremity, each through separate access sites Endovenous ablation therapy of incompetent vein, extremity, inclusive of all imaging guidance and monitoring, percutaneous, laser; first vein treated Endovenous ablation therapy of incompetent vein, extremity, inclusive of all imaging guidance and monitoring, percutaneous, laser; subsequent vein(s) treated in a single extremity, each through separate access sites Unlisted procedure, vascular surgery [when specified as echosclerotherapy or ultrasound-guided sclerotherapy of other than truncal veins]
+
+36466
+
+36470 36471 36475
+
+36476
+
+36478
+
+36479
+
+37799
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+3/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+HCPCS S2202
+
+Echosclerotherapy
+
+ICD-10 Procedure 065P3ZZ-065Q4ZZ
+
+Destruction of saphenous vein [right or left, by percutaneous or percutaneous endoscopic approach; includes codes 065P3ZZ, 065P4ZZ, 065Q3ZZ, 065Q4ZZ; when specified as laser or RF destruction] Occlusion of saphenous vein [right or left, by approach; includes codes 06LP0ZZ, 06LP3ZZ, 06LP4ZZ, 06LQ0ZZ, 06LQ3ZZ, 06LQ4ZZ] Introduction of destructive agent into peripheral vein, open approach Introduction of destructive agent into peripheral vein, percutaneous approach
+
+06LP0ZZ-06LQ4ZZ
+
+3E030TZ 3E033TZ
+
+ICD-10 Diagnosis I78.0 I80.00-I80.9 I82.501-I82.599 I82.5Y1-I82.5Y9 I82.5Z1-I82.5Z9 I82.811-I82.819 I83.001-I83.899 I87.011-I87.099 I87.2 I87.8 I96 L97.101-L97.929 M79.604-M79.606 M79.661-M79.669 Q27.8 R22.40-R22.43 R60.0 Z86.718 Z86.72
+
+Hereditary hemorrhagic telangiectasia Phlebitis and thrombophlebitis Chronic embolism and thrombosis of deep veins of lower extremity Chronic embolism and thrombosis of unspecified deep veins of proximal lower extremity Chronic embolism and thrombosis of unspecified deep veins of distal lower extremity Embolism and thrombosis of superficial veins of lower extremities Varicose veins of lower extremities [with complications] Postthrombotic syndrome [with complications] Venous insufficiency (chronic) (peripheral) Other specified disorders of veins (phlebosclerosis) Gangrene, not elsewhere classified Non-pressure chronic ulcer of lower limb, not elsewhere classified Pain in leg Pain in lower leg Other specified congenital malformations of peripheral vascular system Localized swelling, mass and lump, lower limb Localized edema Personal history of other venous thrombosis and embolism Personal history of thrombophlebitis
+
+When services are Not Medically Necessary: For the procedure and diagnosis codes listed above when criteria are not met (including for asymptomatic varicose veins diagnosis codes listed below), for all other diagnoses except as listed below as cosmetic and not medically necessary, or for the situations indicated in the Position Statement section as not medically necessary (including but not limited to UGFS codes 36465, 36466 when specified as the sole treatment of symptomatic varicose multiple incompetent extremity truncal veins [eg, great saphenous vein, accessory saphenous vein]).
+
+ICD-10 Diagnosis I83.90-I83.93
+
+Asymptomatic varicose veins of lower extremities
+
+When services are Cosmetic and Not Medically Necessary: For the procedure codes listed above, for the following diagnosis, or when the code describes a procedure indicated in the Position Statement section as cosmetic and not medically necessary.
+
+ICD-10 Diagnosis I78.1
+
+Nevus non-neoplastic (spider veins)
+
+Other procedures When services are Not Medically Necessary:
+
+CPT 36473
+
+Endovenous ablation therapy of incompetent vein, extremity, inclusive of all imaging guidance and monitoring, percutaneous, mechanochemical; first vein treated Endovenous ablation therapy of incompetent vein, extremity, inclusive of all imaging guidance and monitoring, percutaneous, mechanochemical; subsequent vein(s) treated in a single extremity, each through separate access sites
+
+36474
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+4/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+36482
+
+Endovenous ablation therapy of incompetent vein, extremity, by transcatheter delivery of a chemical adhesive (eg, cyanoacrylate) remote from the access site, inclusive of all imaging guidance and monitoring, percutaneous; first vein treated Endovenous ablation therapy of incompetent vein, extremity, by transcatheter delivery of a chemical adhesive (eg, cyanoacrylate) remote from the access site, inclusive of all imaging guidance and monitoring, percutaneous; subsequent vein(s) treated in a single extremity, each through separate access sites Unlisted procedure, vascular surgery [when specified as COMPASS protocol, endoluminal cryoablation, or coil embolization of varicose veins] Endovenous catheter directed chemical ablation with balloon isolation of incompetent extremity vein, open or percutaneous, including all vascular access, catheter manipulation, diagnostic imaging, imaging guidance and monitoring [KAVS procedure] Insertion of bioprosthetic valve, open, femoral vein, including duplex ultrasound imaging guidance, when performed, including autogenous or nonautogenous patch graft (eg, polyester, ePTFE, bovine pericardium), when performed [VenoValve procedure] For the following code when specified as coil embolization for varicose veins: Vascular embolization or occlusion, inclusive of all radiological supervision and interpretation, intraprocedural roadmapping, and imaging guidance necessary to complete the intervention; venous, other than hemorrhage (eg, congenital or acquired venous malformations, venous and capillary hemangiomas, varices, varicoceles) [when specified as coil embolization for varicose vein diagnoses]
+
+36483
+
+37799
+
+0524T
+
+0744T
+
+37241
+
+ICD-10 Procedure 065P3ZZ-065Q4ZZ
+
+Destruction of saphenous vein [right or left, by percutaneous or percutaneous endoscopic approach; includes codes 065P3ZZ, 065P4ZZ, 065Q3ZZ, 065Q4ZZ; when specified as delivery of a chemical adhesive] For the following codes when specified as coil embolization for varicose veins: Occlusion of right saphenous vein with intraluminal device, open approach [when specified as coil embolization for varicose vein diagnoses] Occlusion of right saphenous vein with intraluminal device, percutaneous approach [when specified as coil embolization for varicose vein diagnoses] Occlusion of right saphenous vein with intraluminal device, percutaneous endoscopic approach [when specified as coil embolization for varicose vein diagnoses] Occlusion of left saphenous vein with intraluminal device, open approach [when specified as coil embolization for varicose vein diagnoses] Occlusion of left saphenous vein with intraluminal device, percutaneous approach [when specified as coil embolization for varicose vein diagnoses] Occlusion of left saphenous vein with intraluminal device, percutaneous endoscopic approach [when specified as coil embolization for varicose vein diagnoses]
+
+06LP0DZ
+
+06LP3DZ
+
+06LP4DZ
+
+06LQ0DZ
+
+06LQ3DZ
+
+06LQ4DZ
+
+ICD-10 Diagnosis
+
+All diagnoses
+
+When services are Cosmetic and Not Medically Necessary:
+
+CPT 36468 96999
+
+Injections of sclerosant for spider veins (telangiectasia); limb or trunk Unlisted special dermatological service or procedure [when specified as tunable dye or pulsed dye laser treatment for varicose veins]
+
+ICD-10 Diagnosis
+
+All diagnoses
+
+Discussion/General Information
+
+Veins carry deoxygenated and nutrient depleted blood back to the heart and lungs. The veins located in the legs must work against gravity to move the blood upward. The venous system in the legs consists of superficial and deep veins. The superficial veins lie on top of the muscles of the leg and include the GSV and the SSV and their associated tributaries. The
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+5/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+deep veins lie within the muscle compartments and generally parallel their associated arteries. The deep veins include the tibial, popliteal and femoral veins. The superficial and deep veins run along the axis of the leg and are connected by perforator veins in a ladder-like pattern. One-way valves are present in all the leg veins. These valves prevent blood from flowing backwards (refluxing) to the legs instead of flowing towards the heart and lungs. Chronic reflux of vein causes dilation of the vessel, restriction of adequate blood flow to portions of the leg, and in some cases, discomfort or pain. Varicose veins are enlarged bulging superficial veins close to the surface of the skin. These are most often found on the back of the calf or on the inside of the leg between the groin and ankle. The most common valvular failures occur at the saphenofemoral junction (groin) between the GSV and the common femoral vein or at the saphenopopliteal junction (knee) between the SSV and the popliteal vein. Venous anatomy can vary significantly between individuals based on the absence or variable courses. of accessory and tributary veins. The following are examples and locations (GSV or SSV) of these tributary veins:
+
+Anterior accessory (GSV): indicates any venous segment ascending parallel to the GSV and located anteriorly, both in the leg and in the thigh; Posterior accessory (GSV): indicates any venous segment ascending parallel to the GSV and located posteriorly, both in the leg and in the thigh; Superficial accessory (GSV): indicates any venous segment ascending parallel to the GSV and located more superficially above the saphenous fascia, both in the leg and in the thigh; Cranial extension (SSV): courses between the biceps femoris and semimembranosus muscles. A cranial extension of the SSV that communicates with the GSV via the posterior thigh circumflex vein is often termed the intersaphenous vein or vein of Giacomini; Superficial accessory (SSV): ascends parallel to the SSV and is located more superficially, above the saphenous fascia; Anterior thigh circumflex vein: is a tributary vein of the GSV (or of the anterior accessory GSV) ascending obliquely in the anterior thigh; Posterior thigh circumflex vein: is a tributary vein of the GSV (or of the posterior accessory GSV), which ascends obliquely in the posterior thigh.
+
+Ultrasound or duplex scanning can be used to identify whether venous reflux is in the superficial, deep or perforating veins. It also can help determine whether reflux is confined to veins above or below the knee. This information is important in diagnosing the cause of venous incompetence and for treatment planning.
+
+Several systems have been created to objectively classify and characterize the severity of venous disease. The Clinical- Etiology-Anatomy-Pathophysiology (CEAP) classification is widely recognized as the standard classification system for these disorders. The “C” in “CEAP” stands for clinical symptoms that can range from no visible or palpable abnormalities (C0) to healed (C5) or active venous ulcers (C6). The “E” in “CEAP” denotes the etiology as primary, secondary, congenital, or a combination of causes. “A” stands for anatomy referring to the superficial, deep, and perforator veins. “P” refers to pathophysiology and indicates whether venous disease is due to reflux, obstruction, or a combination. Although CEAP is widely used to classify individuals in clinical studies, it is not a sensitive indicator of changes in disease severity.
+
+In 2010, the American Venous Forum published a revised Venous Clinical Severity Score (r-VCSS) to be used for the assessment of clinical outcomes after therapy for varicose veins and more advanced chronic venous disease. To compute the venous score, 9 clinical characteristics of chronic venous disease are graded from 0 to 3 (absent, mild, moderate, severe) with operational definitions to avoid overlap or arbitrary scoring.
+
+Some form of venous disorder affects approximately 80 million Americans. Varicose veins are present in about 10-30% of that population. Varicose veins often present as a cosmetic concern, but they may cause symptoms such as cramping, throbbing, burning, swelling, feeling of heaviness or fatigue, and may interfere with activities of daily living. There can be confusion between varicose veins and “spider veins,” which are small blue or red veins at the surface of the skin. Spider veins, also known as telangiectatic dermal veins, spider nevi, or broken blood vessels, are a benign condition and are not associated with any physical symptoms.
+
+Treatment for symptomatic varicose veins includes conservative measures such as frequent elevation of affected leg, walking, weight reduction, avoidance of prolonged sitting, analgesics and the use of compression stockings. The key to treatment of varicose veins is prevention of reflux in the short and long saphenous veins that connect to the major veins in the hip and pelvic area (femoral veins), a condition referred to as saphenofemoral reflux. When this non-invasive approach fails to relieve symptoms, several invasive options exist, as described below.
+
+Standard procedures (not within the scope of this document)
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+6/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+Surgical Ligation and Stripping
+
+Surgical ligation and stripping is a historic therapy for venous reflux in the saphenous vein whose use has been largely replaced by endovascular ablation techniques. Ligation and stripping begins with an incision in the groin region to expose the saphenous vein. The surgeon then ligates (ties off) the saphenous vein and small veins in the area. A second incision is made either just below the knee or at the ankle for the same purpose. Once both ends of the vein are free, a wire-like instrument is threaded through the vein, from the groin to the second incision, and secured to the vein. The vein is then pulled out (or “stripped”) and removed from the leg.
+
+Microphlebectomy
+
+Also known as ambulatory phlebectomy or stab avulsion, microphlebectomy is a technique to remove varicose veins. In this procedure, several tiny incisions are made in the skin through which the varicose vein is removed. This technique is best suited for tortuous varicosities where passage of a probe or catheter cannot be accomplished.
+
+Hook Phlebectomy
+
+Hook phlebectomy, also known as avulsion phlebectomy or small incision avulsion, is a surgical procedure performed alone or together with vein stripping. During avulsion phlebectomy, the surgeon makes a series of tiny incisions in the leg to remove varicose veins with a hook. Historically, hook phlebectomy has been performed as a blind procedure involving multiple incisions.
+
+Subfascial Endoscopic Perforating Vein Surgery (SEPS):
+
+SEPS is a minimally invasive surgical technique used to treat chronic venous ulcers caused by incompetent perforating veins. Prior to SEPS, perforator veins were treated via an open surgical technique however, the open surgical approach had significant complication rates, including poor healing of incisions in ulcerated skin. Once the affected perforators are identified by imaging, the target veins are accessed percutaneously by instruments used to separate the connective tissue (fascia) from the incompetent perforator, and ligation is then accomplished by clip or cautery. Due to high quality published evidence supporting the safety and efficacy of less invasive and more efficacious techniques, SEPS is no longer widely performed.
+
+Trans-Illuminated Powered Phlebectomy (TIPP):
+
+The TIPP technique uses the TRIVEX™ System. Through a small incision, a fiber optic illuminator is positioned near the varicose vein. A resector with a rotating blade is then guided through the skin next to the vein. Suction draws the vein into the tip of the vein resector, and the vein fragments are removed by suction. TIPP is no longer a choice treatment, due to high quality published evidence supporting the safety and efficacy of less invasive techniques.
+
+Note: The term “varicose veins” does not apply to telangiectatic (spider) veins or reticular veins. Similar to varicose veins, these veins are created when the valves that control the blood flow in the veins weaken. This causes the formerly small veins located just below the skin to become engorged with blood. As a result, these veins widen, becoming visible beneath the skin, but are generally not associated with pain, bleeding, ulceration, or other medical problems, and therefore their treatment is considered purely cosmetic.
+
+Clinical Evidence
+
+Endovenous Thermal Ablation (EVTA) (includes radiofrequency and laser ablation)
+
+Endoluminal Radiofrequency Ablation (VNUS Closure, now known as the Venefit Procedure) System:
+
+Also known as radiofrequency endovenous occlusion, endoluminal RF ablation is typically performed by using a thin catheter inserted into the saphenous vein through a small opening in the skin. Radiofrequency energy is then delivered through the end of the catheter to heat the saphenous vein wall, causing it to collapse, scar and close. However, there is a lack of clinical evidence to sufficiently demonstrate the clinical efficacy for vessels other than the saphenous vein.
+
+Endovenous Laser Treatment (EVLT):
+
+Endovenous laser ablation of the saphenous vein utilizes a small laser fiber that is inserted through a small incision in the skin into the vein. Pulses of laser light are emitted inside the vein, heating the vein wall causing it to collapse, scar and seal shut. A bandage or compression hose is placed on the treated leg following the treatment.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+7/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+Radiofrequency ablation (RFA) and endovascular laser ablation (EVLA) are treatments for venous insufficiency. Laser ablation closes the vein with laser energy, and radiofrequency ablation uses high-intensity, high-frequency radio waves to generate heat that seals the vein. During both procedures, a long catheter is inserted through the skin and pressed against the wall of the blood vessel to cauterize the vein. Both treatments provide equivalent results compared to conventional surgical vein-stripping procedures with quicker recovery and less pain and bruising, when used in appropriately selected individuals.
+
+Goode and colleagues (2009) evaluated the suitability of radiofrequency ablation, endovenous laser ablation, and foam sclerotherapy for treatment of symptomatic varicose veins. Information was collected at a single facility for 1 year (2006) on 577 legs from 403 consecutive persons with symptomatic varicose veins. Duplex ultrasonography was used to select individuals for each procedure. GSV reflux occurred in 77% (446 of 577) of legs. A total of 328 (73%) of the legs were considered suitable for at least one of the endovenous procedures. Of the 114 legs with recurrent GSV reflux disease, 83 (73%) were considered suitable to receive endovenous therapy. The authors considered that GSVs with diameters 3-12 mm were considered suitable for radiofrequency ablation and those with diameters less than 1 cm (10 mm) were considered suitable for foam sclerotherapy. Diameters larger than 1 cm (10 mm) were considered unsuitable for foam sclerotherapy due to an increased risk of staining and phlebitis. Further noted, was:
+
+For RFA and EVLA a straight segment of GSV of approximately 15-20 cm immediately distal to the saphenofemoral junction, as well as a GSV diameter larger than 3 mm at the intended cannulation site (at the knee), were needed to ensure suitability.
+
+Khilnani and colleagues (2010) addressed the use of EVTA for perforator and surface varicose veins in guidelines from a multi-society consensus:
+
+The use of EVTA to close incompetent perforating veins has been described. At this point, the indications and contraindications for use as well as the success rates and safety of this approach have only recently begun to be evaluated. The use of EVTA to close surface varicose veins is not encouraged. These veins are usually too tortuous for current generation devices to pass through. Also, these veins are very superficial; EVTA of such veins carries a high risk of thermal skin injury.
+
+In a clinical practice guideline on the care of individuals with varicose veins and associated chronic venous diseases published in 2011 by the Society for Vascular Surgery and the American Venous Forum, Gloviczki (2011) considered endovenous thermal ablation (laser and radiofrequency) to be a safe and effective procedure for the treatment of saphenous incompetence. They noted that these ablative procedures are associated with less pain and morbidity than open surgery. Endovenous thermal ablation was recommended over sclerotherapy for treatment of an incompetent saphenous vein. Sclerotherapy was recommended for treatment for telangiectasia, reticular veins and varicose veins.
+
+In a large analysis of Medicare utilization data (Crawford, 2019), trends in endovenous ablation practice in the United States were characterized over a 3-year time-period (2012-2015). During this time, 3244 unique providers performed 619,029 procedures with an average of 1.8 ablations per individual. The number of ablations performed nationwide is on the rise, as well as the number of ablations performed per individual. Non-vascular surgeons were reportedly more likely to perform more than the average two ablations on any given individual. Similarly, an analysis of a Medicare fee-for- service claims data (Mann, 2019) reported results from a 1-year period of 102,145 beneficiaries who underwent endovenous ablation performed by 2462 unique providers. The median and mean number of ablations performed per beneficiary per year were 1.6 and 1.9, respectively. These averages included physicians whose practice patterns deviated significantly from the mean with 3.3% of beneficiaries undergoing 6 to 10 ablations, and 0.3% undergoing 11 or more ablations. Another, significantly smaller study (n=200) (Crawford, 2017) similarly found the average number of ablations performed in an individual with chronic venous disease was 1.3.
+
+Hamann (2019) reported a single-center, double-blinded, three-arm randomized controlled trial (RCT). The study compared the closure rates of EVLA (n=148) and two forms of RFA: direct RFA (n=152) and indirect RFA with VNUS ClosureFast™ (n=150). The study included 450 participants with symptomatic GSV incompetence. One year after treatment, GSV occlusion rates were 75% (EVLA), 59.9 % (direct RFA), and 81.3 % (ClosureFast ) (p=0.007 for EVLA versus direct RFA, p<0.001 for direct RFA vs. ClosureFast, and p=0.208 for EVLA vs. ClosureFast). Adverse events 2 weeks after treatment were reported in 70.5 % of EVLA group participants, 41.8 % of direct RFA group participants, and 43.3 % of ClosureFast group. Pain was more frequently reported after EVLA than either radiofrequency modalities (p=0.007). The authors concluded that GSV occlusion rates were highest at 1 year after ClosureFast treatment. The authors acknowledge study limitations including the loss to follow-up of 57 participants at 1 year, (12.7% attrition rate). Of the 57 lost to follow-up, 22 were excluded from further study due to early treatment failure resulting in the need for
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+8/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+retreatment. Additionally, a 980 nm fiber was used for EVLA, whereas 1470 nm is the preferred wavelength because it is associated with less postoperative pain.
+
+Kempeneers (2022) reported a multicenter, single-blind, two-arm parallel group, RCT involving 280 individuals being treated for GSV reflux. The study compared the efficacy of EVLA with Tulip-Tip™ fiber (n=142) to treatment by RFA with the ClosureFast system (n=138). The primary outcome measured was the occlusion rate at 1 year. The secondary outcome measures were adverse events including pain, bruising, quality of life, and revised venous clinical severity score (RVCSS). Both techniques had comparable success rates (p=0.015). The results demonstrated complete GSV occlusion or presence of a fibrotic cord in 108 (96.4%) of 142 participants and 102 (94.5%) of 138 participants, respectively. Partial GSV occlusion was reported in 4 and 6 individuals 1 year after EVLA and RFA, respectively. There were no significant differences between groups at baseline in the quality of life or revised venous clinical severity score. At the 6-month follow up, the rVCSS improved for both groups and continued until the 12-month endpoint (p<0.001). The pain scale data showed a similar pattern for both groups. A significant difference between the EVLA and RFA groups was reported during the first 5 days post procedure, with EVLA participants reporting increased pain (p=0.004). Paresthesia at 1 year was reported in 2 EVLA group participants. Skin hyperpigmentation was noted within the first month of treatment for both groups; affecting 13 (9.4%) and 20 (15%) of individuals in the EVLA and RFA groups, respectively. Pigmentation decreased over time but still affected 5 (4.5%) and 13 (12.3%), respectively, at 1 year. No major complications such as DVT or pulmonary embolism were reported. The authors concluded that treatments resulted in equal occlusion rates with comparable side-effect profiles at 1 year.
+
+Shahzad (2023) conducted a systematic review and meta-analysis of 8 randomized controlled trials involving 1956 individuals to compare thermal and non-thermal endovenous ablation for treating incompetent superficial veins. A total of 1042 individuals had thermal ablation (EVLA: 495, RFA: 547) and 915 individuals underwent endovenous non-thermal ablation (mechanochemical endovenous ablation [MOCA]: 335, cyanoacrylate glue adhesion [CAGA]: 579). The primary outcome measured was vein occlusion rates at intervals of 4 weeks up to 2 years post-procedure. Secondary outcomes included peri-procedural pain, nerve injury, endothermal heat-induced thrombosis, and post-treatment quality of life. The results demonstrated that short-term post-operative occlusion rates (up to 4 weeks) were 100% for glue and EVLA, 93.5% for MOCA, with overall occlusion rates of 97.37% for non-thermal and 98.88% for thermal ablation. At 1-2 years, occlusion rates were 90.95% for non-thermal and 94.38% for thermal ablation, with MOCA showing the lowest medium- term occlusion rate of 80.4%. There were no significant differences in the risk of thrombosis or quality of life improvement between the two methods. Non-thermal ablation resulted in less pain and a lower risk of nerve injury compared to thermal ablation. The authors concluded that both methods have similar occlusion rates, but non-thermal ablation has advantages in terms of lower pain and reduced nerve injury in the early post-operative period.
+
+A Cochrane review (Cai, 2024) examined the effects of superficial endovenous ablation on healing, recurrence, and quality of life in individuals with venous ulcer disease. This meta-analysis included 2 randomized controlled trials with a total of 506 participants who had an average ulcer duration of 3.1 months. Participants were assigned to either endovenous ablation combined with compression therapy or compression therapy alone, with the latter group receiving deferred endovenous treatment later on. The results demonstrated a high-certainty level of evidence showing that combining endovenous ablation with compression therapy significantly improves the time to complete ulcer healing compared to compression alone or with deferred endovenous treatment (95% CI, 1.36 to 1.47). A moderate-certainty level of evidence indicating a higher proportion of ulcers healed at 90 days with combined treatment (95% CI, 1.00 to 1.30). The authors concluded that for venous ulcer disease, the addition of endovenous ablation to compression therapy enhances healing more effectively than compression alone. However, there is a low-certainty level of evidence regarding its impact on ulcer recurrence and complications. Further studies are needed to evaluate benefits for ulcers lasting more than 6 months and to determine the optimal modality for endovenous ablation.
+
+Endoluminal Radiofrequency (RF) Ablation (thermal heating)
+
+The VNUS Closure System (VNUS Medical Technologies, Inc., San Jose, CA) is a system for performing endoluminal radiofrequency ablation that received U.S. Food and Drug Administration (FDA) 510(k) clearance in 1999. VNUS has been evaluated as an alternative to vein ligation and stripping or stripping alone for the treatment of saphenofemoral or saphenopopliteal junction incompetence and saphenous vein reflux. Endoluminal RF ablation of the saphenous vein is based on the principle of treating reflux disease by control of the point of reflux and isolation of the refluxing saphenous vein from circulation. Published evidence shows that this procedure has success rates similar to those reported for surgical ligation and stripping with less postoperative pain and faster postoperative recovery. The VNUS Closure System is now known as the Venefit Procedure (Covidien, Mansfield, MA).
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+9/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+Proebstle (2015) reported 5-year results of a prospective European multicenter cohort study on (RFA) for incompetent GSVs using a catheter with an integrated heating element. A total of 225 participants had 295 GSVs treated with RFA. At 5 years post-treatment, 177 participants with 236 treated limbs completed follow-up exams for a study completion rate of 78.7%. Varicose veins were present in 98.6% of legs at baseline with 52.2% originating from the GSV. At 3 months post treatment, only 15.2% of the treated limbs had varicose veins present. The number of legs with varicose veins increased to 40.7% at 5 years. An initial vein occlusion rate of 100% was reported. Kaplan-Meier analyses showed a GSV occlusion rate of 91.9% and a reflux-free rate of 94.9% at 5 years. Among the 15 GSVs noted with reflux at follow-up, only 3 showed full recanalization of the GSV at 1 week, 6 months and 3 years. Of the 12 legs with partial recanalization, reflux originated at the saphenofemoral junction in 10. Only 6 participants were symptomatic. A total of 92.4% of the treated limbs were reported to be pain free at the 5-year follow-up visit. Retreatment was required in 15.3% by 5 years. The authors concluded, “comprehensive follow-up for other methods to 5 years is required to establish the optimal treatment for varicose veins.”
+
+El Kilic (2022) reported a retrospective, single-center study involving 232 participants comparing the long-term effectiveness and reliability of EVLA (n=77), N-butyl cyanoacrylate (NBCA, n=73), and RFA (n=82) for chronic venous insufficiency. Medical record data included demographics for age, sex, BMI, symptoms at admission, GSV diameter, CEAP classification 2 or greater, and VCSS. All participants had a physical exam and color Doppler ultrasound at week 1, and at 6 and 12 months after treatment. The EVLA group experienced the highest pain scores (p=0.001), had a higher incidence of complications (p=0.001) and had a longer recovery time (p=0.001) than other groups. Results showed similar occlusion rates among the three groups on the first postoperative day, and at 6, 12, and 24 months postoperatively. However, higher occlusion rates were demonstrated for RFA compared to EVLA at 3 and 5 years of follow-up (p=0.024 and p=0.11), respectively. The authors concluded that EVLA was associated with the highest complication rates, pain scores, and recovery time.
+
+Endovenous/Endoluminal Laser Ablation
+
+Venacure EVLT (Angiodynamics, Inc., Latham, NY) received FDA 510(k) clearance in 2002. EVLT of the GSV has been studied in two large-scale case series studies and several smaller case series. These studies demonstrate lower relapse rates when compared with ligation and stripping, as well as comparable symptom relief and complication rates similar to endoluminal radiofrequency ablation. The use of this procedure outside the criteria specified in the position statement is not in alignment with the current standards of practice in the medical community (Brittenden, 2019; Darwood, 2008; Min, 2003; Rasmussen, 2007; Wallace, 2019).
+
+RF or laser ablation for veins other than the saphenous veins (for example, anterolateral thigh, anterior accessory saphenous and interspahenous [Giacomini] veins) has been proposed. Peden and colleagues (2007) and Elias and colleagues (2007) addressed the feasibility of endoluminal RF and endovenous laser ablation for refluxing perforator veins. They concluded that additional clinical studies are needed to validate these treatment techniques. Van den Bos and colleagues (2009) reported on RF ablation of 14 incompetent perforator veins (IPV) in 12 individuals. After 3 months of follow-up, 9 (64%) of the 14 treated perforators were obliterated on ultrasound examination and the other 5 showed remaining reflux. The authors concluded that, while RF ablation of perforator veins may be a promising procedure, further standardization of the procedure is required, as well as comparative clinical trials between RF ablation and standard therapies.
+
+Bush (2007) reported laser and sclerotherapy ablation of the intersaphenous (Giacomini) vein in 14 individuals. The ablations were successful and without complications. No recanalization occurred during a 2 to 4 year follow-up. In a small comparative clinical trial (n=69), Park and colleagues evaluated the safety and efficacy of endovenous laser ablation for either IPVs or GSVs without evidence of saphenofemoral reflux over a period of 12 months. Endovenous ablation resulted in similar closure rates between the two groups (100% at 3, 6, and 12 months for both vein types). However, technical failure of the procedure was higher in participants with IPVs compared with GSVs, and study authors determined that endovenous ablation might not be suitable as a primary treatment method for IPVs.
+
+Wallace published long-term outcomes from a randomized trial comparing RFA with surgical ligation and stripping as a treatment of incompetent GSV (2019). At study start, 276 individuals were enrolled and randomized to one of the two treatment groups. After 5-years of follow-up, 218 (79%) were available for evaluation. Recanalization was more frequent in the surgery group (34.3%) compared to the EVLA group (20.9%) (p=0.01). Satisfaction, as measured by quality-of-life surveys, were similar between treatment groups.
+
+Endovenous laser ablation has been considered for treatment of refluxing saphenous tributaries. This was addressed in one small study of 18 participants (Bush, 2007) and a case report of 2 individuals (Theivacumar, 2007).
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+10/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+Theivacumar (2009) proposed treating sapheno-femoral reflux and preserving the GSV by laser ablation of the anterior accessory great saphenous vein (AAGSV) in those with isolated sapheno-femoral junction (SFJ)/AAGSV reflux. They studied 66 individuals with SFJ reflux treated with EVLT, which included GSV ablation with 33 matched individuals with (SFJ)/AAGSV reflux treated with EVLT of the AAGSV. This feasibility study showed successful laser ablation of the AAGSV when the vein was relatively straight, at least 10 cm long, greater than or equal to 3 mm in diameter, and free of varicosities within the treatment length. Both groups had similar outcomes (sclerotherapy for residual varicosities). Doppler ultrasound was performed at 6, 12, and 52 weeks to assess SFJ and tributary competence and ablation of the axial vein. Absence of flow in a noncompressible vein or a non-visible axial (GSV or AAGSV) vein on ultrasound represented successful ablation. The AAGSV was not visible in those treated for SFJ/AAGSV reflux. The authors reported that isolated SFJ/AAGSV reflux occurs in only 10% of those with reflux. In conventional surgery, many surgeons strip a competent GSV because of the risk that neovascularization after SFJ ligation may result in GSV reflux and recurrence. The authors stated that selective ablation of incompetent axial veins preserves a healthy GSV for other coronary or vascular procedures, if needed.
+
+A randomized, 5-year comparative effectiveness study compared quality of life outcomes amongst individuals with primary varicosities who underwent EVLA (n=210), sclerotherapy (n=286) or surgery (n=289) of the GSV or SSV. Of the 798 trial participants, 595 (75%) completed the quality-of-life surveys at year 5 (sample size analysis accounted for 30% loss to follow-up). Scores on the Aberdeen Varicose Vein Questionnaire (AAVQ) were significantly better among recipients of laser ablation or surgery compared to those who received foam sclerotherapy (p<0.00 for both comparisons). Overall, 11% of the laser ablation group, 14% in the foam sclerotherapy group, and 7% in the surgery group had further treatment (Brittenden, 2019).
+
+Evidence shows that reflux of the AAGSV/ASV contributes to significant discomfort and disability and supports the use of EVLA and RFA as a safe and efficacious therapeutic option, including a 1C recommendation from the American College of Phlebology (2017). Published evidence regarding the efficacy of EVLA and RFA of the posterior accessory of the great saphenous vein (PAGSV) does not show that it is a widely-accepted approach among the practicing medical community (Aurshina, 2018; Bush, 2014; Proebstle, 2015; Ravi, 2009; Schul, 2016; Theivacumar, 2009).
+
+Rits (2022) reported a single center, prospective, randomized study involving 146 legs comparing endovenous laser flush ablation (EVLAf, n=71) compared to standard laser ablation (EVLAs, n=76) for closure of the SFJ. In the EVLAf, group treatment started from the SFJ level, and in the EVLAs group treatment started 2 cm below the SFJ. The primary outcome measure was reflux in the GSV stump after 900 days. The secondary outcomes were reflux in the AASV and proximal clinically recurrent varicose veins related to reflux in the stump and/or the AASV. Reflux in the stump was detected in 3.6% in EVLAf group, and in 22.2% in the EVLAs group (p<0.05). Reflux in the AASV was present in 7.1% in the EVLAf group and in 17.46% in the EVLAs group (p=0.09). The greatest diameter of GSV stump was larger in the EVLAf group (0.41 cm) compared to the EVLAs group (0.6 cm) (p<0.001). Asymptomatic heat-induced thrombosis was observed in 1 participant in the EVLAf group at the day 14 post procedure visit. No severe complications were reported. The increased incidence of reflux in the AASV and proximal recurrent varicose veins after EVLAs was not statistically significant. EVLAf and EVLAs had similar rates of adverse events. The authors concluded EVLAf of incompetent GSV is associated with decreased stump reflux compared to standard ablation techniques.
+
+Endoluminal Cryoablation
+
+In 2009, Klem conducted a RCT and reported that endoluminal cryoablation (n=249) was inferior to conventional stripping (n=245) for treating individuals with symptomatic varicose veins. A total of 44% of individuals in the endoluminal cryoablation group and 15% in the conventional stripping group had persistent GSVs. The AVVQ also showed better results for conventional stripping (score of 11.7) in comparison with cryoablation (score of 8.0). There were no differences between the groups in SF-36 subscores, and neural damage was the same (12%) in both groups.
+
+Mechanochemical Ablation
+
+Endovenous mechanochemical ablation uses both sclerotherapy and mechanical damage to the vein lumen. Following ultrasound imaging, a catheter with a wire attached to a motor drive is inserted into the distal end of the target vein and advanced until it reaches the saphenofemoral junction. As the catheter is pulled back, the wire rotates within the lumen of the vein. At the same time, a liquid sclerosant (sodium tetradecyl sulfate) is infused near the rotating wire. It is hypothesized that mechanical ablation allows for better efficacy of the sclerosant, without the need for the tumescent anesthesia used in RF ablation or EVLT.
+
+Elias (2012) described a small industry-sponsored safety and efficacy study of mechanochemical endovenous ablation using the ClariVein system. A total of 30 great saphenous veins in 29 participants were treated with the system. GSVs with
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+11/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+diameters greater than 12 mm were excluded. A total of 77% of veins were Comprehensive Classification System for Chronic Venous Disorders (CEAP) Class 2; 7% in Class 3 (varicose veins and edema); and 16% in class 4a (varicose veins with skin changes). At 6 months of follow-up, one vein had recanalized, for a primary closure rate of 96.7%. No pain during the procedure or adverse events were reported.
+
+In a prospective cohort study, Boersma and colleagues (2013) evaluated MOCA of the SSV in 50 consecutive individuals. The dose of sclerosant was increased after the first 15 cases. At the 6-week assessment, all treated veins were occluded and at 1 year follow-up, 94% remained occluded. The median visual analog scale score for pain during the procedure was 2 of 10. There were no major complications.
+
+A prospective observational multi-center report (Bishawi, 2013) evaluated the efficacy of MOCA of the GSV in 126 symptomatic individuals from community vein centers. Veins selected were greater than 4 mm and less than 12 mm in diameter. Closure rates were 100% at 1 week, 98% at 3 months, and 94% at 6 months. There was significant improvement reported at all-time intervals in the venous clinical severity score. Study limitations reported by the authors included a lack of control group and use of historical data from other studies as the study’s comparison.
+
+A systematic review evaluated the ClariVein’s anatomical, technical and clinical success by analyzing pooled data from 13 studies comprising 1521 veins (GSV and SSV). Although anatomical success rates at 2-3 years were 87-92%, the authors acknowledged that, at the time of this analysis, no randomized trials had been published comparing efficacy and safety of MOCA to thermal ablation. Furthermore, although initial improvements were seen in disease-specific quality of life (QOL) measures, these measures began to decline in some study cohorts a year following treatment. In a total of 1464 veins, there were 3 cases of deep vein thrombosis (DVT) (0.2%), 2 cases of pulmonary embolism (0.1%) and transient paresthesia was seen in 1 case (<0.1%). The authors noted limited availability of long-term outcomes data following MOCA. About 50% of the participants in the reviewed studies were lost to follow up after 2 to 3 years (Whitte, 2017).
+
+A randomized, multicenter, prospective clinical trial compared RFA with MOCA in 209 individuals with unilateral GSV incompetence. Overall, median pain scores during the first 14 days were lower after MOCA (n=105) relative to RFA (n=104) (0.2 vs 0.5, respectively; p=0.010). At 300 days, complication rates and quality of life measures were similar. In the MOCA group, there were 4 complete failures (3.8%) compared with none in the RFA group (P=0.045). Median 30-day Venous Clinical Severity Score (VCSS) was significantly lower at 30 days after MOCA (1.0 vs 2.0). At year 2, differences in failure rates were not significantly different and RFA continued to show significantly fewer anatomic failures. Study limitations include short follow-up and small sample size. Conduct of the study was significantly hindered by reimbursement changes made by the Dutch health care system during the study period. The authors calculated that 420 participants would be needed to evaluate the noninferiority of MOCA’s anatomic success rate; however, the study was terminated when only 213 participants had been enrolled (Holewijn, 2019).
+
+In another randomized trial design, 132 individuals with refluxing GSV were enrolled to undergo MOCA (n=65), EVLA (n=34) or RFA (n=33); the primary outcome of interest was occlusion rate of the GSV at 1-year follow-up. At study-end, the GSV was fully occluded in every vein that had been ablated (EVLA and RFA), whereas occlusion in the MOCA group was significantly lower at only 82% (p=0.002). Secondary outcomes of disease-related QOL measures and complication rates at 1 year did not differ significantly between groups. This study focused on a highly selected set of individuals with varicose veins. Out of 4027 individuals eligible for screening, only 132 met the study’s inclusion criteria (Vahaaho, 2019).
+
+Vahaaho (2021) conducted a follow up RCT evaluating 3-year outcomes after MOCA with EVLA and RFA in participants in the study reported above. In total, 117 individuals were enrolled and treated following randomization (2:1:1 for MOCA, EVLA, and RFA, respectively). Closure of the GSV (evaluated via duplex Doppler ultrasound) and disease-specific QOL measures were assessed at 1 month, 1 year, and 3 years following treatment. The occlusion rate was significantly lower at 3 years following treatment with MOCA than with either EVLA or RFA (82% vs 100%; p=0 .005). QOL measures were similar between the three groups. GSVs greater than 7 mm in diameter at enrollment were associated with recanalization in the MOCA arm by study’s end. The authors concluded that the technical success rates of MOCA are inferior to EVLA and RFA. This study shared the same limitations as the 2019 study reported above. The highly selective inclusion criteria may not represent the broad range of individuals seeking treatment for varicose veins. Only about 1/3 of the treated individuals in each study arm were available for their 3-year follow up.
+
+Mohamed (2021) conducted an RCT to evaluate the safety and efficacy of MOCA compared to EVLA in individuals with unilateral GSV insufficiency. A total of 143 individuals were enrolled and randomized 1:1 to receive treatment with either modality along with concomitant phlebectomy when indicated. At study end, 12 months, occlusion rates after EVLA were 63/69 (91%) compared to 53/69 (77%) in the MOCA group (p=0.020). Both groups experienced significant improvement in QOL measures and 1 study participant in the MOCA group experienced a DVT. This study adds to the established evidence that MOCA’s efficacy is inferior to established alternatives.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+12/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+In 2024, the American Vein & Lymphatic Society (AVLS) published a position statement regarding MOCA. The recommendation states:
+
+Mechanical occlusion chemically assisted venous ablation is effective in alleviating symptoms and a safe treatment option for venous insufficiency. As a non-thermal ablation method, MOCA obviates the need for tumescent anesthesia and thus results in less procedural discomfort and risk of thermal nerve or skin injury. It may be used in both the below knee distal GSV as well as the SSV with no risk of thermal injury to the adjacent nerves. However, it is associated with significantly lower rates of vessel closure and higher recanalization rates when followed for more than one year compared to both RFA and EVLA. It is also less cost effective than thermal techniques. It is an available option for those in whom thermal ablation is not suitable.
+
+The recommendation was based on 2-year results for MOCA treatment (Ozen, 2014) and notes:
+
+Short-term results within the first year were promising, long-term durability at two, three and five years indicates that mechanical occlusion chemically assisted ablation are inferior to other endovenous treatments in terms of maintenance of vein occlusion. However, European practice guidelines state that MOCA is a reasonable alternative and may be considered for patients preferring non-thermal non- tumescent treatment, even if the occlusion rates are inferior to that of thermal 8 ablation (recommendation Class IIb - usefulness/efficacy is less well established by evidence/opinion; Level of evidence A - data derived from multiple randomized clinical trials or meta-analyses).Similarly, American recommendations do not indicate a preference between thermal and non-thermal procedures (Strong recommendation with moderate evidence). However, it is worth noting that both of these clinical guidelines were reported before the five year results of MOCA were published. Therefore, because of the associated successful symptom relief, this treatment modality may be useful in selected patients.
+
+Sclerotherapy
+
+Sclerotherapy uses injectable sclerosing solutions, either liquid or foam, to treat abnormally dilated veins (Weiss, 2015). Sclerotherapy of varicose tributaries may be used adjunctively with stripping and ligation, RF ablation or endovenous laser ablation of the GSV. During this procedure, a sclerosing agent, typically a 0.5%-3% solution of sodium tetradecyl sulfate (STS), is injected into the vein to collapse its walls and eliminate blood flow. Following the procedure, pressure is applied to the vein through padding and compression stockings that are typically worn for 7 to 10 days. This continuous pressure allows a scar to form between the two walls of the vein preventing the further development of varicosities. Individual response to each injection can vary and it may require more than one injection to obliterate a vessel.
+
+Echosclerotherapy is a term used to describe ultrasound-guided sclerotherapy where the veins are injected under direct ultrasound visualization.
+
+COMPASS is a variation of ultrasound-guided sclerotherapy. This therapy uses ultrasound-guided sclerotherapy, followed by multiple diagnostic ultrasound imaging procedures, and sclerotherapy treatments for the treatment of subsequent varicose veins. This therapy may involve several weeks or months of treatment.
+
+Sufficient evidence exists in the peer-reviewed medical literature to support the adjunctive use of sclerotherapy for the treatment of symptomatic varicose tributaries, when performed either at the same time as surgical ligation and stripping, RFA, or EVLA of the saphenous vein, or for the treatment of residual or recurrent symptomatic varicose tributaries following the above procedures (Tisi, 2006). A vein may be difficult to puncture or treat if the diameter is less than 3 mm. Therefore, not only does the treated vein need to demonstrate reflux, the diameter of the vein should be greater than 3.0 mm.
+
+Sclerotherapy as the sole treatment of symptomatic varicose tributaries of the GSV is not indicated in the presence of saphenofemoral or saphenopopliteal junctional reflux. Published studies indicate that such treatment, without definitive treatment of valvular incompetence (reflux) of the saphenous veins, provides minimal long-term benefit and leads to high recurrence rates. Individuals who undergo definitive treatment, as well as adjunctive sclerotherapy of the varicose tributaries have better long-term results, lower rates of recurrence, and better quality-of-life scores.
+
+The overwhelming majority of varicosities of the saphenous tributaries are related to co-existing valvular incompetence (reflux) of the great or small saphenous veins. However, a small subset of individuals (up to 14%) may be symptomatic in the absence of underlying reflux. Sclerotherapy as a sole therapy has been proposed for these individuals; however, the evidence base is too small to support the use of sclerotherapy as a sole therapy. In a randomized study of 25 individuals,
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+13/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+those receiving sclerosant reported a higher obliteration rate compared with those receiving normal saline at 12 weeks follow-up (Kahle, 2004). The study did not address the key issue of long-term symptom resolution.
+
+Sclerotherapy directed at the underlying refluxing saphenous veins (as opposed to the visible varicosities of the tributary veins) requires ultrasound guidance. This procedure may be referred to as echosclerotherapy or ultrasound-guided sclerotherapy. The goal of ultrasound-guided foam sclerotherapy (UGFS) when treating varicose veins is to damage the endothelial surface of the vein to cause scarring and blockage of the treated vein. Under local anesthesia, the sclerosant foam is injected into the affected veins using ultrasound guidance. The foam sclerosant causes an inflammatory reaction in the vein wall, causing vein blockage. Compression bandages are applied after the procedure for a period of time.
+
+Varithena is a drug/device combination product that generates an injectable foam. In 2013, Varithena microfoam (polidocanol injectable foam) was FDA approved under a new drug application as a sclerosing agent indicated for the treatment of incompetent great saphenous veins, accessory saphenous veins, and visible varicosities of the GSV system above and below the knee (Varithena prescribing information, 2016). Todd (2014) reported results of VANISH-2, a randomized, blinded multicenter pivotal trial designed to evaluate the safety and efficacy of polidocanol endovenous microfoam (Varithena). Participants were randomized to receive polidocanol endovenous microfoam (PEM) 0.5%, (PEM) 1.0% or placebo. In 232 treated participants, polidocanol endovenous microfoam 0.5% and polidocanol endovenous microfoam 1.0% were reported as superior to placebo, with a larger improvement in symptoms and greater improvements in assessments of appearance. Results of duplex ultrasound and other clinical measures supported the findings. Of the participants treated with polidocanol endovenous microfoam, 60% had an adverse event compared with 39% of placebo. Results of VANISH-2 were confirmed by King (2015) in a multi-center parallel study of 284 participants. The authors reported that treatment with PEM 1% and PEM 2% resulted in similar side effects, was equally effective in improving symptoms and appearance, and had a similar duplex response rate.
+
+Todd (2016) reported safety and efficacy data from the VANISH-2 trial for individuals treated with PEM 1% at baseline (visit 2/week 0), from visit 5/week 8 through the year 1 visit. A total of 56 of the original 232 baseline participants had received PEM 1% and were subsequently assessed at visit 5/week 8 and year 1. Ongoing symptom and appearance improvement were reported at year 1 with no new venous thrombus adverse events.
+
+Gibson (2016) evaluated Varithena in a multi-center study of 77 individuals with symptomatic, visible varicose veins randomized to treatment consisting of either Varithena 1% (n=39) or placebo (n=38). Varithena provided significantly greater symptom and appearance improvement than did placebo at week 8.
+
+Another multi-center study (Vasquez, 2016) was performed involving individuals with GSV incompetence and symptomatic visible superficial venous disease. A total of 117 participants were treated (38 placebo, 39 PEM 0.5%, 40 PEM 1%). Self- assessment and physician assessments were similar at week 8 for those treated by microfoam with improvements reported in appearance, need for additional treatment, saphenofemoral junction reflux elimination, symptoms and quality of life. Superficial thrombophlebitis was the most frequent adverse event (35.4%).
+
+Van den Bos (2009) conducted a meta-analysis of 64 studies (12,320 limbs) evaluating treatment of lower extremity varicosities, including GSVs and SSVs. Study authors reported that UGFS was comparable to conventional surgical stripping, but not as effective as EVLA. Comparable results were observed between UGFS and RFA.
+
+Shadid (2012) performed a randomized non-inferiority trial comparing treatment of incompetent GSVs with foam sclerotherapy or with ligation and stripping. A total of 230 participants were treated with UGFS and 200 underwent stripping of the GSV. Forty participants (17%) had repeat UGFS. At 2 years, the probability of clinical recurrence was similar in the two groups (11.3% sclerotherapy vs 9.0% ligation and stripping); however, reflux was more common in the sclerotherapy group (35% vs 21%). Thrombophlebitis occurred in 7.4% of participants after sclerotherapy. There were two serious adverse events in the sclerotherapy group (deep venous thrombosis and pulmonary emboli) that occurred within 1 week of treatment. Study limitations include lack of blinding and limited follow-up of 2 years.
+
+In 2014, Darvall reported outcomes 5-8 years after UGFS obtained using health-related quality of life (HRQL), participant- reported outcomes (PROMs), satisfaction and retreatment rates. A total of 391 limbs in 285 participants were included at a median of 71 months following first UGFS treatment. Originally, 72.1% had symptomatic, uncomplicated varicose veins, 21.9% had undergone surgery previously, 87.2% had GSV treatment and 19.9% had SSV treatment. HRQL scores improved significantly at long-term follow-up. Between 62.7% and 81% of participants reported improvements in social, work and leisure activities that either met or exceeded their expectations. Overall, 82% were very satisfied with their treatment and 3.3% were dissatisfied. A total of 15.3% of limbs required retreatment by 5 years.
+
+The COMPASS procedure represents a distinct sclerotherapy protocol for the treatment of valvular incompetence (reflux) of the great or small saphenous veins. The evidence regarding this technique, in particular the study published by Belcaro
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+14/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+(2003), suffers from flaws in study design, including a failure to provide specific information about participant selection criteria, no description of the randomization process, and a failure to include appropriate comparator groups. In addition, one of the surgical reference arms was not a part of the randomization process, but was a retrospective historical control group. Additionally, the retreatment that occurred because of ongoing ultrasound monitoring was generally defined as a continuation of the initial therapy in the COMPASS protocol, rather than true recurrences or treatment failures. This aspect of the COMPASS protocol may be responsible for the low “recurrence rate” reported in the published studies. With the COMPASS protocol, individuals are viewed as being in the latter “phases” of therapy for prolonged periods. Some reports indicate that individuals have received therapy in excess of 1year. This is in contrast to alternative treatment methods, including standard surgical techniques, or thermal ablation procedures, which are completed within 7 to 10 days.
+
+The KAVS (catheter-assisted vein sclerotherapy) procedure involves an intravascular catheter that is introduced into the vein for short-term therapeutic use. The catheter has a balloon at the distal end that will temporarily block the blood flow to that segment of the vein being targeted for sclerotherapy.
+
+A Cochrane review update by de`Avilia Oliveira (2021) assessed the effectiveness and safety of injection sclerotherapy for the treatment of varicose veins. The outcomes assessed were cosmetic appearance, complications, residual varicose veins, quality of life, persistence of symptoms, and recurrent varicose veins. The authors reviewed 28 RCT’s involving 4278 participants. Their findings were summarized:
+
+There is a very low to low-certainty evidence that, compared to placebo, sclerotherapy is an effective and safe treatment for varicose veins concerning cosmetic appearance, residual varicose veins, quality of life, and persistence of symptoms. Rates of DVT may be slightly increased. There was limited or no evidence for one concentration of foam compared to another; foam compared to liquid sclerotherapy; foam compared to any other substance; or one technique compared to another.
+
+The authors concluded high-quality trials using standardized sclerosant doses, with clearly defined outcomes and measurement timelines are needed.
+
+Terminal Interruption of the Reflux Source (TIRS) is a procedure proposed to treat reflux within the plexus of veins around an active venous leg ulcer using foam sclerotherapy. Keohane (2024) reported a single center, assessor-blinded, randomised controlled trial comparing endovenous ablation of the axial superficial veins (Axial Ablation-AA) compared to TIRS. Primary outcomes measured were the number of venous leg ulcers healed in 6 months, or time to ulcer healing. Individuals with venous leg ulcers of any duration were included in the trial. Participants were randomised to AA or TIRS (n=98). The results demonstrated that 39 of 55 participants in the AA group (70.9%, p=0.449) had healed venous leg ulcers compared to 29 of 39 TIRS group participants (74.36%, p=0.45). Four participants were lost to follow-up. The median time to ulcer healing was 84 days in both groups. The authors concluded that axial ablation was not superior to TIRS in the number of ulcers healed in 6 months, or time to healing.
+
+PhotoDerm, VeinLase and Vasculite
+
+PhotoDerm, VeinLase and Vasculite are laser devices primarily used in treating telangiectatic and reticular veins and other skin related applications. There is no compelling evidence that these conditions have any significantly negative health impact these treatments thus fail to meet criteria for medical necessity. However, there is adequate evidence that these treatment methods do significantly decrease the appearance of these superficial veins. Therefore, these techniques are considered primarily cosmetic in nature.
+
+VenoValve®
+
+The VenoValve® (enVVeno Medical Corporation, Irvine, CA) is a bioprosthetic valve made from a porcine aortic valve leaflet, structured into a monocusp, unidirectional valve within an expendable stainless-steel frame. It is intended to restore proper blood flow in individuals with chronic deep vein insufficiency in the leg. The valve is permanently implanted via an upper thigh incision. It is a single-use device currently under evaluation for safety and effectiveness in the SAVVE U.S. pivotal trial and has not yet received FDA premarket approval (PMA).
+
+Comparisons of Ablation and Sclerotherapy to Surgical Ligation and Stripping
+
+Rasmussen (2011) reported results for an RCT involving 500 participants comparing endovenous laser ablation (EVLA), radiofrequency ablation, foam sclerotherapy and surgical stripping of the GSV. The primary outcome was the failure rate at 1 year. Significantly more GSVs were open and refluxing at 1 year in the ultrasound guided foam sclerotherapy (UGFS) group than in the other groups (p<0.001). There were no statistically significant differences among patent GSVs in the 3 other groups (p=0.543). In a primary RCT (MAGNA Trial) of 240 individuals conducted by Biemans (2013), UGFS was not
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+15/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+as effective as EVLA in the short term (1 year), but comparable to high ligation and stripping. At 5-year follow-up of the MAGNA trial, Kaplan-Meier analysis showed obliteration or absence of the GSV in 85% of individuals who underwent conventional surgery and 77% of those who underwent EVLA (not significantly different) (van der Velden, 2015). Grade I neovascularization was higher in the conventional surgery group (27% vs 3%, p<0.001); however, grade II neovascularization was similar both groups (17% vs 13%).
+
+A randomized controlled trial with a 5-year follow-up comparing EVLA with ligation and stripping for GSV incompetence was reported by Rasmussen and colleagues (2013). A total of 121 consecutive participants (137 legs) with symptomatic varicose veins and GSV incompetence were randomized to EVLA or high ligation and stripping. The primary endpoint of the study was open refluxing GSV. Secondary endpoints were recurrent varicose veins, frequency of reoperations, Venous Clinical Severity Score, and quality of life scores. Participants were examined with duplex scanning before treatment and after 12 days, and after 1, 3, and 6 months, and every year thereafter for up to 5 years. In the EVLA and stripping groups, 9 and 4 of GSVs had open refluxing segments of 5 cm or more during the 5-year follow-up. Recurrent varicose veins were observed in 24 and 25 legs during the 5 years in the laser and stripping groups, respectively. Reoperations were performed in 17 and 15 legs in the laser and stripping groups, respectively. Venous Clinical Severity Score and AAVQ Score improved significantly in both groups; however, Medical Outcomes Study Short Form-36 quality of life score improved in several domains in both groups with no difference between the groups. The authors reported “both surgery and EVLA are efficient treatments with long-term beneficial effects in patients with GSV varicose veins.” Study limitations include a small sample size and lack of blinding.
+
+A Cochrane review (Nesbitt, 2014) compared endovenous ablation (radiofrequency or laser) and foam sclerotherapy to ligation and stripping for GSV varices. A total of 13 randomized studies consisting of a combined 3081 participants were included in the review. Due to variations in reporting of results, the overall quality of the evidence was determined to be moderate. The authors concluded:
+
+Currently available clinical trial evidence suggests that UGFS, EVLT and RFA are at least as effective as surgery in the treatment of great saphenous varicose veins. Due to large incompatibilities between trials and different time point measurements for outcomes, the evidence is lacking in robustness. Further randomised trials are needed, which should aim to report and analyse results in a congruent manner to facilitate future meta-analysis.
+
+Brittenden (2014) performed the Comparison of Laser, Surgery and Foam Sclerotherapy (CLASS) trial, a large multicenter RCT designed to assess quality of life and other outcomes of varicose vein treatments. A total of 798 participants with primary varicose veins at 11 United Kingdom centers were randomized to receive surgical, foam or laser treatments. Surgery consisted of proximal ligation and stripping (of only the GSV) and concurrent phlebectomies. Foam consisted of sodium tetradecyl sulfate used off-label rather than in its liquid manufactured form. Laser ablation of truncal saphenous veins was performed and followed by foam sclerotherapy for residual varicosities if needed at the 6-week follow-up, except for concurrent phlebectomies performed at one center. Outcome assessments occurred at baseline, 6 weeks and 6 months following treatment. The primary outcome measures at 6 months were generic quality of life and disease specific quality of life. Secondary outcomes included measures of clinical success and complications. The mean disease-specific quality of life, after adjustment for covariates including baseline scores, was slightly worse after foam treatment than after surgery (p=0.006) but was comparable in the laser and surgery groups. There were no significant differences between the surgery group and the foam or the laser group in generic quality of life measures. The frequency of serious adverse events (3%) was similar in all groups. The frequency of procedure related complications was lower in the laser group (1%) than in the surgery group (p<0.001); but similar in the foam group (6%) and the surgery group (7%). Clinical success measures were similar among all groups. However, successful ablation of the main trunks of the saphenous vein was less common in the foam group than in the surgery group (p<0.001). The authors concluded: “All treatments had similar clinical efficacy, but there were fewer complications after laser treatment, and ablation rates were lower after treatment with foam.”
+
+A single center, prospective, randomized, nonblinded trial (Gauw, 2016) compared long-term results of treatment for GSV incompetence by saphenofemoral ligation and stripping (SVL/S) to EVLA. A total of 130 legs of 121 participants with GSV insufficiency were randomized to either SFL/S (n=68) or EVLA (n=62). Five participants were lost to follow-up. After 5 years more recurrent varicose veins caused by neoreflux in incompetent tributaries of the saphenofemoral junction (SFJ) were observed after EVLA (31%; 19/61) compared with SFL/S (7%; 4/60; p<0.01). Groin neovascularization identified at 3 -and 5- years post-treatment was observed in the SFL/S group (n=6) and not in the EVLA group. After 5 years, clinically visible recurrences from the SFJ region after EVLA were observed in 33% (20/61) compared with 17% of participants (10/60) after SFL/S (p<0.04). Both groups reported improved venous symptoms and a significant cosmetic improvement. There was no difference in the CEAP staging and a standardized, non-disease-specific instrument for describing and valuing health states (EuroQol-5D), between the groups up to 5 years after follow-up. The authors concluded that EVLA
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+16/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+was associated with more post-operative pain and significantly higher 5-year recurrence rates compared to high ligations of the SFJ and stripping under tumescent anesthesia.
+
+Coil Embolization
+
+Coil embolization involves catheter placement into a vein followed by implantation of a small coil. An injection of alcohol or a foamed sclerosant drug is typically used during the procedure resulting in vein occlusion.
+
+There is scant published literature addressing coil embolization for treatment of lower extremity veins. An early study by van Dijk (1999) investigated percutaneous coil embolization of incompetent perforating veins to treat venous ulcers and recurrent varicosities in the lower leg. A total of 15 individuals with 18 incompetent perforating veins in the lower leg were treated by ultrasound-guided percutaneous placement of embolization coils. Successful vein occlusion with one or more coils occurred in 12 of the 18 veins (technical success rate, 67%). Clinical symptoms improved in only 3 of the 15 individuals (clinical success rate, 20%). During follow-up at 2-12 months, recanalization of coil-embolized veins occurred in 9 of the 12 initially occluded veins. Another small study (Viani, 2014) consisted of 9 individuals and evaluated a “one-shot scleroembolization” technique designed to treat lower extremity varicose veins. The technique combined the use of a coil positioned in the terminal portion of the GSV and a foamed sclerosant drug. At 3 months’ follow-up, there were no complications reported and the GSV remained occluded in all cases.
+
+Cyanoacrylate Adhesion (CAA)
+
+Cyanoacrylate adhesion proposes to obliterate varicose veins by use of a medical grade adhesive that is applied along the target vein via a catheter. Approximately 0.1 cc of adhesive is applied approximately every 3cm along the vein, this seals it off to reroute circulation to veins that are not tortuous. The procedure takes less than half an hour on average.
+
+In 2015, the FDA approved the VenaSeal Closure System through the PMA process for the permanent closure of clinically significant venous reflux through endovascular embolization with coaptation (Product Information [PI] Label 2015). VenaSeal is a system for delivery of specially formulated n-butyl-2-cyanoacrylate into varicose veins. The VenaSeal pivotal study (VeClose) (Morrison, 2015) was a multicenter noninferiority trial with 222 individuals that compared VenaSeal (n=108) with RFA (n=114) for the treatment of venous reflux. The study’s primary endpoint was the proportion of veins with complete closure of the target GSV at 3 months measured by ultrasound. This outcome was found to be non-inferior to RFA with a 99% closure rate for VenaSeal compared with 96% for RFA. A secondary endpoint, intraoperative pain, was similar between the two groups (2.2 on a 10-point scale for VenaSeal and 2.4 for RFA; p=0.11). Ecchymosis at day 3 was significantly lower in the VenaSeal group; 67.6% of those treated with cyanoacrylate had no ecchymosis compared with 48.2% of individuals treated with RFA (p<0.01). Scores on the AAVQ and Venous Clinical Severity Score were similar between the groups. The short-term follow-up, lack of primary outcome data in 13% (n=28) of enrollees, and lack of explanation for loss to follow-up are among the weaknesses of this pivotal clinical trial. Subsequently published studies on the safety and efficacy of VenaSeal are non-randomized cohort studies, most with relatively low numbers of participants and short follow-up (< 6 months) (Almeida, 2017; Gibson, 2017; Gibson, 2019; Park, 2017; Proebstle; 2015). In 2019, the VeClose trial data was published with moderately long-term outcomes (36 months) (Morrison, 2019). The updated data showed sustained outcomes in non-inferiority of VenaSeal (94.4%) relative to RFA (91.9%). Quality of life outcomes were also similar between treatment groups. There were 5 adverse events in the VenaSeal arm, 3 of which were classified as ‘definitely’ or ‘potentially’ related to the procedure, whereas neither of the 2 adverse events in the RFA arm were related to the procedure. Unfortunately, 33% of the VenaSeal arm was lost to follow-up by the 36-month evaluation. The small sample in conjunction with the high attrition preclude formation of definitive conclusions about VenaSeal’s long-term effects.
+
+Eroglu and Yasmin (2018) reported a single-center, blinded RCT of 456 individuals comparing clinical outcomes from three different treatments of superficial varicose veins. Treatment types included N-butyl cyanoacrylate (NBCA, n=175), radio frequency (n=175), and EVLA (n=175). The primary outcome was saphenous vein occlusion rates. The secondary outcomes were peri- and post-procedural pain, complications, and return to work time. The findings demonstrated occlusion rates that were similar between groups at 6, 12, and 24 months (6 months [NBCA 98.1%, RFA 94.1%, and EVLA 95.1%, p=0.14], 1 year [NBCA 94.7%, RFA 92.5%, and EVLA 94.2%, p=0.72], 2 years [NBCA 92.6%, RFA 90.9%, and EVLA 91.5%, p=0.89]). Peri-procedural pain was significantly lower after NBCA (p<0.001), but complication rates (DVT, bleeding, and phlebitis) were similar to the other groups. Return to work time was shortest after NBCA (NBCA 1.04 days, RFA 1.56 days, and EVLA 1.31 days [p<0.001]). VCSS scores at 6 months and 2 years were lower in the NBCA group compared to the other groups (p<0.001). The author concluded there were no observed differences in occlusion rates between the techniques, however NBCA showed lower VCCS, less periprocedural pain, and faster return to work.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+17/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+In 2020, Morrison published results from a 5-year extension study of the VeClose trial. The primary outcome was complete closure of the target vein. A total of 89 of the original 222 participants completed the 60-month visit, which included 47 from the VenaSeal group, 33 from the RFA group, and 9 additional nonrandomized VenaSeal recipients. Between 36 and 60 months of follow-up, no new recanalization events occurred in either group. At study-end, freedom from recanalization in the randomized VenaSeal and RFA groups were 91.4% and 85.2%, respectively and both groups demonstrated sustained improvements in quality-of-life scores. Furthermore, 41.1% of the VenaSeal group and 39.4% of the RFA group were at least two CEAP clinical classes lower than at baseline. No long-term device- or procedure-related serious adverse events occurred in either group between the 36- and 60-month follow-ups. With just 40% of the original study participants remaining, and relatively small numbers within each group for analysis, the outcomes of this trial are promising but limited.
+
+In 2020, Kolluri conducted a network meta-analysis of RCTs comparing 6-month outcomes reported in 20 heterogeneous RCTs evaluating cyanoacrylate adhesion, EVLA, RFA, mechanochemical ablation, sclerotherapy and surgery for the management of chronic venous insufficiency. Only 3 of these 20 RCTS (Morrison, 2015, Morrison, 2017, Gibson, 2018, described above) looked at cyanoacrylate adhesion and then only in comparison to RFA. This analysis does not provide direct evidence of the effect of cyanoacrylate adhesion compared to the other included treatments.
+
+In 2022, The European Society for Vascular Surgery (ESVS) updated their Clinical Practice Guidelines on the Management of Chronic Venous Disease of the Lower Extremities. Regarding CAA treatment, the ESVS made the following recommendation:
+
+# 30 For patients with great saphenous vein incompetence requiring treatment, cyanoacrylate adhesive closure should be considered when a non-thermal non-tumescent technique is preferred. Class IIa-Level A.
+
+The ESVS defined Class II evidence as conflicting evidence and/or a divergence of opinion about the usefulness/efficacy of the given treatment or procedure.
+
+In 2022, O’Banion reported a retrospective, nonrandomized multicenter review of 119 individuals (119 limbs) with CEAP class 6 who had undergone closure of their truncal veins. ClosureFast RFA (n=68) was compared to VenaSeal adhesive closure (n=51). The primary outcome measured was wound healing time from initial vein closure over 105 days. Results demonstrated median time to wound healing post-procedure was shorter for VenaSeal than for RFA (43 vs. 104 days; p=0.001). Two RFA participants developed a post-procedure infection. The ulcer recurrence rate was 19.3% (22.1% for RFA vs. 13.7% for VenaSeal; p=0.025). Limitations of the study included its retrospective design and non-standardized closure protocol. Some individuals had all refluxing truncal veins closed initially, and others had undergone subsequent procedures only if the wounds treated had failed to heal. Additionally, the perforators were only interrogated if the wounds had failed to demonstrate healing at 4 to 6 weeks. Therefore, more individuals treated with RFA had pre-existing perforator reflux before the procedure. The authors concluded that both treatments are effective to eliminate truncal venous insufficiency, and that VenaSeal had superior wound healing time compared to ClosureFast, however further standardization treatment protocols are needed to confirm the results.
+
+Daylan and Islamoglu (2022) completed a retrospective chart review of individuals that had undergone RFA (n=634) or CAA (n=246) to treat saphenous GSV insufficiency. Outcomes measured were preoperative and postoperative CEAP class, symptoms, recurrence, and Doppler ultrasound results. Closure rates at 5 years were 93.1% and 91.1% for RFA and CAA, respectively (p=0.313). The type of ablation did not have significant effects on postoperative symptoms or CEAP class. Study limitations included retrospective design and lack of documentation of periprocedural pain. The authors concluded that both treatment types provided comparable results at 5 years. The authors suggest that CAA might be the best treatment modality, however long-term outcomes and larger series are required to confirm findings.
+
+After reviewing evidence from peer-reviewed medical literature, national physician specialty society recommendations, and the views of medical practitioners practicing in relevant clinical areas, the following procedures are not generally considered clinically appropriate and effective for the treatment of valvular incompetence (reflux) of the great or small saphenous veins, and are not in accordance with generally accepted standards of medical practice:
+
+COMPASS (Comprehensive Objective Mapping, Precise Image-guided Injection, Antireflux Positioning and Sequential Sclerotherapy) Balloon catheter (for example, KAVS procedure) Coil embolization Cyanoacrylate adhesion (for example, VenaSeal Closure System) Endoluminal cryoablation Mechanochemical ablation
+
+Conservative Treatment
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+18/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+Compression therapy is the basic and most frequently used treatment of varicose veins of the lower extremities. However, there has been uncertainty regarding the need for conservative treatment before any intervention for simple varicose veins. While conservative treatments, including compression therapy, will not provide full relief for all individuals, some will receive adequate control of symptoms and thereby avoid the risks of a destructive, irreversible procedure. Michaels (2006) reported results of a randomized trial performed at two large UK hospitals that compared surgery with conservative treatment for uncomplicated varicose veins (n=246). Conservative treatment consisted of lifestyle changes ( exercise, management of weight and diet, leg elevation), and the use of compression hosiery. In the surgical arm of the study, participants received the same lifestyle advice but also underwent surgical treatment. The primary outcome of the study was clinical effectiveness at 1 year, as measured by a quality-of-life questionnaire. There were significant losses to follow- up due to individuals failing to attend or withdrawing from the trial (21 of 122 following conservative treatment and 43 of 124 after surgery). The authors reported a quality-of-life benefit from surgery at 2 years post treatment and benefits were also reported in symptomatic and anatomical measures. Available data indicated that 3 of 65 participants (5%) in the surgical group and 53 of 107 (50%) participants in the conservative treatment group self-reported dissatisfaction of their initial treatment. Limitations of this study included a high dropout rate due to many participants opting to undergo surgical treatment to cosmetically improve their varicose veins, difficulties in follow-up and the potential difficulty of self-assessing one’s own leg symptoms.
+
+Amsler (2008) conducted a meta-analysis of RCTs that compared medical compression stockings exerting an ankle pressure of 10-20 mmHg with placebo or no treatment and with stockings exerting a pressure of more than 20 mmHg. All RCT’s were independently reviewed and 11 fulfilled the predefined criteria. Data were collected from 790 healthy participants exposed to various forms of stress, 552 participants with a chronic venous disorder or chronic venous insufficiency and 141 participants after varicose vein surgery. Overall, compression with 10-20 mmHg had a clear effect on edema and symptoms as compared with <10 mmHg pressure, placebo stockings, or no treatment (p<0.0001). No study showed a difference between 10-20 and >20 mmHg stockings. There were several limitations of the studies used in the meta-analysis including “often poor” reporting standards of trials. Also “much heterogeneity was observed in the assessment techniques.”
+
+The Clinical Practice Guidelines for the Society for Vascular Surgery (SVS) and the American Venous Forum AVF) (Gloviczki, 2011) includes the following recommendations for compression therapy:
+
+We suggest compression therapy using moderate pressure (20-30 mm Hg) for patients with symptomatic varicose veins (GRADE 2C*). We recommend against compression therapy as the primary treatment of symptomatic varicose veins in patients who are candidates for saphenous vein ablation (GRADE 1B*). We recommend compression as the primary therapeutic modality for healing venous ulcers (GRADE 1B). We recommend compression as an adjuvant treatment to superficial vein ablation for the prevention of ulcer recurrence (GRADE 1A*).
+
+See first paragraph of “other considerations” section for GRADE and level of evidence explanations.
+
+Chwala (2015) reported that therapeutic management of chronic venous disease can be based on conservative (medical) or invasive methods. Conservative methods noted by the authors involved the use of the following:
+
+Lifestyle changes (weight loss, exercise, periodic limb elevation, rehabilitation of the ankle joint, avoidance of a standing position and a sitting position with lowered limbs). Compression therapy – using compression bandaging or graduated compression products, when properly selected, effectively reduces edema and pain. However, their tolerance may be problematic, especially in the summer. Pharmacotherapy – phlebotropic drugs, acting primarily by modifying the venous tone, reduce the severity of inflammation and vascular permeability of capillary vessels, which in turn leads to a decrease in pain, symptoms and edema.
+
+In 2021, Shingler conducted a Cochrane review of RCTs to assess the effectiveness of compression stockings for the sole, initial treatment of varicose veins in people without healed or active venous ulcers. A total of 13 studies were chosen for inclusion which included 1021 participants. Authors conclude that there was “insufficient high-certainty evidence to determine whether or not compression stockings are effective as the sole and initial treatment of varicose veins in people without healed or active venous ulceration, or whether any type of stocking is superior to any other type.”
+
+Duplicate GSV
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+19/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+True duplicate GSV systems have been reported; however, this is an uncommon occurrence. The duplicate GSV system will lie in the same plane, parallel to the skin, and run along the aponeurotic deep fascia. These two GSVs will also have the same diameter draining a common cutaneous territory. An anterior accessory vein (AASV) is often mistaken for a duplication of the GSV, but the AASV is usually smaller and does not drain the same cutaneous territory as the GSV. A true duplicate GSV is not an accessory vein and should be treated as any other GSV.
+
+Junctional Incompetence
+
+The location of junctional incompetence will vary based on the individual’s vein anatomy. The termination of the GSV is the saphenofemoral junction (SFJ). GSV disease develops when there is pathologic reflux at this junction. SSV anatomy is more variable. Approximately 2/3 of the time, the SSV terminates in the popliteal vein, and SSV disease then develops when there is pathologic reflux of the saphenopopliteal junction (SPJ). However, the SSV can terminate in the GSV or in accessory veins. Accordingly, the location of pathologic reflux may vary.
+
+Repeat Therapy
+
+While repeat treatment following initial varicose vein therapy is relatively common, a period to allow healing and the full benefit of initial therapy to be realized is both prudent and advisable prior to undergoing further treatment. In most clinical trials, a period of at least 6 weeks elapsed prior to determining success or failure of interventions (Brittenden, 2014; Dijk, 1999; Morrison, 2018; Nandhra; 2015; Paravastu, 2017; Roopram, 2013). As such, 6 weeks is considered an appropriate and conservative amount of time to reevaluate the need for further treatment, at which time continued demonstration of significant disability and discomfort should be established prior to proceeding with additional interventions.
+
+Other Considerations
+
+In 2011, Gloviczki released clinical practice guidelines for the SVS and the AVF. The authors summarized available venous research related to the care of individuals with varicose veins and associated chronic venous diseases. The available evidence was graded by quality and relevance of data. Recommendations were based on the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) system as strong (GRADE 1) if the benefits clearly outweighed the risks, burden, and costs and (GRADE 2) if the benefits closely balanced with risks and burden. The level of available evidence to support the evaluation or treatment was stated to be of high (A), medium (B), or low or very low (C) quality. Key recommendations included:
+
+All patients with varicose veins or more severe chronic venous disease (CVD) being considered for treatment must have a duplex ultrasound scanning of the deep and superficial veins. The GSV, small saphenous vein (SSV) (also known as the lesser saphenous vein [LSV]), anterior accessory of the great saphenous vein (AAGSV) and posterior accessory of the great saphenous vein (PAGSV) incompetence must have a reflux time greater than 500 msec. “Pathologic” perforating veins includes those with outward flow of 500 ms or more, with a diameter of at least 3.5 mm, located beneath a healed or open venous ulcer (GRADE 1B). The clinical, etiology, anatomy, pathological (CEAP) classification is to be used for patients with CVD (GRADE 1A) and the revised Venous Clinical Severity Score is to be used to assess treatment outcome (GRADE 1B). Compression therapy is to be used for patients with symptomatic varicose veins (GRADE 2C), but compression therapy is not recommended as the primary treatment if the patient is a candidate for saphenous vein ablation (GRADE 1B). Compression therapy is to be used as the primary treatment to aid healing of venous ulceration (GRADE 1B). To decrease the recurrence of venous ulcers, ablation of the incompetent superficial veins in addition to compression therapy is recommended (GRADE 1A). For treatment of the incompetent great saphenous vein (GSV), we recommend endovenous thermal ablation (radiofrequency or laser) rather than high ligation and inversion stripping of the saphenous vein to the level of the knee (GRADE 1B). Phlebectomy or sclerotherapy to treat varicose tributaries (GRADE 1B) and suggest foam sclerotherapy as an option for the treatment of the incompetent saphenous vein (GRADE 2C). Selective treatment of perforating vein incompetence in patients with simple varicose veins (CEAP class C2; GRADE 1B) is not recommended, but suggest treatment of pathologic perforating veins (outward flow duration >500 ms, vein diameter >3.5 mm) located underneath healed or active ulcers (CEAP class C5-C6; GRADE 2B). Suggest treatment of pelvic congestion syndrome and pelvic varices with coil embolization, plugs, or transcatheter sclerotherapy, used alone or together (GRADE 2B).
+
+O’Donnell (2014) published clinical practice guidelines for the management of venous leg ulcers. GRADE Recommendations were based on the Grading of Recommendations Assessment, Development, and Evaluation (GRADE)
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+20/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+system as strong (GRADE 1) if the benefits clearly outweighed the risks, burden, and costs and (GRADE 2) if the benefits closely balanced with risks and burden. The level of available evidence to support the evaluation or treatment was stated to be of high (A), medium (B), or low or very low (C) quality. A summary of the operative/endovascular management guidelines includes the following:
+
+Superficial Venous Reflux and Active Venous Leg Ulcer-Ulcer Healing In a patient with a venous leg ulcer (C6) and incompetent superficial veins that have axial reflux directed to the bed of the ulcer, we suggest ablation of the incompetent veins in addition to standard compressive therapy to improve ulcer healing. [GRADE – 2; LEVEL OF EVIDENCE – C] Superficial Venous Reflux and Active Venous Leg Ulcer-Prevent Recurrence In a patient with a venous leg ulcer (C6) and incompetent superficial veins that have axial reflux directed to the bed of the ulcer, we recommend ablation of the incompetent veins in addition to standard compressive therapy to prevent recurrence. [GRADE – 1; LEVEL OF EVIDENCE – B] Superficial Venous Reflux and Healed Venous Leg Ulcer In a patient with a healed venous leg ulcer (C5) and incompetent superficial veins that have axial reflux directed to the bed of the ulcer, we recommend ablation of the incompetent veins in addition to standard compressive therapy to prevent recurrence. [GRADE – 1; LEVEL OF EVIDENCE – C] Superficial Venous Reflux With Skin Changes at Risk for Venous Leg Ulcer (C4b) In a patient with skin changes at risk for venous leg ulcer (C4b) and incompetent superficial veins that have axial reflux directed to the bed of the affected skin, we suggest ablation of the incompetent superficial veins in addition to standard compressive therapy to prevent ulceration. [GRADE – 2; LEVEL OF EVIDENCE – C] Combined Superficial and Perforator Venous Reflux With or Without Deep Venous Reflux and Active Venous Leg Ulcer In a patient with a venous leg ulcer (C6) and incompetent superficial veins that have reflux to the ulcer bed in addition to pathologic perforating veins (outward flow of >500 ms duration, with a diameter of >3.5 mm) located beneath or associated with the ulcer bed, we suggest ablation of both the incompetent superficial veins and perforator veins in addition to standard compressive therapy to aid in ulcer healing and to prevent recurrence. [GRADE – 2; LEVEL OF EVIDENCE – C] Combined Superficial and Perforator Venous Reflux With or Without Deep Venous Disease and Skin Changes at Risk for Venous Leg Ulcer (C4b) or Healed Venous Ulcer (C5) In a patient with skin changes at risk for venous leg ulcer (C4b) or healed venous ulcer (C5) and incompetent superficial veins that have reflux to the ulcer bed in addition to pathologic perforating veins (outward flow of >500 ms duration, with a diameter of >3.5 mm) located beneath or associated with the healed ulcer bed, we suggest ablation of the incompetent superficial veins to prevent the development or recurrence of a venous leg ulcer. [GRADE – 2; LEVEL OF EVIDENCE – C] Treatment of the incompetent perforating veins can be performed simultaneously with correction of axial reflux or can be staged with re-evaluation of perforator veins for persistent incompetence after correction of axial reflux. [GRADE – 2; LEVEL OF EVIDENCE – C] Pathologic Perforator Venous Reflux in the Absence of Superficial Venous Disease, With or Without Deep Venous Reflux, and a Healed or Active Venous Ulcer In a patient with isolated pathologic perforator veins (outward flow of >500 ms duration, with a diameter of >3.5 mm) located beneath or associated with the healed (C5) or active ulcer (C6) bed regardless of the status of the deep veins, we suggest ablation of the “pathologic” perforating veins in addition to standard compression therapy to aid in venous ulcer healing and to prevent recurrence. [GRADE – 2; LEVEL OF EVIDENCE – C] Treatment Alternatives for Pathologic Perforator Veins For those patients who would benefit from pathologic perforator vein ablation, we recommend treatment by percutaneous techniques that include ultrasound-guided sclerotherapy or endovenous thermal ablation (radiofrequency or laser) over open venous perforator surgery to eliminate the need for incisions in areas of compromised skin. [GRADE – 1; LEVEL OF EVIDENCE – C]
+
+In 2016, the AVLS issued practice guidelines for the treatment of superficial venous disease of the lower leg. Their document was based on recommendations in the Gloviczki paper, other current studies, and “consensus of experts where the evidence based research is sparse yet the therapy is considered standard of care.” Grading recommendations used in the guidelines according to evidence: 1A-Strong recommendation, high-quality evidence; 1B-Strong recommendation, moderate quality evidence; 1C-Strong recommendation, low quality or very low-quality evidence; 2A-Weak recommendation, high-quality evidence; 2B-Weak recommendation, moderate-quality evidence; 2C-Weak recommendation, low-quality or very low-quality evidence. Recommendations/suggestions (2A or better) made by the AVLS consist of the following:
+
+Indications for Treatment
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+21/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+Compression therapy is an effective method for the management of symptoms related to superficial disease, but it does not correct the source of reflux. When patients have a correctable source of reflux definitive treatment should also be offered unless it is contraindicated or unwanted. GRADE 1A We recommend against compression therapy as a prerequisite therapy for symptomatic venous reflux disease when other definitive treatments such as endovenous ablation are appropriate. GRADE 1A Indications for treatment include pain or other discomfort (i.e., aching, heaviness, fatigue, soreness, burning), edema, varix hemorrhage, recurrent superficial phlebitis, stasis dermatitis, or ulceration. We recommend patients should be evaluated using the CEAP classification and the Venous Clinical Severity Score (VCSS). We would define medically necessary as a CEAP classification of C2 or higher. GRADE 1A
+
+In addition
+
+We recommend all patients being considered for treatment must have a duplex ultrasound of the superficial venous system and at a minimum, evaluation of the common femoral vein and popliteal vein for patency and competence. The exam should ideally be done in the standing position. Grade 1A We suggest all noninvasive vascular diagnostic studies be performed by a qualified physician or by a qualified technologist under the general supervision of a qualified physician. GRADE 1C We recommend that named veins ((Great Saphenous Vein (GSV), Small Saphenous Vein (SSV), Anterior Accessory of the Great Saphenous Vein (AAGSV), Posterior Accessory of the Great Saphenous Vein (PAGSV ), Intersaphenous Vein (Vein of Giacomini)) must have a reflux time > 500 msec regardless of the reported vein diameter. GRADE 1A
+
+Treatment of Named Saphenous Veins
+
+We recommend endovenous thermal ablation (laser and radiofrequency) is the preferred treatment for saphenous and accessory saphenous (GSV, SSV, AAGSV, PAGSV) vein incompetence. GRADE 1B We recommend open surgery is appropriate in veins not amenable to endovenous procedures but otherwise is not recommended because of increased pain, convalescent time, and morbidity. GRADE 1B We recommend when open surgery of the small saphenous vein is per formed it include high ligation and selective invagination of the proximal portion. GRADE 1B
+
+Treatment of Circumflex Veins and Other Non-Truncal Veins
+
+The treatment of other non-truncal, tributary varicose vein reflux (circumflex veins anterior and posterior thigh) is more complex. The medical record should reflect that these veins are incompetent, and note their size, presence or absence of tortuosity, and depth relationship to the skin, for example accessible or not accessible by phlebectomy. We recommend varicose (visible) symptomatic tributary veins can be treated by stab phlebectomy, liquid sclerotherapy or foam chemical ablation. GRADE 1B We recommend (non-visible) symptomatic tributary veins be treated by ultrasound guided liquid sclerotherapy or foam chemical ablation. GRADE 1B
+
+Pavlovic (2014) published guidelines developed from a 2012 European consensus conference on endovenous thermal ablation for varicose vein disease under auspices of the International Union of Phlebology (IUP). The guidelines reported absolute and relative contraindications (GRADE 1C [strong recommendation, low quality or very low quality evidence]) which included the following:
+
+Absolute contraindications:
+
+Acute deep vein thrombosis (DVT), Acute superficial phlebitis, Acute infections at puncture sites (infection should be treated first), Deep venous obstruction if the vein to be treated is a functional collateral.
+
+Technical issues, which may be viewed as relative contraindications:
+
+Tortuous vein difficult to catheterize, Diameter of the vein at the accessing segment <3mm (may be difficult to puncture and pass the catheter), Partly occluded venous segment (intraluminal webs, thrombosed or hypoplastic), Vein segment to be treated shorter than necessary for catheter placement.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+22/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+Relative contraindications (not an all-inclusive list): Careful risk/benefits evaluated, and any modifications clinically indicated are considered, and discussed and agreed with the patient.
+
+Immobile or hardly ambulating patients (a relative contraindication – if low-molecular-weight heparin [LMWH] prophylaxis is given it is a safe procedure even in this setting [the experts’opinion]), Pregnancy, Uncontrolled severe diseases.
+
+The authors also recommended consideration of the following side effects and complications: Side effects and minor complications
+
+Pain Bruising (ecchymosis) Erythema Hematoma Hyperpigmentation Paresthesias (hypo, hyper) Tender (phlebitis) or non-tender palpable treated vessel (most commonly thigh GSV) Infection Telangiectatic matting
+
+Major complications
+
+DVT and/or pulmonary embolism Arterial damage including arteriovenous fistulas (very rarely reported) Severe nerve damage (very rarely reported) Skin burns (seen almost exclusively in patients treated without tumescence) Infection Fiber breakage during EVLA Stroke (a single case reported after EVLA)
+
+In 2017, the Agency for Healthcare Research and Quality (AHRQ) published a technology assessment Treatment Strategies for Patients with Lower Extremity Chronic Venous Disease (LECVD). The assessment findings concluded the evidence regarding treatment of LECVD is limited by study heterogeneity which compares multiple treatment techniques and measures varied outcomes with disparate timelines of the assessed outcomes. Additionally, participant-reported outcomes were infrequently measured despite the AVF guidelines Class 1B recommendations. The AHRQ stated that endovenous interventional therapies have not been evaluated rigorously, and very few studies on conservative measures (for example, lifestyle modification, compression therapy, exercise training) exist in the literature. The AHRQ stated due to study heterogeneity, conclusions about outcomes are uncertain and additional well controlled studies are needed.
+
+In 2020, the AVF, the SVS, the AVLS, and the Society of Interventional Radiology (SIR) published a joint appropriate use criteria for chronic lower extremity venous disease based on panel consensus, not a systematic review of the evidence. The criteria are intended “to serve as a guide to patient care, particularly in areas where high quality evidence is lacking to aid clinicians in making day-to-day decisions for common venous interventions.” In it, are appropriateness criteria for saphenous vein ablation, management decisions for diseased tributaries associated with saphenous ablation, and for the treatment of perforator veins (Masuda, 2020).
+
+In 2022 the SVS, AVF, and AVLS Society updated the 2011 SVS/AVF clinical practice guidelines (Part 1). The guidelines include recommendations for the evaluation of individuals with CEAP class 2 varicose vein using duplex ultrasound scanning and other diagnostic tests, ligation and stripping versus endovenous ablation techniques, thermal versus nonthermal ablation of the superficial truncal veins, and management of incompetent perforating veins in CEAP class 2 disease. The group also published recommendations for concomitant versus staged treatment of varicose tributaries, using phlebectomy or liquid or foam sclerotherapy for individuals undergoing ablation of incompetent superficial truncal veins. Recommendations were based on the GRADE system. Key recommendations included:
+
+For patients with chronic venous disease of the lower extremities, we recommend duplex ultrasound scanning as the diagnostic test of choice to evaluate for venous reflux, Grade 1B. For patients with symptomatic varicose veins and axial reflux in the great or small saphenous vein, who are candidates for intervention, we recommend superficial venous intervention over long-term compression stockings, Grade 1B.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+23/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+For patients with symptomatic varicose veins and axial reflux in the great saphenous vein, who are candidates for intervention, we recommend treatment with endovenous ablation over high ligation and stripping of the great saphenous vein because of less post-procedure pain and morbidity and an earlier return to regular activity, Grade 1B. For patients with symptomatic axial reflux of the great saphenous vein, we recommend both thermal and nonthermal ablation from the groin to below the knee, depending on the available expertise of the treating physician and the preference of the patient, Grade 1B. For patients with symptomatic axial reflux of the small saphenous vein, we recommend both thermal and nonthermal ablation from the knee to the upper or mid-calf, depending on the available expertise of the treating physician and the preference of the patient, Grade 1C. For patients with varicose veins (CEAP class C2) who have significant, symptomatic axial reflux of the great or small saphenous vein, we recommend against treatment of incompetent perforating veins concomitant with initial ablation of the superficial truncal veins, Grade 1C. For patients with symptomatic reflux in the great or small saphenous vein and associated varicosities, we recommend ablation of the refluxing venous trunk and concomitant phlebectomy or ultrasound guided foam sclerotherapy of the varicosities with physician-compounded foam or commercial polidocanol endovenous microfoam, Grade 1C.
+
+In 2023 the SVS, AVF, and AVLS updated clinical practice guidelines for the management of varicose veins of the lower extremities (Part II). This guidelines focused on the prevention and management of varicose vein with compression, treatment with drugs and nutritional supplements, evaluation and treatment of varicose tributaries, and superficial venous aneurysms, and on the management of complications of varicose veins and their treatment. All guidelines were based on systematic reviews, and were graded according to the level of evidence and the strength of recommendations, using the GRADE method. Additionally, their Consensus Statements were supported by literature review and the unanimous agreement of an expert, multidisciplinary panel. Notably, Ungraded Good Practice statements are supported only by indirect evidence.
+
+Guideline recommendations updates relative to document scope include the following:
+
+5.1.1. In symptomatic patients with C2 disease we suggest against using truncal vein diameter to determine which patients need venous ablation 2 (weak) B (moderate) 10.1.1. For patients with varicose veins (CEAP class C2) who have significant, symptomatic axial reflux of the GSV or SSV, we recommend against treatment of incompetent perforating veins concomitant with initial ablation of the saphenous veins. 1 (strong) C (low to very low) 10.1.2. For patients with varicose veins (CEAP class C2) who have significant, symptomatic axial reflux of the AAGSV or PAGSV, we suggest against treatment of incompetent perforating veins concomitant with initial ablation of the superficial truncal veins. 2 (weak) C (low to very low)
+
+Consensus statement:
+
+10.2. For patients with incompetent pathologic perforators associated with symptomatic residual, recurrent, and rarely primary varicosities, without associated saphenous incompetence, either open or endovascular techniques can be used to treat the perforator veins.
+
+In 2022, the ESVS updated the Clinical Practice Guidelines on the Management of Chronic Venous Disease of the Lower Extremities. The ESVS used a classification system for their key recommendations regarding treatment techniques:
+
+Class I evidence is defined as evidence and or general agreement that a given treatment or procedure is beneficial useful, and effective. Class II evidence is defined as conflicting evidence and/or a divergence of opinion about the usefulness/efficacy of the given treatment or procedure.
+
+IIa – the weight of evidence or opinion is in favor of usefulness and efficacy or IIb- the usefulness/efficacy is less well established by evidence/opinion
+
+Class III evidence is defined as evidence or general agreement that the given treatment or procedure is not useful/effective, and in some case may be harmful.
+
+Level A evidence is data from multiple randomized clinical trial or meta-analysis. Level B evidence is data derived from either a single randomized trial or large non-randomized studies.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+24/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+Level C evidence is consensus of experts opinion and/or small studies, retrospective studies, and registries.
+
+The 2022, ESVS interventional recommendations includes:
+
+# 29 For patients with saphenous trunk incompetence undergoing thermal ablation, the selection of the device should be left to the discretion of the treating physician, Class I- level B. # 30 For patients with great saphenous vein incompetence requiring treatment, cyanoacrylate adhesive closure should be considered when a non-thermal non-tumescent technique is preferred, Class IIa-level A. # 31 For patients with saphenous trunk incompetence undergoing treatment, ultrasound guided foam sclerotherapy may be considered for treating saphenous trunks with a diameter less than 6 mm, Class IIb- level B. # 32 For patients with superficial venous incompetence treated with foam sclerotherapy, the procedure should be performed under ultrasound guidance, Class I- level C. # 33 For patients with great saphenous vein incompetence requiring treatment, catheter directed foam sclerotherapy with or without the use of peri-venous tumescent solution may be considered, Class IIb-level B. # 34 For patients with great saphenous vein incompetence requiring treatment, mechanochemical ablation may be considered when a non-thermal non-tumescent technique is preferred, Class IIb- level A. #35 For patients with great saphenous vein incompetence requiring treatment, high ligation/stripping should be considered, if endovenous thermal ablation options are not available, Class IIa-level A. # 36 For patients with chronic venous disease requiring treatment of varicose tributaries, ambulatory phlebectomy, ultrasound guided foam sclerotherapy or a combination of both are recommended, Class I-level B. #37 For patients with chronic venous disease requiring treatment of incompetent perforating veins, endovenous ablation, division or ligation should be considered, IIa-level C. # 38 For patients presenting with reticular veins and/or telangiectasias, duplex ultrasound of lower extremity veins should be performed before treatment, to look for associated incompetent veins, Class I- level C. # 39 For patients presenting with reticular veins and/or telangiectasias, significant associated incompetent veins should be treated first, before considering treatment of smaller veins, Class I- level C. # 40 For patients with reticular veins, where treatment is planned, sclerotherapy is recommended, as the first choice treatment, Class I- level A. # 41 For patients with telangiectasias, where treatment is planned, sclerotherapy should be considered, Class IIa- level A. #43 For patients with small saphenous vein incompetence requiring treatment, endovenous thermal ablation is recommended in preference to surgery or foam sclerotherapy, Class I -level A. # 44 For patients with small saphenous vein incompetence requiring treatment, endovenous non-thermal nontumescent ablation methods may be considered, Class II -level B. # 45 For patients with small saphenous vein incompetence treated by endovenous thermal ablation, care should be taken to avoid injury to the sural nerve if cannulation is carried out below midcalf level, Class I- level B. # 46 For patients with incompetence of the anterior accessory saphenous vein requiring treatment, endovenous thermal ablation should be considered, Class IIa-level C. # 47 For patients with incompetence of the anterior accessory saphenous vein requiring treatment, ultrasound guided foam sclerotherapy may be considered, Class IIb-level C.
+
+Conclusion
+
+In summary, data suggests that therapeutic management of varicose veins with a variety of treatment modalities is associated with symptomatic improvement under specific circumstances. Treatment of varicose veins normalize venous hemodynamics and remove visible varices in order to relieve symptoms, prevent recurrence and minimize the complications (Pavlović, 2015). However, consideration of the potential procedural risks, contraindications, and technical issues, should be taken prior to treatment initiation.
+
+Definitions
+
+Anterior accessory saphenous vein (AASV), also known as the Anterior saphenous vein (ASV) (AVL, 2024): A major truncal superficial vein lateral to the great saphenous vein that is above the saphenous fascia.
+
+Anti-embolism hose (also called elastic stockings or compression stockings): A type of stocking worn to prevent the formation of blood clots in the legs (thromboses); assisting in the return flow of the blood to the heart, and prevention of pooling in the veins; there are three support grades of prescription hose; mild to severe support (15-20, 20-30, 30-40 mmHg) which are generally used to assist with a medical condition and light support (8-15 mmHg) that may be used as a preventive measure.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+25/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+Arteriovenous fistulae: A condition where a vein and artery are directly connected without the usual intervening small vessels.
+
+Catheter ablation: A technique involving the application of either radiofrequency or laser energy through an endovenous catheter for the purpose of ablating varicose vein tissue of the GSV or SSV; this does not include the “closure” or ablation of a vein using the injection of a sclerosing agent through a hollow catheter.
+
+CEAP (clinical, etiology, anatomy, pathological) classification: A descriptive classification for chronic venous disorders. Used for the classification of varicose veins.
+
+CEAP Description 1. Clinical classification C0 No visible or palpable signs of venous disease C1 Telangiectases or reticular veins C2 Varicose veins C3 Edema C4 Changes in skin and subcutaneous tissue secondary to CVD C4a Pigmentation or eczema Cb Lipodermatosclerosis and/or atrophie blanche C4c Corona phlebectatica C5 Healed venous ulcer C6 Active venous ulcer C6r Recurrent active venous ulcer CS Symptoms, including ache, pain, tightness, skin irritation, heaviness, muscle cramps, as well as other complaints attributable to venous dysfunction CA Asymptomatic 2. Etiologic classification Ec Congenital Ep Primary Es Secondary Es Secondary - intravenous Es Secondary – extravenous En No venous etiology identified 3. Anatomic classification As Superficial veins Ap Perforator veins Ad Deep veins An No venous location identified 4. Pathophysiologic classification Pr Reflux Po Obstruction Pr,o Reflux and obstruction Pn No venous pathophysiology identifiable
+
+Adapted from Lurie, 2020.
+
+Coaptation: Joining or fitting together, as of the ends of a broken bone or the edges of a wound.
+
+Junctional reflux: Reflux at either the saphenofemoral junction (SFJ [confluence of the Great Saphenous Vein and the femoral vein] or the saphenopopliteal junction (SPJ [confluence of the Small Saphenous Vein and the popliteal vein]).Perforator veins: Connect the superficial veins to the deep veins.
+
+Mechanochemical ablation: A modality of treatment that utilizes both sclerotherapy and a motor driven wire to damage the vein lumen. An ultrasound guided catheter is inserted into the distal end of the target vein and advanced until it reaches the saphenofemoral junction. As the catheter is pulled back, the wire rotates and a liquid sclerosant (sodium tetradecyl sulfate) is infused near the rotating wire.
+
+PhotoDerm: A pulsed laser light treatment to aesthetically treat a specific area of leg telangiectasis.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+26/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+Reticular vein: Dilated bluish subdermal vein, generally 1 mm to less than 3 mm in diameter and usually tortuous. Synonyms include blue veins, subdermal varices and telangiectasia.
+
+Saphenofemoral reflux: A backflow of blood in the veins causing varicose vein symptoms and bulging.
+
+Saphenous vein: A vein that serves as the principal blood vessel returning blood from the surface of the leg back to the trunk.
+
+Sclerotherapy: A treatment for varicose veins in which a chemical is injected into the vein causing the vein to shrink and close.
+
+Stasis dermatitis: A condition caused by too little circulation in the legs; it begins with swelling of the ankles and progresses to tan-colored skin, patchy reddening, tiny, round, purplish-red spots, and hardening of the skin.
+
+Subfascial: Below the fascia; fascia is a strong connective tissue that performs a number of functions, including surrounding and providing structural support within the body.
+
+Telangiectasia: Dilated superficial blood vessels, especially of the upper reticular dermal plexus.
+
+Thrombophlebitis: Inflammation of a vein, along with the formation of a clot; this occurs most commonly as the result of injury to the vessel wall, abnormal increased clotting capacity of the blood (hypercoagulability), infection, or a chemical irritation.
+
+Tributary vein: A superficial vein branch that flows into larger veins.
+
+Truncal veins: Major veins within the superficial venous system which include the great saphenous vein (GSV), small saphenous vein, anterior accessory saphenous vein (AASV)/anterior saphenous vein (ASV) and the Giacomini vein.
+
+Truncal vein incompetence: Reflux with retrograde flow of 0.5 second duration or greater in the GSV, AAGSV/ASV, or SSV.
+
+Varicose vein or varicosity: Veins that are abnormally swollen or enlarged due to weakening in the vein's wall. Measured in an upright position they are 3 mm in diameter or greater.
+
+Venous insufficiency: An abnormal circulatory condition marked by decreased return of venous blood from the legs to the trunk of the body.
+
+Venous reflux: Malfunctioning venous valves lead to reversal of blood flow through the valves during standing or sitting.
+
+Venous severity score: A score used for the assessment of clinical outcomes after therapy for varicose veins and more advanced chronic venous disease.
+
+References
+
+Peer Reviewed Publications:
+
+1. Aherne TM, Ryan ÉJ, Boland MR, et al. Concomitant vs. staged treatment of varicose tributaries as an adjunct to endovenous ablation: a systematic review and meta-analysis. Eur J Vasc Endovasc Surg. 2020; 60(3):430-442. 2. Amsler F, Blättler W. Compression therapy for occupational leg symptoms and chronic venous disorders - a meta-
+
+analysis of randomised controlled trials. Eur J Vasc Endovasc Surg. 2008; 35(3):366-372.
+
+3. Aurshina A, Ascher E, Victory J, et al. Clinical correlation of success and acute thrombotic complications of lower
+
+extremity endovenous thermal ablation. J Vasc Surg Venous Lymphat Disord. 2018; 6(1):25-30.
+
+4. Ay Y, Gunes E, Turkkolu ST, et al. Comparative efficacy and life quality effects of surgical stripping, radiofrequency ablation, and cyanoacrylate embolization in patients undergoing treatment for great saphenous vein insufficiency. Phlebology. 2021; 36(1):54-62.
+
+5. Bacon JL, Dinneen AJ, March P, et al. Five-year results of incompetent perforator vein closure using TRans-
+
+Luminal Occlusion of Perforator. Phlebology. 2009; 24(2):74-78.
+
+6. Barker T, Evison F, Benson R, Tiwari A. Risk of venous thromboembolism following surgical treatment of superficial
+
+venous incompetence. Vasa. 2017; 46(6):484-489.
+
+7. Belcaro G, Cesarone MR, De Renzo A, et al. Foam-sclerotherapy, surgery, sclerotherapy, and combined treatment for varicose veins: a 10 year, prospective, randomized, controlled trial (VEDICO trial). Angiology. 2003; 54(3):307- 315.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+27/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+8. Bellam Premnath K, Joy B, Raghavendra VA, et al. Cyanoacrylate adhesive embolization and sclerotherapy for
+
+primary varicose veins. Phlebology. 2018; 33(8):547-557.
+
+9. Beteli CB, Rossi FH, de Almeida BL, et al. Prospective, double-blind, randomized controlled trial comparing
+
+electrocoagulation and radiofrequency in the treatment of patients with great saphenous vein insufficiency and lower limb varicose veins. J Vasc Surg Venous Lymphat Disord. 2018. 6(2):212-219.
+
+10. Biemans AA, Kockaert M, Akkersdijk GP, et al. Comparing endovenous laser ablation, foam sclerotherapy, and
+
+conventional surgery for great saphenous varicose veins. J Vasc Surg. 2013; 58(3):727-734.
+
+11. Bissacco D, Stegher S, Calliari FM, Viani MP. Saphenous vein ablation with a new cyanoacrylate glue device: a
+
+systematic review on 1000 cases. Minim Invasive Ther Allied Technol. 2019; 28(1):6-14.
+
+12. Bishawi M, Bernstein R, Boter M, et al. Mechanochemical ablation in patients with chronic venous disease: a
+
+prospective multicenter report. Phlebology. 2013; 29(6):397-400.
+
+13. Bountouroglou DG, Azzam M, Kakkos SK, et al. Ultrasound-guided foam sclerotherapy combined with sapheno-
+
+femoral ligation compared to surgical treatment of varicose veins: early results of a randomized controlled trial. Eur J Vasc Endovasc Surg. 2006; 31(1):93-100.
+
+14. Brittenden J, Cooper D, Dimitrova M, et al. Five-year outcomes of a randomized trial of treatments for varicose
+
+veins. N Engl J Med. 2019; 381(10):912-922.
+
+15. Brittenden J, Cotton SC, Elders A, et al. A randomized trial comparing treatments for varicose veins. N Engl J Med.
+
+2014; 371(13):1218-1227.
+
+16. Bozkurt AK, Yılmaz MF. A prospective comparison of a new cyanoacrylate glue and laser ablation for the treatment
+
+of venous insufficiency. Phlebology. 2016; 31(1 Suppl):106-113.
+
+17. Bush RG, Hammond K. Treatment of incompetent vein of Giacomini (thigh extension branch). Ann Vasc Surg.
+
+2007; 21(2):245-248.
+
+18. Bush RG, Bush P, Flanagan J, et al. Factors associated with recurrence of varicose veins after thermal ablation:
+
+results of the recurrent veins after thermal ablation study. Scientific World Journal. 2014; 2014:505843.
+
+19. Çalık ES, Arslan Ü, Erkut B. Ablation therapy with cyanoacrylate glue and laser for refluxing great saphenous veins
+
+a prospective randomised study. Vasa. 2019; 48(5):405-412.
+
+20. Casana R, Tolva VS, Odero A, et al. Three-year follow-up and quality of life of endovenous radiofrequency ablation of the great saphenous vein with the ClosureFast™ procedure: Influence of BMI and CEAP class. Vascular. 2018; 26(5):498-508.
+
+21. Cirocchi R, Henry BM, Rambotti M, et al. Systematic review and meta-analysis of the anatomic variants of the
+
+saphenofemoral junction. J Vasc Surg Venous Lymphat Disord. 2019; 7(1):128-138.
+
+22. Chaar CI, Hirsch SA, Cwenar MT, et al. Expanding the role of endovenous laser therapy: results in large diameter
+
+saphenous, small saphenous, and anterior accessory veins. Ann Vasc Surg. 2011; 25(5):656-661.
+
+23. Cheshire N, Elias SM, Keagy B, et al. Powered phlebectomy (TriVex) in treatment of varicose veins. Ann Vasc
+
+Surg. 2002; 16(4):488-494.
+
+24. Chwała M, Szczeklik W, Szczeklik M, et al. Varicose veins of lower extremities, hemodynamics and treatment
+
+methods. Adv Clin Exp Med. 2015; 24(1):5-14.
+
+25. Crawford JM, Gasparis A, Almeida J, et al. A review of United States endovenous ablation practice trends from the Medicare Data Utilization and Payment Database. J Vasc Surg Venous Lymphat Disord. 2019; 7(4):471-479. 26. Crawford JM, Gasparis A, Amery S, Labropoulos N. Treatment pattern of consecutive patients with chronic venous
+
+disease. J Vasc Surg Venous Lymphat Disord. 2019; 7(3):344-348.
+
+27. Darvall KA, Bate GR, Bradbury AW. Patient-reported outcomes 5-8 years after ultrasound-guided foam
+
+sclerotherapy for varicose veins. Br J Surg. 2014; 101(9):1098-1104.
+
+28. Darwood RJ, Theivacumar N, Dellagrammaticas D, et al. Randomized clinical trial comparing endovenous laser
+
+ablation with surgery for the treatment of primary great saphenous varicose veins. Br J Surg. 2008; 95(3):294-301. 29. Daylan A, Islamoglu F. Comparative analysis of the results of cryanoacrylate ablation and radiofrequency ablation
+
+in the treatment of venous insufficiency. J Vasc Surg Venous and Lymphat Disord. 2021; 10(3):661-668.
+
+30. De Maeseneer MG, Kakkos SK, Aherne T, Baekgaard N, et al. Editor's choice - European Society for Vascular
+
+Surgery (ESVS) 2022 clinical practice guidelines on the management of chronic venous disease of the lower limbs. Eur J Vasc Endovasc Surg. 2022; 63(2):184-267.
+
+31. Deak ST. Retrograde administration of ultrasound-guided endovenous microfoam chemical ablation for the treatment of superficial venous insufficiency. J Vasc Surg Venous Lymphat Disord. 2018; 6(4):477-484.
+
+32. Dos Santos JB, Júnior WC, Porta RM, et al. Catheter-directed foam sclerotherapy with tumescence of the great saphenous vein versus ultrasound-guided foam sclerotherapy: A randomized controlled trial. Phlebology. 2020; 35(2):84-91.
+
+33. Eklöf B, Rutherford RB, Bergan JJ, et al.; American Venous Forum International Ad Hoc Committee for Revision of the CEAP Classification. Revision of the CEAP classification for chronic venous disorders: consensus statement. J Vasc Surg. 2004; 40(6):1248-1252.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+28/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+34. Elias S, Peden E. Ultrasound-guided percutaneous ablation for the treatment of perforating vein incompetence.
+
+Vascular. 2007; 15(5):281-291.
+
+35. Elias S, Raines JK. Mechanochemical tumescentless endovenous ablation: final results of the initial clinical trial.
+
+Phlebology. 2012; 27(2):67-72.
+
+36. El Kilic H, Bektas N, Bitargil M, et al. Long-term outcomes of endovenous laser ablation, n-butyl cyanoacrylate, and radiofrequency ablation for treatment of chronic venous insufficiency. J Vasc Surg Venous Lymphat Disord. 2021; 10(4):865-871
+
+37. Eroglu E, Yasim A. A randomised clinical trial comparing N-Butyl cyanoacrylate, radiofrequency ablation and
+
+endovenous laser ablation for the treatment of superficial venous incompetence: two year follow up results. Eur J Vasc Endovasc Surg. 2018; 56(4):553-560.
+
+38. García-Carpintero E, Carmona M, Chalco-Orrego JP, et al. Systematic review and meta-analysis of endovenous cyanoacrylate adhesive ablation for incompetent saphenous veins. J Vasc Surg Venous Lymphat Disord. 2020; 8(2):287-296.
+
+39. Gibson K, Ferris B. Cyanoacrylate closure of incompetent great, small and accessory saphenous veins without the use of post-procedure compression: Initial outcomes of a post-market evaluation of the VenaSeal System (the WAVES Study). Vascular. 2017a; 25(2):149-156.
+
+40. Gibson KD, Ferris BL, Pepper D. Endovenous laser treatment of varicose veins. Surg Clin North Am. 2007;
+
+87(5):1253-1265.
+
+41. Gibson K, Kabnick L.; Varithena® 013 Investigator Group. A multicenter, randomized, placebo-controlled study to evaluate the efficacy and safety of Varithena® (polidocanol endovenous microfoam 1%) for symptomatic, visible varicose veins with saphenofemoral junction incompetence. Phlebology. 2017b; 32(3):185-193.
+
+42. Gibson K, Minjarez R, Gunderson K, Ferris B. Need for adjunctive procedures following cyanoacrylate closure of incompetent great, small and accessory saphenous veins without the use of postprocedure compression: Three- month data from a postmarket evaluation of the VenaSeal System (the WAVES Study). Phlebology. 2019; 34(4):231-237.
+
+43. Gibson K, Morrison N, Kolluri R, et al. Twenty-four month results from a randomized trial of cyanoacrylate closure versus radiofrequency ablation for the treatment of incompetent great saphenous veins. J Vasc Surg Venous Lymphat Disord. 2018; 6(5):606-613.
+
+44. Gohel MS, Heatley F, Liu X, et al. A randomized trial of early endovenous ablation in venous ulceration. N Engl J
+
+Med. 2018; 378:2105-2114.
+
+45. Gohel MS, Mora MSc J, Szigeti M, et al. Long-term clinical and cost-effectiveness of early endovenous ablation in
+
+venous ulceration: a randomized clinical trial. JAMA Surg. 2020; 155(12):1113-1121.
+
+46. Goode SD, Kuhan G, Altaf N, et al. Suitability of varicose veins for endovenous treatment. Cardiovasc Intervent
+
+Radiol. 2009; 32(5):988-991.
+
+47. Hamann SAS, Giang J, De Maeseneer MGR, et al. Editor's choice - Five year results of great saphenous vein
+
+treatment: A meta-analysis. Eur J Vasc Endovasc Surg. 2017; 54(6):760-770.
+
+48. Hamann SAS, Timmer-de Mik L, Fritschy WM, et al. Randomized clinical trial of endovenous laser ablation versus direct and indirect radiofrequency ablation for the treatment of great saphenous varicose veins. Br J Surg. 2019; 106(8): 998-1004.
+
+49. Hamann SAS, van der Velden SK, De Maeseneer MGR. Safety and effectiveness of endovenous thermal ablation
+
+for incompetent saphenous veins with an aneurysm close to the junction. Eur J Vasc Endovasc Surg. 2019; 58(2):244-248.
+
+50. He G, Zheng C, Yu MA, Zhang H. Comparison of ultrasound-guided endovenous laser ablation and radiofrequency
+
+for the varicose veins treatment: An updated meta-analysis. Int J Surg. 2017; 39:267-275.
+
+51. Holewijn S, van Eekeren RRJP, Vahl A, et al. Two-year results of a multicenter randomized controlled trial
+
+comparing mechanochemical endovenous ablation to radiofrequency ablation in the treatment of primary great saphenous vein incompetence (MARADONA trial). J Vasc Surg Venous Lymphat Disord. 2019 May; 7(3):364-374.
+
+52. Kahle B, Leng K. Efficacy of sclerotherapy in varicose veins – prospective, blinded, placebo-controlled study.
+
+Dermatol Surg. 2004; 30(5):723-738.
+
+53. Kemaloğlu C. Saphenous vein diameter is a single risk factor for early recanalization after endothermal ablation of
+
+incompetent great saphenous vein. Vascular. 2019; (5):537-541.
+
+54. Kempeneers AC, Bechter-Hugl B, Thomis S, et al. A prospective multicenter randomized clinical trial comparing
+
+endovenous laser ablation, using a 1470 nm diode laser in combination with a Tulip-TipTM fiber versus radiofrequency (Closure FAST™ VNUS®), in the treatment of primary varicose veins. Int Angiol. 2022; 14(4):322- 331.
+
+55. Keohane CR, Westby D, Twyford M et al. Axial Ablation versus Terminal Interruption of the Reflux Source
+
+(AAVTIRS): a randomised controlled trial. Vasc Endovascular Surg. 2024; 58(8):805-812.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+29/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+56. King JT, O'Byrne M, Vasquez M, Wright D.; VANISH-1 Investigator Group. Treatment of truncal incompetence and varicose veins with a single administration of a new polidocanol endovenous microfoam preparation improves symptoms and appearance. Eur J Vasc Endovasc Surg. 2015; 50(6):784-793.
+
+57. Klem TM, Schnater JM, Schütte PR, et al. A randomized trial of cryo stripping versus conventional stripping of the
+
+great saphenous vein. J Vasc Surg. 2009; 49(2):403-409.
+
+58. Kockaert M, de Roos KP, van Dijk L, et al. Duplication of the great saphenous vein: a definition problem and
+
+implications for therapy. Dermatol Surg. 2012; 38(1):77-82.
+
+59. Kolluri R, Chung J, Kim S, et al. Network meta-analysis to compare VenaSeal with other superficial venous
+
+therapies for chronic venous insufficiency. J Vasc Surg Venous Lymphat Disord. 2020; 8(3):472-481.
+
+60. Lawaetz M, Serup J, Lawaetz B, et al. Comparison of endovenous ablation techniques, foam sclerotherapy and surgical stripping for great saphenous varicose veins. Extended 5-year follow-up of a RCT. Int Angiol. 2017; 36(3):281-288.
+
+61. Leopardi D, Hoggan BL, Fitridge RA, et al. Systematic review of treatments for varicose veins. Ann Vasc Surg.
+
+2009; 23(2):264-276.
+
+62. Lim SY, Tan JX, D'Cruz RT, et al. Catheter-directed foam sclerotherapy, an alternative to ultrasound-guided foam
+
+sclerotherapy for varicose vein treatment: a systematic review and meta-analysis. Phlebology. 2020; 35(6):369- 383.
+
+63. Liu ZX, Guo PM, Zhang LL, et al. Efficacy of endovenous laser treatment combined with sclerosing foam in treating
+
+varicose veins of the lower extremities. Adv Ther. 2019; 36(9):2463-2474.
+
+64. Luebke T, Brunkwall J. Meta-analysis of subfascial endoscopic perforator vein surgery (SEPS) for chronic venous
+
+insufficiency. Phlebology. 2009; 24(1):8-16.
+
+65. Luebke T, Brunkwall J. Meta-analysis of transilluminated powered phlebectomy for superficial varicosities. J
+
+Cardiovasc Surg. 2008; 49(6):757-764.
+
+66. Lurie F, Creton D, Eklof B, et al. Prospective randomized study of endovenous radiofrequency obliteration (closure)
+
+versus ligation and vein stripping (EVOLVeS Study): two-year follow-up. Eur J Vasc Endovasc Surg. 2005; 29(1):67-73.
+
+67. Malskat WS, Engels LK, Hollestein LM, et al. Commonly used endovenous laser ablation (EVLA) parameters do
+
+not influence efficacy: results of a systematic review and meta-analysis. Eur J Vasc Endovasc Surg. 2019; 58(2):230-242.
+
+68. Mann M, Wang P, Schul M, et al. Significant physician practice variability in the utilization of endovenous thermal
+
+ablation in the 2017 Medicare population. J Vasc Surg Venous Lymphat Disord. 2019; 7(6):808-816.
+
+69. McDonagh B, Huntley DE, Rosenfeld R, et al. Efficacy of the Comprehensive Objective Mapping, Precise Image
+
+Guided Injections, Anti-reflux Positioning and Sequential Sclerotherapy (COMPASS) technique in the management of greater saphenous varicosities with saphenofemoral incompetence. Phlebology. 2002; 17(1):19-28.
+
+70. Meissner MH, Gloviczki P, Bergan J, et al. Primary chronic venous disorders. J Vasc Surg. 2007; 46(Suppl S):54S-
+
+67S.
+
+71. Merchant RF, Pichot O.; Closure Study Group. Long-term outcomes of endovenous radiofrequency obliteration of
+
+saphenous reflux as a treatment for superficial venous insufficiency. J Vasc Surg. 2005; 42(3):502-509. 72. Michaels JA, Brazier JE, Campbell WB, et al. Randomized clinical trial comparing surgery with conservative
+
+treatment for uncomplicated varicose veins. Br J Surg. 2006; 93(2):175-181.
+
+73. Min RJ, Khilnani N, Zimmet SE. Endovenous laser treatment of saphenous vein reflux: long-term results. J Vasc
+
+Interv Radiol. 2003; 14(8):991-996.
+
+74. Mohamed AH, Leung C, Wallace T, et al. A randomized controlled trial of endovenous laser ablation versus
+
+mechanochemical ablation with ClariVein in the management of superficial venous incompetence (LAMA Trial). Ann Surg. 2021; 273(6):e188-e195.
+
+75. Morrison N, Gibson K, McEnroe S, et al. Randomized trial comparing cyanoacrylate embolization and
+
+radiofrequency ablation for incompetent great saphenous veins (VeClose). J Vasc Surg. 2015; 61(4):985-994. 76. Morrison N, Gibson K, Vasquez M, et al. Five-year extension study of patients from a randomized clinical trial
+
+(VeClose) comparing cyanoacrylate closure versus radiofrequency ablation for the treatment of incompetent great saphenous veins. J Vasc Surg Venous Lymphat Disord. 2020; 8(6):978-989.
+
+77. Morrison N, Gibson K, Vasquez M, et al. VeClose trial 12-month outcomes of cyanoacrylate closure versus
+
+radiofrequency ablation for incompetent great saphenous veins. J Vasc Surg Venous Lymphat Disord. 2017; 5(3):321-330.
+
+78. Morrison N, Kolluri R, Vasquez M, et al. Comparison of cyanoacrylate closure and radiofrequency ablation for the treatment of incompetent great saphenous veins: 36-Month outcomes of the VeClose randomized controlled trial. Phlebology. 2019; 34(6):380-390.
+
+79. Nijsten T, van den Bos RR, Goldman MP, et al. Minimally invasive techniques in the treatment of saphenous
+
+varicose veins. J Am Acad Dermatol. 2009; 60(1):110-119.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+30/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+80. No authors listed. Management of chronic venous disorders of the lower limbs – guidelines according to scientific
+
+evidence. Int Angiol. 2014; 33(2):87-208.
+
+81. O'Banion LA, Reynolds KB, Kochubey M, et al. A comparison of cyanoacrylate glue and radiofrequency ablation techniques in the treatment of superficial venous reflux in CEAP 6 patients. J Vasc Surg Venous Lymphat Disord. 2021; 9(5):1215-1221.
+
+82. O'Donnell TF Jr. The present status of surgery of the superficial venous system in the management of venous ulcer
+
+and the evidence for the role of perforator interruption. J Vasc Surg. 2008; 48(4):1044-1452.
+
+83. Ovalı C, Sevin MB. Twelve-month efficacy and complications of cyanoacrylate embolization compared with
+
+radiofrequency ablation for incompetent great saphenous veins. J Vasc Surg Venous Lymphat Disord. 2019; 7(2):210-216.
+
+84. Özen YCBC, Çekmecelioğlu D, Sarikaya S, et al. Chemical endovenous ablation of great saphenous vein
+
+insufficiency: two-year results. Damar Cerrahi Dergisi. 2014; 23(3):176–179.
+
+85. Park I. Initial outcomes of cyanoacrylate closure, VenaSeal System, for the treatment of the incompetent great and
+
+small saphenous veins. Vasc Endovascular Surg. 2017; 51(8):545-549.
+
+86. Park SW, Hwang JJ, Yun IJ, et al. Randomized clinical trial comparing two methods for endovenous laser ablation of incompetent perforator veins in thigh and great saphenous vein without evidence of saphenofemoral reflux. Dermatol Surg. 2012; 38(4):640-646.
+
+87. Peden E, Lumsden A. Radiofrequency ablation of incompetent perforator veins. Perspect Vasc Surg Endovasc
+
+Ther. 2007; 19(1):73-77.
+
+88. Proebstle T, Alm J, Dimitri S, et al. Three-year follow-up results of the prospective European multicenter cohort study on cyanoacrylate embolization for treatment of refluxing great saphenous veins. J Vasc Surg Venous Lymphat Disord. 2021; 9(2):329-334.
+
+89. Proebstle TM, Alm BJ, Göckeritz O, et al. Five-year results from the prospective European multicenter cohort study
+
+on radiofrequency segmental thermal ablation for incompetent great saphenous veins. Br J Surg. 2015; 102(3):212-218.
+
+90. Ran F, Shi Y, Qiao T, et al. Comparison of foam sclerotherapy alone or combined with stripping of the great
+
+saphenous vein for treating varicose veins. Dermatol Surg. 2017; 43(4):541-547.
+
+91. Rasmussen L, Lawaetz M, Bjoern L, et al. Randomized clinical trial comparing endovenous laser ablation and
+
+stripping of the great saphenous vein with clinical and duplex outcome after 5 years. J Vasc Surg. 2013; 58(2):421- 426.
+
+92. Rasmussen LH, Lawaetz M, Bjoern L, et al. Randomized clinical trial comparing endovenous laser ablation,
+
+radiofrequency ablation, foam sclerotherapy and surgical stripping for great saphenous varicose veins. Br J Surg. 2011; 98(8):1079-1087.
+
+93. Rasmussen LH, Bjoern L, Lawaetz M et al. Randomized trial comparing endovenous laser ablation of the great saphenous vein with high ligation and stripping in patients with varicose veins: short-term results. J Vasc Surg. 2007; 46(2):308-315.
+
+94. Ravi R, Trayler EA, Barrett DA, Diethrich EB. Endovenous thermal ablation of superficial venous insufficiency of the
+
+lower extremity: single-center experience with 3000 limbs treated in a 7-year period. J Endovasc Ther. 2009; 16(4):500-505.
+
+95. Rits J, Maurins U, Rabe E, et al. Lower prevalence of stump reflux after endovenous laser flush ablation of the
+
+great saphenous vein. Vasa. 2022; 51(4):222-228.
+
+96. Samuel N, Carradice D, Wallace T, et al. Randomized clinical trial of endovenous laser ablation versus
+
+conventional surgery for small saphenous varicose veins. Ann Surg. 2013; 257(3):419-426.
+
+97. Sandhya PA, Mohil RS, Sricharan R. Randomised controlled study to compare radiofrequency ablation with
+
+minimally invasive ultrasound-guided non-flush ligation and stripping of great saphenous vein in the treatment of varicose veins. Ann R Coll Surg Engl. 2020; 102(7):525-531.
+
+98. Sarac A. Two-year follow-up of a n-butyl-2-cyanoacrylate glue ablation for the treatment of saphenous vein
+
+insufficiency with a novel application catheter with guiding light. Vascular. 2019; 27(4):352-358.
+
+99. Schul MW, Schloerke B2, Gomes GM2. The refluxing anterior accessory saphenous vein demonstrates similar clinical severity when compared to the refluxing great saphenous vein. Phlebology. 2016; 31(9):654-659.
+
+100. Shadid N, Ceulen R, Nelemans P, et al. Randomized clinical trial of ultrasound-guided foam sclerotherapy versus
+
+surgery for the incompetent great saphenous vein. Br J Surg. 2012; 99(8):1062-1070.
+
+101. Tenbrook JA, Jr., Iafrati MD, O'Donnell TF Jr, et al. Systematic review of outcomes after surgical management of venous disease incorporating subfascial endoscopic perforator surgery. J Vasc Surg 2004; 39(3):583-589. 102. Theivacumar NS, Darwood RJ, Gough MJ. Endovenous laser ablation (EVLA) of the anterior accessory great
+
+saphenous vein (AAGSV): abolition of sapheno-femoral reflux with preservation of the great saphenous vein. Eur J Vasc Endovasc Surg. 2009a; 37(4):477-481.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+31/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+103. Theivacumar NS, Darwood R, Gough MJ. Neovascularisation and recurrence 2 years after varicose vein treatment for sapheno-femoral and great saphenous vein reflux: a comparison of surgery and endovenous laser ablation. Eur J Vasc Endovasc Surg 2009b; 38(2):203-207.
+
+104. Theivacumar NS, Dellagrammaticas D, Mavor AI, Gough MJ. Endovenous laser ablation (EVLA) of great
+
+saphenous vein to abolish "paradoxical reflux" in the Giacomini vein: a short report. Eur J Vasc Endovasc Surg. 2007; 34(2):229-231.
+
+105. Todd KL 3rd, Wright DI.; VANISH-2 Investigator Group. Durability of treatment effect with polidocanol endovenous microfoam on varicose vein symptoms and appearance (VANISH-2). J Vasc Surg Venous Lymphat Disord. 2015; 3(3):258-264.
+
+106. Todd KL 3rd, Wright DI.; VANISH-2 Investigator Group. The VANISH-2 study: a randomized, blinded, multicenter
+
+study to evaluate the efficacy and safety of polidocanol endovenous microfoam 0.5% and 1.0% compared with placebo for the treatment of saphenofemoral junction incompetence. Phlebology. 2014; 29(9):608-618. 107. Vähäaho S, Halmesmäki K, Mahmoud Oet al. Three-year results of a randomized controlled trial comparing
+
+mechanochemical and thermal ablation in the treatment of insufficient great saphenous veins. J Vasc Surg Venous Lymphat Disord. 2021; 9(3):652-659.
+
+108. Vähäaho S, Mahmoud O, Halmesmäki K, et al. Randomized clinical trial of mechanochemical and endovenous
+
+thermal ablation of great saphenous varicose veins. Br J Surg. 2019; 106(5):548-554.
+
+109. van den Bos R, Arends L, Kockaert M, et al. Endovenous therapies of lower extremity varicosities: a meta-analysis.
+
+J Vasc Surg. 2009; 49(1):230-239.
+
+110. van den Bos RR, Malskat WS, De Maeseneer MG, et al. Randomized clinical trial of endovenous laser ablation versus steam ablation (LAST trial) for great saphenous varicose veins. Br J Surg. 2014; 101(9):1077-1083. 111. van den Bos RR, Wentel T, Neumann MH, Nijsten T. Treatment of incompetent perforating veins using the
+
+radiofrequency ablation stylet: a pilot study. Phlebology. 2009; 24(5):208-212.
+
+112. van der Velden SK, Biemans AA, De Maeseneer MG, et al. Five-year results of a randomized clinical trial of
+
+conventional surgery, endovenous laser ablation and ultrasound-guided foam sclerotherapy in patients with great saphenous varicose veins. Br J Surg. 2015; 102(10):1184-1194.
+
+113. van Dijk LC, Wittens CH, Toonder IM, et al. Ultrasound-guided percutaneous coil embolization of incompetent
+
+perforating veins: not effective for treatment of venous ulcers and recurrent varicosities. J Vasc Interv Radiol. 1999; 10(9):1271-1274.
+
+114. van Gent WB, Catarinella FS, Lam YL, et al. Conservative versus surgical treatment of venous leg ulcers: 10-year
+
+follow up of a randomized, multicenter trial. Phlebology. 2015; 30(1 Suppl):35-41.
+
+115. van Gent WB, Hop WC, van Praag MC, et al. Conservative versus surgical treatment of venous leg ulcers: a
+
+prospective, randomized, multicenter trial. J Vasc Surg. 2006; 44(3):563-571.
+
+116. van Rij AM, Hill G, Gray C, et al. A prospective study of the fate of venous leg perforators after varicose vein
+
+surgery. J Vasc Surg. 2005; 42(6):1156-1162.
+
+117. Vasquez M, Gasparis AP; Varithena® 017 Investigator Group. A multicenter, randomized, placebo-controlled trial of endovenous thermal ablation with or without polidocanol endovenous microfoam treatment in patients with great saphenous vein incompetence and visible varicosities. Phlebology. 2017; 32(4): 272-281.
+
+118. Viani MP, Viani GM, Sergenti J. One-shot scleroembolization: a new technique for the treatment of varicose veins
+
+disease of lower extremities. Preliminary results. Phlebology. 2014; 29(10):694-697.
+
+119. Wallace T, El-Sheikha J, Nandhra S, et al. Long-term outcomes of endovenous laser ablation and conventional
+
+surgery for great saphenous varicose veins. Br J Surg. 2018; 105(13):1759-1767.
+
+120. Wang JC, Li Y, Li GY, et al. A comparison of concomitant tributary laser ablation and foam sclerotherapy in patients undergoing truncal endovenous laser ablation for lower limb varicose veins. J Vasc Interv Radiol. 2018; 29(6):781- 789.
+
+121. Witte ME, Zeebregts CJ, de Borst GJ, et al. Mechanochemical endovenous ablation of saphenous veins using the
+
+ClariVein: a systematic review. Phlebology. 2017; 32(10):649-657.
+
+122. Woo HY, Kim SM, Kim D, et al. Outcome of ClosureFAST radiofrequency ablation for large-diameter incompetent
+
+great saphenous vein. Ann Surg Treat Res. 2019; 96(6):313-318.
+
+123. Yasim A, Eroglu E, Bozoglan O, et al. A new non-tumescent endovenous ablation method for varicose vein
+
+treatment: Early results of N-butyl cyanoacrylate (VariClose®). Phlebology. 2017; 32(3):194-199.
+
+124. Yin H, He H, Wang M, et al. Prospective randomized study of ultrasound-guided foam sclerotherapy combined with great saphenous vein high ligation in the treatment of severe lower extremity varicosis. Ann Vasc Surg. 2017; 39:256-263.
+
+Government Agency, Medical Society, and Other Authoritative Publications:
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+32/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+1. Agency for Healthcare Research and Quality. Treatment strategies for patients with lower extremity chronic venous
+
+disease (LECVD). Technology Assessment Report. 2016 May. Project ID: DVTT0515. Available at: https://www.cms.gov/medicare-coverage-database/view/technology-assessments.aspx? TAId=104&bc=AAAQAAAAAAAAAA%3d%3d&. Accessed on December 3, 2024.
+
+2. American Vein and Lymphatic Society. The Anterior Saphenous Vein: Position Statement of the American Vein &
+
+Lymphatic Society. Available at: The Anterior Saphenous Vein.pdf. Accessed on December 5,2024.
+
+3. American Vein and Lymphatic Society. Mechanochemical Chemically Assisted Ablation of Varicose Veins for
+
+Venous Insufficiency: Position Statement of the American Vein & Lymphatic Society. Available at: MOCA 2024 Final 8.24.pdf. Accessed on December 5, 2024.
+
+4. American Vein and Lymphatic Society. Treatment of refluxing accessory saphenous veins. 2017; 32(7):448-452. 5. American Vein and Lymphatic Society. Treatment of superficial venous disease of the lower leg practice guidelines.
+
+2016. Available at: https://www.myavls.org/acp-publishes-treatment-superficial-venous-disease-lower-leg- guidelines.html. Accessed on December 3, 2024.
+
+6. Caggiati A, Bergan JJ, Gloviczki P, et al.; International Interdisciplinary Consensus Committee on Venous
+
+Anatomical Terminology. Nomenclature of the veins of the lower limbs: an international interdisciplinary consensus statement. J Vasc Surg. 2002; 36(2):416-422.
+
+7. Cai PL, Hitchman LH, Mohamed AH, et al. Endovenous ablation for venous leg ulcers. Cochrane Database of Syst.
+
+Rev. 2023, (7):CD009494.
+
+8. Centers for Medicare and Medicaid Services (CMS). National Coverage Determinations for Laser Procedures.
+
+NCD #140.5. Effective May 1, 1997. Available at: https://www.cms.gov/medicare-coverage-database/. Accessed on December 3, 2024.
+
+9. De’Avila Olivera R, Vasconcelos V, Baptista-Silva J. Injection sclerotherapy for varicose veins. Cochrane Database
+
+of Syst Rev. 2021; 2; CD001732.
+
+10. Gibson K, Khilnani N, Schul M, et al. American College of Phlebology Guidelines - treatment of refluxing accessory
+
+saphenous veins. Phlebology. 2017; 32(7):448-452.
+
+11. Gloviczki P, Comerota AJ, Dalsing MC, et al. The care of patients with varicose veins and associated chronic
+
+venous diseases: clinical practice guidelines of the Society for Vascular Surgery and the American Venous Forum. J Vasc Surg. 2011; 53(5 Suppl):2S-48S.
+
+12. Gloviczki P, Lawrence P, Suman M, et al. The 2022 Society for Vascular Surgery, American Venous Forum, and
+
+American Vein and Lymphatic Society clinical practice guidelines for the management of varicose veins of the lower extremities. Part I. Duplex scanning and treatment of superficial truncal reflux. J Vasc Surg. 2023; 231-255.
+
+13. Gloviczki P, Lawrence PF, Wasan SM, et al. The 2023 Society for Vascular Surgery, American Venous Forum, and
+
+American Vein and Lymphatic Society clinical practice guidelines for the management of varicose veins of the lower extremities. Part II: Endorsed by the Society of Interventional Radiology and the Society for Vascular Medicine. J Vasc Surg Venous Lymphat Disord. 2024; 12(1):101670.
+
+14. KAVS Catheter [501K Summary]. Richter and Rothe AG. 2005. Available at:
+
+https://www.accessdata.fda.gov/cdrh_docs/pdf5/K052844.pdf. Accessed on December 3, 2024.
+
+15. Khilnani NM, Grassi CJ, Kundu S, et al. Multi-society consensus quality improvement guidelines for the treatment
+
+of lower-extremity superficial venous insufficiency with endovenous thermal ablation from the Society of Interventional Radiology, Cardiovascular Interventional Radiological Society of Europe, American College of Phlebology and Canadian Interventional Radiology Association. J Vasc Interv Radiol. 2010; 21(1):14-31. 16. Knight Nee Shingler SL, Robertson L, Stewart M. Graduated compression stockings for the initial treatment of
+
+varicose veins in people without venous ulceration. Cochrane Database Syst Rev. 2021;(7):CD008819.
+
+17. Lin ZC, Loveland PM, Johnston RV, et al. Subfascial endoscopic perforator surgery (SEPS) for treating venous leg
+
+ulcers. Cochrane Database Syst Rev. 2019;(3):CD012164.
+
+18. Lurie F, Lal BK, Antignani PL, Blebea J, et al. Compression therapy after invasive treatment of superficial veins of the lower extremities: Clinical practice guidelines of the American Venous Forum, Society for Vascular Surgery, American College of Phlebology, Society for Vascular Medicine, and International Union of Phlebology. J Vasc Surg Venous Lymphat Disord. 2019; 7(1):17-28.
+
+19. Lurie F, Passman M, Meisner M, et al. The 2020 update of the CEAP classification system and reporting standards.
+
+J Vasc Surg Venous Lymphat Disord. 2020; 8(3):342-352.
+
+20. Masuda E, Ozsvath K, Vossler J, et al. The 2020 appropriate use criteria for chronic lower extremity venous disease of the American Venous Forum, the Society for Vascular Surgery, the American Vein and Lymphatic Society, and the Society of Interventional Radiology. J Vasc Surg Venous Lymphat Disord. 2020; 8(4):505-525.
+
+21. O'Donnell TF Jr, Passman MA, Marston WA, et al.; Society for Vascular Surgery; American Venous Forum. Management of venous leg ulcers: clinical practice guidelines of the Society for Vascular Surgery ® and the American Venous Forum. J Vasc Surg. 2014; 60(2 Suppl):3S-59S.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+33/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+22. Paravastu SC, Horne M, Dodd PD. Endovenous ablation (radiofrequency and laser) and foam sclerotherapy versus
+
+open surgery for great saphenous vein varices. Cochrane Database Syst Rev. 2016;(11):CD010878.
+
+23. Pavlović MD, Schuller-Petrović S, Pichot O, et al. Guidelines of the First International Consensus Conference on Endovenous Thermal Ablation for Varicose Vein Disease--ETAV Consensus Meeting 2012. Phlebology. 2015; 30(4):257-273.
+
+24. Shahzad N, Elsherif M, Obaidat I, et al. A systematic review and meta-analysis of randomised controlled trials
+
+comparing thermal versus non-thermal endovenous ablation in superficial venous incompetence. Eur J Vasc Endovasc Surg. 2023; 66(5):687-695.
+
+25. Shi C, Dumville JC, Cullum N, et al. Compression bandages or stockings versus no compression for treating
+
+venous leg ulcers. Cochrane Database Syst Rev. 2021; 7(7):CD013397.
+
+26. Rigby KA, Palfreyman SJ, Bererley C, Michaels JA. Surgery versus sclerotherapy for the treatment of varicose
+
+veins. Cochrane Database Syst Rev. 2005;(4):CD004980.
+
+27. Society of Interventional Radiologists. Position statement: Endovenous ablation. December 2003. Available at:
+
+https://www.sirweb.org/globalassets/aasociety-of-interventional-radiology-home-page/practice- resources/standards_pdfs/sir_venous_ablation_statement_final2015.pdf. Accessed on December 3, 2024. 28. Tisi PV, Beverley C, Rees A. Injection sclerotherapy for varicose veins. Cochrane Database Syst Rev. 2006;
+
+(4):CD001732.
+
+29. Varithena. [Product Information], West Conshohocken, PA Biocompatibles Inc. June 2016. Available at:
+
+https://www.bostonscientific.com/en-US/products/vein-ablation/varithena.html. Accessed on December 3, 2024.
+
+30. Vasquez MA, Rabe E, McLafferty RB, et al. Revision of the venous clinical severity score: venous outcomes
+
+consensus statement: special communication of the American Venous Forum Ad Hoc Outcomes Working Group. J Vasc Surg. 2010; 52(5):1387-1396.
+
+31. VenaSeal Closure System.[Product Information]. Morrisville, NC. Medtronics Inc. 2015. Available at: https://www.accessdata.fda.gov/cdrh_docs/pdf14/P140018c.pdf. Accessed on December 3, 2024.
+
+32. VenaSeal Closure System. Morrisville, NC. Medtronic Vascular, Inc. 2022. PMA supplement. Available at:
+
+https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P140018S036. Accessed December 3, 2024.
+
+33. VenoValve®. Irvine, CA. EnvVeno Medical Corporation. 2022. Available at: VenoValve - enVVeno Medical
+
+Corporation. Accessed on December 4, 2024. Weiss MA, Hsu JT, Neuhaus I, et al. Consensus for sclerotherapy. Dermatol Surg. 2014; 40(12):1309-1318.
+
+34. Whing J, Nandhra S, Nesbitt C, Stansby G. Interventions for great saphenous vein incompetence. Cochrane
+
+Database Syst Rev. 2021; 8(8):CD005624.
+
+Websites for Additional Information
+
+1. American Vein & Lymphatic Society (AVLS). Available at: https://www.myavls.org/about-us.html. Accessed on
+
+December 19, 2024.
+
+2. National Heart Lung and Blood Institute (NHLBI). Varicose veins: Treatment. Available at:
+
+https://www.nhlbi.nih.gov/health-topics/varicose-veins. Last updated on September 26, 2023. Accessed on December 3, 2024.
+
+3. National Institutes of Health (NIH). Varicose veins. Available at:
+
+http://www.nlm.nih.gov/medlineplus/varicoseveins.html. Last updated October 3, 2016. Accessed on December 3, 2024.
+
+Index
+
+ClariVein Closure Procedure Coil Embolizaiton COMPASS Endoluminal Cryoablation Endosaphenous Radiofrequency or Laser Ablation for Primary Venous Insufficiency EVLT Laser Ablation for Primary Venous Insufficiency Mechanochemical Ablation MOCA One-Shot Scleroembolization
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+34/35
+
+10/25/25, 12:07 PM
+
+CG-SURG-119 Treatment of Varicose Veins (Lower Extremities)
+
+PhotoDerm Photothermal sclerosis Primary Venous Insufficiency Radiofrequency Ablation for Primary Venous Insufficiency Spider Veins Subfascial Endoscopic Perforating Vein Surgery (SEPS) Telangiectatic Dermal Veins Trans-Illuminated Powered Phlebectomy (TIPP) TRIVEX System Varicose Veins Vasculite Vein Coiling VeinLase Venefit Varithena VNUS Closure Catheter Systems
+
+The use of specific product names is illustrative only. It is not intended to be a recommendation of one product over another, and is not intended to represent a complete listing of all products available.
+
+History
+
+Status Revised
+
+Date 02/20/2025
+
+Action Medical Policy & Technology Assessment Committee (MPTAC) review. Revised Clinical Indications to reflect current nomenclature for AASV/ASV. Added NMN statement regarding VenoValve device. Revised Discussion, Definitions, References, and Websites. Revised Coding section to add CPT 0744T; removed ICD-10 diagnosis Q27.32 not applicable. MPTAC review. Revised MN and NMN Position Statements regarding endoluminal radiofrequency ablation/ endoluminal laser ablation. MPTAC review. Initial document development. Moved content of SURG.00037 to new Clinical Utilization Management Guideline document with the same title.
+
+Revised
+
+04/19/2024
+
+New
+
+02/15/2024
+
+Federal and State law, as well as contract language, and Medical Policy take precedence over Clinical UM Guidelines. We reserve the right to review and update Clinical UM Guidelines periodically. Clinical guidelines approved by the Medical Policy & Technology Assessment Committee are available for general adoption by plans or lines of business for consistent review of the medical necessity of services related to the clinical guideline when the plan performs utilization review for the subject. Due to variances in utilization patterns, each plan may choose whether to adopt a particular Clinical UM Guideline. To determine if review is required for this Clinical UM Guideline, please contact the customer service number on the member's card.
+
+Alternatively, commercial or FEP plans or lines of business which determine there is not a need to adopt the guideline to review services generally across all providers delivering services to Plan’s or line of business’s members may instead use the clinical guideline for provider education and/or to review the medical necessity of services for any provider who has been notified that his/her/its claims will be reviewed for medical necessity due to billing practices or claims that are not consistent with other providers, in terms of frequency or in some other manner.
+
+No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without permission from the health plan.
+
+© CPT Only - American Medical Association
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002908.html
+
+35/35

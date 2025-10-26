@@ -1,0 +1,237 @@
+UnitedHealthcare® Community Plan Medical Policy
+
+Pediatric Gait Trainers and Standing Systems
+
+Policy Number: CS159.L Effective Date: May 1, 2025
+
+ Instructions for Use
+
+Table of Contents Page Application ............................................................................. 1 Coverage Rationale .............................................................. 1 Definitions .............................................................................. 2 Applicable Codes .................................................................. 2 Description of Services ......................................................... 3 Clinical Evidence ................................................................... 3 U.S. Food and Drug Administration ...................................... 6 References ............................................................................ 6 Policy History/Revision Information ...................................... 6 Instructions for Use ............................................................... 7
+
+Related Community Plan Policy • Durable Medical Equipment, Orthotics, Medical
+
+Supplies, and Repairs/Replacements
+
+Application
+
+This Medical Policy does not apply to the states listed below; refer to the state-specific policy/guideline, if noted:
+
+State Idaho Indiana Kansas Kentucky Louisiana Nebraska New Jersey New Mexico North Carolina Ohio Pennsylvania Tennessee
+
+Policy/Guideline
+
+None None Pediatric Gait Trainers and Standing Systems (for Kansas Only) Pediatric Gait Trainers and Standing Systems (for Kentucky Only) Pediatric Gait Trainers and Standing Systems (for Louisiana Only) Pediatric Gait Trainers and Standing Systems (for Nebraska Only) Pediatric Gait Trainers and Standing Systems (for New Jersey Only) Pediatric Gait Trainers and Standing Systems (for New Mexico Only) Pediatric Gait Trainers and Standing Systems (for North Carolina Only) Pediatric Gait Trainers and Standing Systems (for Ohio Only) Pediatric Gait Trainers and Standing Systems (for Pennsylvania Only) Pediatric Gait Trainers and Standing Systems (for Tennessee Only)
+
+Coverage Rationale
+
+Pediatric Gait Trainers Gait trainers for Functional Ambulation are proven and medically necessary when the following criteria are met: The individual is 18 years of age or younger; and The individual has the potential for Functional Ambulation; and The individual uses the gait trainer when documentation shows assistive devices have not been effective
+
+Gait trainers for therapeutic ambulation are proven and medically necessary for treating non-ambulatory individuals when the following criteria are met: The individual is 18 years of age or younger; and The individual is capable of utilizing and tolerating the equipment safely; and
+
+Pediatric Gait Trainers and Standing Systems UnitedHealthcare Community Plan Medical Policy
+
+Page 1 of 7 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+The individual requires moderate to maximum support for ambulation (i.e., handheld ambulation assist devices are not
+
+feasible); and
+
+The individual has an acquired injury (e.g., spinal cord or traumatic brain injury) or a chronic physical limitation that
+
+affects the ability to ambulate (e.g., cerebral palsy, neuromuscular disease, or spina bifida); and The individual has a physician directed written treatment plan (including frequency and duration)
+
+Standing Systems Stationary, mobile, and active standing systems are proven and medically necessary for treating non-ambulatory individuals when all of the following criteria are met: There is a goal of prevention of one or more of the following medical complications:
+
+o Decubitus ulcer: Where there is a need for off-loading of a decubitus ulcer which cannot be accomplished by
+
+other means
+
+o Osteoporosis: Where improvement or stabilization of bone density cannot be achieved with other treatment or
+
+activities
+
+o Contracture development: High potential for progressive contracture formation including but not limited to post-
+
+operative release of contractures
+
+o Compromised bowel/bladder function: Where there has been demonstration of incomplete emptying of bladder or
+
+constipation refractory to other medical treatment
+
+o Pulmonary complications: Where there has been demonstration of recurrent infections and poor clearance of
+
+pulmonary secretions despite the use of other medical treatment
+
+o Hip dislocation: Where hip subluxation/dislocation is worsening and alternate treatments have not been
+
+successful
+
+and
+
+The individual is unable to accomplish the above goals with his/her current medical device/equipment or alternate
+
+medical treatment; and
+
+The individual has been evaluated in physical therapy with a trial using the standing device and has shown compliance, tolerance, and demonstrated potential for clinical benefit, as determined by the evaluator; and
+
+There is a written plan of care
+
+Definitions
+
+Functional Ambulation: The ability to walk, with or without the aid of appropriate assistive devices (such as prostheses, orthoses, canes, or walkers), safely and sufficiently to carry out mobility-related activities of daily living (Lam et al., 2008).
+
+Applicable Codes
+
+The following list(s) of procedure and/or diagnosis codes is provided for reference purposes only and may not be all inclusive. Listing of a code in this policy does not imply that the service described by the code is a covered or non-covered health service. Benefit coverage for health services is determined by federal, state, or contractual requirements and applicable laws that may require coverage for a specific service. The inclusion of a code does not imply any right to reimbursement or guarantee claim payment. Other Policies and Guidelines may apply.
+
+HCPCS Code E0637
+
+Description Combination sit-to-stand frame/table system, any size including pediatric, with seat lift feature, with or without wheels Standing frame/table system, one position (e.g., upright, supine or prone stander), any size including pediatric, with or without wheels Standing frame/table system, multi-position (e.g., 3-way stander), any size including pediatric, with or without wheels Standing frame/table system, mobile (dynamic stander), any size including pediatric Gait trainer, pediatric size, posterior support, includes all accessories and components Gait trainer, pediatric size, upright support, includes all accessories and components Gait trainer, pediatric size, anterior support, includes all accessories and components
+
+E0638
+
+E0641
+
+E0642 E8000 E8001 E8002
+
+Pediatric Gait Trainers and Standing Systems UnitedHealthcare Community Plan Medical Policy
+
+Page 2 of 7 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Description of Services
+
+A gait trainer unweights an individual using a rigid or flexible seat, stabilizes or supports the trunk and pelvis with lateral and posterior components, and assists with ambulation (Paleg and Livingstone, 2015a).
+
+A supported standing system or device secures an individual in a standing position. The device also facilitates movement from a horizontal position to standing position (e.g., a tilt table), or from a sitting position to a standing position (e.g., a standing frame). The device may be mechanical (non-powered) or electric (powered). A standing system is either a separate device, which requires an individual to transfer into it (e.g., a tilt table or standing frame), or integrated the individual’s mobility device (e.g., a power standing system on a power wheelchair). Static supported standing devices are not intended to move while the individual is in the supported standing position (e.g., tilt table or standing frame). Dynamic supported standing devices may be moved by the individual or caregiver in the supported standing position using non- powered (e.g., standing manual wheelchair) or powered (e.g., power wheelchair with a standing system) means (Masselink, et al. 2024).
+
+Clinical Evidence
+
+Pediatric Gait Trainers Qian et al. (2023) conducted a systematic review and network meta-analysis (NMA) to evaluate the relative effectiveness of gait training interventions for individuals with cerebral palsy. The systematic review included 20 randomized controlled trials (RCTs) and a total of 516 individuals. Age ranged from 6 to 25 years. Body weight supported treadmill training (BWSTT), robot-assisted gait training (RAGT), treadmill training (TT), external cues treadmill training (ECTT), over ground gait training (OGT), and conventional physical therapy (CON) were compared. CON included treatments like static stretching of lower limb muscles and resistance training, but did not include any form of over ground gait training. The results of the NMA revealed that both ECTT and BWSTT showed better gait velocity than OGT. BWSTT showed better gait velocity than RAGT, TT, and CON. Surface under the cumulative ranking curve (SUCRA) indicated BWSTT optimally improved the gait velocity. Assessment of Gross Motor Function Measures (GMFM) showed no statistical difference between each comparison for standing (GMFM-D). However, RAGT was significantly more effective than CON for walking, running, and jumping (GMFM-E). SUCRA results also indicated RAGT optimally improved GMFM-D/E. The authors concluded that this study of individuals with cerebral palsy suggested BWSTT was optimal for increasing gait velocity. However, RAGT was optimal for optimizing GMFM. Limitations of the study include the small number of GMFM studies, lack of description between RAGT and ECTT, and some studies did not define CON. Additionally, due to missing information from some studies, total duration of gait training, duration and frequency of sessions, and intensity was not considered. RCTs with larger sample sizes, multiple centers, and higher quality were recommended to validate the conclusions of the systemic review.
+
+A 2020 Cochrane systematic review by Chiu et al. (2020) assessed the effects of mechanically assisted walking training compared to control for walking, participation, and quality of life in children with cerebral palsy. Mechanically assisted walking training consists of using a treadmill (with or without body weight support and the assistance of one or more therapists), an end-effector system (such as a gait trainer, with or without body weight support, or a robotic training device). The review included 17 studies of randomized controlled trials (RCTs) or Quasi-RCTs (n = 451) in outpatient settings. Three of the studies focused on use of a gait trainer with and without body weight support. The intervention consisted of 2-5 sessions a week, for a period of 4-12 weeks, with ranges of intensity of 15-40 minutes. The authors concluded mechanically assisted walking with or without body weight support may result in small improvements in walking speed and gross motor function compared to both no walking and same amount of overground walking. Mechanically assisted walking training may be a useful means for children to undertake high-intensity, repetitive, task-specific training.
+
+Paleg and Livingstone (2015a) conducted a systematic review regarding use of gait trainers at home or school with children who are unable to walk independently or with hand-held walkers. Included studies involved at least one child with a mobility limitation and measured an outcome related to gait trainer use. Seventeen studies involving 182 children were included. Evidence from one small RCT suggested a non-significant trend toward increased walking distance while another evidence level II study (concurrent multiple baseline design) reported increased number of steps. Two level III studies (non-randomized) reported statistically significant impact on mobility level with one finding significant impact on bowel function and an association between increased intervention time and bone mineral density (BMD). Remaining descriptive level evidence provided support for positive impact on a range of activity outcomes, with some studies reporting impact on affect, motivation, and participation with others. The authors concluded that evidence supporting outcomes for children using gait trainers is primarily descriptive and, while mainly positive, is insufficient to draw firm conclusions.
+
+Pediatric Gait Trainers and Standing Systems UnitedHealthcare Community Plan Medical Policy
+
+Page 3 of 7 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Gharib et al. (2011) conducted an RCT to assess the effects of additional gait trainer assisted walking exercises on walking performance in children with hemiparetic cerebral palsy. Thirty children with spastic hemiparetic cerebral palsy were included in the study. Children were randomly assigned into two equal groups: experimental and control. Participants in both groups received a traditional physical therapy exercise program. Those in the experimental group received additional gait trainer-based walking exercises which aimed to improve walking performance. Treatment was provided three times per week for three successive months. Children received baseline and post-treatment assessments to evaluate gait parameters including average step length, walking speed, time on each foot, and ambulation index. The ±2.89 change score) for the experimental group and 66.06 ±5.48 (2.13 ±4.43 ambulation index was 75.53 ±7.36 (11.93 ±3.37 (7 ±2.20 change score) for the change score) for the control group. Time of support for the affected side was 42.4 experimental group and 38.06 ±4.63 (3.33 ±6.25 change score) for the control group. There was also a significant improvement in step length and walking speed in both groups. The authors concluded that gait trainer walking exercises combined with traditional physical therapy increase the chance of improving gait performance in children with spastic hemiparetic cerebral palsy. (This study is included in the systematic review by Qian et al. 2023 and Chiu et al., 2020.)
+
+Standing Systems Valenzuela-Aedo et al. (2024) performed a systematic review to determine the effectiveness of assisted standing on BMD in children with cerebral palsy. A total of 42 children, aged 2.25 to 12 years, from two RCTs (n = 26 and n = 7) and two quasi-experiments (n = 2 and n = 7) were included in the systematic review. Follow-up ranged from 6 to 15 months. The results revealed statistically significant changes in femur and spine BMD using static and dynamic standers, respectively. The authors concluded that assisted standing in children with cerebral palsy leads to positive changes in BMD. Limitations of the study include the small sample size, heterogeneity of the sample, and differences in standing protocols and dosage. Additionally, there was a high risk of bias due to the lack of blinding and outcome reporting with confounding or missing data. Further research was recommended by the authors to include studies with greater methodological rigor, longer follow-up periods, and a larger number of individuals.
+
+Freeman et al. (2019) conducted a multi-center RCT to assess a home-based, self-managed standing frame program. The study included 140 participants with progressive multiple sclerosis, randomly assigned to either the standing frame group (n = 71) or the usual care group (n = 69). The standing frame group received two home-based physiotherapy sessions for set-up, and six follow-up telephone calls for support. This group was then asked to stand for 30 minutes, three times per week, over 20 weeks or longer. Assessments were completed at baseline, 20 weeks, and 36 weeks. The use of the standing frame resulted in a significant increase in amended motor club assessment (AMCA) scores compared with that for usual care alone. The fully adjusted between-group difference in AMCA scores at 36 weeks was 4.7 points (95% CI 1.9-7.5; p = 0.0014). The authors concluded the standing frame program significantly increased motor function in participants with severe progressive multiple sclerosis, although not to the degree that was inferred as clinically consequential. The authors asserted that the standing frame is one of the first physiotherapy interventions to be effective in this population. The home-based, self-managed standing frame program was suggested as a feasible intervention that could be routinely implemented in clinical practice.
+
+Ferrarello et al. (2015) conducted an RCT evaluating standing frames as an adjunct rehabilitation intervention to improve motor function, autonomy, and mobility due to recent stroke in adults. After a baseline assessment, 75 participants with severe disability due to stroke, all receiving conventional physical therapy, were randomly assigned to adjunctive 20 minutes (n = 24) or 40 minutes (n = 31) of supported standing practice (SSP) or physical therapy only (n = 20). Motor function, autonomy, and mobility were assessed before and after training, and at three months. The study results revealed most outcome measures improved from baseline through the end of treatment, and at follow-up, in all groups. The extent of change was comparable across the three groups. The authors concluded that SSP did not provide any sizeable adjunctive benefit, above and beyond physical therapy, in adult participants with recent stroke.
+
+In a systematic review, Paleg and Livingstone (2015b) evaluated the evidence for all outcomes potentially impacted by a supported standing program in adults with chronic neurological conditions. The primary goal was effectiveness, and the secondary goal was to identify evidence-based dosage recommendations for home-based programs. A standing intervention was defined as being positioned above 60° (from horizontal) for at least 10 minutes for a minimum of five sessions within a 2-week period. Thirty-six studies were included in the systematic review. The results showed that moderate to high quality evidence supported the positive impact of standing on range of motion (ROM) and activity for adults with neurological conditions. The strongest evidence, resulting from level II moderate or high-quality studies, supported impact on ROM for adults with stroke and spinal cord injury. Strong evidence from a high-quality RCT, and other lower quality studies, also supported the benefit of supported standing on activity outcomes such as standing symmetry and ability to maintain a stable standing position for the sub-acute and chronic stroke population. Strong evidence also supported the addition of task-specific training to tilt-table standing for improvement in gait, functional activity, and muscle strength for individuals with sub-acute stroke. Evidence for other outcomes was weak or very weak. Dosage data suggested that use of a standing device should occur for 30 minutes, 5 times a week for positive impact on
+
+Pediatric Gait Trainers and Standing Systems UnitedHealthcare Community Plan Medical Policy
+
+Page 4 of 7 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+most outcomes, including self-care, standing balance, ROM, cardio-respiratory, strength, spasticity, pain, skin, and bladder and bowel function. Though, 60 minutes, 4-6 times a week may be required for positive impact on BMD and mental function.
+
+Paleg et al. (2013) performed a systematic review and made evidence-based clinical recommendations for the dosing of pediatric supported standing programs. When there was an absence of pediatric-specific evidence, recommendations were made based on expert opinion. The systematic review included 30 studies of individuals birth through 21 years of age with atypical development, with or without a neuromuscular diagnosis, including cerebral palsy. The authors concluded that the strongest evidence-based literature supported the use of standing devices to positively affect BMD, lower extremity ROM, hip biomechanics, and spasticity. Thus, there is sufficient support for the use of standing devices as part of a comprehensive 24-hour postural management and activity program for children who are not active in an upright position, non-ambulatory, and/or minimally ambulatory, provided there are no contraindications. Limitations of the systematic review include the paucity of pediatric dosing literature and lack of higher levels of evidence. There was also subjectivity reported in the choices of search and classification parameters, interpretation of the literature, and for the specific clinical recommendations and comments. More research, including higher-levels of studies and well-described case reports, is necessary to define important outcomes, describe clinical reasoning, and determine the effects of pediatric supported standing programs.
+
+In a systematic review, Glickman et al. (2010) investigated the available evidence underlying supported standing use for individuals of all ages, with a neuromuscular diagnosis, based on the Center for Evidence-Based Medicine Levels of Evidence framework. Of 112 unique studies, 39 met the inclusion criteria, 29 with adult and 10 with pediatric participants. In each group of studies were user and therapist survey responses in addition to results of clinical interventions. The data were moderately strong for the use of supported standing for BMD increase, showed some support for decreasing hypertonicity (including spasticity) and improving ROM, and were inconclusive for other benefits of using supported standers for children and adults with neuromuscular disorders. The addition of whole-body vibration (WBV) to supported standing activities appeared a promising trend but empirical data were inconclusive. The survey data from physical therapists and participant users attributed numerous improved outcomes to supported standing: ROM, bowel/bladder, psychological, hypertonicity, and pressure relief/bedsores. BMD was not a reported benefit according to the user group. The authors recommend empirical mechanistic evidence to guide clinical supported standing programs across practice settings and with various-aged participants, particularly when considering a life-span approach to practice.
+
+In a one-group quasi-experimental study, Gibson et al. (2009) studied whether static weight-bearing in a standing frame affected hamstring length and ease of activities of daily living (ADLs) in non-ambulant children with cerebral palsy. Five children were recruited (age range 6-9 years, mean age 7 years 2 months, standard deviation [SD] 1 year 4 months). Participants stood in a standing frame for 1 hour, 5 days per week, for 6 weeks, followed by 6 weeks of not using a standing frame; each phase was repeated. Popliteal angle measurements were made at baseline and weekly throughout the study period. High compliance with the standing regime was achieved (85% of intended sessions completed). Repeated-measures analysis of variance and t-tests showed hamstrings significantly lengthened during standing phases (mean improvement 18.1 degrees, SD 5.5, p < 0.01 for first standing phase; mean improvement 12.1 degrees, SD 7.7, p = 0.03 for second standing phase). A trend for hamstrings to shorten during non-standing phases was observed (mean change -14.0 degrees, SD 4.2, p = 0.02 for first non-standing phase; mean change -7.3 degrees, SD 6.5, p = 0.20 for second non-standing phase). Preliminary evidence that 6 weeks of standing frame use leads to significant improvements in hamstring length in non-ambulant children with cerebral palsy and may increase ease of performance of ADLs was found.
+
+Clinical Practice Guidelines Rehabilitation Engineering and Assistive Technology Society of North America RESNA/Clinician Task Force (CTF) It is the position of RESNA and CTF that the use of supported standing devices, when using a clinical process, are essential for the health and functionality of individuals with difficulty or an inability to stand independently. This position statement was based on a scoping review of the literature, including 42 studies that examined the outcomes of supported standing programs. Standing improves daily living performance and psychosocial well-being. Standing also provides physical benefits, e.g., maintaining or improving ROM, muscle tone, and vital organ capacity. Supported standing is a standard of care and an essential component of medical, habilitative, and rehabilitative care for individuals experiencing difficulty with ambulation. Static supported standing systems impact the joint mobility, musculature, postural alignment, bladder and bowel systems, and cognitive alertness of individuals. Dynamic supported standing systems also improve the functional capacity of seated individuals, enabling a greater ability to perform tasks. Individuals with congenital conditions, neuromuscular conditions, myopathies, or dystrophies are most likely to require a supported standing device. However, when used under clinician supervision and guidance, standing devices may be used by any individual with difficulty
+
+Pediatric Gait Trainers and Standing Systems UnitedHealthcare Community Plan Medical Policy
+
+Page 5 of 7 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+assuming or maintaining an independent standing position. Individual medical and functional history and clinical judgment should always be considered when determining if supported standing is appropriate (Masselink, et al. 2024).
+
+U.S. Food and Drug Administration (FDA)
+
+This section is to be used for informational purposes only. FDA approval alone is not a basis for coverage.
+
+Gait trainers are classified as Class I devices in product category INN and are exempt from 510(k) marketing requirements.
+
+Standing systems may be classified in product categories ION (exerciser, non-measuring), INW (table, mechanical), and IPL (stand-up wheelchair). Devices in product categories ION and INW are Class I devices and are exempt from 510(k) marketing requirements. For additional information on product category IPL, refer to the following website: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm. (Accessed January 14, 2025)
+
+References
+
+Chiu HC, Ada L, Bania TA. Mechanically assisted walking training for walking, participation, and quality of life in children with cerebral palsy. Cochrane Database Syst Rev. 2020 Nov 18;11(11):CD013114.
+
+Ferrarello F, Deluca G, Pizzi A, et al. Passive standing as an adjunct rehabilitation intervention after stroke: a randomized controlled trial. Arch Physiother. 2015 Jul 8;5:2.
+
+Freeman J, Hendrie W, Jarrett L, et al. Assessment of a home-based standing frame programme in people with progressive multiple sclerosis (SUMS): a pragmatic, multi-centre, randomised, controlled trial and cost-effectiveness analysis. Lancet Neurol. 2019 Aug;18(8):736-747.
+
+Gharib NM, El-Maksoud GM, Rezk-Allah SS. Efficacy of gait trainer as an adjunct to traditional physical therapy on walking performance in hemiparetic cerebral palsied children: a randomized controlled trial. Clin Rehabil. 2011 Oct;25(10):924-34.
+
+Gibson SK, Sprod JA, Maher CA. The use of standing frames for contracture management for nonmobile children with cerebral palsy. Int J Rehabil Res. 2009 Dec;32(4):316-23.
+
+Glickman LB, Geigle PR, Paleg GS. A systematic review of supported standing programs. J Pediatr Rehabil Med. 2010;3(3):197-213.
+
+Masselink CE, Detterbeck A, LaBerge NB, et al. RESNA and CTF position on the application of supported standing devices: Current state of the literature. Assist Technol. 2024 Oct 24:1-18.
+
+Paleg G, Livingstone R. Outcomes of gait trainer use in home and school settings for children with motor impairments: a systematic review. Clin Rehabil. 2015a Nov;29(11):1077-91.
+
+Paleg G, Livingstone R. Systematic review and clinical recommendations for dosage of supported home-based standing programs for adults with stroke, spinal cord injury and other neurological conditions. BMC Musculoskelet Disord. 2015b Nov 17;16:358.
+
+Paleg GS, Smith BA, Glickman LB. Systematic review and evidence-based clinical recommendations for dosing of pediatric supported standing programs. Pediatr Phys Ther. 2013 Fall;25(3):232-47.
+
+Qian G, Cai X, Xu K, et al. Which gait training intervention can most effectively improve gait ability in patients with cerebral palsy? A systematic review and network meta-analysis. Front Neurol. 2023 Jan 10;13:1005485.
+
+Valenzuela-Aedo F, Reyes-Moreno C, Balboa-Castillo T. Effectiveness of assisted standing on bone mineral density in children with cerebral palsy. A systematic review. Arch Argent Pediatr. 2024 Dec 1;122(6):e202310251. Erratum in: Arch Argent Pediatr. 2024 Jun 13;122(6):e202410458.
+
+Policy History/Revision Information
+
+Date 07/01/2025
+
+Summary of Changes
+
+Template Update Removed content/language pertaining to the state of Mississippi Application Idaho Added language to indicate this Medical Policy does not apply to the state of Idaho
+
+06/01/2025
+
+Pediatric Gait Trainers and Standing Systems UnitedHealthcare Community Plan Medical Policy
+
+Page 6 of 7 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Date
+
+Summary of Changes
+
+Kansas Added language to indicate this Medical Policy does not apply to the state of Kansas; refer to
+
+the state-specific policy version
+
+Definitions Removed definition of:
+
+05/01/2025
+
+o Gait Trainer o Standing System Supporting Information Updated Description of Services, Clinical Evidence, and References sections to reflect the most
+
+current information
+
+Archived previous policy version CS159.K
+
+Instructions for Use
+
+This Medical Policy provides assistance in interpreting UnitedHealthcare standard benefit plans. When deciding coverage, the federal, state or contractual requirements for benefit plan coverage must be referenced as the terms of the federal, state or contractual requirements for benefit plan coverage may differ from the standard benefit plan. In the event of a conflict, the federal, state or contractual requirements for benefit plan coverage govern. Before using this policy, please check the federal, state or contractual requirements for benefit plan coverage. UnitedHealthcare reserves the right to modify its Policies and Guidelines as necessary. This Medical Policy is provided for informational purposes. It does not constitute medical advice.
+
+UnitedHealthcare may also use tools developed by third parties, such as the InterQual® criteria, to assist us in administering health benefits. The UnitedHealthcare Medical Policies are intended to be used in connection with the independent professional medical judgment of a qualified health care provider and do not constitute the practice of medicine or medical advice.
+
+Pediatric Gait Trainers and Standing Systems UnitedHealthcare Community Plan Medical Policy
+
+Page 7 of 7 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.

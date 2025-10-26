@@ -1,0 +1,1373 @@
+10/15/25, 7:00 PM
+
+LCD - Nerve Blockade for Treatment of Chronic Pain and Neuropathy (L35457)
+
+Local Coverage Determination (LCD)
+
+Nerve Blockade for Treatment of Chronic Pain and Neuropathy
+
+L35457
+
+Links in PDF documents are not guaranteed to work. To follow a web link, please use the MCD
+
+Website.
+
+Contractor Information
+
+Contract Type
+
+Contract Number
+
+Contractor Name
+
+Jurisdiction
+
+States
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02101 - MAC A
+
+J - F
+
+Alaska
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02102 - MAC B
+
+J - F
+
+Alaska
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02201 - MAC A
+
+J - F
+
+Idaho
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02202 - MAC B
+
+J - F
+
+Idaho
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02301 - MAC A
+
+J - F
+
+Oregon
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02302 - MAC B
+
+J - F
+
+Oregon
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02401 - MAC A
+
+J - F
+
+Washington
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35457
+
+1/20
+
+10/15/25, 7:00 PM
+
+LCD - Nerve Blockade for Treatment of Chronic Pain and Neuropathy (L35457)
+
+Contract
+
+Contract
+
+Contractor Name
+
+Type
+
+Number
+
+Jurisdiction
+
+States
+
+Noridian Healthcare
+
+A and B
+
+02402 -
+
+J - F
+
+Washington
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Noridian Healthcare
+
+A and B
+
+03101 -
+
+J - F
+
+Arizona
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Noridian Healthcare
+
+A and B
+
+03102 -
+
+J - F
+
+Arizona
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+03201 - MAC A
+
+J - F
+
+Montana
+
+Noridian Healthcare
+
+A and B
+
+03202 -
+
+J - F
+
+Montana
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Noridian Healthcare
+
+A and B
+
+03301 -
+
+J - F
+
+North
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Dakota
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+03302 - MAC B
+
+J - F
+
+North Dakota
+
+Noridian Healthcare
+
+A and B
+
+03401 -
+
+J - F
+
+South
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Dakota
+
+Noridian Healthcare
+
+A and B
+
+03402 -
+
+J - F
+
+South
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Dakota
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+03501 - MAC A
+
+J - F
+
+Utah
+
+Noridian Healthcare
+
+A and B
+
+03502 -
+
+J - F
+
+Utah
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35457
+
+2/20
+
+10/15/25, 7:00 PM
+
+LCD - Nerve Blockade for Treatment of Chronic Pain and Neuropathy (L35457)
+
+Contract Type
+
+Contract Number
+
+Contractor Name
+
+Jurisdiction
+
+States
+
+Noridian Healthcare
+
+A and B
+
+03601 -
+
+J - F
+
+Wyoming
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Noridian Healthcare
+
+A and B
+
+03602 -
+
+J - F
+
+Wyoming
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+LCD Information
+
+Document Information
+
+LCD ID
+
+L35457
+
+LCD Title
+
+Nerve Blockade for Treatment of Chronic Pain and Neuropathy
+
+Proposed LCD in Comment Period
+
+N/A
+
+Source Proposed LCD
+
+DL35457
+
+Original Effective Date
+
+For services performed on or after 10/01/2015
+
+Revision Effective Date
+
+For services performed on or after 09/04/2022
+
+Revision Ending Date
+
+N/A
+
+Retirement Date
+
+N/A
+
+Notice Period Start Date
+
+07/21/2022
+
+Notice Period End Date
+
+09/03/2022
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35457
+
+3/20
+
+10/15/25, 7:00 PM
+
+LCD - Nerve Blockade for Treatment of Chronic Pain and Neuropathy (L35457)
+
+CPT codes, descriptions, and other data only are copyright 2024 American Medical Association. All Rights Reserved. Applicable FARS/HHSARS apply.
+
+Fee schedules, relative value units, conversion factors and/or related components are not assigned by the AMA, are not
+
+part of CPT, and the AMA is not recommending their use. The AMA does not directly or indirectly practice medicine or dispense medical services. The AMA assumes no liability for data contained or not contained herein.
+
+Current Dental Terminology © 2024 American Dental Association. All rights reserved.
+
+Copyright © 2025, the American Hospital Association, Chicago, Illinois. Reproduced with permission. No portion of the AHA
+
+copyrighted materials contained within this publication may be copied without the express written consent of the AHA.
+
+AHA copyrighted materials including the UB‐04 codes and descriptions may not be removed, copied, or utilized within any
+
+software, product, service, solution, or derivative work without the written consent of the AHA. If an entity wishes to utilize any AHA materials, please contact the AHA at 312‐893‐6816.
+
+Making copies or utilizing the content of the UB‐04 Manual, including the codes and/or descriptions, for internal purposes,
+
+resale and/or to be used in any product or publication; creating any modiﬁed or derivative work of the UB‐04 Manual and/or codes and descriptions; and/or making any commercial use of UB‐04 Manual or any portion thereof, including the codes
+
+and/or descriptions, is only authorized with an express license from the American Hospital Association. The American
+
+Hospital Association (the "AHA") has not reviewed, and is not responsible for, the completeness or accuracy of any information contained in this material, nor was the AHA or any of its afﬁliates, involved in the preparation of this material,
+
+or the analysis of information provided in the material. The views and/or positions presented in the material do not
+
+necessarily represent the views of the AHA. CMS and its products and services are not endorsed by the AHA or any of its
+
+afﬁliates.
+
+Issue
+
+Issue Description
+
+Need to remove coverage for cervical and thoracic epidural blocks as it will be addressed in the Multi-Jurisdictional MACs policy Epidural Steroid Injections for Pain Management LCD
+
+and the associated Billing and Coding Epidural Steroid Injections for Pain Management LCA effective 6/19/2022.
+
+Issue - Explanation of Change Between Proposed LCD and Final LCD
+
+No Comments received within the speciﬁed Comment Period. No changes made to this Final LCD from the Proposed LCD.
+
+CMS National Coverage Policy
+
+Title XVIII of the Social Security Act, section 1862(a)(1)(A). This section allows coverage and payment for only those services that are considered to be medically reasonable and necessary.
+
+Title XVIII of the Social Security Act, section 1833(e). This section prohibits Medicare payment for any claim which lacks the necessary information to process the claim.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35457
+
+4/20
+
+10/15/25, 7:00 PM
+
+LCD - Nerve Blockade for Treatment of Chronic Pain and Neuropathy (L35457)
+
+Title XVIII of the Social Security Act, section 1862 (a)(7) excludes routine physical evaluations.
+
+PUB 100-03 Medicare National Coverage Determinations (NCD) Manual- Chapter 1 Section: 30.3 – Acupuncture 150.6 - Vitamin B12 Injections to Strengthen Tendons, Ligaments, etc of the Foot
+
+150.7 - Prolotherapy, Joint Sclerotherapy, and Ligamentous Injections with Sclerosing Agents
+
+Coverage Guidance
+
+Coverage Indications, Limitations, and/or Medical Necessity
+
+For the purposes of this LCD and consistent with standard community understanding and the recommendations of specialty societies, pain is deﬁned as an unpleasant sensory and emotional experience associated with actual or potential tissue damage. Pain is chronic
+
+when it has been present, continuously or intermittently, despite therapy for three months or more.
+
+Nerve blocks cause the temporary interruption of conduction of impulses in peripheral
+
+nerves or nerve trunks by the injection of local anesthetic solutions. Their utility in the diagnosis and treatment of non-neuropathic pain and speciﬁc syndromes mediated by sympathetic nervous system overactivity has been established.
+
+Diagnostic - to determine the source of pain e.g., to identify or pinpoint a nerve that acts as a pathway for pain; to determine the type of nerve that conducts the pain; to distinguish between pain that is central (within the brain and spinal cord) or peripheral (outside the
+
+brain and spinal cord) in origin; or to determine whether a neurolytic block or surgical lysis of the nerve should be performed. The type of diagnostic test may include injecting saline to stimulate pain or injecting an anesthetic agent to evaluate the patient's response, as an
+
+initial diagnostic step so that other pain relief options may be considered.
+
+Therapeutic - to treat painful conditions that respond to nerve blocks (e.g., celiac block for pain of pancreatic cancer) and /or “inappropriate” sympathetic nervous system activity. An
+
+appropriate injection of local anesthetic induces a temporary interruption in the conduction of impulses by peripheral nerves or nerve trunks. Longer-lasting or permanent blockade may be induced with the injection of neurolytic agents and/or application of thermal (not pulsed) radiofrequency. When blockade has been of value in the relief of acute or chronic cancer
+
+related pain, somatic or epidural blockade may be maintained through the infusion of local anesthetics via indwelling catheter.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35457
+
+5/20
+
+10/15/25, 7:00 PM
+
+LCD - Nerve Blockade for Treatment of Chronic Pain and Neuropathy (L35457)
+
+Prior to blockade, all patients with pain complaints require an evaluation that includes, at a minimum, an assessment of the source of the pain and treatment of any underlying pathology. Evaluation must be documented in the patient’s records. In addition, those
+
+patients who do not respond to injections or otherwise continue with persistent or poorly responsive pain should be referred for a multi-disciplinary or other collaborative comprehensive evaluation.
+
+Imaging guidance with ﬂuoroscopy, CT or ultrasound may be necessary to perform somatic nerve blockade. Only ﬂuoroscopic or CT guidance may be covered for epidural injections. It is inappropriate to bill for ﬂuoroscopy (CPT codes 77002 or 77003) with a 59 modiﬁer when
+
+®
+
+the procedure(s) billed on that date of service for the same patient by the same provider are included in the CPT description of the procedure(s) performed.
+
+®
+
+Provider Qualiﬁcations
+
+The CMS Manual System, Pub. 100-8, Program Integrity Manual, Chapter 13, Section 5.1 (http://www.cms.hhs.gov/manuals/downloads/pim83c13.pdf) states that "reasonable and necessary" services are "ordered and/or furnished by qualiﬁed personnel." Services will be considered medically reasonable and necessary only if performed by appropriately trained
+
+providers.
+
+Patient safety and quality of care mandate that healthcare professionals who perform
+
+Nerve Blocks are appropriately trained and/or credentialed by a formal residency/fellowship program and/or are certiﬁed by either an accredited and nationally recognized organization or by a post-graduate training course accredited by an established national accrediting body or accredited professional training program. If the practitioner works in a hospital facility at any time and/or is credentialed by a hospital for any procedure, the practitioner must be credentialed to perform the same procedure in the outpatient setting. At a
+
+minimum, training must cover and develop an understanding of anatomy and drug pharmacodynamics and kinetics as well as proﬁciency in diagnosis and management of disease, the technical performance of the procedure and utilization of the required associated imaging modalities.
+
+PERIPHERAL NEUROPATHY
+
+Nerve blockade and/or electrical stimulation are non-covered for the treatment of metabolic peripheral neuropathy. The peer-reviewed medical literature has not demonstrated the efﬁcacy or clinical utility of nerve blockade or electrical stimulation, alone or used together, in the diagnosis and/or treatment of neuropathic pain. • The use of imaging guidance (i.e. ultrasound, CT, or ﬂuoroscopic guidance) in conjunction with these non-covered injections is also considered not medically necessary.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35457
+
+6/20
+
+10/15/25, 7:00 PM
+
+LCD - Nerve Blockade for Treatment of Chronic Pain and Neuropathy (L35457)
+
+The use of electrostimulation alone for the treatment of multiple neuropathies or peripheral neuropathies caused by underlying systemic diseases is not medically reasonable and necessary. These procedures are considered investigational. Medical management using systemic medications is clinically indicated for the treatment of these conditions.
+
+SOMATIC NERVE BLOCK
+
+Radiculopathy and other neurological deﬁcits require further evaluation and management prior to performing the blocks.
+
+EPIDURAL BLOCK (Cervical and Thoracic)
+
+This policy does not cover epidural blocks, which are covered in another Noridian policy.
+
+Please refer to L39242/A58995.
+
+Summary of Evidence
+
+NA
+
+Analysis of Evidence (Rationale for Determination)
+
+NA
+
+General Information
+
+Associated Information General Information
+
+Please refer to LCD 34076 for coverage criteria for Injections - Tendon, Ligament, Ganglion Cyst, Tunnel Syndromes and Morton's Neuroma. Access this LCD under Related Local
+
+Coverage Documents below.
+
+Utilization Guidelines
+
+Treatment protocols utilizing multiple injections per day on multiple days per week for the treatment of multiple neuropathies or peripheral neuropathies caused by underlying
+
+systemic diseases are not considered medically necessary.
+
+A peripheral nerve injection may be allowed during the reconsideration process if the medical record supports a medically necessary service.
+
+Sources of Information
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35457
+
+7/20
+
+10/15/25, 7:00 PM
+
+LCD - Nerve Blockade for Treatment of Chronic Pain and Neuropathy (L35457)
+
+1. Bril V, England J. Evidence-Based Guideline: Treatment of Painful Diabetic Neuropathy. Report of the American Academy of Neurology, the American Association of Neuromuscular and Electrodiagnostic Medicine, and the American Academy of Physical Medicine and Rehabilitation. Neurology. 2011: May 17; 76(20):1758-65. NGC: 008504.
+
+2. Cernak C, Marriot E, et al. Electrical current and local anesthetic combination successfully treats pain associated with diabetic neuropathy: Practical Pain Management; April 2012
+
+online at: http://www.practicalpainmanagement.com/issue/1203
+
+3. Chaudhry V, Stevens JC, et al. Practice advisory: utility of surgical decompression for treatment of diabetic neuropathy: Report of the Therapeutics and Technology Assessment Subcommittee of the American Academy of Neurology. Neurology. 2006;2:1805-1808.
+
+4. Hamza MA, White PF, Craig WF, et al. Percutaneous Electrical Nerve Stimulation: A Novel Analgesic Therapy for Diabetic Neuropathic Pain. Diabetes Care. 2000: March; 23(3):365- 370.
+
+5. Joint section on pain, the American Association of Neurological Surgeons and Congress of Neurological Surgeons.
+
+6. Karmakar MK et al. Thoracic paravertebral block for management of pain associated with multiple fractured ribs in patients with concomitant lumbar spinal trauma. Reg Anesth Pain Med 2001; 26:169-173
+
+7. Merskey H, Bogduk N. Description of chronic pain syndromes and deﬁnitions of pain terms. In: Classiﬁcation of Chronic Pain, 2nd ed. Seattle, WA: IASP press; 1994.
+
+8. Naja MZ et al. Nerve-stimulator guided paravertebral blockade vs. general anesthesia for breast surgery. Euro J. Anaesth. 2003;20:897-903.
+
+9. Noridian Intermediary Advisory Committee (IAC) on Pain
+
+10. Odell RH, Sorgnard R, New technique combines electrical and local anesthetic for pain management: Practical Pain Management; June 2011: online at
+
+http://www.practicalpainmanagement.com>/issue/1106
+
+11. Yale University School of Medicine, Department of Pain Management
+
+Bibliography
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35457
+
+8/20
+
+10/15/25, 7:00 PM
+
+LCD - Nerve Blockade for Treatment of Chronic Pain and Neuropathy (L35457)
+
+NA
+
+Revision History Information
+
+Revision History
+
+Revision History
+
+Revision History
+
+Date
+
+Number
+
+Explanation
+
+Reasons for Change
+
+09/04/2022
+
+R18
+
+No Comments received within the speciﬁed Comment Period. No changes made to this
+
+Other (No Comments received within the speciﬁed Comment Period. No changes
+
+Final LCD from the Proposed LCD.
+
+made to this Final LCD from the Proposed LCD.)
+
+02/03/2022
+
+R17
+
+Under General Information removed the broken link to LCD 34076 - Injections - Tendon, Ligament,
+
+Typographical Error
+
+Ganglion Cyst, Tunnel Syndromes and Morton's Neuroma and added the sentence “Access this LCD under Related Local Coverage Documents below.”
+
+At this time 21st Century Cures Act will apply to new and revised LCDs that restrict coverage which requires comment
+
+and notice. This revision is not a restriction to the coverage determination; and, therefore not all the
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35457
+
+9/20
+
+10/15/25, 7:00 PM
+
+LCD - Nerve Blockade for Treatment of Chronic Pain and Neuropathy (L35457)
+
+Revision History Date
+
+Revision History Number
+
+Revision History Explanation
+
+Reasons for Change
+
+ﬁelds included on the LCD are applicable as noted in
+
+this policy.
+
+12/01/2019
+
+R16
+
+The LCD is revised to remove CPT/HCPCS codes in the Keyword Section of the LCD.
+
+Other (The LCD is revised to remove CPT/HCPCS codes in the Keyword Section of the LCD. )
+
+At this time 21st Century Cures Act will apply to new and revised LCDs that restrict coverage which requires comment and notice. This revision is
+
+not a restriction to the coverage determination; and, therefore not all the ﬁelds included on the LCD are applicable as noted in this policy.
+
+12/01/2019
+
+R15
+
+As required by CR 10901, all billing and coding
+
+Revisions Due To Code Removal
+
+information has been moved to the companion article; this article is linked to the LCD.
+
+At this time 21st Century Cures Act will apply to new and revised LCDs that restrict coverage which requires comment and notice. This revision is
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35457
+
+10/20
+
+10/15/25, 7:00 PM
+
+LCD - Nerve Blockade for Treatment of Chronic Pain and Neuropathy (L35457)
+
+Revision History Date
+
+Revision History Number
+
+Revision History Explanation
+
+Reasons for Change
+
+not a restriction to the
+
+coverage determination; and, therefore not all the ﬁelds included on the LCD are applicable as noted in this policy.
+
+01/01/2019
+
+R14
+
+The LCD revised to remove deleted CPT code 64508
+
+Revisions Due To CPT/HCPCS Code
+
+in Group 1 effective 1/1/2019.
+
+Changes
+
+At this time, 21st Century Cures Act will apply to new and revised LCDs
+
+that restrict coverage which requires comment and notice. This revision is not a restriction to the coverage determination; and therefore, not all the ﬁelds included in the LCD
+
+are applicable as noted in this policy.
+
+10/01/2017
+
+R13
+
+6/25/18-At this time 21st
+
+Other (Approve Annual
+
+Century Cures Act will apply to new and revised LCD's that restrict coverage which requires comment and notice. This revision is not a restriction to the coverage
+
+Review Date to relate LCD to a LCA.)
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35457
+
+11/20
+
+10/15/25, 7:00 PM
+
+LCD - Nerve Blockade for Treatment of Chronic Pain and Neuropathy (L35457)
+
+Revision History Date
+
+Revision History Number
+
+Revision History Explanation
+
+Reasons for Change
+
+determination; and, therefore not all the ﬁelds
+
+included on the LCD are applicable as noted in this
+
+policy.
+
+No change in coverage
+
+made for this LCD. Approved addition of
+
+Annual Review Date to
+
+relate LCD to Local Coverage Article A56034
+
+Peripheral Nerve Blocks Non-covered for the
+
+Treatment of Diabetic Peripheral Neuropathic
+
+Pain.
+
+10/01/2017
+
+R12
+
+02/12/2018-At this time 21st Century Cures Act
+
+Provider Education/Guidance
+
+will apply to new and revised LCD's that restrict
+
+Creation of Uniform LCDs Within a MAC
+
+coverage which requires comment and notice. This
+
+Jurisdiction
+
+revision is not a restriction
+
+to the coverage determination; and,
+
+therefore not all the ﬁelds included on the LCD are
+
+applicable as noted in this policy.
+
+Removed 64455 & 64632 with DX codes G56.01-
+
+G56.03, G57.51-G57.53 and G57.61-G57.63 as
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35457
+
+12/20
+
+10/15/25, 7:00 PM
+
+LCD - Nerve Blockade for Treatment of Chronic Pain and Neuropathy (L35457)
+
+Revision History
+
+Revision History
+
+Revision History
+
+Date
+
+Number
+
+Explanation
+
+Reasons for Change
+
+coverage criteria is explained in LCD L34076.
+
+Removed duplicate
+
+diagnosis codes from the ICD-10 Codes that DO
+
+NOT Support Medical Necessity section which
+
+are listed in the Group 1 Asterisk section and noted
+
+as non-covered when
+
+billed with Group 2 CPT codes.
+
+10/01/2017
+
+R11
+
+01/16/18-At this time 21st Century Cures Act will
+
+Provider Education/Guidance
+
+apply to new and revised LCD's that restrict
+
+Creation of Uniform LCDs Within a MAC
+
+coverage which requires comment and notice. This
+
+Jurisdiction
+
+revision is not a restriction
+
+to the coverage determination; and,
+
+therefore not all the ﬁelds included on the LCD are
+
+applicable as noted in this policy.
+
+Clariﬁed it is inappropriate to bill for ﬂuoroscopy
+
+®
+
+(CPT codes 77002 or 77003) with a 59 modiﬁer
+
+when the procedure(s)
+
+billed on that date of service for the same
+
+patient by the same
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35457
+
+13/20
+
+10/15/25, 7:00 PM
+
+LCD - Nerve Blockade for Treatment of Chronic Pain and Neuropathy (L35457)
+
+Revision History
+
+Revision History
+
+Revision History
+
+Date
+
+Number
+
+Explanation
+
+Reasons for Change
+
+provider are included in the CPT description of
+
+®
+
+the procedure(s)
+
+performed under Coverage Indications,
+
+Limitations and/or Medical Necessity
+
+10/01/2017
+
+R10
+
+08/24/2017: At this time 21st Century Cures Act
+
+Revisions Due To ICD- 10-CM Code Changes
+
+will apply to new and
+
+revised LCDs that restrict coverage which requires
+
+comment and notice. This revision is not a restriction
+
+to the coverage determination; and,
+
+therefore not all the ﬁelds
+
+included on the LCD are applicable as noted in this
+
+policy.
+
+Effective DOS 10/01/2017 the following ICD-10-CM codes were added or
+
+deleted:
+
+Added:
+
+M48.062
+
+The following ICD-10 codes were deleted from
+
+the ICD-10 Codes that Support Medical Necessity
+
+ﬁeld:
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35457
+
+14/20
+
+10/15/25, 7:00 PM
+
+LCD - Nerve Blockade for Treatment of Chronic Pain and Neuropathy (L35457)
+
+Revision History
+
+Revision History
+
+Revision History
+
+Date
+
+Number
+
+Explanation
+
+Reasons for Change
+
+M48.06 was deleted from Group 1
+
+01/01/2017
+
+R9
+
+LCD revised to add CPT
+
+Creation of Uniform
+
+codes 62320, 62321, 62324 and 62325 to
+
+LCDs Within a MAC Jurisdiction
+
+Group 1 effective 01/01/2017. No change in
+
+Revisions Due To CPT/HCPCS Code
+
+coverage has been made.
+
+Changes
+
+CPT codes 62310 and
+
+62318 were are deleted from Group 1 effective
+
+12/31/2016
+
+11/10/2016
+
+R8
+
+This ﬁnal LCD, effective 11/10/2016, combines JFA
+
+Creation of Uniform LCDs Within a MAC
+
+L35458 into the JFB L35457 LCD so that both
+
+Jurisdiction
+
+JFA and JFB contractor numbers will have the
+
+same ﬁnal MCD LCD
+
+number L35457. Coverage will remain the same as
+
+the coverage effective 10/01/2016.
+
+10/01/2016
+
+R7
+
+The LCD is revised to add
+
+Revisions Due To ICD-
+
+the new ICD-10 codes effective 10/1/2016:
+
+10-CM Code Changes
+
+G56.03, G56.13, G56.23, G56.33, G56.43, G56.92,
+
+G57.03, G57.13, G57.23,
+
+G57.33, G57.43, G57.53,
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35457
+
+15/20
+
+10/15/25, 7:00 PM
+
+LCD - Nerve Blockade for Treatment of Chronic Pain and Neuropathy (L35457)
+
+Revision History
+
+Revision History
+
+Revision History
+
+Date
+
+Number
+
+Explanation
+
+Reasons for Change
+
+G57.63*, G57.73,
+
+M50.121, M50.122, M50.123, M50.221,
+
+M50.222, M50.223, M50.321, M50.322 and
+
+M50.323.
+
+The following ICD-10
+
+codes were deleted from Group 1 effective
+
+10/1/2016: M50.12, M50.22, M50.32.
+
+The following ICD-10 code
+
+descriptions were
+
+changed effective 10/1/2016 in Group 1:
+
+S54.8X1A, S54.8X1D, S54.8X1S, S54.8X2A,
+
+S54.8X2D, S54.8X2S.
+
+01/01/2016
+
+R6
+
+R6 LCD revised to add ICD-10-CM codes R10.11-
+
+Creation of Uniform LCDs Within a MAC
+
+R10-13, R10.31-R10.33 & asterisks to ICD-10-CM
+
+Jurisdiction
+
+codes G57.91-G57.92 in
+
+the Group 1 ICD-10 codes that Support Medical
+
+Necessity. Add G57.91- G57.92 codes to the Group
+
+1: Medical Necessity ICD- 10 codes Asterisk
+
+Explanation, added G57.91-G57.92 to the
+
+Group 1 Paragraph & list
+
+of Codes in the ICD-10-
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35457
+
+16/20
+
+10/15/25, 7:00 PM
+
+LCD - Nerve Blockade for Treatment of Chronic Pain and Neuropathy (L35457)
+
+Revision History
+
+Revision History
+
+Revision History
+
+Date
+
+Number
+
+Explanation
+
+Reasons for Change
+
+CM Codes that DO NOT
+
+Support Medical Necessity section. Also added the
+
+following statements: CPT codes 64450 or 64640
+
+may not be billed with diagnosis G57.61 and
+
+G57.62. The correct CPT
+
+procedure codes are 64455 or 64632 when
+
+billing for the diagnosis of Morton’s Neuroma to
+
+Group 1 Paragraph in the CPT/HCPCS Code Section;
+
+and G57.61, G57.62 - The
+
+correct CPT procedure codes are 64455 or 64632
+
+when billing for the diagnosis of Morton’s
+
+Neuroma. CPT codes 64450 or 64640 may not
+
+be billed with diagnosis
+
+G57.61, G57.62 to the Group1: Medical Necessity
+
+ICD-10 Codes Asterisk Explanation.
+
+01/01/2016
+
+R5
+
+R5 - Clariﬁed when
+
+Other (Clariﬁcation of
+
+duplicated ICD-10-CM codes G58.7, G58.8, G58.9
+
+when duplicated ICD- 10 codes are allowed
+
+G59, M54.10 and M79.2 are allowed and denied in
+
+and denied when billed with 64450.)
+
+Group 2 Paragraph, Group
+
+1 Medical Necessity ICD- 10 Codes Asterisk
+
+Explanation and Group 1
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35457
+
+17/20
+
+10/15/25, 7:00 PM
+
+LCD - Nerve Blockade for Treatment of Chronic Pain and Neuropathy (L35457)
+
+Revision History
+
+Revision History
+
+Revision History
+
+Date
+
+Number
+
+Explanation
+
+Reasons for Change
+
+Paragraph in the ICD-10
+
+Codes that DO NOT Support Medical Necessity
+
+01/01/2016
+
+R4
+
+R4 LCD revised to add
+
+Revisions Due To
+
+CPT codes 64461-64463 to Group 1 of the
+
+CPT/HCPCS Code Changes
+
+CPT/HCPCS Codes section and the following
+
+CPT/HCPCS codes were
+
+deleted: 64412 was deleted from Group 1 per
+
+2016 CPT/HCPCS update.
+
+10/01/2015
+
+R3
+
+LCD revision expands
+
+Other (Expansion of
+
+coverage to include codes
+
+coverage to include
+
+with the 7th character extender “S” for S14, S24,
+
+codes with the 7th character extender “S”
+
+S34, S44, S54, S64, S74, S84 and S94 codes that
+
+for S14, S24, S34, S44, S54, S64, S74, S84
+
+are currently listed in the policy as covered with “A”
+
+and S94 codes that are currently listed in
+
+& “D” character extenders.
+
+the policy as covered
+
+with “A” & “D” character extenders.)
+
+10/01/2015
+
+R2
+
+The LCD is revised to add the sentence "CPT code
+
+Risk Identiﬁed by the Ofﬁce of Inspector
+
+64450 may not be billed with diagnosis G57.61,
+
+General (OIG)
+
+G57.62. The correct CPT
+
+procedure code is 64455 when billing for the
+
+diagnosis of Morton’s
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35457
+
+18/20
+
+10/15/25, 7:00 PM
+
+LCD - Nerve Blockade for Treatment of Chronic Pain and Neuropathy (L35457)
+
+Revision History
+
+Revision History
+
+Revision History
+
+Date
+
+Number
+
+Explanation
+
+Reasons for Change
+
+Neuroma" in the
+
+CPT/HCPCS section and the "Medical Necessity
+
+ICD-9 Codes Asterisk Explanation" for Group 1.
+
+10/01/2015
+
+R1
+
+This LCD is revised to
+
+Revisions Due To ICD-
+
+reﬂect corrections made to the ICD-9 version.
+
+10-CM Code Changes
+
+Associated Documents
+
+Attachments
+
+N/A
+
+Related Local Coverage Documents Articles
+
+A52725 - Billing and Coding: Nerve Blockade for Treatment of Chronic Pain and Neuropathy
+
+A59155 - Response to Comments: Nerve Blockade for Treatment of Chronic Pain and Neuropathy LCDs
+
+DL35457 - Nerve Blockade for Treatment of Chronic Pain and Neuropathy (MCD Archive Site)
+
+Related National Coverage Documents
+
+NCDs
+
+30.3 - Acupuncture
+
+150.7 - Prolotherapy, Joint Sclerotherapy, and Ligamentous Injections with Sclerosing
+
+Agents 150.6 - Vitamin B12 Injections to Strengthen Tendons, Ligaments, etc., of the Foot
+
+Public Versions
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35457
+
+19/20
+
+10/15/25, 7:00 PM
+
+LCD - Nerve Blockade for Treatment of Chronic Pain and Neuropathy (L35457)
+
+Updated On
+
+Effective Dates
+
+Status
+
+07/14/2022
+
+09/04/2022 - N/A
+
+Currently in Effect
+
+You are here
+
+Some older versions have been archived. Please visit the MCD Archive Site
+
+to retrieve
+
+them.
+
+Keywords
+
+Nerve block
+
+Peripheral Somatic
+
+Cervical and Thoracic
+
+Pain Epidural
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35457
+
+20/20

@@ -1,0 +1,511 @@
+Subject: Epidural Steroid Injections for Chronic Back Pain
+
+Original Effective Date: 7/5/2007
+
+Guidance Number: MCG-032
+
+12/17/2008, 12/14/11, 2/27/13, 12/11/13, 6/12/14
+
+Revision Date(s):
+
+Medical Coverage Guidance Approval Date: 6/25/14
+
+PREFACE
+
+This Medical Guidance is intended to facilitate the Utilization Management process. It expresses Molina's determination as to whether certain services or supplies are medically necessary, experimental, investigational, or cosmetic for purposes of determining appropriateness of payment. The conclusion that a particular service or supply is medically necessary does not constitute a representation or warranty that this service or supply is covered (i.e., will be paid for by Molina) for a particular member. The member's benefit plan determines coverage. Each benefit plan defines which services are covered, which are excluded, and which are subject to dollar caps or other limits. Members and their providers will need to consult the member's benefit plan to determine if there are any exclusions or other benefit limitations applicable to this service or supply. If there is a discrepancy between this policy and a member's plan of benefits, the benefits plan will govern. In addition, coverage may be mandated by applicable legal requirements of a State, the Federal government or CMS for Medicare and Medicaid members. CMS's Coverage Database can be found on the following website: http://www.cms.hhs.gov/center/coverage.asp.
+
+FDA INDICATIONS
+
+A number of steroid formulations have been approved by the FDA, but none are specifically approved for epidural injection. 2
+
+CENTERS FOR MEDICARE AND MEDICAID SERVICES (CMS)
+
+The coverage directive(s) and criteria from an existing National Coverage Determination (NCD) or Local Coverage Determination (LCD) will supersede the contents of this Molina medical coverage guidance (MCG) document and provide the directive for all Medicare members. The directives from this MCG document may be followed if there are no available NCD or LCD documents available and outlined below.
+
+Medicare does not have a national coverage determination (NCD) for epidural injections for spinal pain. There are existing local coverage determinations (LCD) outlining various indications and limitations for coverage. 3
+
+INITIAL COVERAGE CRITERIA
+
+Epidural corticosteroid injections (ESI) (anesthetic combined with corticosteroid) are considered medically necessary and may be authorized for chronic refractory back pain (lumbar) when all of the following criteria are met: [ALL]
+
+ Adults who are age 18 years or older; and
+
+ Chronic back pain is defined as persisting beyond 3 months 48: [ALL]
+
+o Affecting activity of daily living functional ability: > 4 on the NRS Pain Rating Scale* o Unresponsive to the following methods of pain control:
+
+ A trial of conservative treatment modalities have been tried and failed for a minimum of 3
+
+months: [ALL]
+
+Page 1 of 18
+
+ Medications: NSAIDS, muscle relaxants, corticosteroids, antidepressants,
+
+anticonvulsants, or opiates;
+
+ activity modification; and  physical therapy
+
+ A comprehensive pain evaluation has been performed by a practitioner with pain management expertise in conjunction with a comprehensive pain management treatment plan (e.g., medications, rehabilitation and psychological assessment and intervention); and
+
+ There is documented lumbar nerve root compression/radiculopathy due to herniated nucleus pulpous
+
+NOT spinal stenosis 54 confirmed by CT, MRI or nerve conduction velocity testing; and
+
+ There are no existing contraindications to the procedure as outlined under the exclusion section of this
+
+document; and
+
+ Other spinal pathology such as spinal tumors, cauda equina syndrome, spinal cord compression,
+
+neurological abnormalities has been ruled out by CT or MRI, or non-spinal pain has been ruled out.
+
+The Numeric Rating Scale (NRS-11): Rating Pain Level 51
+
+0: No Pain 1 – 3: Mild Pain (nagging, annoying, interfering little with ADLs) 4 – 6: Moderate Pain (interferes significantly with ADLs) 7 – 10: Severe Pain (disabling; unable to perform ADLs)
+
+ In the diagnostic phase: [ALL]
+
+o A maximum of two injections (anesthetic combined with corticosteroid ) may be administered 2 weeks apart in the diagnostic phase, which helps to confirm the suspected pain generator and to determine whether the injections provide pain relief; and
+
+o A second injection is considered NOT medically necessary if there is an inadequate response to the
+
+first injection; and
+
+o If the patient does not experience 80% symptom or pain relief (using visual analog scale or verbal descriptor scale) for a minimum of 8 weeks following the second injection, further injections are considered not medically necessary and may NOT be authorized.
+
+ In the therapeutic phase: [ALL] 54
+
+o Documentation of a successful diagnostic phase must be provided to receive a therapeutic injection
+
+(e.g., 80% symptom or pain relief for a minimum of 8 weeks); and
+
+o A patient must be experiencing a return of pain or deterioration in function to receive a therapeutic
+
+injection; and
+
+o Limited to 2 ESI per joint level per year; and 54 o ESI cannot be performed on the same day with trigger point injections, facet join injections, stellate
+
+ganglion blocks, and sacroiliac blocks; and 54
+
+o The patient must experience 80% pain or symptom relief for a minimum of 8 weeks following each
+
+therapeutic injection to obtain a subsequent injection: [ALL] 54
+
+Page 2 of 18
+
+ Documented decrease in the doses of pain medications; and  Documented improvement in functional response; and
+
+o Further injections are considered not medically necessary and may NOT be authorized if 80% pain
+
+relief for 8 weeks is not achieved; and
+
+o Initial authorization is good for a one year period. Any further injection procedures require prior
+
+authorization using therapeutic injection criteria.
+
+Note: *A rolling calendar year is twelve months after the event, beginning and ending in the same month the initial event took place; (e.g., first diagnostic injection is given in December 2013, the rolling calendar year would end in December 2014)
+
+Note: Guideline recommendations are mainly obtained from the American Society of Interventional Pain Physicians 2009 report. 37 49 The injection limitations are based upon potential risks associated with the use of large doses of steroids.
+
+COVERAGE EXCLUSIONS
+
+Epidural Steroid Injections (ESIs) are considered not medically necessary and may not be authorized for the any of the following conditions:
+
+ Cervical and/or Thoracic Radiculopathy 53  Chronic low back pain and/or sciatica when ≥ 3 months of conservative therapy has not been
+
+documented and shown to fail by using pain scale information pre and post conservative therapy  Chronic low back pain and/or sciatica when conservative therapy has failed and when a steroid is given
+
+without an anesthetic 1
+
+ Therapeutic injections following an unsuccessful diagnostic phase or first therapeutic injection that was
+
+ineffective in relieving pain by 80% for a minimum of 8 weeks as noted through an objective assessment of pain via member interview using a standardized pain assessment tool (e.g., visual analog scale, verbal descriptor scale) 37 49
+
+ A planned series of injections regardless of the patient’s outcome (e.g., series of three injections) 50  Repeat epidural injections when significant improvement has occurred after the initial injection or any
+
+subsequent injection. Repeat injections should only be performed upon return of pain or deterioration in functional status.
+
+ Requests for injections that exceed the outlined parameters
+
+The following are considered contraindications to the procedure and require physician documentation 1:
+
+ Known allergies to contrast agents, local anesthetics or corticosteroids
+
+ **History of bleeding disorders or current use of medications that may increase the risk of bleeding
+
+should be evaluated for potential exclusion
+
+ Active infection locally or systemically, spinal stenosis resulting in intraspinal obstruction, or previous
+
+fusion at the indicated spinal level
+
+Page 3 of 18
+
+ No epidural space, an altered epidural space as a result of previous surgery, spinal compression or
+
+congenital anatomic anomalies
+
+ Other spinal pathology such as spinal tumors, cauda equina syndrome, spinal cord compression
+
+ Co-morbidities that can be exacerbated by steroid use such as severe congestive heart failure, diabetes,
+
+and poorly controlled hypertension and other unstable medical conditions
+
+ Fluoroscopy use in pregnant women
+
+** NOTE: These members must achieve an appropriate laboratory value for safety prior to the procedure. The physician monitoring the anticoagulant therapy should be consulted prior to stopping the therapy and provide a recommendation for length of time to stop therapy before the procedure commences.
+
+DESCRIPTION OF PROCEDURE/SERVICE/PHARMACEUTICAL
+
+An epidural steroid injection (ESIs) is the administration of medication most commonly an anesthetic and steroid into the epidural space or adjacent areas of the spinal cord to treat inflammation resulting from conditions that affect the nerve roots.1 There are three injection techniques for performing epidural steroid injection:
+
+Translaminar, translumbar or interlaminar -The most common approach for performing an epidural injection. The needle placement is between the spinous processes of two vertebrae into the posterior epidural space.
+
+Caudal - This technique has a smaller incidence of spinal dural puncture. The needle placement is
+
+through a small opening in the caudal canal at the base of the spinal canal just above the tailbone into the epidural space to treat the cauda equina and lumbar spinal nerves.
+
+Transforaminal-This is the most common technique for diagnostic purposes and for the neck region. The needle placement is through the foraminae which are small bony openings between the vertebrae where the nerve root exits the spinal canal and enters the body.
+
+Epidural steroid injections are performed for both diagnostic and therapeutic purposes. Diagnostic injections are performed to verify the source of pain within a particular region of the spinal column. Pain relief for several weeks following the diagnostic injection is indicative of inflammation within the area. Therapeutic injections are given to prolong pain relief and to reduce the inflammatory process over extended periods of time.
+
+GENERAL INFORMATION
+
+Summary of Medical Evidence
+
+There are no randomised controlled trials evaluating the use of epidural corticosteroid injections in the pediatric population.
+
+Page 4 of 18
+
+Riew et al., (2000) performed a double blind randomized control study of patients with lumbar radicular pain who were surgical candidates receiving nerve root injections to evaluate the effectiveness of betamethasone with local anesthetic (n=28) versus anesthetic alone (n=27) for a total of 3 injections.4 The outcome indicated a reduced need for surgery as evidenced by 29% of the epidural injection patients versus 67% of the anesthetic patients.
+
+Karppinen et al., (2001) performed a placebo-controlled double-blind, randomized study using methylprednisolone with bupivacaine (n=80) or injections of saline (n=80), for sciatica patients.5 Only a single injection was given in this study. The 2 week follow-up revealed statistically significant improvements in lumbar flexion (p=0.05), leg pain (p=0.02), and straight leg raise (p=0.03) The 3 and 6 month follow-up indicated significant improvements in back pain in the saline group (p=0.03 and 0.02) respectively. Significance in leg pain at 6 months was noted at (p=0.003). The one year follow up indicated no difference in outcomes within any of the groups.
+
+Vad et al., (2002) performed a randomized control unblinded trial including lumbosacral radiculopathy patients receiving steroid and anesthetic versus saline.6 The study had a small sample size of 25 in the epidural group and 23 in the saline group. The enrollees received 1 to 3 ESIs. The success rate was 82% in the epidural group versus 48% for the saline group. The greatest improvement was noted at 6 weeks in the epidural and 12 weeks in the saline group.
+
+Valat et al. (2003) in a double blind, random placebo controlled trial with epidural steroid injections for sciatica in 85 patients, showed no improvement from patients given 3 injections at 2 day intervals using prednisolone (n=43) or saline (n=42).7 No statistical difference was noted in either group.
+
+Butterman (2004) performed a randomized comparative study using betamethasone epidural injections for lumbar herniated disc pulposus versus discectomy in 50 patients within each group.8 A total of 3 injections at 1 week intervals were performed. The results indicated the injection was most effective for 3 years in 50% of the patients who had not responded to conservative treatment. Members with discectomy had decreased leg and back pain, improved function and used less medication. Both groups had a significant decrease in pain. The steroid doses varied in the study.
+
+Wilson-MacDonald et al (2005) completed a randomized controlled trial of patients with nerve root compression using methylprednisolone plus bupivacaine (n=44) with an intramuscular control group (n=48).9 A statistically significant improvement in short term pain relief at 35 days (p<0.004) was noted. The same proportion of patients eventually required surgical intervention. Only short term effects were only noted.
+
+Arden et al. (2005) performed a randomized trial on 228 patients with unilateral sciatica stratified into acute (<4 months) versus chronic (4-18 months) receiving ESI (1 to 3 injections) or placebo.10 At a 3 week follow-up,
+
+Page 5 of 18
+
+75% improvement in leg pain was noted. (p=0.016) for up to 6 weeks. Need for surgery, return to work or functional testing showed no significant differences in either group. (p=0.017). No benefit over placebo was noted in weeks 6 through 52.
+
+The WEST trial (2005), a double blind randomized, placebo controlled trial of lumbar ESI (1 to 3 injections) versus interligamentous saline for unilateral sciatica was conducted.10 A short term improvement (61% versus 40%, p=0.001) was noted, long term outcome measures were not significantly different.
+
+Ng et al. (2005) performed a double blind randomized control trial comparing ESI with local anesthetic and steroids in 86 patients.11 Modest improvement was noted following a three month evaluation. There was no significant difference at 6 weeks or 3 months.
+
+Novack and colleagues (2008) sought to determine the current evidence to support guidelines for frequency and timing of epidural steroid injections (ESIs), to help determine what sort of response should occur to repeat an injection, and to outline specific research needs in these areas. A literature review included PubMed, Medline (EBSCO), and Cochrane library search (January 1971-December 2005) was performed. There were no studies that specifically addressed the objectives outlined. Eleven randomized controlled trials, 1 prospective controlled trial, and 2 prospective cohort studies were identified that included a protocol involving repeat epidural injections for radicular pain secondary to herniated nucleus pulposus or spinal stenosis. One qualitative survey was also identified. Five review articles were also included that discussed this topic. Data were extracted from clinical trials if they included the following: (1) protocols in clinical trials on ESIs that included repeat injections and the response required to trigger these injections, (2) any evidence given for establishing these protocols, and (3) similar studies that included only 1 injection. Specific mention of repeat ESIs and partial response that was mentioned in review articles was also included. There is limited evidence to suggest guidelines for frequency and timing of ESIs or to help to define what constitutes the appropriate partial response to trigger a repeat injection. No study has specifically evaluated these objectives. Methodologically limited research suggests that repeat injections may improve outcomes, but the evidence is insufficient to make any conclusions. The authors concluded that there does not appear to be any evidence to support the current common practice of a series of injections. Recommendations for further research are made, including a possible study design. 50
+
+Manchikanti and associates (2012) assessed the effectiveness of fluoroscopically directed caudal epidural injections with local anesthetic with or without steroids in managing chronic low back and lower extremity pain in patients with disc herniation and radiculitis in a randomized, controlled, double blind, active control trial. One hundred twenty patients were randomized to two groups: Group I received 10 mL caudal epidural injections of local anesthetic, lidocaine 0.5%; Group II patients received caudal epidural injections of 0.5% lidocaine, 9 mL, mixed with 1 mL of steroid. Multiple outcome measures were utilized. The primary outcome
+
+Page 6 of 18
+
+measures were Numeric Rating Scale (NRS) and the Oswestry Disability Index 2.0 (ODI). Secondary outcome measures were employment status and opioid intake. Significant pain relief improvement was defined as 50% or more improvement in NRS and ODI scores. In the successful category, 77% of Group I had significant pain relief of > 50% and functional status improvement of > 50% reduction in ODI scores; in Group II it was 76%, whereas overall it was 60% and 65% in Groups I and II. Over the two years, Group I had an average number of procedures of 5.5 ± 2.8; Group II was 5.3 ± 2.4. Even though there was no significant difference in overall relief between the two groups, the average relief for each procedure was superior for steroids. Presumed limitations of this evaluation include lack of a placebo group. The report concluded caudal epidural injections of local anesthetic with or without steroids might be an effective therapy for patients with disc herniation or radiculitis. The present evidence illustrates the potential superiority of steroids compared with local anesthetic at two year follow up based on average relief per procedure. 40
+
+Another randomized, double-blind, active-controlled trial reported by Manchikanti et al (2012), evaluated the effectiveness of caudal epidural injections with or without steroids in providing effective and long-lasting pain relief in the management of chronic low back pain related to lumbar spinal stenosis. One-hundred participants were randomly assigned to 1 of the 2 groups, with Group I participants receiving caudal epidural injections of local anesthetic (lidocaine 0.5%), whereas Group II participants received caudal epidural injections with 0.5% lidocaine 9 mL mixed with 1 mL of steroid (nonparticulate Celestone). Multiple outcome measures were used, including the Numeric Rating Scale (NRS), the Oswestry Disability Index 2.0 (ODI), employment status, and opioid intake with assessment at 3, 6, and 12 months posttreatment. Significant pain relief and improvement in disability were defined as 50% or more. Overall, significant pain relief and functional status improvement (≥50%) were demonstrated in 48% in Group I and 46% in Group II. However, significant pain relief and functional status improvement were seen in 60% of the participants in both groups in the successful category when the participants were separated into successful and failed categories. The overall number of procedures was 3.1±1.3 or 3.6±1.1 in the successful category in Group I, with overall 2.9±1.4 or 3.5±1.2 in the successful category in Group II. The authors concluded caudal epidural injections of local anesthetic with or without steroids may be an effective treatment for a select group of patients with chronic function-limiting low back and lower extremity pain secondary to spinal stenosis. 42
+
+Mobaleghi and colleagues (2012) compared long-term effects of epidural steroid injections (ESI) in herniated disks (HD) and lumbar spinal stenosis (LSS) patients in a prospective, single-blind uncontrolled study, 60 patients with radicular pain due to HD (n = 32) or LSS (n = 28) were enrolled over a 9-month period. Methylprednisolone acetate 80 mg plus 0.5% bupivacaine 10 mg were diluted in normal saline up to a total volume of 10 mL, and injected into the epidural space. The amount of pain based on numeric pain score, level of activity, and subjective improvement were reported by patients after 2 and 6 months by telephone. Demographic data were analyzed with the chi-square test. The differences in numeric pain scale scores between the two groups at different times were analyzed with the t-test. There were no differences between HD and LSS patients regarding age, sex, and average duration of pain prior to ESI. The degree of pain was significantly higher in LSS patients in comparison with HD patients in the pre- injection period. The amount of pain was significantly reduced in both groups 2 months after injection. This pain reduction period lasted for 6 months in
+
+Page 7 of 18
+
+the HD group, but to a lesser extent in LSS patients (P < 0.05). The authors concluded epidural methylprednisolone injection has less analgesic effect in LSS, with less permanent effect in comparison with HD. 43
+
+Cervical Injections
+
+The evidence regarding epidural steroid injection (ESI) for cervical radiculopathy (CR) fails to demonstrate any beneficial effect of ESIs on pain or disability associated with CR compared with epidural injection with anesthetic only. Studies comparing ESI, which includes steroids plus anesthetic, with epidural injection of anesthetic only for CR show that the steroids do not produce beneficial effects. The limitations of individual studies included the lack of double-blinding and the relatively small sample sizes per group. 53
+
+Manchikanti and associates (2012) evaluated the effectiveness of cervical interlaminar epidural injections of local anesthetic with or without steroids in the management of chronic neck pain and upper extremity pain in patients with disc herniation and radiculitis in a randomized, double-blind, active controlled trial. One-hundred twenty patients were randomly assigned to one of 2 groups: Group I patients received cervical interlaminar epidural injections of local anesthetic (lidocaine 0.5%, 5 mL); Group II patients received 0.5% lidocaine, 4 mL, mixed with 1 mL of nonparticulate betamethasone. Primary outcome measure was ≥ 50 improvement in pain and function. Outcome assessments included Numeric Rating Scale (NRS), Oswestry Disability Index (ODI), opioid intake, employment, and changes in weight. Significant pain relief and functional status improvement (≥ 50%) was demonstrated in 72% of patients who received local anesthetic only and 68% who received local anesthetic and steroids. In the successful group of participants, significant improvement was illustrated in 77% in local anesthetic group and 82% in local anesthetic with steroid group. The authors concluded cervical interlaminar epidural injections with or without steroids may provide significant improvement in pain and function for patients with cervical disc herniation and radiculitis. 39
+
+Manchikanti et al (2012) evaluated the effectiveness of cervical interlaminar epidural injections with local anesthetic with or without steroids in the management of chronic neck pain with upper extremity pain in patients with cervical central spinal stenosis in a randomized, double-blind, active control trial. Patients with cervical central spinal stenosis were randomly assigned to one of 2 groups: injection of local anesthetic only or local anesthetic mixed with non-particulate betamethasone. Sixty patients were included in this analysis. Randomization was performed by computer-generated random allocation sequence by simple randomization. Multiple outcome measures were utilized including the Numeric Rating Scale (NRS), the Neck Disability Index (NDI), employment status, and opioid intake with assessment at 3, 6, and 12 months post-treatment. Significant pain relief or functional status was defined as a 50% or more reduction of NRS or NDI scores. Significant pain relief was seen in 73% in Group I and 70% in Group II, in Group II showing both significant pain relief and functional status improvements. Group I's average relief per procedures was 11.3 ± 5.8 weeks; for Group II it was 8.6 ± 3.6 weeks, whereas after initial 2 procedures, average relief was 13.7 ± 8.7 weeks in Group I, and 13.6 ± 4.7 weeks in Group II. In the successful group, the average total relief in a one-year period was 42.2 ±
+
+Page 8 of 18
+
+14.7 weeks in Group I and 34.3 ± 13.4 weeks in Group II, with 76% in Group I and 77% in Group II. Study limitations include the lack of a placebo group and that this is a preliminary report of only 60 patients, 30 in each group. The report concluded patients who have chronic function-limiting pain that is secondary to cervical central stenosis might receive relief with cervical interlaminar epidurals of local anesthetic, whether with or without steroids. 41
+
+Meta-Analysis/Systematic Reviews
+
+A systematic review of 18 trials including epidural and facet joints was performed to determine if injection therapy is more effective than placebo or other treatments for patients with subacute or chronic low-back pain. The methodological quality was rated as high in 10 of the 18 trials. Statistical pooling was not possible due to clinical heterogenicity of the trials. The authors concluded “there is no strong evidence for or against the use of any type of injection therapy.”28
+
+A systematic review of 36 randomized control trials was performed to determine the effects of medication and injections on primary outcomes (e.g., pain) for adults with mechanical neck disorders and whiplash.31 The results indicated “for acute whiplash, administering intravenous methylprednisolone within eight hours of injury reduced pain at one week (SMD -0.90 95% CI 1.57 to -0.24) and sick leave but not pain at six months compared to placebo in one trial. In chronic neck disorders with radicular findings, epidural methylprednisolone and lidocaine reduced neck pain and improved function more than when given by intramuscular route at one-year follow-up, in one trial. The major limitations include lack of replication of findings and sufficiently large trials”. 31
+
+A published systematic review of evidence (2007) for epidural steroid injections for managing chronic spinal pain using the three various approaches.20 All of the studies contained patients with various diagnoses including low back pain, sciatica, spinal stenosis, herniated nucleus pulposus, disc prolapse, lumbar nerve root compression, cervical pain, radiculopathy, axial neck and low back pain, and post lumbar laminectomy. The authors concluded the evidence for lumbar radicular pain using either the lumbar interlaminar or transforaminal approaches have strong data supporting short term relief but limited data for long term relief using the interlaminar approach. Moderate data exists for long term relief using the transforaminal approach. For cervical radiculopathy using either the cervical interlaminar or transforaminal approaches, both short and long term evidence was moderate. They also concluded that axial neck pain, axial low back pain and lumbar spinal stenosis are indeterminate. The caudal approach in managing lumbar radiculopathy and post lumbar laminectomy had strong evidence supporting short term relief and moderate evidence for long term relief. Lumbar radicular pain in post lumbar laminectomy syndrome patients showed moderate evidence for managing pain.20
+
+A previous meta-analysis performed included 11 randomized controlled trials of 907 patients.34 When compared with a placebo, the odds ratio of short term pain relief (up to 60 days) is increased to 2.61 (i.e., greater than 75%). The long-term increase is on the order of 1.87. These results significantly support the short- and long- term efficacy of the procedure, although the former more so than the latter, and are cited in literature as part of the basis for the continued popularity of this procedure.
+
+Page 9 of 18
+
+Kovacs and associates (2011) performed a systematic review comparing the effectiveness of surgery vs. conservative treatment on pain, disability and loss of quality of life caused by symptomatic lumbar spinal stenosis (LSS). Randomized controlled trials (RCTs) comparing any form of conservative and surgical treatment were searched for review until July 2009. Additional data were requested from the authors of the original studies. The methodological quality of each study was assessed independently by two reviewers, following the criteria recommended by the Cochrane Back Review Group. Only data from randomized cohorts were extracted. Results: 739 citations were reviewed. Eleven publications corresponding to five RCTs were included. All five scored as high quality, despite concerns deriving from heterogeneity of treatment, lack of blinding and potential differences in the size of the placebo effect across groups. They included a total of 918 patients in whom conservative treatments had failed for 3-6 months, and included orthosis, rehabilitation, physical therapy, exercise, heat and cold, TENS, ultrasounds, analgesics, non-steroidal anti-inflammatory drugs and epidural steroids. Surgical treatments included the implantation of a specific type of interspinous device and decompressive surgery (with and without fusion, instrumented or not). In all the studies, surgery showed better results for pain, disability and quality of life, although not for walking ability. Results of surgery were similar among patients with and without spondylolisthesis, and slightly better among those with neurogenic claudication than among those without it. The advantage of surgery was noticeable at 3-6 months and remained for up to 2-4 years, although at the end of that period differences tended to be smaller. The authors concluded in patients with symptomatic LSS, the implantation of a specific type of device or decompressive surgery, with or without fusion, are more effective than continued conservative treatment when the latter has failed for 3-6 months. 45
+
+Pinto and colleagues (2012) recently published meta-analysis examining the efficacy of epidural corticosteroid injections for sciatica compared with placebo. Selection criteria included randomized, placebo-controlled trials assessing the efficacy of epidural corticosteroid injections in participants with sciatica. Two independent reviewers extracted data and assessed risk of bias. Leg pain, back pain, and disability were converted to common scales from 0 (no pain or disability) to 100 (worst possible pain or disability). Thresholds for clinically important change in the range of 10 to 30 have been proposed for these outcomes. Effects were calculated for short-term (>2 weeks but ≤3 months) and long-term (≥12 months) follow-up. Data were pooled with a random- effects model, and the GRADE (Grading of Recommendations Assessment, Development and Evaluation) approach was used in summary conclusions. Twenty-five published reports (23 trials) were included. The pooled results showed a significant, although small, effect of epidural corticosteroid injections compared with placebo for leg pain in the short term (mean difference, -6.2 [95% CI, -9.4 to -3.0]) and also for disability in the short term (mean difference, -3.1 [CI, -5.0 to -1.2]). The long-term pooled effects were smaller and not statistically significant. The overall quality of evidence according to the GRADE classification was rated as high. The authors concluded that the available evidence suggests that epidural corticosteroid injections offer only short-term relief of leg pain and disability for patients with sciatica. The small size of the treatment effects, however, raises questions about the clinical utility of this procedure in the target population.38
+
+Parr and associates (2012) conducted a systematic review to evaluate the effectiveness of caudal epidural injections with or without steroids in managing chronic pain secondary to lumbar disc herniation or radiculitis, post lumbar laminectomy syndrome, spinal stenosis, and discogenic pain without disc herniation or radiculitis.
+
+Page 10 of 18
+
+73 studies were identified and of these 51 were excluded. A total of 16 studies met inclusion criteria for methodological quality assessment with 11 randomized trials and 5 non-randomized studies. For lumbar disc herniation, the evidence is good for short- and long-term relief of chronic pain secondary to disc herniation or radiculitis with local anesthetic and steroids and fair relief with local anesthetic only. In managing chronic axial or discogenic pain, spinal stenosis, and post-surgery syndrome, the indicated evidence is fair. The limitations of this study include the paucity of literature, specifically for chronic pain without disc herniation. The authors concluded that there was good evidence for short- and long-term relief of chronic pain secondary to disc herniation or radiculitis with local anesthetic and steroids and fair relief with local anesthetic only. Further, this systematic review also provided indicated evidence of fair for caudal epidural injections in managing chronic axial or discogenic pain, spinal stenosis, and post-surgery syndrome. 44
+
+Hayes, Cochrane, UpToDate
+
+Hayes Inc. has developed an updated Directory report (2013) entitled “Epidural Steroid Injections for Low Back Pain and Sciatica.”1 A review of studies from 1997-2012 focused on 18 randomized controlled trials. The studies included patients with low back pain and sciatica (pain in the legs) for whom conservative treatment had failed (i.e., rest, analgesics and anti-inflammatory medications, physical therapy, and exercise). Clinical symptoms were often correlated with magnetic resonance imaging (MRI) or computerized tomography (CT) scan results. The patients generally ranged from 40 to 50 years of age, except for 2 studies in which the patients were ≥ 55 years of age. ESIs were performed via the interlaminar, transforaminal, or caudal route. The majority of the studies used fluoroscopic guidance for needle placement and reported pain relief following epidural anesthetic with or without steroids. Overall, the quality of the evidence was low to moderate, with a low rating assigned to those studies with a limited follow-up period (< 1 year) and relatively small sample sizes per group (e.g., ≤ 35 patients). The limited follow-up period is a substantial shortcoming, since the efficacy of any treatment effect cannot be assessed adequately without sufficient follow-up. Sample sizes across studies were relatively small, with 11 of 20 studies including ≤ 100 patients (range, 48 to 228 patients) across studies and sex distribution more often favored men. Half of the studies reviewed included placebo-control groups (10) and the other half include active-control groups (10 studies; i.e., anesthetic injection, intramuscular steroid injection; tumor necrosis factor inhibitor). Due to a natural recovery of symptoms, inherent to herniated disc, treatment effects may have been confounded with the tendency for herniated discs to improve across time without intervention. Comparison across studies was hampered by differences in patient populations (e.g., age, sex), the underlying cause of back pain, and varied injection procedures (e.g., caudal, interlaminar). The Hayes report concluded that multiple randomized controlled trials suggest that epidural injections may produce transient pain relief in patients with low back pain and sciatica. However, most of the studies did not include a placebo group, and the few studies that did include a placebo group yielded contradictory results. Thus, the possibility of spontaneous recovery cannot be ruled out. The pain relief reported in many studies appears attributable to the anesthetics that are typically included in ESIs, and steroids provide little or no additional pain relief. Pain reduction by epidural steroid injections (ESI) plus anesthetics is transient. ESIs did not improve disability or reduce the need for surgery in most of the studies. Although complications reported in the reviewed studies were generally mild and transient, serious adverse events have occurred, including arachnoiditis, paraplegia, meningitis, and epidural abscess. A recent meningitis outbreak was traced to ESIs with contaminated
+
+Page 11 of 18
+
+compounded steroids, and concern has been raised regarding reports of arachnoiditis in patients who have received ESIs.
+
+Hayes Inc. has a Directory Report (2013) entitled “Epidural Steroid Injections for Cervical Radiculopathy” that indicates the evidence regarding epidural steroid injection (ESI) for cervical radiculopathy (CR) fails to demonstrate any beneficial effect of ESIs on pain or disability associated with CR compared with epidural injection with anesthetic only. Because none of the studies included a placebo condition, it is not clear whether and to what extent improvements observed following ESI are attributable to the anesthetic, the injection itself, placebo effects, or other, as of yet, unidentified factors. None of the studies compared ESI with alternative treatments for CR. Although complications reported in the reviewed studies were generally mild and transient, serious adverse events have occurred, including paraplegia, meningitis, and epidural abscess. A recent meningitis outbreak was traced to ESIs that contained contaminated compounded steroids, and concern has been raised regarding reports of arachnoiditis in patients who have received ESIs. Differences, often subtle, in the injection route, region, steroid, anesthetic, and patient pathology result in a vast array of procedural options for ESI, and such variability makes interpretation of existing ESI data difficult. 53
+
+Hayes Inc. has developed a Directory report (updated 2012) entitled “Nerve Blocks for the Treatment of Chronic Nonmalignant Pain” that indicates medial branch nerve, celiac plexus, peripheral nerve, or sympathetic ganglion blocks with local anesthetic may provide a degree of short-term pain relief in some patients with a variety of chronic pain syndromes. However, the duration of pain relief is only a few days to weeks in many patients, and the lack of appropriate control groups in many studies precluded an accurate assessment of the treatment effect of the intervention. Evidence was low quality from several studies for use of suprascapular nerve blocks for painful shoulder conditions, lumbar facet joint nerve blocks for chronic low back pain, and celiac plexus block for pain from chronic pancreatitis. Low-quality evidence from a smaller number of studies was also available for thoracic medial branch nerve blocks and cervical medial branch nerve blocks for mid to upper back pain and neck pain, respectively. There was little evidence for clinical benefit from other types of nerve blocks. 47
+
+Professional Organizations
+
+The American Academy of Neurology established a Subcommittee for Therapeutics and Technology Assessment to address ESI to treat radicular lumbosacral pain.12 The subcommittee concluded “epidural steroid injections may result in some improvement in radicular lumbosacral pain when determined between 2 and 6 weeks following the injection compared to control treatment. In general, epidural steroid injections for radicular lumbosacral pain have shown no impact on average, or long term pain relief beyond 3 months. Their routine use for these indications is not recommended. Data on use of epidural steroid injections to treat cervical radicular pain are inadequate to make any recommendation.”12
+
+Page 12 of 18
+
+American Pain Society: The American Pain Society’s clinical practice guideline for Interventional Therapies, Surgery, and Interdisciplinary Rehabilitation for Low Back Pain was informed by a 2009 review of the literature. The review concluded that the research found that epidural steroid injections for nonspecific low back pain and symptomatic spinal stenosis had a poor level of evidence and uncertain net benefit; however, there was a fair level of evidence for ESI for radiculopathy. The review concluded that the decision to use ESI should “take into account the short-term nature of symptom relief, inconsistent results, and surgical as well as continued medical management as alternative treatment options.” 35
+
+American Society of Anesthesiologists (ASA): The ASA has not issued a statement specifically on the use of epidural steroids for the management of low back pain and sciatica. However, the ASA Task Force on Pain Management issued more general practice guidelines for chronic pain management, an updated report by the American Society of Anesthesiologists Task Force on Chronic Pain Management and the American Society of Regional Anesthesia and Pain Medicine. The guidelines described ESI as a single-modality intervention for pain and noted that epidural steroid injections may also be used with or without local anesthetics as part of a multimodal treatment regimen to provide pain relief in selected patients with radicular pain or radiculopathy. The practice guidelines also noted that ESIs should be preceded by a specific discussion of potential complications with the patient, particularly when the transforaminal approach is planned. Transforaminal epidural injections should be performed with appropriate image guidance to confirm correct needle position and spread of contrast before injecting a therapeutic substance; image guidance may be considered for interlaminar epidural injections. 36
+
+The American Society of Interventional Pain Physicians (ASIPP) developed practice guidelines in 2007 for interventional techniques in the management of chronic spinal pain following evidence review by various injection types.13 The guidelines were updated in 2009 37 and indicate that the evidence is Level I for caudal epidural steroid injections in managing disc herniation or radiculitis and discogenic pain without disc herniation or radiculitis; and Level II-1 or II-2 for caudal ESIs in managing the pain of post-lumbar surgery syndrome, lumbar spinal stenosis, and for cervical interlaminar epidural injections in managing cervical pain; and for lumbar transforaminal epidural injections. These practice guidelines were based on a system of evidence grading that was adapted and modified from the U.S. Preventive Services Task Force (USPSTF) system and used the following categorization:
+
+I: Evidence obtained from at least one properly randomized controlled trial or multiple properly conducted diagnostic accuracy studies.
+
+II-1: Evidence obtained from 1 well-designed controlled trial without randomization or at least one properly conducted diagnostic accuracy study of adequate size.
+
+II-2: Evidence obtained from at least 1 properly designed small diagnostic accuracy study.
+
+Page 13 of 18
+
+II-3: Evidence obtained from multiple time series with or without the intervention. Dramatic results in uncontrolled experiments (such as the results of the introduction of penicillin treatment in the 1940s) could also be regarded as this type of evidence.
+
+III: Opinions of respected authorities, based on clinical experience, descriptive studies and case reports, or reports of expert committees.
+
+The North American Spine Society has developed a clinical guideline for degenerative lumbar spinal stenosis in 2007.19 The evidence based recommendations indicate “nonfluoroscopy-guided interlaminar epidural injections can result in short term ( two to three weeks) symptom relief in patients with neurogenicclaudication or radiculopathy. There is conflicting evidence concerning long-term efficacy.”19 The guideline also states “a single radiographically guided transforaminal epidural steroid injection can produce short term relief in patients with radiculopathy from lumbar stenosis. There is conflicting evidence concerning the long-term efficacy of a single injection. A multiple injection regimen of radiographically-guided transforaminal epidural steroid or caudal injections can produce long-term relief of pain in patients with radiculopathy or neurogeneic intermittent claudication (NIC) from lumbar spinal stenosis”19 The evidence for multiple injections is noted to be of weaker quality.
+
+The Institute for Clinical Systems Improvement has developed guidelines for acute low back pain and chronic back pain. The guideline recommendations are based upon clinical trial data results. The recommendation for acute low back pain indicates “epidural steroid injections should only be considered after initial appropriate conservative treatment program has failed. Successful epidural steroid injections may allow patients to advance in a conservative treatment program.”32 The guideline for assessment and management of chronic pain “spinal injections that are performed in an attempt to diagnose and treat chronic pain. If used alone, the evidence is limited in its success. These procedures should be performed in conjunction with a comprehensive treatment plan that includes pharmacologic, rehabilitative, and psychological interventions.”33
+
+CODING INFORMATION: THE CODES LISTED IN THIS POLICY ARE FOR REFERENCE PURPOSES ONLY. LISTING OF A SERVICE OR DEVICE CODE IN THIS POLICY DOES NOT IMPLY THAT THE SERVICE DESCRIBED BY THIS CODE IS A COVERED OR NON-COVERED. COVERAGE IS DETERMINED BY THE BENEFIT DOCUMENT. THIS LIST OF CODES MAY NOT BE ALL INCLUSIVE.
+
+CPT 62310
+
+Description Injection, single (not via indwelling catheter), not including neurolytic substances, with or without contrast (for either localization or epidurography), of diagnostic or therapeutic substance(s) (including anesthetic, antispasmodic, opioid, steroid, other solution), epidural or subarachnoid; cervical or thoracic Injection, single (not via indwelling catheter), not including neurolytic substances, with or without contrast (for either localization or epidurography), of diagnostic or therapeutic substance(s) (including anesthetic, antispasmodic, opioid, steroid, other solution), epidural or subarachnoid; lumbar, sacral (caudal) Injection, anesthetic agent and/or steroid, transforaminal epidural; cervical or thoracic, single level Injection, anesthetic agent and/or steroid, transforaminal epidural; cervical or thoracic, each
+
+62311
+
+64479
+
+64480
+
+Page 14 of 18
+
+additional level (List separately in addition to code for primary procedure) Injection, anesthetic agent and/or steroid, transforaminal epidural; lumbar or sacral, single level Injection, anesthetic agent and/or steroid, transforaminal epidural; lumbar or sacral, each additional level (List separately in addition to code for primary procedure) Fluoroscopic guidance and localization of needle or catheter tip for spine or paraspinous diagnostic or therapeutic injection procedures (epidural, transforaminal epidural, subarachnoid, paravertebral facet joint, paravertebral facet joint nerve, or sacroiliac joint), including neurolytic agent destruction
+
+64483
+
+64484
+
+77003
+
+HCPCS J1020 J1030 J1040
+
+Description Injection, methylprednisolone acetate, 20 mg Injection, methylprednisolone acetate, 40 mg Injection, methylprednisolone acetate, 80 mg
+
+ICD-9 724.3 724.4
+
+Description Sciatica Lumbar nerve root compression/lumbar radiculopathy
+
+ICD-10 CM Description M54.30 M54.31 M54.32 M54.40 M54.41 M54.42 M51.16 M51.17 M54.16 M54.17
+
+Sciatica unspecified side Sciatica right side Sciatica left side Lumbago with sciatica unspec side Lumbago with sciatica right side Lumbago with sciatica left side Intervertebral disc d/o w/radiculopathy lumbar region IV disc d/o w/radiculopathy lumbosacral region Radiculopathy lumbar region Radiculopathy lumbosacral region
+
+RESOURCE REFERENCES
+
+1. Hayes, Inc. Medical Technology Directory. Epidural steroid injections for low back pain and sciatica.
+
+Lansdale, PA: Hayes, Inc.; October 2007, Updated Jan 30, 2013.
+
+2. Food and Drug Administration (FDA) [website] Center for Drug Evaluation and Research (CDER).
+
+Electronic Orange Book. Accessed on 12/2/2008, 2008 from: http://www.fda.gov/cder/drug/default.htm 3. Centers for Medicare & Medicaid Services (CMS) Medicare Coverage Database Homepage. Accessed at:
+
+http://www.cms.hhs.gov/mcd/search.asp
+
+4. Riew KD, Yin Y, Gilula L et al. The effect of nerve root injections on the need for operative treatment of lumbar radicular pain. A prospective randomized, controlled, double blind study. Journal Bone and Joint Surgery Am. 2000;82-A(11):1589-1593.
+
+5. Karppinene J, Malmivaara A, Kurunlahti M et al. Periradicular infiltration for sciatica: a randomized
+
+controlled trial. Spine 2001;26(9):1059-1067.
+
+6. Vad VB, Bhat AL, Lutz GE, Cammisa F. Transforminal epidural steroid injections in lumbosacral
+
+radiculopathy: a prospective randomized study. Spine 2002;27(1):11-16.
+
+Page 15 of 18
+
+7. Valat Jp, Giraudeau B, Rozenberg S et al. Epidural corticosteroid injections for sciatica: a randomized,
+
+double blind, controlled trial. Ann Rheum Dis. 2003;62(7)639-643
+
+8. Butterman GR. Treatment of lumbar disc herniation: epidural steroid injection compared with discectomy.
+
+A prospective, randomized study. J Bone Joint Surgery Am 2004;86-A(4):670-670.
+
+9. Wilson-MacDonald J, Burt G, Griffin D et al. Epidural steroid injections for nerve root compression. A
+
+randomized, controlled trial. Journal of Bone Joint Surgery Br 2005;87(3):352-355.
+
+10. Arden NK, Price C, Reading I et al. A multicentre randomized controlled trial of epidural corticosteroid
+
+injections for sciatica: the WEST study. Rheumatology (Oxford) 2005;44(11):1399-1406.
+
+11. Ng L, Chaudhary N, Sell P. The efficacy of corticosteroids in periradicular infiltration for chronic radicular
+
+pain: a randomized, double-blind, controlled trial. Spine 2005;30(8):857-862.
+
+12. Armon C, Argoff CE, Samuels J, et al. Assessment: use of epidural steroid injections to treat radicular
+
+lumbosacral pain. Report of the Therapeutics and Technology Assessment Subcommittee of the American Academy of Neurology. Neurology 2007;68(10):723-729.
+
+13. Boswell, M.V., Trescott, A.M., Datta, S., et al. (2007). Interventional techniques: Evidence-based practice
+
+guidelines in the management of chronic spinal pain.10:7-111. Accessed at: http://asipp.org/documents/guidelines2007.pdf
+
+14. Cicala RS, Thoni K, Angel JJ. Long-term results of cervical epidural steroid injections. Clin Journal of
+
+Pain. 1989; 5:143.
+
+15. Slipman CW, Lipetz JS, Jackson HB. Therapeutic selective nerve root block in the nonsurgical treatment of atraumatic cervical spondylotic ridiculer pain: a retrospective analysis with independent clinical review. Arch Phys Med Rehab 2000; 81:741.
+
+16. Bush K, Hillier S. Outcome of cervical radiculopathy treated with periradicular/epidural corticosteroid
+
+injections: a prospective study with independent clinical review. Eur Spine J 1996; 5:319.
+
+17. Vallee JN, Feydy A, Carlier RY et al. Chronic cervical radiculopathy: a lateral approach periradicular
+
+corticosteroid injection. Radiology 2001; 218:886.
+
+18. Robinson J, Kothari M, Shefner J, Dashe J. Treatment of cervical radiculopathy. In: UpToDate, Rose, BD
+
+(ed), UpToDate, Waltham, MA. October, 2008.
+
+19. North American Spine Society (NASS) Clinical guidelines for multidisciplinary spine care. Diagnosis and
+
+treatment of degenerative lumbar spinal stenosis. 2007. Accessed on December 2, 2008 from: http://www.spine.org/Documents/NASSCG_Stenosis.pdf
+
+20. Abdi, S., Datta, S., Trescott, A,M., et al, (2007). Epidural steroids in the management of chronic spinal
+
+pain: a systemic review. 10:185-212. Accessed at: http://www.painphysicianjournal.com/2007/january/2007;10;185-212.pdf
+
+21. Abram, S.E.The safe use of epidural steroid injections. Anesthesia Patient Safety Foundation. 2004.
+
+Accessed at: http://www.apsf.org
+
+22. Nelson DA, Vates TS, Thomas RB. Complications from intrathecal steroid therapy in patients with multiple
+
+sclerosis. Acta Neurol Scandinav 1973;49:176-188.
+
+23. Bemat JL, Sadowsky CH, Vincent FM et al. Sclerosing pachymeningitis: a complication of intrathecal
+
+administration of Depo-Medrol for multiple sclerosis. Journal Neurol Neurosurgery Psychiat 1976;39:1124-1128.
+
+24. Cohen FL. Conus medullaris syndrome following multiple intrathecal corticosteroids injections. Arch
+
+Neurol 1979;36:228-30.
+
+25. Latham JM, Fraser RD, Moore R, Blumbergs P. Pathological effects of intrathecal steroids. Paper
+
+presented at the Annual Scientific Meeting of the Australian Pain Society, Adelaide 8-9 August 1992. 26. Hession WG, Stanczak JD, Davis K, Choi J. Epidural steroid injections. Seminars in Roentgenology;
+
+January 2004;39(1):7-23.
+
+27. Chou R, Atlas SJ, Sokol HN. Subacute and chronic low back pain: Nonsurgical interventional treatment.
+
+In: UpToDate, Rose, BD (ed), UpToDate, Waltham, MA. October, 2008.
+
+Page 16 of 18
+
+28. Staal JB, Bie R, de Vet H et al. Injection therapy for subacute and chronic low-back pain. Cochrane
+
+Database of Systematic Reviews 2008 Issue 3, Art No.:CD001824. DOI:10.1002/14651858.CD001824.pub3.
+
+29. Institute for Clinical Systems Improvement. Adult low back pain. Thirteenth edition. 11/2008. Accessed
+
+at: http://www.icsi.org
+
+30. Manchikanti L, Singh V, Bakhit C, Fellows B. Interventional techniques in the management of chronic pain: Part 1.0. From the Association of Pain Management Anesthesiologists. Pain Physician. 2007; 3(1)pp7-42.
+
+31. Peloso PMJ, Gross A, Haines T et al. Cervical Overview Group. Medicinal and injection therapies for
+
+mechanical neck disorders. Cochrane Database of Systematic Reviews 2007. Issue 3. Art No: CD000319. DOI:10.1002/14651858. CD000319.pub4.
+
+32. Institute for Clinical Systems Improvement (ICSI). Healthcare Guideline: Adult Low Back Pain.
+
+November 2008. Accessed at: http://www.icsi.org
+
+33. Institute for Clinical Systems Improvement (ICSI). Assessment and management of chronic pain. March,
+
+2007. Accessed at: http://www.icsi.org
+
+34. Watts RW, Silagy CA: A meta-analysis on the efficacy of epidural corticosteroids in the treatment of
+
+sciatica. Anaesth Intensive Care 23:564-569, 1995
+
+12/14/11 – New evidence review was conducted by the MCG Committee. The document was approved without revision.
+
+2/27/13 Updated Review 35. Chou R, Atlas SJ, Stanos SP, Rosenquist RW. Nonsurgical interventional therapies for low back pain: a review of the evidence for an American Pain Society clinical practice guideline. Spine (Phila Pa 1976). 2009;34(10):1078-1093.
+
+36. Benzon HT, Connis RT, De Leon-Casasola OA, et al. Practice guidelines for chronic pain management: an updated report by the American Society of Anesthesiologists Task Force on Chronic Pain Management and the American Society of Regional Anesthesia and Pain Medicine. Anesthesiology. 2010;112(4):810-833.
+
+37. Manchikanti L, Boswell MV, Singh V, Benyamin RM, Fellows B, Abdi S, Buenaventura RM, Conn A, Datta S, Derby R, Falco FJ, Erhart S, Diwan S, Hayek SM, Helm S, Parr AT, Schultz DM, Smith HS, Wolfer LR, Hirsch JA. Comprehensive evidence-based guidelines for interventional techniques in the management of chronic spinal pain. Pain Physician 2009 Jul-Aug;12(4):699-802. Accessed at: http://www.guideline.gov/content.aspx?id=15136
+
+38. Pinto RZ, Maher CG, Ferreira ML, et al. Epidural corticosteroid injections in the management of sciatica.
+
+Ann Intern Med. 2012;157:865-877.
+
+39. Manchikanti L, Cash KA, Pampati V, et al. Management of chronic pain of cervical disc herniation and radiculitis with fluoroscopic cervical interlaminar epidural injections. Int J Med Sci. 2012;9(6):424-34. 40. Manchikanti L, Cash KA, McManus CD, et al. Fluoroscopic caudal epidural injections with or without
+
+steroids in managing pain of lumbar spinal stenosis: one-year results of randomized, double-blind, active- controlled trial. J Spinal Disord Tech. 2012 Jun;25(4):226-34.
+
+41. Manchikanti L, Malla Y, Cash KA, et al. Fluoroscopic epidural injections in cervical spinal stenosis: preliminary results of a randomized, double-blind, active control trial. Pain Physician. 2012 Jan- Feb;15(1):E59-70.
+
+42. Manchikanti L, Singh V, Cash KA, et al. Effect of fluoroscopically guided caudal epidural steroid or local anesthetic injections in the treatment of lumbar disc herniation and radiculitis: a randomized, controlled, double blind trial with a two-year follow-up. Pain Physician. 2012 Jul;15(4):273-86.
+
+Page 17 of 18
+
+43. Mobaleghi J, Allahdini F, Nasseri K, et al. Comparing the effects of epidural methylprednisolone acetate
+
+injected in patients with pain due to lumbar spinal stenosis or herniated disks: a prospective study. Int J Gen Med. 2011;4:875-8.
+
+44. Parr AT, Manchikanti L, Hameed H, et al. Caudal epidural injections in the management of chronic low back pain: a systematic appraisal of the literature. Pain Physician. 2012;15(3):E159-198. Accessed at: www.painphysicianjournal.com/2012/may/2012;15;E159-E198.pdf
+
+45. Kovacs FM, Urrútia G, Alarcón JD. Surgery Versus Conservative Treatment for Symptomatic Lumbar
+
+Spinal Stenosis. A systematic review of randomized controlled trials. Spine (Phila Pa 1976). 2011 Feb 9 46. UpToDate: Chou R. Subacute and chronic low back pain: Nonsurgical interventional treatment. Literature
+
+review current through: Jan 2013.
+
+47. Hayes, Inc. Medical Technology Directory. Nerve Blocks for the Treatment of Chronic Nonmalignant Pain.
+
+Winifred Hayes Inc. Lansdale, PA. Sep 22, 2011. Updated Sept 26, 2012.
+
+48. McKesson InterQual Clinical Evidence Summary. Chronic Pain Syndrome. 2012 McKesson Corporation. 49. Manchikanti L, Helm S, Singh V et al. An Algorithmic Approach for Clinical Management of Chronic Spinal Pain. Pain Physician 2009;12;E225-E264. Accessed at: http://www.asipp.org/Guidelines.htm 50. Novak S, Nemeth WC. The basis for recommending repeating epidural steroid injections for radicular low
+
+back pain: a literature review. Arch Phys Med Rehabil. 2008 Mar;89(3):543-52. doi: 10.1016/j.apmr.2007.11.008.
+
+51. UpToDate: Smith H. Evaluation of Chronic Pain. Literature review current through: Jan 2013. 52. Advanced Medical Reviews: Peer Reviewer Report by MD Board certified in Physical Med & Rehab, Pain
+
+Management. 2013
+
+53. Hayes, Inc. Medical Technology Directory. Epidural steroid injections for cervical radiculopathy. Lansdale,
+
+PA: Hayes, Inc.; Sept 6, 2013.
+
+2014 Update 54. Official Disability Guidelines. Epidural steroid injections (ESIs), therapeutic. Updated June 10, 2014.
+
+Page 18 of 18

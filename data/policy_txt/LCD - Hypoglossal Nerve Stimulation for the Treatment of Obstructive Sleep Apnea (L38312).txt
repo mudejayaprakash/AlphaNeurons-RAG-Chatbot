@@ -1,0 +1,1439 @@
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+Local Coverage Determination (LCD)
+
+Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea
+
+L38312
+
+Links in PDF documents are not guaranteed to work. To follow a web link, please use the MCD
+
+Website.
+
+Contractor Information
+
+Contract Type
+
+Contract Number
+
+Contractor Name
+
+Jurisdiction
+
+States
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02101 - MAC A
+
+J - F
+
+Alaska
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02102 - MAC B
+
+J - F
+
+Alaska
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02201 - MAC A
+
+J - F
+
+Idaho
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02202 - MAC B
+
+J - F
+
+Idaho
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02301 - MAC A
+
+J - F
+
+Oregon
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02302 - MAC B
+
+J - F
+
+Oregon
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02401 - MAC A
+
+J - F
+
+Washington
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+1/24
+
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+Contract
+
+Contract
+
+Contractor Name
+
+Type
+
+Number
+
+Jurisdiction
+
+States
+
+Noridian Healthcare
+
+A and B
+
+02402 -
+
+J - F
+
+Washington
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Noridian Healthcare
+
+A and B
+
+03101 -
+
+J - F
+
+Arizona
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Noridian Healthcare
+
+A and B
+
+03102 -
+
+J - F
+
+Arizona
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+03201 - MAC A
+
+J - F
+
+Montana
+
+Noridian Healthcare
+
+A and B
+
+03202 -
+
+J - F
+
+Montana
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Noridian Healthcare
+
+A and B
+
+03301 -
+
+J - F
+
+North
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Dakota
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+03302 - MAC B
+
+J - F
+
+North Dakota
+
+Noridian Healthcare
+
+A and B
+
+03401 -
+
+J - F
+
+South
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Dakota
+
+Noridian Healthcare
+
+A and B
+
+03402 -
+
+J - F
+
+South
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Dakota
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+03501 - MAC A
+
+J - F
+
+Utah
+
+Noridian Healthcare
+
+A and B
+
+03502 -
+
+J - F
+
+Utah
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+2/24
+
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+Contract Type
+
+Contract Number
+
+Contractor Name
+
+Jurisdiction
+
+States
+
+Noridian Healthcare
+
+A and B
+
+03601 -
+
+J - F
+
+Wyoming
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Noridian Healthcare
+
+A and B
+
+03602 -
+
+J - F
+
+Wyoming
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+LCD Information
+
+Document Information
+
+LCD ID
+
+L38312
+
+LCD Title
+
+Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea
+
+Proposed LCD in Comment Period
+
+N/A
+
+Source Proposed LCD
+
+DL38312
+
+Original Effective Date
+
+For services performed on or after 03/15/2020
+
+Revision Effective Date
+
+N/A
+
+Revision Ending Date
+
+N/A
+
+Retirement Date
+
+N/A
+
+Notice Period Start Date
+
+01/30/2020
+
+Notice Period End Date
+
+03/14/2020
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+3/24
+
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+CPT codes, descriptions, and other data only are copyright 2024 American Medical Association. All Rights Reserved. Applicable FARS/HHSARS apply.
+
+Fee schedules, relative value units, conversion factors and/or related components are not assigned by the AMA, are not
+
+part of CPT, and the AMA is not recommending their use. The AMA does not directly or indirectly practice medicine or dispense medical services. The AMA assumes no liability for data contained or not contained herein.
+
+Current Dental Terminology © 2024 American Dental Association. All rights reserved.
+
+Copyright © 2025, the American Hospital Association, Chicago, Illinois. Reproduced with permission. No portion of the AHA
+
+copyrighted materials contained within this publication may be copied without the express written consent of the AHA.
+
+AHA copyrighted materials including the UB‐04 codes and descriptions may not be removed, copied, or utilized within any
+
+software, product, service, solution, or derivative work without the written consent of the AHA. If an entity wishes to utilize any AHA materials, please contact the AHA at 312‐893‐6816.
+
+Making copies or utilizing the content of the UB‐04 Manual, including the codes and/or descriptions, for internal purposes,
+
+resale and/or to be used in any product or publication; creating any modiﬁed or derivative work of the UB‐04 Manual and/or codes and descriptions; and/or making any commercial use of UB‐04 Manual or any portion thereof, including the codes
+
+and/or descriptions, is only authorized with an express license from the American Hospital Association. The American
+
+Hospital Association (the "AHA") has not reviewed, and is not responsible for, the completeness or accuracy of any information contained in this material, nor was the AHA or any of its afﬁliates, involved in the preparation of this material,
+
+or the analysis of information provided in the material. The views and/or positions presented in the material do not
+
+necessarily represent the views of the AHA. CMS and its products and services are not endorsed by the AHA or any of its
+
+afﬁliates.
+
+CMS National Coverage Policy
+
+This LCD supplements but does not replace, modify or supersede existing Medicare applicable National Coverage Determinations (NCDs) or payment policy rules and regulations for hypoglossal nerve stimulation. Federal statute and subsequent Medicare regulations regarding provision and payment for medical services are lengthy. They are not
+
+repeated in this LCD. Neither Medicare payment policy rules nor this LCD replace, modify or supersede applicable state statutes regarding medical practice or other health practice professions acts, deﬁnitions and/or scopes of practice. All providers who report services for
+
+Medicare payment must fully understand and follow all existing laws, regulations and rules for Medicare payment for hypoglossal nerve stimulation and must properly submit only valid claims for them. Please review and understand them and apply the medical necessity provisions in the policy within the context of the manual rules. Relevant CMS manual
+
+instructions and policies may be found in the following Internet-Only Manuals (IOMs) published on the CMS Web site:
+
+IOM Citations:
+
+CMS IOM Publication 100-02, Medicare Beneﬁt Policy Manual,
+
+Chapter 15, Section 60.1 Incident To Physician’s Professional Services
+
+Chapter 15, Section 110 Durable Medical Equipment - General
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+4/24
+
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+CMS IOM Publication 100-03, Medicare National Coverage Determinations (NCD) Manual,
+
+Chapter 1, Part 2, Section 160.7 Electrical Nerve Stimulators Chapter 1, Part 4, Section 240.4 Continuous Positive Airway Pressure (CPAP)
+
+Therapy For Obstructive Sleep Apnea (OSA) Chapter 1, Part 4, Section 240.4.1 Sleep Testing for Obstructive Sleep Apnea (OSA) CMS IOM Publication 100-04, Medicare Claims Processing Manual, Chapter 20, Section
+
+10.1.1 - Durable Medical Equipment (DME) CMS IOM Publication 100-08, Medicare Program Integrity Manual, Chapter 13, Section 13.5.4 Reasonable and Necessary Provision in an LCD
+
+Social Security Act (Title XVIII) Standard References:
+
+Title XVIII of the Social Security Act, Section 1862(a)(1)(A) states that no Medicare
+
+payment shall be made for items or services which are not reasonable and necessary for the diagnosis or treatment of illness or injury. Title XVIII of the Social Security Act, Section 1862(a)(7). This section excludes routine physical examinations.
+
+Coverage Guidance
+
+Coverage Indications, Limitations, and/or Medical Necessity Notice: Compliance with the provisions in this policy may be monitored and addressed through post payment data analysis and subsequent medical review audits.
+
+History/Background and/or General Information
+
+Obstructive sleep apnea (OSA) is a disease characterized by recurrent episodes of upper airway obstruction during sleep. The disruption in airﬂow caused by OSA has been
+
+associated with multiple comorbidities, including hypertension, cardiovascular disease, cardiac arrhythmia, cerebrovascular disease, excessive daytime sleepiness, and mood disorders. Continuous positive airway pressure (CPAP) has long been the primary treatment modality of choice for OSA, showing improvements in many comorbidities. Unfortunately,
+
+despite attempts to improve compliance, many people are unable to tolerate treatment with CPAP. Because of the large percentage of patients not tolerating CPAP, alternative treatment strategies are necessary.
+
+The hypoglossal nerve is the twelfth cranial nerve, and innervates all the extrinsic and
+
+intrinsic muscles of the tongue, except for the palatoglossus which is innervated by the vagus nerve. It is a nerve with a solely motor function. The nerve arises from the hypoglossal nucleus in the brain stem as a number of small rootlets, passes through the hypoglossal canal and down through the neck, and eventually passes up again over the tongue muscles
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+5/24
+
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+it supplies into the tongue. There are two hypoglossal nerves in the body: one on the left, and one on the right.
+
+The concept of stimulating the tongue musculature to increase upper airway size and limit
+
+the pathophysiologic obstruction leading to OSA was introduced in the late 1980s. A variety of strategies were utilized, including transcutaneous stimulation with placement of electrodes in the submental region, sublingual mucosa, and soft palate. However, these studies were limited by their lack of selective stimulation of the primary protrusor of the
+
+tongue, the genioglossus muscle. In 2001, Schwartz et al performed a trial in which they selectively stimulated the branches of the hypoglossal nerve, innervating the genioglossus. They noted a signiﬁcant improvement in the apnea-hypopnea index (AHI) and O2 desaturation nadir. This technology was subsequently reﬁned, and in 2014 the Stimulation
+
+Therapy for Apnea Reduction (STAR) trial was published as the initial clinical trial using upper airway stimulation (UAS) as an alternative therapy to CPAP for treatment of OSA.
+
+The only Food and Drug Administration (FDA) - approved hypoglossal nerve stimulation (HGNS) system has three implantable components: a stimulation lead that delivers mild
+
+stimulation to maintain multilevel airway patency during sleep, a breathing sensor lead that senses breathing patterns, and a generator that monitors breathing patterns. The two external components are a patient sleep remote that provides a noninvasive means for a
+
+patient to activate the generator and a physician programmer that allows the physician to noninvasively interrogate and conﬁgure the generator settings. The system battery life for the implantable components is 7 to 10 years.
+
+A surgeon implants the system containing a neurostimulator subcutaneously in the patient’s chest, with one lead attached to the patient’s hypoglossal nerve (cranial nerve XII) at the base of the tongue and one lead implanted in the patient’s chest. The lead in the chest consists of a pressure sensor that detects breathing. Information about respiration rate is relayed to the device, which stimulates the hypoglossal nerve in the tongue. When stimulated, the tongue moves forward, opening the airway. The patient can operate the device by remote control, which the patient activates before going to sleep. The device turns
+
+on after 20 minutes to minimize disrupting the patient’s sleep onset; the device must be manually turned off via remote when the patient wakes.
+
+Covered Indications
+
+FDA-approved hypoglossal nerve neurostimulation is considered medically reasonable and necessary for the treatment of moderate to severe obstructive sleep apnea when all of the following criteria are met:
+
+1. Beneﬁciary is 22 years of age or older; and
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+6/24
+
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+2. Body mass index (BMI) is less than 35 kg/m ; and 3. A polysomnography (PSG) is performed within 24 months of ﬁrst consultation for HGNS
+
+2
+
+implant; and
+
+4. Beneﬁciary has predominantly obstructive events (deﬁned as central and mixed apneas
+
+less than 25% of the total AHI); and 5. AHI is 15 to 65 events per hour; and 6. Beneﬁciary has documentation that demonstrates CPAP failure (deﬁned as AHI greater
+
+than 15 despite CPAP usage) or CPAP intolerance (deﬁned as less than 4 hours per night, 5 nights per week or the CPAP has been returned) including shared decision making that the patient was intolerant of CPAP despite consultation with a sleep expert: and
+
+7. Absence of complete concentric collapse at the soft palate level as seen on a drug-
+
+induced sleep endoscopy (DISE) procedure; and
+
+8. No other anatomical ﬁndings that would compromise performance of device (e.g., tonsil
+
+size 3 or 4 per standardized tonsillar hypertrophy grading scale).
+
+Limitations
+
+The following are considered not reasonable and necessary and therefore will be denied:
+
+1. Hypoglossal nerve neurostimulation is considered not medically reasonable and
+
+necessary for all other indications.
+
+2. Non-FDA-approved hypoglossal nerve neurostimulation is considered not medically reasonable and necessary for the treatment of adult obstructive sleep apnea due to insufﬁcient evidence of being safe and effective.
+
+3. Hypoglossal nerve neurostimulation is considered not medically reasonable and
+
+necessary when any of the following contraindications are present:
+
+Beneﬁciaries with central and mixed apneas that make up more than one-quarter of the total AHI. Beneﬁciaries with an implantable device could experience unintended interaction with the HGNS implant system. BMI equal to or greater than 35 Neuromuscular disease
+
+Hypoglossal-nerve palsy Severe restrictive or obstructive pulmonary disease Moderate-to-severe pulmonary arterial hypertension Severe valvular heart disease New York Heart Association class III or IV heart failure Recent myocardial infarction or severe cardiac arrhythmias (within the past 6 months)
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+7/24
+
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+Persistent uncontrolled hypertension despite medication use An active, serious mental illness that reduces the ability to carry out Activities of Daily Living (ADLs) and would interfere with the patient's ability to operate the HNS and report problems to the attending provider. Coexisting nonrespiratory sleep disorders that would confound functional sleep assessment Beneﬁciaries who are, or who plan to become pregnant.
+
+Beneﬁciaries who require Magnetic resonance imaging (MRI) with model 3024. Beneﬁciaries, who require Magnetic resonance imaging (MRI) with model 3028, can undergo MRI on the head and extremities if certain conditions and precautions are met. Please refer to the Manufacturer Guidelines for this model and future models for more information. Beneﬁciaries who are unable or do not have the necessary assistance to operate the sleep remote.
+
+Beneﬁciaries with any condition or procedure that has compromised neurological control of the upper airway.
+
+4. Drug Induced Sleep Endoscopy (DISE):
+
+Due to documented inconsistency in determining if complete concentric collapse (CCC) is present, the inserting provider shall be certiﬁed by the FDA approved manufacturer’s second opinion service of validation via video clip submissions of at least 80% agreement in at least 15 consecutive studies. Inserting providers shall have documentation to submit to this contractor if necessary.
+
+5. Shared Decision Making (SDM):
+
+SDM, by deﬁnition, is any documented conversation between an attending provider and the patient, and not between multiple providers. Providers shall provide these documents if requested by this contractor.
+
+Place of Service (POS)
+
+Hypoglossal nerve stimulation for the treatment of OSA must be furnished in accordance with the accepted standards of medical practice in a setting appropriate to the patient’s medical needs and condition.
+
+Provider Qualiﬁcations
+
+Hypoglossal nerve stimulation for the treatment of OSA must be ordered and furnished by qualiﬁed personnel. The hypoglossal nerve (HN) may be damaged during neck surgeries. A detailed understanding of the anatomy of the hypoglossal nerve in relation to various
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+8/24
+
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+anatomical landmarks and surrounding structures is important to reduce procedural complications and the risk of nerve damage.
+
+Provider Specialties
+
+Insertion of hypoglossal nerve stimulation addressed in this LCD must be performed by a qualiﬁed physician (MD or DO) who is a board certiﬁed or a board eligible otolaryngologist having completed a residency and/or fellowship program and maintains ongoing certiﬁcation in otolaryngology. Insertion of an FDA-approved hypoglossal nerve stimulation device must be performed by a qualiﬁed physician who completed the appropriate AMA or AOA certiﬁed residency program in otolaryngology. In addition, prior to implanting the
+
+system, surgeons will need to receive classroom instruction by an FDA approved device manufacturer or equivalent on device implant techniques as well as cadaver training. Documentation must be provided to support completion of training to an exemplary level by the manufacturer. Sleep physicians and sleep technicians shall receive classroom instruction from a similar facility on how to titrate the device including hands on operation of the program. Doctors must maintain, for the contractor to review, documentation of such training completion to a satisfactory
+
+level of completion as established by the device manufacturer or appropriate board approval of competency. Evaluation, referral and post implant evaluation of the hypoglossal nerve stimulator, but not including expected post-op care by the inserting physician, should be performed by board eligible or certiﬁed sleep physician with qualiﬁcations as outlined in LCD L34040, Polysomnography and Other Sleep Studies. Sleep Technicians shall meet the same qualiﬁcations as outlined in the LCD L34040. Likewise, sleep studies shall be performed in an
+
+accredited sleep facility as stated in LCD L34040.
+
+Notice: Services performed for any given diagnosis must meet all of the indications and limitations stated in this policy, the general requirements for medical necessity as stated in CMS payment policy manuals, any and all existing CMS national coverage determinations, and all Medicare payment rules.
+
+The redetermination process may be utilized for consideration of services performed outside of the reasonable and necessary requirements in this LCD.
+
+Summary of Evidence Published Literature
+
+STAR Trial 12 month follow-up:
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+9/24
+
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+Strollo, et al. for the STAR Trial Group evaluated the clinical safety and effectiveness of upper-airway stimulation at 12 months for the treatment of moderate-to-severe obstructive sleep apnea . The study included 126 participants; 83% were men. The mean age was 54.5 years, and the mean BMI was 28.4. Exclusion criteria were a BMI of more than 32.0, neuromuscular disease, hypoglossal-nerve palsy, severe restrictive or obstructive pulmonary
+
+1
+
+disease, moderate-to-severe pulmonary arterial hypertension, severe valvular heart disease, New York Heart Association class III or IV heart failure, recent myocardial infarction or severe cardiac arrhythmias (within the past 6 months), persistent uncontrolled hypertension despite medication use, active psychiatric disease, and coexisting nonrespiratory sleep disorders that would confound functional sleep assessment. The study was designed by the sponsor (Inspire Medical Systems), the investigators, and the FDA as a multicenter, prospective, single-group trial with participants serving as their own controls. The primary
+
+outcome evaluation was followed by a randomized, controlled therapy-withdrawal study that included a subgroup of consecutive participants selected from the population that had a response to therapy. The primary outcome measures were assessed by means of overnight polysomnography and scored by an independent core laboratory with the use of standard criteria. The data analysis was performed by the independent statistician.
+
+Participants underwent screening that included polysomnography, medical and surgical consultation, and endoscopy during drug-induced sleep. Participants were excluded if the AHI score from the screening polysomnography was less than 20 or more than 50 events per hour, if central or mixed sleep-disordered breathing events accounted for more than 25% of all apnea and hypopnea episodes, or if the AHI score while the person was not in a supine position was less than 10 events per hour. Participants were also excluded if pronounced anatomical abnormalities preventing the effective use or assessment of upper-
+
+airway stimulation were identiﬁed during the surgical consultation (e.g., tonsil size of 3 or 4 [tonsils visible beyond the pillars or extending to midline]) or if complete concentric collapse at the retropalatal airway was observed on endoscopy performed during drug-induced sleep. Qualiﬁed participants underwent a surgical procedure to implant the upper-airway stimulation system (Inspire Medical Systems). The stimulation electrode was placed on the hypoglossal nerve to recruit tongue-protrusion function; the sensing lead was placed between the internal and external intercostal muscles to detect ventilatory effort; the
+
+neurostimulator was implanted in the right ipsilateral mid-infraclavicular region.
+
+The primary outcome was the change in the severity of obstructive sleep apnea in the study population, as assessed by means of the AHI and the oxygen desaturation index (ODI; the number of times per hour of sleep that the blood oxygen level drops by greater than or equal
+
+to 4 percentage points from baseline). The co-primary outcome was the proportion of participants with a response from baseline to 12 months with respect to the primary outcome measures of the AHI and ODI scores. A response as measured by means of the AHI was deﬁned as a reduction of at least 50% from baseline in the AHI score and an AHI score
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+10/24
+
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+on the 12-month polysomnography of less than 20 events per hour. The ODI was chosen as a stable integrative outcome value of all forms of sleep-disordered breathing. A response as measured by means of the ODI was deﬁned as a reduction of at least 25% from baseline in the ODI score. The prespeciﬁed primary efﬁcacy objectives were response rates of at least
+
+50%, as assessed by means of the AHI and ODI. All participants who received an implant were included in the primary outcome analysis; participants who did not complete the 12- month visit were considered not to have had a response.
+
+Secondary outcome measures included self-reported sleepiness and disease-speciﬁc quality
+
+of life as assessed with the use of the Epworth Sleepiness Scale (scores range from 0.0 to 24.0, with higher scores indicating more daytime sleepiness), disease-speciﬁc quality of life, as assessed with the use of the Functional Outcomes of Sleep Questionnaire (FOSQ; scores range from 5.0 to 20.0, with higher scores indicating greater functioning), and the percentage of sleep time with the oxygen saturation less than 90%.
+
+At the 12-month visit, the ﬁrst 46 consecutive participants who met the criterion of having a response to therapy were randomly assigned, in a 1:1 ratio, to the therapy-maintenance group or the therapy-withdrawal group . This design ﬁltered out persons who had not had a response to therapy. The therapy-withdrawal group had the device turned off for 7 days, whereas the therapy-maintenance group continued with the device turned on. Polysomnography was performed after the randomization period to measure the effects of therapy withdrawal, as compared with continued use of the therapy.
+
+1
+
+The scores on the AHI and ODI (primary outcome measures) were lower (indicating fewer episodes of sleep apnea) at 12 months than at baseline. The median AHI score decreased 68%, from the baseline value of 29.3 events per hour to 9.0 events per hour. The median ODI score decreased 70%, from 25.4 events per hour to 7.4 events per hour. At the 12-month
+
+visit, the criteria for the coprimary outcome of a reduction of at least 50% in the AHI score from baseline and an AHI score of less than 20 events per hour were met by 66% of the participants (83 of 126 participants; lower boundary of the 97.5% conﬁdence interval [CI], 57). The criterion for the coprimary outcome of a reduction of at least 25% in the ODI score from baseline was met by 75% of participants (94 of 126; lower boundary of the 97.5% CI, 66). Both primary efﬁcacy outcomes exceeded the predeﬁned study objectives.
+
+Scores on the FOSQ and Epworth Sleepiness Scale indicated signiﬁcant improvement at 12 months, as compared with baseline. The median percentage of sleep time with the oxygen saturation less than 90% decreased from a baseline value of 5.4% to 0.9% at 12 months. The average increase in the AHI score in the therapy-withdrawal group was 18.2 events per hour, whereas the average increase in the therapy-maintenance group was 1.7 events per
+
+hour (difference in changes in mean scores, 16.4±12.0 events per hour; P less than 0.001). A similar effect was observed with respect to the mean ODI scores.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+11/24
+
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+Two participants had a serious device-related adverse event requiring repositioning and ﬁxation of the neurostimulator to resolve discomfort. No permanent tongue weakness was reported during the study. Most of the device-related events that were not considered to be
+
+serious resolved after the participants acclimated to the upper-airway stimulation therapy or after the device was reprogrammed to adjust the stimulation variables.
+
+The daily use of upper-airway stimulation was 86%, as assessed on the basis of self-report. A control group of therapeutic CPAP users (i.e., a comparative-effectiveness design) would
+
+be impractical, given the current study design.
+
+The randomized, controlled therapy-withdrawal study in which some participants had the
+
+therapy turned off for 1 week provided evidence that the therapeutic effect established at 12 months was attributable to the upper-airway stimulation therapy, rather than variability in
+
+the AHI score.
+
+STAR Trial 18 month follow-up:
+
+Dedhia, et al. for the STAR Trial Group evaluated the stability of improvement in polysomnographic measures of sleep disordered breathing, patient reported outcomes, the
+
+durability of hypoglossal nerve recruitment and safety at 18 months in the Stimulation Treatment for Apnea Reduction (STAR) trial participants . This was a prospective
+
+2
+
+multicenter single group trial with participants serving as their own controls. Primary outcome measures were the apnea-hypopnea index (AHI) and the 4% oxygen desaturation
+
+index (ODI). Secondary outcome measures were the Epworth Sleepiness Scale (ESS), the
+
+Functional Outcomes of Sleep Questionnaire (FOSQ), and oxygen saturation percent time < 90% during sleep. Stimulation level for each participant was collected at three predeﬁned
+
+thresholds during awake testing. Procedure- and/or device-related adverse events were reviewed and coded by the Clinical Events Committee.
+
+The median AHI was reduced by 67.4% from the baseline of 29.3 to 9.7/h at 18 months. The median ODI was reduced by 67.5% from 25.4 to 8.6/h at 18 months. The FOSQ and ESS
+
+improved signiﬁcantly at 18 months compared to baseline values. The functional threshold was unchanged from baseline at 18 months. Two participants experienced a serious device-
+
+related adverse event requiring neurostimulator repositioning and ﬁxation. No tongue weakness reported at 18 months.
+
+The authors concluded that upper airway stimulation via the hypoglossal nerve maintained a durable effect of improving airway stability during sleep and improved patient reported
+
+outcomes (Epworth Sleepiness Scale and Functional Outcomes of Sleep Questionnaire) without an increase of the stimulation thresholds or tongue injury at 18 months of follow-up.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+12/24
+
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+STAR Trial 24 month follow-up:
+
+On behalf of the STAR Trial Investigators evaluated the long-term (24-month) effect of cranial nerve upper airway stimulation (UAS) therapy on patient-centered obstructive sleep
+
+3
+
+apnea (OSA) outcome measures . This was a prospective, multicenter, cohort study of 126 patients with moderate to severe OSA who had difﬁculty adhering to positive pressure
+
+therapy and received the surgically implanted UAS system. Outcomes were measured at
+
+baseline and postoperatively at 12 months and 24 months, and included self- and bedpartner-report of snoring intensity, Epworth Sleepiness Scale (ESS), and Functional
+
+Outcomes of Sleep Questionnaire (FOSQ). Additional analysis included FOSQ subscales, FOSQ-10, and treatment effect size.
+
+Signiﬁcant improvement in mean FOSQ score was observed from baseline (14.3) to 12 month (17.3), and the effect was maintained at 24 month (17.2). Similar improvements and
+
+maintenance of effect were seen with all FOSQ subscales and FOSQ-10. Subjective daytime sleepiness, as measured by mean ESS, improved signiﬁcantly from baseline (11.6) to 12
+
+month (7.0) and 24 month (7.1). Self-reported snoring severity showed increased percentage of "no" or "soft" snoring from 22% at baseline to 88% at 12 months and 91% at
+
+24 mo. UAS demonstrated large effect size (greater than 0.8) at 12 and 24 months for overall ESS and FOSQ measures, and the effect size compared favorably to previously
+
+published effect size with other sleep apnea treatments.
+
+The authors concluded that in a selected group of patients with moderate to severe OSA
+
+and body mass index less than or equal to 32 kg/m2, hypoglossal cranial nerve stimulation therapy can provide signiﬁcant improvement in important sleep related quality-of-life
+
+outcome measures and the effect is maintained across a 2-year follow-up period.
+
+STAR Trial 36 month follow-up:
+
+On behalf of the STAR Trial Investigators describe the 36-month clinical and polysomnography (PSG) outcomes in an obstructive sleep apnea (OSA) cohort treated with
+
+4 hypoglossal cranial nerve upper airway stimulation (UAS) .
+
+Of 126 enrolled participants, 116 (92%) completed 36-month follow-up evaluation per
+
+protocol; 98 participants additionally agreed to a voluntary 36-month PSG. Self-report daily device usage was 81%. In the PSG group, 74% met the apriori deﬁnition of success with the
+
+primary outcomes of apnea-hypopnea index, reduced from the median value of 28.2 events
+
+per hour at baseline to 8.7 and 6.2 at 12 and 36 months, respectively. Similarly, self-reported outcomes improved from baseline to 12 months and were maintained at 36 months. Soft or
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+13/24
+
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+no snoring reported by bed partner increased from 17% at baseline to 80% at 36 months.
+
+Serious device-related adverse events were rare, with 1 elective device explanation from 12 to 36 months.
+
+The authors concluded that long-term 3-year improvements in objective respiratory and subjective quality-of-life outcome measures are maintained. Adverse events are uncommon.
+
+UAS is a successful and appropriate long-term treatment for individuals with moderate to severe OSA.
+
+STAR Trial 48 month follow-up:
+
+On behalf of the STAR Trial Investigators assess patient-based outcomes of participants in a
+
+large multicenter prospective cohort study-the STAR trial-48 months after implantation with 5 an upper airway stimulation system for moderate to severe obstructive sleep apnea .
+
+A total of 91 subjects completed the 48-month visit. Daytime sleepiness as measured by ESS was signiﬁcantly reduced (P equal to .01), and sleep-related quality of life as measured
+
+by FOSQ signiﬁcantly improved (P equal to .01) when compared with baseline. Soft to no snoring was reported by 85% of bed partners. Two patients required additional surgery
+
+without complication for lead malfunction.
+
+The authors concluded that upper airway stimulation maintained a sustained beneﬁt on
+
+patient-reported outcomes (ESS, FOSQ, snoring) at 48 months in select patients with moderate to severe obstructive sleep apnea.
+
+STAR Trial 5 year outcomes:
+
+On behalf of the STAR Trial Investigators present 5-year outcomes from a multicenter
+
+prospective cohort of patients with obstructive sleep apnea (OSA) who were treated with upper airway stimulation (UAS) via a unilateral hypoglossal nerve implant . From a cohort of
+
+6
+
+126 patients, 97 completed protocol, and 71 consented to a voluntary polysomnogram. Those having continuous positive airway pressure failure with moderate to severe OSA,
+
+body mass index less than 32 kg/m2, and no unfavorable collapse on drug-induced sleep
+
+endoscopy were enrolled in a phase 3 trial. Prospective outcomes included apnea-hypopnea index (AHI), oxygen desaturation index, and adverse events, as well as measures of
+
+sleepiness, quality of life, and snoring.
+
+Patients who did and did not complete the protocol differed in baseline AHI, oxygen
+
+desaturation index, and Functional Outcomes of Sleep Questionnaire scores but not in any other demographics or treatment response measures. Improvement in sleepiness (Epworth
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+14/24
+
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+Sleepiness Scale) and quality of life was observed, with normalization of scores increasing
+
+from 33% to 78% and 15% to 67%, respectively. AHI response rate (AHI less than 20 events per hour and greater than 50% reduction) was 75% (n equal to 71). When a last
+
+observation carried forward analysis was applied, the responder rate was 63% at 5 years.
+
+Serious device-related events all related to lead/device adjustments were reported in 6% of patients.
+
+The authors concluded that there were improvements in sleepiness, quality of life, and
+
+respiratory outcomes are observed with 5 years of UAS. Serious adverse events are uncommon. UAS is a nonanatomic surgical treatment with long-term beneﬁt for individuals
+
+with moderate to severe OSA who have failed nasal continuous positive airway pressure.
+
+Evidence-Based Practice Guidelines and Position Statements
+
+American Academy of Sleep Medicine
+
+The American Academy of Sleep Medicine (AASM) Clinical Practice Guideline for Diagnostic
+
+Testing for Adult OSA states that the third edition of the International Classiﬁcation of Sleep Disorders (ICSD-3) deﬁnes OSA as a PSG-determined obstructive respiratory disturbance
+
+index (RDI) greater than or equal to 5 events/hour associated with the typical symptoms of OSA (e.g., unrefreshing sleep, daytime sleepiness, fatigue or insomnia, awakening with a
+
+gasping or choking sensation, loud snoring, or witnessed apneas), or an obstructive RDI
+
+greater than or equal to 15 events/hour (even in the absence of symptoms).
+
+American Academy of Otolaryngology Head and Neck Surgery (AAO-HNS)
+
+In 2016, the American Academy of Otolaryngology Head and Neck Surgery issued a
+
+position statement on hypoglossal nerve stimulation for treatment of obstructive sleep
+
+apnea (OSA) which states “The American Academy of Otolaryngology Head and Neck Surgery considers upper airway stimulation (UAS) via the hypoglossal nerve for the
+
+treatment of adult obstructive sleep apnea syndrome to be an effective second-line treatment of moderate to severe obstructive sleep apnea in patient who are intolerant or
+
+unable to achieve beneﬁt with positive pressure therapy (PAP). Not all adult patients are candidates for UAS therapy and appropriate polysomnographic, age, BMI and objective
+
+upper airway evaluation measures are required for proper patient selection.”
+
+International Society for Sleep Surgery
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+15/24
+
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+International Society for Sleep Surgery states that Cranial nerve (hypoglossal nerve)
+
+stimulation is among surgical treatments and procedures that “have been shown to be effective in the treatment of sleep disordered breathing/obstructive sleep apnea syndrome in
+
+adults (and/or children) when applied to selected patients based on their anatomy,
+
+physiology, body mass index and neck size, prior therapy and co-morbidities. Patient should have undergone an appropriate evaluation(s) prior to treatment which may include
+
+polysomnography, home sleep testing, awake or drug induced sleep endoscopy, and possible cephalometric or other radiographic evaluations.”
+
+National Institute for Health and Clinical Excellence (NICE)
+
+In 2017, National Institute for Health and Clinical Excellence (NICE) issued an interventional
+
+procedure guidance (IPG598) which states: “Current evidence on the safety and efﬁcacy of hypoglossal nerve stimulation for moderate to severe obstructive sleep apnea is limited in
+
+quantity and quality. Therefore, this procedure should only be used with special arrangements for clinical governance, consent and audit for research.”
+
+CAC Advisory Committee (CAC) Evidentiary Summary
+
+After review of the literature, the consensus among the CAC Advisory Committee (CAC)
+
+panel was positive for hypoglossal nerve stimulation (HNS) as a viable treatment option for patients with moderate to severe Obstructive Sleep Apnea (OSA). Upper airway stimulation
+
+(UAS) compared favorably with sleep surgeries (e.g., uvulopalatopharyngoplasty [UPPP], trans-oral robotic surgery [TORS]) used to treat tongue base obstruction. CAC discussions
+
+regarding patient criteria included changing the body mass index (BMI) to <35 based on additional studies that included the higher BMI with successful results, and including
+
+expanded descriptions of limitations to clarify the rationale for limiting certain patients from
+
+this procedure. Also, based on the CAC panel discussion and the Food and Drug Administration (FDA), it was suggested that the apnea-hypopnea index (AHI) should start
+
+at 15 with the upper limit of the AHI being increased to 65. This limit was adopted and the Covered Indications now include patients that have an AHI of 15 to 65 events per hour. In
+
+addition, CAC members agree that providers who underwent FDA approved device manufacturer DISE training prior to the date of this LCD, shall be deemed to meet the criteria
+
+for satisfactory performance of DISE without further documentation. All such providers shall maintain certiﬁcation of completion of this training, supply proof of training by manufacturer
+
+and DISE results should be made available upon request. Finally, not all adults are
+
+candidates for UAS therapy and appropriate polysomnographic, age, BMI and objective upper airway evaluation measures are required for proper patient selection. Overall, this is
+
+an appropriate method of treating OSA for the Medicare population.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+16/24
+
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+Analysis of Evidence (Rationale for Determination)
+
+The evidence on hypoglossal nerve stimulation for the treatment of obstructive sleep apnea
+
+(OSA) includes case series and a multicenter, prospective, single group, cohort design study (STAR) that were surgically implanted with an upper airway stimulation device with
+
+obstructive sleep apnea who had difﬁculty either accepting or adhering to CPAP therapy and were followed for 5 years. Prospective cohort study is gold standard for epidemiologic
+
+studies. The study strengths included measuring primary and secondary outcomes and at
+
+12-month visits, a second randomized study within the study where participants were randomly assigned into two groups with one group having the device turned off for 7 days
+
+and the other continued with the device turned on. Polysomnography was performed after the randomization period to measure the effects of therapy withdrawal as compared to
+
+1 continued use of the therapy .
+
+Hypoglossal nerve stimulation has shown improved outcomes in this single arm study when
+
+used in a select group of patients. For the patients that met the inclusion criteria for AHI, BMI and favorable pattern for palatal collapse about two-thirds met the study deﬁnition of
+
+success. Results observed at the 12 month follow-up were maintained at 3 years. Patient based outcomes at 48 months, concluded these patients maintained a sustained beneﬁt on
+
+patient reported outcomes (Epworth Sleepiness Score, Functional Outcomes of Sleep
+
+Questionnaire and snoring). Conclusions from the 5 year outcomes were that UAS is a nonanatomic surgical treatment with long-term beneﬁt for individuals with moderate to
+
+severe OSA who have failed nasal continuous positive airway pressure. Safety and effectiveness were evaluated using multiple outcome measures.
+
+For individuals with obstructive sleep apnea who are treated with hypoglossal nerve stimulation, the evidence is sufﬁcient to determine that the technology results in a
+
+meaningful improvement in the net health outcome when utilized as outlined in this LCD.
+
+General Information
+
+Associated Information
+
+Please refer to the Local Coverage Article: Billing and Coding: Hypoglossal Nerve
+
+Stimulation for the Treatment of Obstructive Sleep Apnea (A57949) for utilization guidelines that apply to the reasonable and necessary provisions outlined in this LCD.
+
+Sources of Information
+
+Contractor is not responsible for the continued viability of websites listed.
+
+Other Policies:
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+17/24
+
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+1. Aetna Medical Clinical Policy Bulletin Number: 0004. Obstructive Sleep Apnea in Adults.
+
+Last Review 07/06/2018.
+
+2. Florida Blue Medical Coverage Guideline (MCG) 02-40000-16. Medical & Surgical
+
+Management of Obstructive Sleep Apnea (OSA), Snoring, and Other Conditions of the Soft Palate and Nasal Passages. Reviewed 10/31/2017.
+
+3. Wellmark Medical Policy 07.01.68. Implantable Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea. Reviewed April 2018.
+
+4. Contractor Medical Directors
+
+Bibliography
+
+1. Strollo PJ Jr, Soose RJ, Maurer JT, et al. for the STAR Trial Group. Upper-airway stimulation
+
+for obstructive sleep apnea. N Engl J Med. 2014 Jan 9; 370 (2):139-49.
+
+2. Dedhia RC, Strollo PJ, Soose RJ. Upper Airway Stimulation for Obstructive Sleep Apnea:
+
+Past, Present, and Future. Sleep. 2015 Jun 1; 38 (6):899-906.
+
+3. Soose RJ, Woodson BT, Gillespie MB, et al. Upper Airway Stimulation for Obstructive Sleep
+
+Apnea: Self-Reported Outcomes at 24 Months. J Clin Sleep Med. 2016 Jan; 12(1):43-8.
+
+4. Woodson BT , Soose RJ, Gillespie MB, et al. Three-Year Outcomes of Cranial Nerve
+
+Stimulation for Obstructive Sleep Apnea: The STAR Trial. Otolaryngol Head Neck Surg.
+
+2016 Jan; 154 (1):181-8.
+
+5. Gillespie MB, Soose RJ, Woodson BT, et al. Upper Airway Stimulation for Obstructive Sleep
+
+Apnea: Patient-Reported Outcomes after 48 Months of Follow-up. Otolaryngol Head Neck
+
+Surg. 2017 Apr; 156 (4):765-771.
+
+6. Woodson BT, Strohl KP, Soose RJ, et al. Upper Airway Stimulation for Obstructive Sleep
+
+Apnea: 5-Year Outcomes. Otolaryngol Head Neck Surg. 2018 Jul; 159 (1):194-202.
+
+7. American Academy of Otolaryngology – Head and Neck Surgery Position Statement:
+
+Hypoglossal Nerve Stimulation for Treatment of Obstructive Sleep Apnea (OSA). Adopted
+
+3/20/2016.
+
+8. Blue Cross and Blue Shield Association Technology Evaluation Center (TEC). Surgical
+
+treatment of Snoring and Obstructive Sleep Apnea Syndrome.
+
+9. Boon M, Huntley C, Steffen A, et al. Upper Airway Stimulation for Obstructive Sleep Apnea:
+
+Results from the ADHERE Registry. Otolaryngol Head Neck Surg. 2018 Aug; 159 (2):379-
+
+385.
+
+10. Certal VF, Zaghi S, Riaz M, et al. Hypoglossal nerve stimulation in the treatment of
+
+obstructive sleep apnea: A systematic review and meta-analysis. Laryngoscope. 2015 May;
+
+125 (5):1254-64.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+18/24
+
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+11. Dedhia RC, Quyyumi AA, Park J, et al. Cardiovascular endpoints for obstructive sleep apnea
+
+with twelfth cranial nerve stimulation (CARDIOSA-12): Rationale and methods.
+
+Laryngoscope. 2018 Sep 8. doi: 10.1002/lary.27284. [Epub ahead of print]
+
+12. Eastwood PR, Barnes M, Walsh JH, et al. Treating obstructive sleep apnea with hypoglossal
+
+nerve stimulation. Sleep. 2011 Nov 1; 34 (11):1479-86.
+
+13. ECRI Institute. Inspire Upper Airway Stimulation System (Inspire Medical Systems, Inc.)
+
+for Treating Obstructive Sleep Apnea. May 2017.
+
+14. Elshebiny T, Venkat D, Strohl M, et al. Airway evaluation in response to hypoglossal nerve
+
+stimulation a case report. J Dental Sleep Med. 2017; 4 (1)15-17.
+
+15. ElShebiny T, Venkat D, Strohl K, et al. Hyoid Arch Displacement with Hypoglossal Nerve
+
+Stimulation. Am J Respir Crit Care Med. 2017 Sep 15; 196 (6):790-792.
+
+16. Gami AS, Howard DE, Olson EJ, et al. Day-night pattern of sudden death in obstructive
+
+sleep apnea. N Engl J Med. 2005 Mar 24; 352 (12):1206-14.
+
+17. German Sleep Society. S3- Guideline on Nonrestorative Sleep/Sleep Disorders – Chapter on
+
+”Sleep-Related Respiratory Disorders”. Somnologie. 2017;20(Suppl s2):97-180. DOI:
+
+10.1007/s11818-016-0093-1.
+
+18. Gillespie MB, Soose RJ, Woodson BT, et al. Upper Airway Stimulation for Obstructive Sleep
+
+Apnea: Patient-Reported Outcomes after 48 Months of Follow-up. Otolaryngol Head Neck
+
+Surg. 2017 Apr; 156 (4):765-771.
+
+19. Hasselbacher K, Hofauer B, Maurer JT, et al. Patient-reported outcome: results of the
+
+multicenter German post-market study. Eur Arch Otorhinolaryngol. 2018 Jul; 275
+
+(7):1913-1919.
+
+20. Heiser C, Knopf A, Bas M, et al. Selective upper airway stimulation for obstructive sleep
+
+apnea: a single center clinical experience. Eur Arch Otorhinolaryngol. 2017 Mar; 274
+
+(3):1727-1734.
+
+21. Heiser C, Maurer JT, Hofauer B, et al. Outcomes of Upper Airway Stimulation for
+
+Obstructive Sleep Apnea in a Multicenter German Postmarket Study. Otolaryngol Head Neck
+
+Surg. 2017; 156 (2):378-384.
+
+22. Heiser C, Steffen A, Boon M, et al. Post-Approval Upper Airway Stimulation Predictors of
+
+Treatment Efficacy in the Adhere Registry. Eur Respir J. 2018 Nov 28. pii: 1801405. doi:
+
+10.1183/13993003.01405-2018. [Epub ahead of print]
+
+23. Hofauer B, Steffen A, Knopf A, et al. Adherence to Upper-Airway Stimulation in the
+
+Treatment of OSA. Chest. 2018 Feb; 153 (2):574-575.
+
+24. Hong SO, Chen YF, Jung J, et al. Hypoglossal nerve stimulation for treatment of obstructive
+
+sleep apnea (OSA): a primer for oral and maxillofacial surgeons. Maxillofac Plast Reconstr
+
+Surg. 2017 Sep 25; 39 (1):27.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+19/24
+
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+25. Huntley C, Chou DW, Doghramji K, et al. Comparing Upper Airway Stimulation to Expansion
+
+Sphincter Pharyngoplasty: A Single University Experience. Ann Otol Rhinol Laryngol. 2018
+
+Jun; 127 (6):379-383.
+
+26. Huntley C, Kaffenberger T, Doghramji K, et al. Upper Airway Stimulation for Treatment of
+
+Obstructive Sleep Apnea: An Evaluation and Comparison of Outcomes at Two Academic
+
+Centers. J Clin Sleep Med. 2017 Sep 15; 13 (9):1075-1079.
+
+27. Huntley C, Steffen A, Doghramji K, et al. Upper Airway Stimulation in Patients With
+
+Obstructive Sleep Apnea and an Elevated Body Mass Index: A Multi-institutional Review.
+
+Laryngoscope. 2018 Aug 10. doi: 10.1002/lary.27426. [Epub ahead of print].
+
+28. Huntley C, Topf MC, Christopher V, et al. Comparing Upper Airway Stimulation to Transoral
+
+Robotic Base of Tongue Resection for Treatment of Obstructive Sleep Apnea. Laryngoscope.
+
+2018 Sep 12. doi: 10.1002/lary.27484. [Epub ahead of print]
+
+29. Huntley C, Vasconcellos A, Doghramji K, et al. Upper Airway Stimulation in Patients Who
+
+Have Undergone Unsuccessful Prior Palate Surgery: An Initial Evaluation. Otolaryngol Head
+
+Neck Surg. 2018 Aug 7:194599818792191. doi: 10.1177/0194599818792191. [Epub
+
+ahead of print]
+
+30. International Surgical Sleep Society. ISSS Position Statement on Sleep Surgery. Retrieved
+
+10/08/2018 from https://surgicalsleep.org/isss-position-statement-on-sleep-surgery/
+
+31. Kapur VK, Auckley DH, Chowdhuri S, et al. Clinical Practice Guideline for Diagnostic Testing
+
+for Adult Obstructive Sleep Apnea: An American Academy of Sleep Medicine Clinical
+
+Practice Guideline. J Clin Sleep Med. 2017; 13 (3):479–504.
+
+32. Kent DT, Lee JJ, Strollo PJ Jr, et al. Upper Airway Stimulation for OSA: Early Adherence and
+
+Outcome Results of One Center. Otolaryngol Head Neck Surg. 2016; 155 (1):188-93.
+
+33. Lee JJ, Sahu N, Rogers R, et al. Severe obstructive sleep apnea treated with combination
+
+hypoglossal nerve stimulation and oral appliance therapy. J Dental Sleep Med. 2015; 2(4)
+
+185-186.
+
+34. Lorenzi-Filho G, Almeida FR, Strollo PJ. Treating OSA: Current and emerging therapies
+
+beyond CPAP. Respirology. 2017 Nov; 22 (8):1500-1507.
+
+35. Mahmoud AF, Thaler ER. Upper airway stimulation therapy and prior airway surgery for
+
+obstructive sleep apnea. Laryngoscope. 2018 Jun; 128 (6):1486-1489.
+
+36. Malhotra A. Hypoglossal-Nerve Stimulation for Obstructive Sleep Apnea. N Engl J Med.
+
+2014 Jan 9; 370(2): 170–171.
+
+37. Murphey AW, Baker AB, Soose RJ, et al. Upper airway stimulation for obstructive sleep
+
+apnea: The surgical learning curve. Laryngoscope. 2016 Feb; 126 (2):501-6.
+
+38. National Institute for Health and Clinical Excellence (NICE) Hypoglossal Nerve Stimulation
+
+for Moderate to Severe Obstructive Sleep Apnea, Interventional Procedure Guidance
+
+IPG598. Published November 2017.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+20/24
+
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+39. Oliven A, O'Hearn DJ, Boudewyns A, et al. Upper airway response to electrical stimulation
+
+of the genioglossus in obstructive sleep apnea. J Appl Physiol (1985). 2003 Nov; 95
+
+(5):2023-9.
+
+40. Ong AA, Ayers CM, Kezirian EJ, et al. Application of drug-induced sleep endoscopy in
+
+patients treated with upper airway stimulation therapy. World J Otorhinolaryngol Head Neck
+
+Surg. 2017 Jun 9; 3 (2):92-96.
+
+41. Heiser C, Edenharter G, Bas, M, Wirth M, Hofauer B. Palatoglossus coupling in selective
+
+upper airway stimulation. Laryngoscope. 2017 Oct; 127 (10):E378-E383.
+
+https://doi.org/10.1002/lary.26487.
+
+42. Philip P, Heiser C, Bioulac S, et al. Hypoglossal nerve stimulation on sleep and level of
+
+alertness in OSA: A preliminary study. Neurology. 2018 Aug 14; 91 (7):e615-e619. doi:
+
+10.1212/WNL.0000000000006001. Epub 2018 Jul 18.
+
+43. Pietzsch JB, Liu S, Garner AM, et al. Long-Term Cost-Effectiveness of Upper Airway
+
+Stimulation for the Treatment of Obstructive Sleep Apnea: A Model-Based Projection Based
+
+on the STAR Trial. Sleep. 2015 May 1; 38 (5):735-44.
+
+44. Safiruddin F, Vanderveken OM, de Vries N, et al. Effect of upper-airway stimulation for
+
+obstructive sleep apnoea on airway dimensions. Eur Respir J. 2015 Jan; 45 (1):129-38.
+
+45. Schwartz AR. Hypoglossal nerve stimulationoptimizing its therapeutic potential in
+
+obstructive sleep apnea. J Neurol Sci. 2014 Nov 15; 346 (1-2):1-3.
+
+46. Schwartz AR, Bennett ML, Smith PL, et al. Therapeutic Electrical Stimulation of the
+
+Hypoglossal Nerve in Obstructive Sleep Apnea. Arch Otolaryngol Head Neck Surg. 2001;
+
+127 (10):1216-1223.
+
+47. Schwartz AR, Smith PL, Oliven A. Electrical stimulation of the hypoglossal nerve: a
+
+potential therapy. J Appl Physiol (1985). 2014 Feb 1; 116 (3):337-44.
+
+48. Shah J, Russell JO, Waters T, et al. Uvulopalatopharyngoplasty vs CN XII stimulation for
+
+treatment of obstructive sleep apnea: A single institution experience. Am J Otolaryngol.
+
+2018 May - Jun; 39 (3):266-270.
+
+49. Sjögren P, Kindblom J, Liljegren A, et al. Should case series be included in systematic
+
+reviews when controlled trials are scarce? Cochrane Colloquium Abstracts. 2015.
+
+https://doi.org/10.1002/lary.26487.
+
+50. Steffen A, Sommer JU, Hofauer B, et al. Outcome after one year of upper airway
+
+stimulation for obstructive sleep apnea in a multicenter German post-market study.
+
+Laryngoscope. 2018 Feb; 128 (2):509-515.
+
+51. Strohl KP, Baskin J, Lance C, et al. Origins of and implementation concepts for upper airway
+
+stimulation therapy for obstructive sleep apnea. Respir Investig. 2016 Jul; 54 (4):241-9.
+
+52. Strollo PJ Jr, Gillespie MB, Soose RJ, et al. Upper Airway Stimulation for Obstructive Sleep
+
+Apnea: Durability of the Treatment Effect at 18 Months. Sleep. 2015 Oct 1; 38 (10):1593-
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+21/24
+
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+8.
+
+53. Thaler ER, Schwab RJ. Single-institution experience and learning curve with upper airway
+
+stimulation. Laryngoscope. 2016 Sep; 126 Suppl 7:S17-9.
+
+54. U.S. Food and Drug Administration (FDA) approval/clearance letters and summaries.
+
+55. U.S. Food and Drug Administration (FDA) Post-Approval Studies (PAS) for the Inspire II
+
+Upper Airway Stimulator.
+
+56. Van de Heyning PH, Badr MS, Baskin JZ, et al. Implanted Upper Airway Stimulation Device
+
+for Obstructive Sleep Apnea. Laryngoscope. 2012; 122 (7):1626-1633.
+
+57. Vanderveken OM, Beyers J, Op de Beeck S, et al. Development of a Clinical Pathway and
+
+Technical Aspects of Upper Airway Stimulation Therapy for Obstructive Sleep Apnea. Front
+
+Neurosci. 2017 Sep 21; 11:523.
+
+58. Vanderveken OM, Maurer JT, Hohenhorst W, et al. Evaluation of drug-induced sleep
+
+endoscopy as a patient selection tool for implanted upper airway stimulation for obstructive
+
+sleep apnea. J Clin Sleep Med. 2013 May 15;9(5):433-438.
+
+59. Weidenbecher M, Tamaki A, Cabrera C, et al. Improved exposure of the hypoglossal
+
+branches during hypoglossal nerve stimulator implantation: Clinical outcomes of twenty
+
+patients at a single institution. Clin Otolaryngol. 2018 Sep 12. doi: 10.1111/coa.13221.
+
+[Epub ahead of print]
+
+60. Weeks B, Bao G, Gilbert TM, et al. Hypoglossal Nerve Stimulator Implantation in a Non-
+
+Academic Setting: Two-Year Result. Laryngoscope Investig Otolaryngol. 2018 Aug 9; 3
+
+(4):315-318.
+
+61. Withrow K, Evans, S, Harwick J, et al. Upper Airway Stimulation Response in Older Adults
+
+with Moderate to Severe Obstructive Sleep Apnea. American Academy of Otolaryngology
+
+Head and Neck Surgery. 2019; 1-6. DOI: 10.1177/0194599819848709.
+
+62. Woodson BT, Gillespie MB, Soose RJ, et al. Randomized Controlled Withdrawal Study of
+
+Upper Airway Stimulation on OSA: Short – and Long-term Effect. Otolaryngol Head Neck
+
+Surg. 2014; 151(5):880-7.
+
+63. 63. Wray CM, Thaler ER. Hypoglossal nerve stimulation for obstructive sleep apnea: A
+
+review of the literature. World J Otorhinolaryngol Head Neck Surg. 2016 Dec 22;2(4):230-
+
+233.
+
+64. Yu JL, Mahmoud A, Thaler ER. Transoral robotic surgery versus upper airway stimulation in
+
+select obstructive sleep apnea patients. Laryngoscope. 2018 Sep 12. doi:
+
+10.1002/lary.27487. [Epub ahead of print].
+
+65. Zhu Z, Hofauer B, Wirth M, et al. Selective upper airway stimulation in older patients.
+
+Respir Med. 2018 Jul; 140:77-81.
+
+66. U.S. Food and Drug Administration (FDA) Premarket Approval (PMA) for the Inspire II
+
+Upper Airway Stimulator. Supplemental order SO21.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+22/24
+
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+Revision History Information
+
+N/A
+
+Associated Documents
+
+Attachments
+
+N/A
+
+Related Local Coverage Documents
+
+Articles
+
+A57949 - Billing and Coding: Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea A57947 - Response to Comments: Hypoglossal Nerve Stimulation for the Treatment of
+
+Obstructive Sleep Apnea LCDs
+
+DL38312 - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea
+
+(MCD Archive Site)
+
+Related National Coverage Documents NCDs
+
+N/A
+
+Public Versions
+
+Updated On
+
+Effective Dates
+
+Status
+
+01/25/2020
+
+03/15/2020 - N/A
+
+Currently in Effect
+
+You are here
+
+Keywords
+
+Hypoglossal
+
+Nerve Stimulation Obstructive
+
+Sleep Apnea OSA
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+23/24
+
+10/9/25, 5:12 PM
+
+LCD - Hypoglossal Nerve Stimulation for the Treatment of Obstructive Sleep Apnea (L38312)
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=38312&ver=4
+
+24/24

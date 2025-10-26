@@ -1,0 +1,819 @@
+10/25/25, 12:17 PM
+
+CG-SURG-01 Colonoscopy
+
+Clinical UM Guideline
+
+Subject: Colonoscopy
+
+Guideline #: CG-SURG-01
+
+Publish Date: 10/01/2025
+
+Status: Reviewed
+
+Last Review Date: 08/07/2025
+
+Description
+
+This document addresses colonoscopy, an endoscopic procedure which allows direct visual inspection of the entire colon and rectum. Additionally, biopsy or excision of polyps or other abnormalities are possible during the colonoscopy procedure.
+
+Colonoscopy must be distinguished from CT colonography, an imaging procedure that provides indirect visualization of the colon and rectum using CT scans. This document does not address CT Colonography.
+
+Clinical Indications
+
+Note: The parenthetical numbers in the Clinical Indications section refer to the source documents cited in the References section below.
+
+I. Screening and Surveillance Colonoscopy
+
+F e e d b a c k
+
+Medically Necessary:
+
+A. Screening Colonoscopy in Average Risk Populations (that is, asymptomatic individuals without specific risk
+
+factors including no personal history of adenomas, sessile serrated polyps [SSPs], colorectal cancer, inflammatory bowel disease, or cystic fibrosis, and no family history of colorectal cancer).
+
+1. Colonoscopy to detect colorectal cancer and adenomatous polyps is appropriate:
+
+a. Beginning at age 45 years; (13, 22, 24, 29, 38, 40, 45) and b. Every 10 years thereafter. (11, 22, 24, 38, 40, 45)
+
+or
+
+2. For individuals with a personal history of a hyperplastic, non-sessile serrated polyp (non-SSP) removed at colonoscopy, measuring less than 1 cm and in the rectum and sigmoid only, the first follow up colonoscopy is appropriate in 10 years; (15, 18, 21) or
+
+3. For individuals with a personal history of a negative stool-based test:
+
+a. If prior screening was conducted using a guaiac-based or an immunohistochemical test, re-
+
+screening may be performed with colonoscopy in 1 year; (21) or
+
+b. If prior screening test was conducted using Cologuard, re-screening may be performed using
+
+colonoscopy in 3 years.
+
+B. Surveillance Colonoscopy in At-Risk Populations
+
+1. Individuals who have a personal history of a positive stool based (guaiac-based, immunohistochemical or Cologuard fecal DNA) test and the confirmatory colonoscopy was positive for cancer or pre-cancerous polyp, surveillance may be appropriate based on clinical findings. (21)
+
+2. Colorectal Cancer:
+
+a. For those with a personal history of colorectal cancer that has been resected with curative intent,
+
+colonoscopy is appropriate for any of the following:
+
+i. To rule out synchronous neoplasms; no less than 3 months after cancer resection, if no unresectable metastases are found during surgery. Alternatively, colonoscopy can be performed intraoperatively, or preoperatively if non-obstructing tumor; (2, 14, 15, 21, 29) or ii. 1 year after the curative resection if a complete preoperative colonoscopy was performed, or no less than 3 months after curative resection if there was no or incomplete preoperative
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_c119565.html
+
+1/13
+
+10/25/25, 12:17 PM
+
+CG-SURG-01 Colonoscopy
+
+colonoscopy, or 1 year following the colonoscopy that was performed to clear the colon of synchronous disease; (2, 14, 15, 21, 30) or
+
+iii. No less than 2 years after the “1 year” follow up colonoscopy, if examination was normal; (2,
+
+3, 14, 15, 21, 30) and
+
+iv. For this specific group, colonoscopy may be repeated thereafter at an interval of no less
+
+than 3 years, based on previous findings; (2, 3, 14, 15, 21, 30) or
+
+b. For those with a personal history of stage IV colorectal cancer that was managed nonoperatively
+
+with complete clinical response:
+
+i. Begin colonoscopy surveillance from the first documented complete response. (21) and ii. For this specific group, colonoscopy may be repeated thereafter based on clinical judgement
+
+(21).
+
+3. Adenomatous Polyps or Sessile Serrated Polyps (SSP): Those who have a personal history of one or more
+
+adenomatous polyps or SSPs removed at colonoscopy are managed according to the findings (that is, considering number of polyps and pathology). Colonoscopy may be appropriate in any of the following:
+
+a. For those with 1 or 2 small (less than 1 cm) tubular adenomas or SSPs without cytologic dysplasia,
+
+the first follow-up colonoscopy is appropriate in no less than 5 years; (2, 11, 15, 18, 21) or
+
+b. For individuals with a history of any of the following, the first follow-up colonoscopy is appropriate 3
+
+years after the initial polypectomy:
+
+i. 3 to 9 adenomatous polyps and/or SSPs; (11, 21, 22) or ii. Any adenoma or SSP greater than or equal to 1 cm; (11, 21) or iii. Any adenoma with villous or tubulovillous features; (11, 21) or iv. Any adenoma with high-grade dysplasia; (11, 21) or v. Any SSP with cytologic dysplasia; (2, 11, 15, 18, 21)
+
+or
+
+c. For those with 10 or more adenomas on a single examination, the first follow-up colonoscopy is
+
+appropriate less than 3 years after the initial polypectomy based on clinical judgment; (2, 15, 18, 22) or
+
+d. For those with a malignant adenoma (with invasive cancer), a large sessile adenoma, or an incomplete colonoscopy, a short interval between the initial and follow up colonoscopy is appropriate based on clinical judgment; or
+
+e. For those with sessile adenomas that are removed piecemeal, the first follow-up colonoscopy is
+
+appropriate at no less than 2 months to verify complete removal. (2, 15, 21, 26) Note: The timing of the subsequent colonoscopy is dependent upon the pathology and the number of adenomas detected at the "follow-up colonoscopy.” For example, if the first "follow-up colonoscopy" is normal or only 1 or 2 small (less than 1cm) tubular adenomas are found, then the next colonoscopy can be in 10 years. (21)
+
+4. Serrated Polyposis Syndrome (SPS)
+
+a. For individuals with serrated polyposis syndrome, colonoscopy is appropriate as follows:
+
+i. Colonoscopy with polypectomy until all polyps greater than or equal to 5 mm are removed;
+
+(22) and
+
+ii. Then colonoscopy no less than every year depending on the number and size of polyps.
+
+(22).
+
+5. Colonic Adenomatous Polyposis of Unknown Etiology: For individuals with a personal history of colonic
+
+adenomatous polyposis of unknown etiology (without known APC or biallelic MUTYH mutations), colonoscopy is appropriate as follows:
+
+a. For those with a personal history of more than 10 but less than 100 small (less than 1 cm)
+
+adenomas which are manageable by colonoscopy and polypectomy, colonoscopy is appropriate no less than every year. Repeat colonoscopy performed at a shorter interval is appropriate if residual polyps are present. (22)
+
+6. Inflammatory Bowel Disease (chronic ulcerative colitis or Crohn's colitis) and related conditions: a. For individuals with inflammatory bowel disease, colonoscopy is appropriate as follows:
+
+i. Surveillance colonoscopy beginning no less than 8 years after onset of colitis, and repeated
+
+no less than 1 year thereafter; (2, 8, 15, 21) or
+
+ii. For those with primary sclerosing cholangitis (PSC), begin surveillance colonoscopy at the
+
+time of diagnosis and then undergo yearly colonoscopy thereafter; (8, 21, 31) or
+
+iii. When individual has undergone endoscopic resection of a visible dysplastic lesion, the next
+
+surveillance colonoscopy should occur at 3-6 months. (17, 20)
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_c119565.html
+
+2/13
+
+10/25/25, 12:17 PM
+
+CG-SURG-01 Colonoscopy
+
+7. Cystic Fibrosis: Research has shown an increased risk of colorectal cancer in individuals with cystic
+
+fibrosis. Studies have also demonstrated that individuals with cystic fibrosis who underwent transplant had a higher incidence of digestive tract tumors:
+
+a. For individuals with a personal history of cystic fibrosis and no history of solid organ transplant:
+
+i. Colonoscopy beginning at age 40; (22) and ii. Rescreening in 5 years if colonoscopy report is normal; (22) or iii. Repeat in 3 years if colonoscopy reports adenomatous polyps; (22)
+
+or
+
+b. For individuals with a personal history of cystic fibrosis and a solid organ transplant:
+
+i. Colonoscopy beginning at age 30 years; (22) or within 2 years of the transplantation; and ii. Rescreening in 5 years if colonoscopy report is normal; or iii. Repeat in 3 years if colonoscopy reports adenomatous polyps. 8. Increased Risk Based on Personal History of Childhood, Adolescent and Young Adult Cancer:
+
+a. For individuals with a personal history of childhood, or adolescent and young adult cancer (age 15-
+
+39 years at the time of initial cancer diagnosis) treated with chemotherapy (without radiation therapy):
+
+i. Colonoscopy beginning at age 35; (22) or ii. 10 years after age of chemotherapy, (whichever comes first); (22) and iii. For this specific group, colonoscopy may be repeated every 5 years. (22)
+
+or
+
+b. For individuals with a personal history of childhood, adolescent or young adult cancer treated with
+
+radiation of the abdominopelvic field, (that is, abdomen, pelvis, spine [lumbar, sacral, whole] or total body irradiation [TBI]), (with or without chemotherapy);
+
+i. Colonoscopy beginning at age 30; (22, 44) or ii. 5 years after treatment (whichever occurs last); (22, 44) and iii. For this specific group, colonoscopy may be repeated every 5 years. (22, 44)
+
+C. Screening Colonoscopy in Higher Risk Populations
+
+1. Family History of Colorectal Cancer or Adenomas: The vast majority of those with increased risk are in this
+
+category. Screening colonoscopy is appropriate for a person with a family history indicating any of the following:
+
+a. One first degree relative (parent, sibling or child) with colorectal cancer diagnosed at any age; (2,
+
+18, 22, 29, 45)
+
+i. Colonoscopy beginning at age 40; (2, 18, 22, 29, 45) or ii. Colonoscopy beginning at an age 10 years younger than the age at diagnosis of the
+
+youngest affected relative, whichever comes first; (2, 18, 22, 29, 45) and
+
+iii. For this specific group, colonoscopy may be repeated no less than every 3 years depending
+
+on findings; (2, 18, 22) or
+
+b. One second and one third-degree relative with colorectal cancer at any age;
+
+i. Colonoscopy beginning at age 45; (22) and ii. For this specific group, colonoscopy may be repeated every 10 years, depending on
+
+findings; (22) or
+
+c. One first-degree relative with confirmed advanced adenoma(s) (for example, high-grade dysplasia, greater than or equal to 1 cm, villous or tubulovillous histology, traditional serrated adenoma [TSA]) or advanced SSPs/SSLs (greater than or equal to 1 cm, dysplasia) at any age:
+
+i. Colonoscopy beginning at age 40 or at age of onset of adenoma in affected relative,
+
+whichever is first; (21, 22) and
+
+ii. For this specific group, colonoscopy may be repeated no less than every 5 years, or if
+
+positive, repeat per colonoscopy findings. (21, 22) Note: Increased numbers of affected first-degree relatives influences risk much more than affected second-degree relatives or third-degree relatives. However, when combined with a positive first-degree family history, a positive second- and third-degree family history can significantly increase risk. (21)
+
+2. Familial adenomatous polyposis (FAP): In this autosomal dominant syndrome, affected persons have a risk of colorectal cancer approaching 100%. The average age of adenoma appearance is 16, and the average age of colon cancer is 39. Most affected individuals develop more than 100 adenomas. Thus early and regular screening is appropriate for any of the following. (2; 46)
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_c119565.html
+
+3/13
+
+10/25/25, 12:17 PM
+
+CG-SURG-01 Colonoscopy
+
+a. For those with a genetic diagnosis of FAP or who are at risk for this diagnosis but genetic testing
+
+has not been done or is not feasible:
+
+i. Offer genetic counseling, as specific genetic abnormalities can be identified in approximately 80% of affected individuals. This can then be used to screen other family members; (29, 46) and
+
+ii. Annual colonoscopy beginning at an age no less than 10 years; (2, 22) and
+
+a. With an appropriately timed colectomy indicated when polyps develop; (2, 22, 29, 46)
+
+or
+
+b. If no polyps develop, colonoscopy every 2 years until age 20 then surveillance
+
+colonoscopy per clinical guidance (46). or
+
+b. For the family members of those with FAP who do not have specific genetic evidence or clinical
+
+manifestations of the disease:
+
+i. In the older, unscreened relatives of a person newly diagnosed with FAP, colonoscopy is
+
+appropriate for the first screening examination; (23) and
+
+ii. Annual screening sigmoidoscopy until age 40 if no polyps develop; (23) and iii. An appropriately timed colectomy indicated if polyps develop. (8, 23)
+
+Note: While the above is applicable to individuals with FAP and their families, there are variants of this syndrome, attenuated adenomatous polyposis coli (AAPC) (also referred to as attenuated FAP) and MYH-associated polyposis. The genetic mutations leading to these variants differ from that in the typical FAP individual. These variants are associated with a variable number of adenomas (usually 20 to 100), a tendency toward right sided lesions, and an age of onset of colorectal cancer that is approximately 10 years later than for others with FAP. As with FAP, genetic counseling for these individuals and early and regular screening is warranted. It is recommended that this screening begin in the late teens or early 20s, depending on the age of polyp expression in the family. (35)
+
+3. Lynch Syndrome, also known as Hereditary Non-Polyposis Colorectal Cancer (HNPCC): For individuals with a genetic or clinical diagnosis of, or who are at increased risk for Lynch Syndrome, colonoscopy is appropriate as follows:
+
+a. For individuals who are MLH1, MSH2 and EPCAM mutation carriers:
+
+i. No less than every year beginning at an age no less than 20 years old or no less than 2
+
+years prior to the earliest colon cancer in a first-degree relative if it is diagnosed before age 25; (10, 23) or
+
+b. For individuals who are MSH6 and PMS2 mutation carriers:
+
+i. No less than every year beginning at an age no less than 25 years old or no less than 2
+
+years prior to the earliest colon cancer in a first-degree relative if it is diagnosed before age 30. (23)
+
+4. Serrated Polyposis Syndrome (SPS)
+
+a. For individuals with a family history of serrated polyposis syndrome, colonoscopy is appropriate in the first-degree relative of the individual with serrated polyposis syndrome at the earliest of the following:
+
+i. Age 40; (23) or ii. Same age as the youngest diagnosis of serrated polyposis if uncomplicated by cancer; (23)
+
+or
+
+iii. Ten years earlier than earliest diagnosis in family of colorectal cancer complicating serrated
+
+polyposis: (23)
+
+a. Following baseline exam, repeat colonoscopy every 5 years if no polyps are found;
+
+(23) or
+
+b. If proximal serrated polyps or multiple adenomas are found, consider colonoscopy no
+
+less than every year. (23)
+
+5. Colonic Adenomatous Polyposis of Unknown Etiology: For individuals with a family history of colonic adenomatous polyposis of unknown etiology (without known APC or biallelic MUTYH mutations), colonoscopy is appropriate as follows:
+
+a. Individual with a first-degree relative diagnosed with 100 or more adenomas prior to age 40 years:
+
+i. Colonoscopy beginning at an age no less than 10 years; (23) and ii. Every 1 year until age 24 years; (23) and iii. Every 2 years from age 24 to 34 years; (23) and iv. Every 3 years from age 34 to 44 years; (23) and
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_c119565.html
+
+4/13
+
+10/25/25, 12:17 PM
+
+CG-SURG-01 Colonoscopy
+
+v. No less than every 3 years thereafter; (23)
+
+or
+
+b. Individual with a first-degree relative diagnosed with more than 10 but less than 100 adenomas,
+
+colonoscopy is appropriate no less than every 3 years beginning at the same age as the youngest diagnosis of polyposis in the family, if uncomplicated by cancer or by age 40, whichever is earliest. If multiple polyps found, then colonoscopy no less than every year depending on the type, number and size of polyps; (23) or
+
+c. Individual with a first-degree relative diagnosed with more than 100 adenomas at age 40 or older,
+
+colonoscopy is appropriate no less than every 2 years, starting at age 40 years if uncomplicated by cancer. If multiple polyps found, then colonoscopy no less than every year depending on the type, number and size of polyps. (23)
+
+Not Medically Necessary:
+
+Other indications for screening or surveillance colonoscopy, not listed above, are considered not medically necessary.
+
+II. Diagnostic Colonoscopy
+
+Medically Necessary:
+
+A. Diagnostic colonoscopy is indicated for the evaluation of any of the following:
+
+1. An abnormality on barium enema or other imaging study that is likely to be clinically significant (filling
+
+defect, stricture); (3) or
+
+2. Unexplained gastrointestinal tract bleeding such as: (3)
+
+a. Hematochezia; (3) or b. Melena after an UGI tract source has been excluded; (3) or c. Presence of fecal occult blood; (3) or d. Unexplained iron deficiency anemia; (3)
+
+or
+
+3. A suspicion of inflammatory bowel disease, which may be manifested by abdominal pain, fever, diarrhea,
+
+bloody diarrhea, elevated erythrocyte sedimentation rate, etc.; or
+
+4. Clinically significant diarrhea of unexplained origin after other appropriate work up; (3) or 5. A metastatic adenocarcinoma of unknown primary origin when colon cancer is suspected; or 6. Intraoperative identification of a lesion not apparent at surgery (for example, polypectomy site, location of a
+
+bleeding site); (3) or
+
+7. Diverticulitis following resolution of a complicated episode or after a first episode of uncomplicated
+
+diverticulitis when a high-quality colonoscopy has not been performed recently (within 1 year). (12; 25; 27)
+
+Not Medically Necessary:
+
+A. Other indications for diagnostic colonoscopy, not listed above, are considered not medically necessary, including
+
+but not limited to the following:
+
+1. Chronic, stable irritable bowel syndrome; (3) and 2. Chronic abdominal pain; (3) and 3. Acute diarrhea; (3) and 4. Routine follow-up of inflammatory bowel disease except for cancer surveillance in chronic ulcerative colitis
+
+and Crohn's colitis; (3) and
+
+5. Upper GI tract bleeding or melena with a demonstrated upper GI source. (3)
+
+III. Therapeutic Colonoscopy
+
+Medically Necessary:
+
+A. Therapeutic colonoscopy is generally indicated for any of the following:
+
+1. Removal of foreign body; (3) or 2. Balloon dilation of stenotic lesions (for example, anastomotic strictures); (3) or 3. Excision of colonic polyps; (3) or 4. Decompression of sigmoid volvulus or an acute nontoxic megacolon; (3) or 5. Palliative treatment of stenosing or bleeding neoplasms (for example, laser, electrocoagulation, stenting);
+
+(3) or
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_c119565.html
+
+5/13
+
+10/25/25, 12:17 PM
+
+CG-SURG-01 Colonoscopy
+
+6. Treatment of bleeding from such lesions as vascular malformation, ulceration, neoplasia, and polypectomy
+
+site (for example, electrocoagulation, heater probe, laser or injection therapy); (3) or
+
+7. Pre-operative "marking" for localization of a lesion. (3)
+
+Not Medically Necessary:
+
+Other indications for therapeutic colonoscopy, not listed above are considered not medically necessary.
+
+Coding
+
+The following codes for treatments and procedures applicable to this document are included below for informational purposes. Inclusion or exclusion of a procedure, diagnosis or device code(s) does not constitute or imply member coverage or provider reimbursement policy. Please refer to the member's contract benefits in effect at the time of service to determine coverage or non-coverage of these services as it applies to an individual member.
+
+When services may be Medically Necessary when criteria are met:
+
+CPT 44388
+
+Colonoscopy through stoma; diagnostic, including collection of specimen(s) by brushing or washing, when performed (separate procedure) Colonoscopy through stoma; with biopsy, single or multiple Colonoscopy through stoma; with removal of foreign body(s) Colonoscopy through stoma; with control of bleeding, any method Colonoscopy through stoma; with removal of tumor(s), polyp(s), or other lesion(s) by hot biopsy forceps Colonoscopy through stoma; with removal of tumor(s), polyp(s), or other lesion(s) by snare technique Colonoscopy through stoma; with ablation of tumor(s), polyp(s), or other lesion(s) (includes pre- and post-dilation and guide wire passage, when performed) Colonoscopy through stoma; with endoscopic stent placement (including pre- and post-dilation and guide wire passage, when performed) Colonoscopy through stoma; with endoscopic mucosal resection Colonoscopy through stoma; with directed submucosal injection(s), any substance Colonoscopy through stoma; with transendoscopic balloon dilation Colonoscopy, flexible; diagnostic, including collection of specimen(s) by brushing or washing, when performed (separate procedure) Colonoscopy, flexible; with removal of foreign body(s) Colonoscopy, flexible; with biopsy, single or multiple Colonoscopy, flexible; with directed submucosal injection(s), any substance Colonoscopy, flexible; with control of bleeding, any method Colonoscopy, flexible; with removal of tumor(s), polyp(s), or other lesion(s) by hot biopsy forceps Colonoscopy, flexible; with removal of tumor(s), polyps(s), or other lesion(s) by snare technique Colonoscopy, flexible; with transendoscopic balloon dilation Colonoscopy, flexible; with ablation of tumor(s), polyp(s), or other lesion(s) (includes pre- and post-dilation and guide wire passage, when performed) Colonoscopy, flexible; with endoscopic stent placement (includes pre- and post-dilation and guide wire passage, when performed)
+
+44389 44390 44391 44392
+
+44394
+
+44401
+
+44402
+
+44403 44404 44405 45378
+
+45379 45380 45381 45382 45384 45385 45386 45388
+
+45389
+
+HCPCS G0105 G0121
+
+Colorectal cancer screening; colonoscopy on individual at high risk Colorectal cancer screening; colonoscopy on individual not meeting criteria for high risk
+
+ICD-10 Diagnosis
+
+All diagnoses
+
+When services are Not Medically Necessary: For the procedure codes listed above when criteria are not met or for situations designated in the Clinical Indications section as not medically necessary.
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_c119565.html
+
+6/13
+
+10/25/25, 12:17 PM
+
+CG-SURG-01 Colonoscopy
+
+Discussion/General Information
+
+Summary
+
+Colonoscopy involves the insertion of a colonoscope (a thin, flexible fiberoptic tube with a camera) through the anus to visualize the lining of the rectum and colon to detect abnormalities such as inflammation, polyps, or cancer. In the United States, colonoscopy is the gold standard test for colorectal cancer (CRC) screening in individuals who are not at increased risk of developing colorectal cancer. Screening colonoscopy is essential to detect and treat early CRCs. Colonoscopy can be used as a diagnostic tool to investigate signs or symptoms of colorectal disease and in individuals who had positive results following another colorectal cancer screening test. Colonoscopy can also be used to monitor (surveil) the colon and rectum following the identification and surgical removal of cancerous or precancerous growths, as well as other conditions affecting the colon and rectum.
+
+Screening, surveillance, and diagnostic indications for colonoscopy are based on guidelines from a variety of specialty societies and governmental organizations. The source for each of the indications listed above is indicated by the referenced citation.
+
+Discussion
+
+Generally speaking, screening refers to an effort or program which is used to detect a condition in an asymptomatic individual so that early detection and treatment can be provided for those who test positive for the condition. Surveillance refers to the systematic identification and evaluation of individuals considered to be at increased risk for the occurrence or recurrence of a condition or disease (for example; colorectal cancer or adenomatous polyps. Diagnostic testing is typically done to confirm or rule out a condition in an individual who is symptomatic or who, for some other reason, is believed to have a specific condition.
+
+Multiple specialty medical societies have published recommendations for colorectal cancer screening and provided guidance on when colorectal cancer screening should be initiated. The American Cancer Society (ACS), American Gastroenterological Association (AGA), American Society of Colon and Rectal Surgeons (ASCRS), National Comprehensive Cancer Network (NCCN), U. S. Preventive Services Task Force (USPSTF) and U.S. Multi-Society Task Force of Colorectal Cancer (USMSTF), which represents the American College of Gastroenterology (ACG), the American Gastroenterological Association (AGA), and the American Society for Gastrointestinal Endoscopy (ASGE), all recommend that individuals at average risk for colorectal cancer begin screening at 45 years of age. The repeat testing interval for individuals considered at average risk for CRC cancer is every 10 years. The USPSTF and the AGA have issued recommendations regarding the appropriate age to discontinue CRC screening. The USPSTF concluded that for individuals 76 to 85 years of age, the benefits of screening for CRC diminish while the risk of experiencing serious associated harms increase. Therefore, the decision to screen for CRC in individuals between 76 and 85 years of age “should be an individual one, taking into account the patient’s overall health and prior screening history”. For this group, the USPSTF has indicated that “screening would be most appropriate among adults who (1) are healthy enough to undergo treatment if colorectal cancer is detected and (2) do not have comorbid conditions that would significantly limit their life expectancy”. The USPSTF recommends against the use of CRC screening in adults 85 years of age or older (USPSTF, 2021). In a similar manner, the AGA recommends that the decision to continue CRC screening in individuals older than 75 years be individualized, based on an assessment of risks, benefits, screening history, and comorbidities (ACS, 2024; Hardiman, 2021; Issaka, 2023; NCCN CRC, 2024; Patel, 2022; USPSTF, 2021; Wolf, 2018).
+
+Colonoscopy is considered the gold standard for colon cancer surveillance. Surveillance intervals (which provide guidance on how frequently a colonoscopy should be repeated), are based upon the individual's risk factors (for example, the individual’s personal medical history, family history of CRC and the results of earlier colonoscopies). Surveillance with earlier and more frequent colonoscopy is recommended for individuals who are at increased risk for CRC.
+
+Due to advances in next-generation sequencing (NGS) technology, multigene tests which simultaneously analyze a set of genes that are associated with a specific family cancer phenotype or multiple phenotypes are being explored as a means to create colonoscopy surveillance recommendations. With regards to using multigene testing to develop colonoscopy surveillance recommendations, the NCCN has indicated it “recognizes that data to support the surveillance recommendations for these particular genes are evolving at this time” and that “caution should be used when implementing final colonoscopy surveillance regimens in context of patient preferences and new knowledge that may emerge” (NCCN, Genetic/Familial High-Risk Assessment Colorectal, 2023).
+
+References
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_c119565.html
+
+7/13
+
+10/25/25, 12:17 PM
+
+CG-SURG-01 Colonoscopy
+
+1. Agrawal S, Bhupinderjit A, Bhutani MS, et al. Colorectal cancer in African Americans. Am J Gastroenterol. 2005;
+
+100 (3):515-523.
+
+2. American Society for Gastrointestinal Endoscopy. ASGE Guideline. Colorectal cancer screening and surveillance
+
+(2006). Gastrointest Endosc. 2006; 63(4):546-557.
+
+3. American Society for Gastrointestinal Endoscopy ASGE Standards of Practice Committee. Appropriate use of
+
+gastrointestinal endoscopy. Gastrointest Endosc. 2012; 75(6):1127-1131.
+
+4. Cairns SR, Scholefield JH, Steele RJ, et al. Guidelines for colorectal cancer screening and surveillance in
+
+moderate and high risk groups (update from 2002). Gut. 2010; 59(5):666-668.
+
+5. Centers for Medicare and Medicaid Services. National coverage determination for colorectal cancer screening
+
+tests. NCD #210.3. Effective May 12, 2009. Available at: https://www.cms.gov/medicare-coverage- database/view/ncd.aspx?NCDId=281. Accessed on July 8, 2025.
+
+6. Chazouillères O, Potier P, Bouzbib C, et al. Non-invasive diagnosis and follow-up of primary sclerosing cholangitis.
+
+Clin Res Hepatol Gastroenterol. 2022; 46(1):101775.
+
+7. DuBose J, Seehusen DA. Diagnosis and initial management of acute colonic diverticulitis. Am Fam Physician.
+
+2021; 104(2):195-197.
+
+8. Farraye FA, Odze RD, Eaden J, et al.; American Gastroenterological Association (AGA). AGA medical position
+
+statement on the diagnosis and management of colorectal neoplasia in inflammatory bowel disease. Gastroenterology. 2010; 138(2):738-745.
+
+9. Gerson LB, Fidler JL, Cave DR, Leighton JA. ACG clinical guideline: diagnosis and management of small bowel
+
+bleeding. Am J Gastroenterol. 2015; 110(9):1265-1287.
+
+10. Giardiello FM, Allen JI, Axilbund JE, et al. Guidelines on genetic evaluation and management of Lynch syndrome: a
+
+consensus statement by the US Multi-society Task Force on Colorectal Cancer. Am J Gastroenterol. 2014; 109(8):1159-1179.
+
+11. Gupta S, Lieberman D, Anderson JC, et al. Recommendations for follow-up after colonoscopy and polypectomy: a
+
+consensus update by the US Multi-Society Task Force on Colorectal Cancer. Am J Gastroenterol. 2020; 115(3):415-434.
+
+12. Hall J, Hardiman K, Lee S, et al. Prepared on behalf of the Clinical Practice Guidelines Committee of the American Society of Colon and Rectal Surgeons. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the treatment of left-sided colonic diverticulitis. Dis Colon Rectum. 2020; 63(6):728-747.
+
+13. Hardiman KM, Felder SI, Friedman G, et al.; Prepared on behalf of the Clinical Practice Guidelines Committee of the American Society of Colon and Rectal Surgeons. The American Society of Colon and Rectal Surgeons clinical practice guidelines for the surveillance and survivorship care of patients after curative treatment of colon and rectal cancer. Dis Colon Rectum. 2021; 64(5):517-533
+
+14. Hassan C, Quintero E, Dumonceau. Post-polypectomy colonoscopy surveillance: European Society of
+
+Gastrointestinal Endoscopy (ESGE) Guideline. Endoscopy. 2013; 45(10):842-864.
+
+15. Kahi CJ, Boland CR, Dominitz JA, et al. Colonoscopy surveillance after colorectal cancer resection:
+
+recommendations of the US Multi-Society Task Force on Colorectal Cancer. Gastroenterology. 2016; 150(3):758- 768.
+
+16. Keswani RN, Crockett SD, Calderwood AH. AGA Clinical practice update on strategies to improve quality of
+
+screening and surveillance colonoscopy: expert review. Gastroenterology. 2021; 161(2):701-711.
+
+17. Laine L, Kaltenbach T, Barkun A, et al.; SCENIC Guideline Development Panel. SCENIC international consensus statement on surveillance and management of dysplasia in inflammatory bowel disease. Gastrointest Endosc. 2015; 81(3):489-501.
+
+18. Levin B, Lieberman DA, McFarland B, et al. Screening and surveillance for the early detection of colorectal cancer and adenomatous polyps, 2008: a joint guideline from the American Cancer Society, the US Multi-Society Task Force on Colorectal Cancer, and the American College of Radiology. CA Cancer J Clin. 2008; 58(3):130-160.
+
+19. Lieberman DA, Rex DK, Winawer SJ, et al. Guidelines for colonoscopy surveillance after screening and
+
+polypectomy: a consensus update by the US Multi-Society Task Force on Colorectal Cancer. Gastroenterology. 2012; 143(3):844-857.
+
+20. Murthy SK, Feuerstein JD, Nguyen GC, Velayos FS. AGA Clinical practice update on endoscopic surveillance and management of colorectal dysplasia in inflammatory bowel diseases: expert review. Gastroenterology. 2021; 161(3):1043-1051.
+
+21. NCCN Clinical Practice Guidelines in Oncology™© 2025. National Comprehensive Cancer Network, Inc. Colon
+
+Cancer V4.2025. Revised June 27, 2025. For additional information visit the NCCN website: http://www.nccn.org/. Accessed on July 9, 2025.
+
+22. NCCN Clinical Practice Guidelines in Oncology™© 2025. National Comprehensive Cancer Network, Inc. Colorectal
+
+cancer screening V2.2025. Revised June 24, 2025. For additional information visit the NCCN website: http://www.nccn.org/. Accessed on July 9, 2025.
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_c119565.html
+
+8/13
+
+10/25/25, 12:17 PM
+
+CG-SURG-01 Colonoscopy
+
+23. NCCN Clinical Practice Guidelines in Oncology™© 2025. National Comprehensive Cancer Network, Inc.
+
+Genetic/familial high risk assessment. colorectal, Endometrial, and Gastric (V1.2025). Revised June 13, 2025. For additional information visit the NCCN website: http://www.nccn.org/. Accessed on July 9, 2025. 24. Patel SG, May FP, Anderson JC, et al. Updates on age to start and stop colorectal cancer screening:
+
+recommendations from the U.S. Multi-Society Task Force on Colorectal Cancer. Gastroenterology. 2022; 162(1):285-299.
+
+25. Peery AF, Shaukat A, Strate LL. AGA clinical practice Update on medical management of colonic diverticulitis:
+
+Expert Review. Gastroenterology. 2021; 160(3):906-911.
+
+26. Peterse EFP, Meester RGS, Siegel RL, et al. The impact of the rising colorectal cancer incidence in young adults on the optimal age to start screening: microsimulation analysis I to inform the American Cancer Society Colorectal Cancer Screening Guideline. Cancer. 2018; 124(14):2964-2973.
+
+27. Qaseem A, Etxeandia-Ikobaltzeta I, Lin JS, et al. Clinical Guidelines Committee of the American College of
+
+Physicians. Colonoscopy for diagnostic evaluation and interventions to prevent recurrence after acute left-sided volonic diverticulitis: a clinical guideline from the American College of Physicians. Ann Intern Med. 2022; 175(3):416-431.
+
+28. Rex DK, Ahnen DJ, Baron JA, et al. Serrated lesions of the colorectum: review and recommendations from an
+
+expert panel. Am J Gastroenterol. 2012; 107(9):1315-1329.
+
+29. Rex DK, Boland CR, Dominitz JA, et al. Colorectal cancer screening: recommendations for physicians and patients
+
+from the U.S. Multi-Society Task Force on Colorectal Cancer. Gastroenterology. 2017; 153(1):307-323.
+
+30. Rex DK, Johnson DA, Anderson JC, et al. American College of Gastroenterology guidelines for colorectal cancer
+
+screening. Gastroenterology. 2008; 134(5):1570-1595.
+
+31. Rex DK, Kahi CJ, Levin B, et al. Guidelines for colonoscopy surveillance after cancer resection: a consensus
+
+update by the American Cancer Society and US Multi-Society Task Force on Colorectal Cancer. CA Cancer J Clin. 2006; 56(3):160-167.
+
+32. Sartelli M, Weber DG, Kluger Y. 2020 update of the WSES guidelines for the management of acute colonic
+
+diverticulitis in the emergency setting. World J Emerg Surg. 2020; 15(1):32.
+
+33. Scott MW, Layton MC, Teer BN, Domagalski JE. Colorectal cancer screening and surveillance. Am Fam Physician.
+
+2015; 91(2):93-100.
+
+34. Shergill AK, Farraye FA. Toward a consensus on endoscopic surveillance of patients with colonic inflammatory
+
+bowel disease. Gastrointest Endosc Clin N Am. 2014; 24(3):469-481.
+
+35. Steele SR, Chang GJ, Hendren S, et al.; Clinical Practice Guidelines Committee of the American Society of Colon and Rectal Surgeons. Practice guideline for the surveillance of patients after curative treatment of colon and rectal cancer. Dis Colon Rectum. 2015; 58(8):713-725.
+
+36. Taylor DP, Burt RW, Williams MS, et al. Population-based family history-specific risks for colorectal cancer: a
+
+constellation approach. Gastroenterology. 2010; 138(3):877-885.
+
+37. U.S. Multisociety Task Force on Colorectal Cancer. Message to members of AGA, ACG and ASGE regarding new
+
+American Cancer Society colorectal cancer screening guidelines (June 2018). Available at: https://www.gastro.org/press-release/statement-from-the-u-s-multisociety-task-force-on-colorectal-cancer. Accessed on July 8, 2025.
+
+38. U.S. Preventive Services Task Force, Davidson KW, Barry MJ, Mangione CM, et al. Screening for colorectal
+
+cancer: US Preventive Services Task Force recommendation statement. JAMA. 2021; 325(19):1965-1977.
+
+39. Winawer S, Fletcher R, Rex D, et al. Colorectal cancer screening and surveillance: clinical guidelines and rationale-
+
+Update based on new evidence. Gastroenterology. 2003; 124(2):544-560.
+
+40. Wolf AMD, Fontham ETH, Church TR, et al. Colorectal cancer screening for average-risk adults: 2018 guideline
+
+update from the American Cancer Society. CA Cancer J Clin. 2018; 68(4):250-281.
+
+41. Worthington DV. American Academy of Family Physicians (AAFP) position paper: colonoscopy: procedural skills.
+
+Am Fam Physician. 2000; 62(5):1177-1182.
+
+42. Hadjiliadis D, Khoruts A, Zauber AG, et al. Cystic fibrosis colorectal cancer screening consensus
+
+recommendations. Gastroenterology 2018; 154:736-745 e714.
+
+43. Maisonneuve P, FitzSimmons SC, Neglia JP, et al. Cancer risk in nontransplanted and transplanted cystic fibrosis
+
+patients: a 10-year study. J Natl Cancer Inst. 2003; 95(5):381-387.
+
+44. Children’s Oncology Group. Long-Term Follow-up Guidelines for survivors of childhood, adolescent, and young
+
+adult cancers, Version 6.0. Monrovia, CA. Children’s Oncology Group; October, 2023 Available at: www.survivorshipguidelines.org. Accessed on July 8, 2025.
+
+45. Issaka RB, Chan AT, Gupta S. AGA clinical practice update on risk stratification for colorectal cancer screening and
+
+post-polypectomy surveillance: Expert review. Gastroenterology. 2023; 165(5):1280-1291.
+
+46. Poylin VY, Shaffer VO, et al. Clinical Practice Guidelines Committee of the American Society of Colon and Rectal
+
+Surgeons. The American Society of Colon and Rectal Surgeons clinical practice guidelines for the management of
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_c119565.html
+
+9/13
+
+10/25/25, 12:17 PM
+
+CG-SURG-01 Colonoscopy
+
+inherited adenomatous polyposis syndromes. Dis Colon Rectum. 2024; 67(2):213-227.
+
+47. American Cancer Society. Guideline for colorectal cancer screening (January 2024). Available at: https://www.cancer.org/content/dam/CRC/PDF/Public/8606.00.pdf. Accessed on July 8, 2025.
+
+48. Rex DK, Anderson JC, Butterly LF, et al. Quality indicators for colonoscopy. Gastrointest Endosc. 2024; 100(3):352-
+
+381.
+
+49. NCCN Clinical Practice Guidelines in Oncology™© 2025. National Comprehensive Cancer Network, Inc.
+
+Genetic/familial high-risk assessment: breast, ovarian, pancreatic, and prostate (V4.2024). Revised March 6, 2025. For additional information visit the NCCN website: http://www.nccn.org/. Accessed on July 9, 2025.
+
+Index
+
+Colonoscopy Colorectal Cancer Screening
+
+History
+
+Status Reviewed
+
+Date 08/07/2025
+
+Action Medical Policy & Technology Assessment Committee (MPTAC) review. Revised Discussion/General Information and References sections. MPTAC review. Revised MN criteria section B - Surveillance Colonoscopy in At Risk Populations to include individuals with personal history of stage 4 colorectal cancer that was managed nonoperatively. Also revised MN criteria section C - Surveillance Colonoscopy in At-Risk Populations (individuals with a genetic diagnosis of FAP, or who are at risk for this diagnosis) to include interval for repeat colonoscopy when no polyps develop. Revised Discussion/General Information and References sections. MPTAC review. Revised MN criteria section A - Screening Colonoscopy in Average Risk Populations to include individuals with no personal history of cystic fibrosis. Revised MN criteria section B - Surveillance Colonoscopy in At-Risk Populations to include criteria for individuals with personal history of cystic fibrosis and individuals at increased risk based on personal history of childhood, adolescent and young adult cancer. Revised MN criteria section C- Screening Colonoscopy in Higher Risk Populations bullet #1 Family History of Colorectal Cancer or Adenomas to consider colonoscopy MN in a first degree relative (parent, sibling or child) with colorectal cancer diagnosed at any age and for one second and third-degree relative with colorectal cancer at any age. Updated Discussion/General Information and References sections. Revised formatting throughout document. MPTAC review. In medically necessary criteria for Surveillance Colonoscopy in At- Risk Populations: (1) revised bullets # 3-b-1 and #3-c in section on adenomatous polyps or SSP; (2) revised criteria for inflammatory bowel disease by adding bullet #6-a-iii. In section on Diagnostic Colonoscopy, added medically necessary criteria for individuals with a history of diverticulitis. Also updated the parenthetical numbering following each criterion, as needed. Updated References and History sections. MPTAC review. In the Clinical Indications section, updated the parenthetical numbering following each criterion, as needed. Updated References and History sections. Updated Coding section to add CPT codes 44388, 44389, 44390, 44391, 44392, 44391, 44401, 44402, 44403, 44404, 44405. MPTAC review. Updated MN statement to revise age for beginning colonoscopy to detect colorectal cancer and adenomatous polyps from 50 to 45. Removed note from MN section. Updated Discussion and References sections. MPTAC review. In the Clinical Indications section, revised criteria in section C1 (Screening Colonoscopy in Higher Risk Populations on Screening Colonoscopy in Higher Risk Populations, Family History of Colorectal Cancer or Adenomas). Updated References and History sections. Reformatted Coding section. MPTAC review. Updated the Description, Discussion/General Information and References sections. MPTAC review. Updated the References and History sections.
+
+Revised
+
+08/08/2024
+
+Revised
+
+08/10/2023
+
+Revised
+
+08/11/2022
+
+Reviewed
+
+08/12/2021
+
+Revised
+
+05/25/2021
+
+Revised
+
+08/13/2020
+
+Reviewed
+
+08/22/2019
+
+Reviewed
+
+03/21/2019
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_c119565.html
+
+10/13
+
+10/25/25, 12:17 PM
+
+CG-SURG-01 Colonoscopy
+
+Revised
+
+07/26/2018
+
+MPTAC review. In Clinical Indications section, updated the parenthetical numbering following each criterion, as needed. Updated the Discussion/General Information, References and History sections. The document header wording updated from “Current Effective Date” to “Publish Date.” MPTAC review. Minor format changes to Clinical Indications section. Updated Discussion/General Information, References and History sections. Updated Coding section to remove G6024, G6025 deleted 12/31/2015. MPTAC review. In the Medically Necessary position statement, bullet A3 was revised to indicate that for individuals at average risk, if prior CRC screening was conducted using Cologuard and the results were negative, then the next re-screening may be performed using colonoscopy in 3 years. Minor language and/or formatting changes in sections A and B of the Medically Necessary criteria. Updated the Discussion/General Information, References and History sections. MPTAC review. Revised the following sections of the Medically Necessary criteria: (1) Screening Colonoscopy in Average Risk Populations; (2) Surveillance Colonoscopy in At-Risk Populations - Adenomatous Polyps; (3) Surveillance Colonoscopy in At- Risk Populations - Inflammatory Bowel Disease (chronic ulcerative colitis or Crohn's colitis) and related conditions; (4) Screening Colonoscopy in Higher Risk Populations - Family History of Colorectal Cancer or Adenomas; (5) Diagnostic Colonoscopy and (6) Therapeutic Colonoscopy. Also, as appropriate, throughout the document, revised statements with an age range to include the phrase “no less than” and removed the word “should” from the document. Updated the References and History sections. Removed ICD-9 codes from Coding section. MPTAC review. Revisions include but are not limited to the following: Criteria divided into 5 general categories: (1) Screening -Average Risk; (2) Screening-Higher Risk; (3) Surveillance - At Risk; (4) Diagnostic; and (5) Therapeutic Colonoscopy. Section A Screening Colonoscopy - Average Risk Populations: Clarified that medically necessary criteria for average risk individuals includes sessile serrated polyps (SSPs). Added criteria for colonoscopy based on a stool based test. Removed the words “left-sided” from the criterion for individual with a personal history of hyperplastic, non-SSP less than 1 cm removed at colonoscopy. Section B Surveillance Colonoscopy - At Risk Populations revised to address individuals with a personal history of a positive stool based test. Clarified that the medically necessary criteria for adenomatous polyps includes sessile serrated polyps (SSPs). Moved a portion of the medically necessary criteria addressing serrated polyposis syndrome and a portion of criteria addressing colonic adenomatous polyposis of unknown etiology to Section B Surveillance Colonoscopy - At Risk (criteria was unchanged). Revised and moved medically necessary criteria for Inflammatory Bowel Disease to Section B Surveillance Colonoscopy-At Risk section. Section C Screening Colonoscopy in Higher Risk Populations: Revised medically necessary criteria addressing family history of colorectal cancer or adenomas and the medically necessary criteria for Lynch Syndrome. In the Not Medically Necessary section, clarified this section includes surveillance colonoscopy. Updated Description, Discussion and Reference sections. Updated Coding section with 01/01/2015 CPT and HCPCS changes; removed 45383, 45387 deleted 12/31/2014. MPTAC review. Expanded criteria for screening colonoscopy in average risk individuals to include those with history of hyperplastic, right-sided non-SSP. In section on screening colonoscopy in higher risk individuals, revised criteria for the following: (1) adenomatous polyps; (2) family history of colorectal cancer or adenoma and (3) inflammatory bowel disease. Added new medically necessary criteria for colonic adenomatous polyposis of unknown etiology. MPTAC review. Expanded medically necessary criteria to address: (1) Individuals with personal history of hyperplastic, left-sided, non-SSP; (2) Individuals with a family history of CRC or adenomas and (3) serrated polyposis syndrome (SPS). Inserted or deleted “and” or “or” in the criteria as needed to provide clarity. Updated review date and References.
+
+05/03/2018
+
+Reviewed
+
+08/03/2017
+
+Revised
+
+05/04/2017
+
+Revised
+
+05/05/2016
+
+Revised
+
+05/07/2015
+
+01/21/2015
+
+Revised
+
+05/15/2014
+
+Revised
+
+05/09/2013
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_c119565.html
+
+11/13
+
+10/25/25, 12:17 PM
+
+CG-SURG-01 Colonoscopy
+
+Revised
+
+05/10/2012
+
+MPTAC review. Expanded medically necessary criteria for individuals with FAP to include annual colonoscopy beginning at ages 10-12 years. Updated review date, References and History sections. MPTAC review. Updated review date, References and History sections. MPTAC review. Criteria updated based on the National Comprehensive Cancer Network. Guidelines on Colorectal Cancer Screening V1.2010 and the 2010 American Gastroenterological Association (AGA) Position Paper on Screening Patients with Inflammatory Bowel Disease (IBD) for Colorectal Cancer. Updated review date, References and History sections. MPTAC review. Reinstated document which was archived on November 19, 2009. Grammatical and typographical corrections made to clinical indications. Not to be used for dates of service on or after 11/19/2009. MPTAC review. Added references to the following guidelines and noted where they were applicable in the patient selection criteria: (1) American College of Gastroenterology guidelines for colorectal cancer screening (2008); (2) National Comprehensive Cancer Network. Colorectal Cancer Screening V1.2009; (3) US Preventive Services Task Force. Screening for colorectal cancer (2008). Also, in the patient selection criteria for FAP, added information to the “Note” to clarify that MYH-associated is the same as attenuated FAP. Minor formatting changes. No substantive change to patient selection criteria. Updated review date, description, discussion/general information and history sections. MPTAC review. Revised the patient selection criteria to reflect the recommendations made in the Screening and Surveillance for the Early Detection of Colorectal Cancer and Adenomatous Polyps, 2008: A Joint Guideline from the American Cancer Society, the US Multi-Society Task Force on Colorectal Cancer, and the American College of Radiology. Updated review date, rationale and references sections. MPTAC review. Updated references, coding, and review date. MPTAC revision. For clinical indication, Family History of Colorectal Cancer or Adenoma, criteria updated to two or more first-degree relatives. MPTAC annual review. References updated. Added reference for Centers for Medicare & Medicaid Services (CMS) -National Coverage Determination (NCD). MPTAC review. Revision based on Pre-merger Anthem and Pre-merger WellPoint Harmonization.
+
+Reviewed Revised
+
+05/19/2011 05/13/2010
+
+Reinstated
+
+02/25/2010
+
+Historic Reviewed
+
+11/19/2009 05/21/2009
+
+Revised
+
+05/15/2008
+
+Reviewed Revised
+
+05/17/2007 06/08/2006
+
+Reviewed
+
+03/23/2006 11/17/2005
+
+Revised
+
+04/28/2005
+
+Pre-Merger Organizations Anthem BCBS West Region Utilization Management Policy WellPoint Health Networks, Inc.
+
+Last Review Date 08/12/2004
+
+Document Number UMR.003
+
+Title Colorectal Cancer Screening
+
+12/02/2004
+
+Clinical Guideline
+
+Colonoscopy
+
+Federal and State law, as well as contract language, and Medical Policy take precedence over Clinical UM Guidelines. We reserve the right to review and update Clinical UM Guidelines periodically. Clinical guidelines approved by the Medical Policy & Technology Assessment Committee are available for general adoption by plans or lines of business for consistent review of the medical necessity of services related to the clinical guideline when the plan performs utilization review for the subject. Due to variances in utilization patterns, each plan may choose whether to adopt a particular Clinical UM Guideline. To determine if review is required for this Clinical UM Guideline, please contact the customer service number on the member's card.
+
+Alternatively, commercial or FEP plans or lines of business which determine there is not a need to adopt the guideline to review services generally across all providers delivering services to Plan’s or line of business’s members may instead use the clinical guideline for provider education and/or to review the medical necessity of services for any provider who has been notified that his/her/its claims will be reviewed for medical necessity due to billing practices or claims that are not consistent with other providers, in terms of frequency or in some other manner.
+
+No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without permission from the health plan.
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_c119565.html
+
+12/13
+
+10/25/25, 12:17 PM
+
+CG-SURG-01 Colonoscopy
+
+© CPT Only - American Medical Association
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_c119565.html
+
+13/13

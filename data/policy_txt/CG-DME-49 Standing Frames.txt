@@ -1,0 +1,341 @@
+10/25/25, 12:05 PM
+
+CG-DME-49 Standing Frames
+
+Clinical UM Guideline
+
+Subject: Standing Frames
+
+Guideline #: CG-DME-49
+
+Publish Date: 07/01/2025
+
+Status: Reviewed
+
+Last Review Date: 05/08/2025
+
+Description
+
+This document addresses the use of standing frames, which are assistive devices that provide an alternative position for individuals confined to supine, prone, or sitting positions. These devices allow the individual to achieve a standing position and then support the person in the standing position. Standers can be integrated to use with wheelchairs for those in a sitting position. Other types of standing frames are designed to aid individuals in a prone or supine position to achieve a standing position.
+
+Note: Please see the following related documents for additional information:
+
+CG-DME-25 Seat Lift Mechanisms CG-DME-34 Wheeled Mobility Devices: Wheelchair Accessories
+
+Clinical Indications
+
+Medically Necessary:
+
+A non-powered standing frame is considered medically necessary when a written assessment by a physician or other appropriate clinician demonstrates criteria 1, 2 and 3 are met:
+
+1. The individual has a neuromuscular condition (such as multiple sclerosis, cerebral palsy, spinal cord injury or
+
+stroke) which impairs their ability to stand independently, but they are able to maintain a standing position due to residual strength in the hips, legs and lower body with the aid of a standing frame device; and
+
+F e e d b a c k
+
+2. The individual has completed appropriate standing device training and has demonstrated an ability to safely use
+
+the device in the home setting; and
+
+3. Use of the device can be reasonably expected to provide therapeutic benefits or enable the individual to perform
+
+certain tasks that he or she is unable to undertake otherwise due to the neuromuscular condition.
+
+Replacement of a non-powered standing frame is considered medically necessary when both of the following criteria have been met:
+
+1. The medically necessary criteria above have been met; and 2. The device is out of warranty and cannot be refurbished or adequately repaired.
+
+Not Medically Necessary:
+
+A non-powered standing frame is considered not medically necessary when the criteria above are not met and for all other indications.
+
+Replacement of a non-powered standing frame is considered not medically necessary when the criteria above have not been met.
+
+A powered standing frame is considered not medically necessary.
+
+Coding
+
+The following codes for treatments and procedures applicable to this guideline are included below for informational purposes. Inclusion or exclusion of a procedure, diagnosis or device code(s) does not constitute or imply member
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e001130.html
+
+1/7
+
+10/25/25, 12:05 PM
+
+CG-DME-49 Standing Frames
+
+coverage or provider reimbursement policy. Please refer to the member's contract benefits in effect at the time of service to determine coverage or non-coverage of these services as it applies to an individual member.
+
+When services may be Medically Necessary when criteria are met for non-powered systems:
+
+HCPCS E0637
+
+Combination sit to stand frame/table system, any size including pediatric, with seat lift feature, with or without wheels [when specified as standing system] Standing frame/table system, one position (e.g., upright, supine, or prone stander), any size including pediatric, with or without wheels Standing frame/table system, multi-position (e.g., three-way stander), any size including pediatric, with or without wheels Standing frame/table system, mobile (dynamic stander), any size including pediatric
+
+E0638
+
+E0641
+
+E0642
+
+E2230
+
+Manual wheelchair accessory, manual standing system
+
+ICD-10 Diagnosis
+
+All diagnoses
+
+Note: The following HCPCS modifier related to replacement is for informational purposes:
+
+RA
+
+Replacement of a DME, orthotic or prosthetic item
+
+When services are Not Medically Necessary: For the procedure codes listed above when criteria are not met for initial or replacement or when specified as powered, and for the following code:
+
+HCPCS E2301
+
+Wheelchair accessory, power standing system, any type
+
+ICD-10 Diagnosis
+
+All diagnoses
+
+Discussion/General Information
+
+General Considerations
+
+Impaired mobility is associated with multiple secondary complications including muscle wasting, decreased bone density, reduced skin integrity, spasms, constipation, depression, lowered self-esteem as well as an increased risk of mortality. Therapies such as passive standing have been used to improve motor function and minimize the detrimental effects of immobility, and to enhance hip alignment, bone mineralization, urinary function, respiratory functioning and psychosocial functioning.
+
+A sit-to-stand device allows the individual with upper body strength to achieve a standing position from a sitting position without assistance. A sling is slipped behind the buttocks and hooked onto the frame of the standing device. The person’s legs and feet are placed in supports on the frame. The person lifts themselves to a standing position, either manually or by use of a motor. A back support is rotated in place to support the individual’s back.
+
+A prone or supine stander is positioned next to the individual, usually next to a bed. The individual is either rolled or transferred to the device with the help of a sling lift. Once positioned on the device, the person’s extremities are secured, and the device is moved to a vertical (standing) position. These devices provide varying levels of support to the user which is dependent upon an individual’s level of head and trunk control.
+
+Standing frames can be categorized by types:
+
+Passive (static) stander: A passive stander remains in one place, sometimes has casters but cannot be self- propelled. Mobile (dynamic) stander: User can self-propel a mobile stander if they have upper body strength to push a manual wheelchair. Active stander: An active stander creates reciprocal movement of the arms and legs while standing. Powered Stander: A stander that includes a motorized, power operated component to assist in the transfer of an individual to and from the device or to allow for powered mobility once an individual is in the stander.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e001130.html
+
+2/7
+
+10/25/25, 12:05 PM
+
+CG-DME-49 Standing Frames
+
+Multiple Sclerosis (MS)
+
+In a 2019 pragmatic, multicentre, superiority randomised controlled trial (RCT), Freeman and colleagues assessed the clinical effectiveness of a home-based, self-managed standing frame program. Individuals with MS and severe mobility impairment were randomly assigned to either a standing frame plus usual care group (n=71) or usual care only (n=69). The individuals in the intervention group were asked to use the standing frame for 30 minutes, 3 times/week for 20 weeks. These individuals had two home-based physiotherapy sessions, six follow-up phone calls and access to paper-based, DVD and online resources. Participants in the control group received no additional interventions. Motor function, as assessed by the Amended Motor Club Assessment (AMCA), was measured in all participants at baseline, at 20 weeks and at 36 weeks. The primary clinical outcome was set as the AMCA score at 36 weeks, and a 9-point AMCA change was considered clinically meaningful a priori. At 36 weeks post-randomisation, the AMCA score was significantly higher in the standing group compared to the usual care group with a between-group mean difference of 4.7 points. While motor function, as measured by the AMCA score, was significantly improved in the intervention group, the improvement did not reach the predetermined minimal clinically meaningful level of improvement. The positive results of this study suggest that modest improvement in one functional area is achievable.
+
+Post-Stroke
+
+In a pilot RCT, Allison and colleague (2007) studied 17 post-stroke individuals in a rehabilitation unit. Individuals were allocated to a control group (conventional physiotherapy) or a treatment group (conventional therapy plus an additional session of standing practice). Duration of study was variable depending upon the length of time the individual was inpatient, from 14 to 28 days. Balance, gross motor function and trunk control were assessed upon admission, weekly during the intervention stage and 12 weeks following discharge. At week 12, the treatment group reported a statistically significant improvement (p<0.05) in balance scores compared to the scores of the control group. The treatment group also reported an improvement in motor function scores over the control group, although that difference was not statistically significant. This small pilot study indicates that participants who received additional standing practice in addition to standard physiotherapy achieved higher median scores in motor function measures.
+
+Cerebral palsy (CP)
+
+A scoping review by McLean and associates (2023) focused on the potential benefits of supported standing interventions for children and young adults with non-ambulant cerebral palsy. The authors noted that supported standing is associated with improvements in bone mineral density (BMD), hip stability, and lower-limb range of motion (ROM), along with fostering psychosocial advantages such as enhanced social participation and reduced sedentary behavior. Although much of the evidence is rated as low quality, the body of evidence suggests positive impacts on physiological outcomes like postural alignment and muscle activity, and psychological outcomes such as health-related quality of life.
+
+Hough and colleagues (2010) systematically reviewed the published literature addressing the efficacy of interventions, (for example, medical and physical) to improve low bone mineral density (LBMD) in children and adolescents with CP. Out of the eight studies included in the review, three studies included weight bearing interventions. The authors found that the most promising interventions for decreased BMD were weight bearing and bisphosphonates.
+
+Caulton and colleagues (2004) studied severely disabled children with CP to determine whether participation in 50% longer periods of standing (in either upright or semi-prone standing frames) would lead to an increase in the vertebral and proximal tibial volumetric trabecular BMD (vTBMD), which affects low trauma fractures. A heterogeneous group of pre- pubertal children with CP (n=26) participated and were matched into pairs using baseline vertebral vTBMD standard deviation scores. Children within the pairs were randomly allocated to control (regular standing duration) or intervention (50% increase in the regular standing duration) groups. The median standing duration varied from 80.5% (range, 9.5%-102%) and 140.6% (range, 108.7%-152.2%) of the baseline standing duration in the control group and intervention group respectively. The mean vertebral vTBMD in the intervention group increased by 8.16 mg/cm3, a 6% mean increase in vertebral vTBMD. There was no change in the mean proximal tibial vTBMD. The authors found that a longer period of standing in non-ambulant children with CP improves vertebral, but not proximal tibial vTBMD. The authors concluded that such an intervention might reduce the risk of vertebral fractures, although it is unlikely to reduce the risk of lower limb fractures in children with CP.
+
+Duchenne Muscular Dystrophy (DMD)
+
+Pedlow and associates (2019) conducted a Cochrane review in order to assess the positive and negative effects of standing devices and orthoses on musculoskeletal impairments and quality of life in individuals with DMD. The review planned to include RCTs and quasi RCTs. However, the authors did not identify any studies which met the inclusion
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e001130.html
+
+3/7
+
+10/25/25, 12:05 PM
+
+CG-DME-49 Standing Frames
+
+criteria. Based on insights from existing research on assisted standing therapy for other neurological conditions, the authors concluded:
+
+Although there is a lack of conclusive evidence for the use of standing devices in DMD, clinical opinion and research from other neurological conditions (such as cerebral palsy), highlight the proposed benefits. These benefits include preservation of muscle length and range of joint movement via the stretch that occurs during standing (predominately of the hip and lower-limb muscles), delayed onset of scoliosis, increased bone density (thereby reducing the risk of fractures), fewer muscle spasms and better respiratory function (including voice control). Research on standing for other conditions has also suggested improved circulation, digestion, and bowel and bladder function…Standing devices are considered to be an essential component of the therapy management of DMD (both physiotherapy and occupational therapy).
+
+In 2010, the DMD Care Considerations Working Group, a group of experts selected by the Centers for Disease Control and Prevention (CDC) developed a comprehensive set of management strategies for DMD. The report notes that passive standing devices in late ambulatory and early non-ambulatory stages are necessary when there are no or mild hip, knee or ankle contractures. In addition, the continued use of a passive device or a power device into the late non-ambulatory stage if the contractures are not too severe and devices are tolerated was advocated. This recommendation is based upon the collective judgment of the experts.
+
+Additional Studies
+
+There have been two systematic reviews assessing the available evidence and providing recommendations for supported standing programs. A 2010 systematic review by Glickman and colleagues included 39 studies, 10 pediatric and 29 adult studies. The majority of the studies were comprised of less than 50 participants and described or compared supported standing to another intervention or took measurements prior to and following the interventions. Studies were grouped based upon outcomes in BMD, cardiopulmonary function, muscle strength/function and ROM. The authors noted that for both pediatric and adult populations, the available evidence moderately supports standing programs in BMD, ROM, spasticity and bowel function. For those with spinal cord injuries, there was a potentially negative cardiopulmonary side effect. The authors noted that conclusions were difficult to reach as the literature varied greatly in terms of design, intervention and outcome measures. The authors recommended that practicing therapists should combine the results of this systematic review with sound clinical judgement based on supported stander usage rationale in their specific setting.
+
+Paleg and colleagues (2013) addressed the use of standing support systems in the pediatric population. A total of 30 studies were reviewed, along with the authors’ opinions, to obtain recommendations for minimal dosages needed to maintain body function and structures. These areas included, but were not limited to, mental, cardiovascular and respiratory, digestive and urinary functioning and structures of the bones. The evidence was evaluated and recommendations made based upon the Oxford Centre for Evidence-Based Medicine (CEBM) Levels of Evidence and the American Academy of Neurology (AAN) Levels of Evidence. Evidence levels range from the highest level (1: systematic review of randomized controlled trials) to lowest (5: expert opinion without critical appraisal). The authors noted that although none of the evidence was rated as level 1 evidence, the strongest available evidence-based literature supported the use of standing devices to positively affect BMD.
+
+Standing frames are generally accepted as a standard of medical practice when used for individuals with neuromuscular conditions who have an impaired ability to stand independently. Powered standing frames are used primarily for the convenience of the individual or caregiver and have not been shown to provide additional clinical benefit.
+
+Definitions
+
+Amended Motor Club Assessment (AMCA): Tool used to measure motor function in multiple sclerosis. The tool is comprised of two sections, a functional activity subscore and a lower limb subscore. Scores range from 0 to 76 points, with higher scores denoting better motor function.
+
+Bone mineral density (BMD): Term used to describe the amount of calcium present in bone.
+
+Duchenne muscular dystrophy (DMD): A type of muscular dystrophy which results in progressive muscle degeneration and weakness. Onset of symptoms is generally in early childhood between the ages of 3 to 5.
+
+Prone: Lying with the front or face downward.
+
+Reciprocal movement: Alternate movements of arms and legs seen in walking and other normal movements.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e001130.html
+
+4/7
+
+10/25/25, 12:05 PM
+
+CG-DME-49 Standing Frames
+
+Seat Lift: An assistive device used in the home to lift a person’s body from a sitting position to a standing position or to lower the individual from a standing to a sitting position.
+
+Supine: Lying on the back or having the face upward.
+
+References
+
+Peer Reviewed Publications:
+
+1. Allison R, Dennett R. Pilot randomized controlled trial to assess the impact of additional supported standing
+
+practice on functional ability post stroke. Clin Rehabil. 2007; 21(7):614-619.
+
+2. Bagley P, Hudson M, Forster A, et al. A randomized trial evaluation of the Oswestry Standing Frame for patients
+
+after stroke. Clin Rehabil. 2005; 19(4):354-364.
+
+3. Bushby K, Finkel R, Birnkrant DJ, et al.; DMD Care Considerations Working Group. Diagnosis and management of Duchenne muscular dystrophy, part 1: diagnosis, and pharmacological and psychosocial management. Lancet Neurol. 2010a; 9(1):77-93.
+
+4. Bushby K, Finkel R, Birnkrant DJ, et al.; DMD Care Considerations Working Group. Diagnosis and management of Duchenne muscular dystrophy, part 2: implementation of multidisciplinary care. Lancet Neurol. 2010b; 9(2):177- 189.
+
+5. Caulton JM, Ward KA, Alsop CW, et al. A randomized controlled trial of standing program on bone mineral density
+
+in non-ambulant children with cerebral palsy. Arch Dis Child. 2004; 89(2):131-135.
+
+6. Eng JJ, Levins SM, Townson AF, et al. Use of prolonged standing for individuals with spinal cord injuries. Phys
+
+Ther. 2001; 81(8):1392-1399.
+
+7. Freeman J, Hendrie W, Jarrett L, et al. Assessment of a home-based standing frame programme in people with
+
+progressive multiple sclerosis (SUMS): a pragmatic, multi-centre, randomised, controlled trial and cost- effectiveness analysis. Lancet Neurol. 2019; 18(8):736-747.
+
+8. Glickman LB, Geigle PR, Paleg GS. A systematic review of supported standing programs. J Pediatr Rehabil Med.
+
+2010; 3(3):197-213.
+
+9. Goktepe AS, Tugcu I, Yilmaz B, et al. Does standing protect bone density in patients with chronic spinal cord
+
+injury? J Spinal Cord Med. 2008; 31(2):197-201.
+
+10. Gudjonsdottir B, Stemmons Mercer V. Effects of a dynamic versus a static prone stander on bone mineral density
+
+and behavior in four children with severe cerebral palsy. Pediatr Phys Ther. 2002; 14(1):38-46.
+
+11. Hendrie WA, Watson MJ, McArthur MA. A pilot mixed methods investigation of the use of Oswestry standing frames in the homes of nine people with severe multiple sclerosis. Disabil Rehabil. 2015; 37(13):1178-1185. 12. Hough J, Boyd R, Keating J. Systematic review of interventions for low bone mineral density in children with
+
+cerebral palsy. Pediatrics. 2010; 125(3):670-678.
+
+13. Kunkel CF, Scremin AM, Eisenberg B, et al. Effect of "standing" on spasticity, contracture, and osteoporosis in
+
+paralyzed males. Arch Phys Med Rehabil. 1993; 74(1):73-78.
+
+14. Kwok S, Harvey L, Glinsky J, et al. Does regular standing improve bowel function in people with spinal cord injury?
+
+a randomised crossover trial. Spinal Cord. 2015; 53(1):36-41.
+
+15. Macias-Merlo L, Bagur-Calafat C, Girabent-Farrés M, Stuberg WA. Standing programs to promote hip flexibility in
+
+children with spastic diplegic cerebral palsy. Pediatr Phys Ther. 2015; 27(3):243-249.
+
+16. McLean LJ, Paleg GS, Livingstone RW. Supported-standing interventions for children and young adults with non-
+
+ambulant cerebral palsy: a scoping review. Dev Med Child Neurol. 2023; 65(6):754-772.
+
+17. Mercuri E, Finkel RS, Muntoni F, et al.; SMA Care Group. Diagnosis and management of spinal muscular atrophy: part 1recommendations for diagnosis, rehabilitation, orthopedic and nutritional care. Neuromuscul Disord. 2018; 28(2):103-115.
+
+18. Mergler S, Evenhuis H, Boot A, et al. Epidemiology of low bone mineral density and fractures in children with
+
+severe cerebral palsy: a systematic review. Develop Med & Child Neurol. 2009; 51(8):773-778.
+
+19. Paleg G, Livingstone R. Systematic review and clinical recommendations for dosage of supported home-based
+
+standing programs for adults with stroke, spinal cord injury and other neurological conditions. BMC Musculoskelet Disord. 2015; 16:358.
+
+20. Paleg GS, Smith BA, Glickman LB. Systematic review and evidence-based clinical recommendations for dosing of
+
+pediatric supported standing programs. Pediatr Phys Ther. 2013; 25(3):232-247.
+
+Government Agency, Medical Society, and Other Authoritative Publications:
+
+1. Center for Medicare and Medicaid Services (CMS). National Coverage Determination for: Seat Lifts. NCD #280.4. Effective May 1, 1989. Available at: https://www.cms.gov/medicare-coverage-database/. Accessed on March 13,
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e001130.html
+
+5/7
+
+10/25/25, 12:05 PM
+
+CG-DME-49 Standing Frames
+
+2025.
+
+2. Masselink C, Detterbeck A, LaBerge N, et al. RESNA and CTF position on the application of supported standing
+
+devices: current state of the literature. Assist Technol. 2024: 1-18..
+
+3. Pedlow K, McDonough S, Lennon S, et al. Assisted standing for Duchenne muscular dystrophy. Cochrane
+
+Database Syst Rev. 2019; 10:CD011550.
+
+4. U.S. Food and Drug Administration 510(k) PMA Premarket Notification Database. Available at:
+
+https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm. Accessed on March 13, 2025.
+
+EasyStand Evolv™. No. K062402. Rockville, MD: FDA. September 21, 2006. Rabbit Mobile Standing Frame™. No. K030882. Rockville, MD: FDA. April 4, 2003. Rifton Mobile Prone Standers™. No. K921894. Rockville, MD: FDA. May 26, 1992.
+
+5. Wang CH, Bonnemann CG, Rutkowski A, et al. Consensus statement on standard of care for congenital muscular
+
+dystrophies. J Child Neurol. 2010; 25(12):1559-1581.
+
+Index
+
+EasyStand Evolv EasyStand Glider Meerkat Dynamic Stander Rabbit Mobile Standing Frame Rifton Standers Standing Frames
+
+The use of specific product names is illustrative only. It is not intended to be a recommendation of one product over another, and is not intended to represent a complete listing of all products available.
+
+History
+
+Status Reviewed
+
+Date 05/08/2025
+
+Action Medical Policy & Technology Assessment Committee (MPTAC) review. Revised Description, Discussion, and References sections. MPTAC review. Updated References section. MPTAC review. Updated Discussion and References sections. MPTAC review. Added medically necessary criteria for replacement of a non-powered standing frame. Added a not medically necessary statement regarding replacement of a non-powered standing frame. Updated References section. Added note to Coding section. MPTAC review. Initial document development. Moved content of DME.00034 Standing Frames to new clinical utilization management guideline document with the same title.
+
+Reviewed Reviewed Revised
+
+05/09/2024 05/11/2023 05/12/2022
+
+New
+
+05/13/2021
+
+Federal and State law, as well as contract language, and Medical Policy take precedence over Clinical UM Guidelines. We reserve the right to review and update Clinical UM Guidelines periodically. Clinical guidelines approved by the Medical Policy & Technology Assessment Committee are available for general adoption by plans or lines of business for consistent review of the medical necessity of services related to the clinical guideline when the plan performs utilization review for the subject. Due to variances in utilization patterns, each plan may choose whether to adopt a particular Clinical UM Guideline. To determine if review is required for this Clinical UM Guideline, please contact the customer service number on the member's card.
+
+Alternatively, commercial or FEP plans or lines of business which determine there is not a need to adopt the guideline to review services generally across all providers delivering services to Plan’s or line of business’s members may instead use the clinical guideline for provider education and/or to review the medical necessity of services for any provider who has been notified that his/her/its claims will be reviewed for medical necessity due to billing practices or claims that are not consistent with other providers, in terms of frequency or in some other manner.
+
+No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without permission from the health plan.
+
+© CPT Only - American Medical Association
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e001130.html
+
+6/7
+
+10/25/25, 12:05 PM
+
+CG-DME-49 Standing Frames
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e001130.html
+
+7/7

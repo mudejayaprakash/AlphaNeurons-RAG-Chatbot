@@ -1,0 +1,4609 @@
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+Local Coverage Determination (LCD)
+
+Cervical Fusion
+
+L39758
+
+Links in PDF documents are not guaranteed to work. To follow a web link, please use the MCD
+
+Website.
+
+Contractor Information
+
+Contract
+
+Contract
+
+Contractor Name
+
+Type
+
+Number
+
+Jurisdiction
+
+States
+
+Noridian Healthcare
+
+A and B
+
+01111 -
+
+J - E
+
+California - Entire
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+State
+
+Noridian Healthcare
+
+A and B
+
+01112 -
+
+J - E
+
+California -
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Northern
+
+Noridian Healthcare
+
+A and B
+
+01182 -
+
+J - E
+
+California -
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Southern
+
+Noridian Healthcare
+
+A and B
+
+01211 -
+
+J - E
+
+American Samoa
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Guam
+
+Hawaii
+
+Northern Mariana Islands
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+01212 - MAC B
+
+J - E
+
+American Samoa Guam Hawaii
+
+Northern Mariana Islands
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+01311 - MAC A
+
+J - E
+
+Nevada
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+1/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+Contract Type
+
+Contract Number
+
+Contractor Name
+
+Jurisdiction
+
+States
+
+Noridian Healthcare
+
+A and B
+
+01312 -
+
+J - E
+
+Nevada
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Noridian Healthcare
+
+A and B
+
+01911 -
+
+J - E
+
+American Samoa
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+California - Entire State
+
+Guam Hawaii
+
+Nevada
+
+Northern Mariana
+
+Islands
+
+Noridian Healthcare
+
+A and B
+
+02101 -
+
+J - F
+
+Alaska
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Noridian Healthcare
+
+A and B
+
+02102 -
+
+J - F
+
+Alaska
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02201 - MAC A
+
+J - F
+
+Idaho
+
+Noridian Healthcare
+
+A and B
+
+02202 -
+
+J - F
+
+Idaho
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Noridian Healthcare
+
+A and B
+
+02301 -
+
+J - F
+
+Oregon
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02302 - MAC B
+
+J - F
+
+Oregon
+
+Noridian Healthcare
+
+A and B
+
+02401 -
+
+J - F
+
+Washington
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+2/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+Contract
+
+Contract
+
+Contractor Name
+
+Type
+
+Number
+
+Jurisdiction
+
+States
+
+Noridian Healthcare
+
+A and B
+
+02402 -
+
+J - F
+
+Washington
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Noridian Healthcare
+
+A and B
+
+03101 -
+
+J - F
+
+Arizona
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+03102 - MAC B
+
+J - F
+
+Arizona
+
+Noridian Healthcare
+
+A and B
+
+03201 -
+
+J - F
+
+Montana
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Noridian Healthcare
+
+A and B
+
+03202 -
+
+J - F
+
+Montana
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+03301 - MAC A
+
+J - F
+
+North Dakota
+
+Noridian Healthcare
+
+A and B
+
+03302 -
+
+J - F
+
+North Dakota
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Noridian Healthcare
+
+A and B
+
+03401 -
+
+J - F
+
+South Dakota
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+03402 - MAC B
+
+J - F
+
+South Dakota
+
+Noridian Healthcare
+
+A and B
+
+03501 -
+
+J - F
+
+Utah
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Noridian Healthcare
+
+A and B
+
+03502 -
+
+J - F
+
+Utah
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+3/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+Contract
+
+Contract
+
+Contractor Name
+
+Type
+
+Number
+
+Jurisdiction
+
+States
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+03601 - MAC A
+
+J - F
+
+Wyoming
+
+Noridian Healthcare
+
+A and B
+
+03602 -
+
+J - F
+
+Wyoming
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+LCD Information
+
+Document Information
+
+LCD ID
+
+L39758
+
+LCD Title
+
+Cervical Fusion
+
+Proposed LCD in Comment Period
+
+N/A
+
+Source Proposed LCD
+
+DL39758
+
+Original Effective Date
+
+For services performed on or after 07/07/2024
+
+Revision Effective Date
+
+For services performed on or after 09/11/2025
+
+Revision Ending Date
+
+N/A
+
+Retirement Date
+
+N/A
+
+Notice Period Start Date
+
+05/23/2024
+
+Notice Period End Date
+
+07/06/2024
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+4/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+CPT codes, descriptions, and other data only are copyright 2024 American Medical Association. All Rights Reserved. Applicable
+
+FARS/HHSARS apply.
+
+Fee schedules, relative value units, conversion factors and/or related components are not assigned by the AMA, are not part of
+
+CPT, and the AMA is not recommending their use. The AMA does not directly or indirectly practice medicine or dispense medical
+
+services. The AMA assumes no liability for data contained or not contained herein.
+
+Current Dental Terminology © 2024 American Dental Association. All rights reserved.
+
+Copyright © 2025, the American Hospital Association, Chicago, Illinois. Reproduced with permission. No portion of the AHA
+
+copyrighted materials contained within this publication may be copied without the express written consent of the AHA. AHA copyrighted materials including the UB‐04 codes and descriptions may not be removed, copied, or utilized within any software,
+
+product, service, solution, or derivative work without the written consent of the AHA. If an entity wishes to utilize any AHA
+
+materials, please contact the AHA at 312‐893‐6816.
+
+Making copies or utilizing the content of the UB‐04 Manual, including the codes and/or descriptions, for internal purposes, resale
+
+and/or to be used in any product or publication; creating any modiﬁed or derivative work of the UB‐04 Manual and/or codes and
+
+descriptions; and/or making any commercial use of UB‐04 Manual or any portion thereof, including the codes and/or
+
+descriptions, is only authorized with an express license from the American Hospital Association. The American Hospital
+
+Association (the "AHA") has not reviewed, and is not responsible for, the completeness or accuracy of any information contained in this material, nor was the AHA or any of its afﬁliates, involved in the preparation of this material, or the analysis of
+
+information provided in the material. The views and/or positions presented in the material do not necessarily represent the views
+
+of the AHA. CMS and its products and services are not endorsed by the AHA or any of its afﬁliates.
+
+Issue
+
+Issue Description
+
+This policy is developed as a multi-MAC collaboration to provide an evidence-based policy for
+
+cervical fusion.
+
+CMS National Coverage Policy This LCD supplements but does not replace, modify, or supersede existing Medicare applicable National Coverage Determinations (NCDs) or payment policy rules and regulations for cervical fusion procedures for pain management. Federal statute and subsequent Medicare regulations regarding provision and payment for medical services are lengthy. They are not repeated in this LCD. Neither Medicare payment policy rules nor this LCD replace, modify, or supersede applicable state statutes regarding medical practice or other health practice professions acts, deﬁnitions and scopes of practice. All providers who report services for Medicare payment must fully understand and follow all existing laws, regulations, and rules for Medicare payment for EPIDURAL procedures for pain management and must properly submit only valid claims for them. Please review and understand them and apply the medical necessity provisions in the policy within the context of the manual rules. Relevant CMS manual instructions and policies may be found in the following Internet-Only Manuals (IOMs) published on the CMS Web site:
+
+IOM Citations:
+
+CMS IOM Publication 100-08, Medicare Program Integrity Manual, ~ Chapter 13, 13.5.4 Reasonable and Necessary Provision in an LCD
+
+Social Security Act (Title XVIII) Standard References:
+
+Title XVIII of the Social Security Act, Section 1862(a)(1)(A) states that no Medicare payment shall be made for items or services which are not reasonable and necessary for the diagnosis or treatment of illness or injury.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+5/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+Title XVIII of the Social Security Act, Section 1862(a)(7). This section excludes routine physical examinations.
+
+Code of Federal Regulations (CFR) References:
+
+CFR, Title 42, Ch. IV, § 410.74 Physician assistants’ services, §410.75 Nurse practitioners’ services and § 410.76 Clinical nurse specialists’ services.
+
+Coverage Guidance
+
+Coverage Indications, Limitations, and/or Medical Necessity Compliance with the provisions in this LCD may be monitored and addressed through post payment data analysis and subsequent medical review audits.
+
+History/Background and General Information
+
+Covered Indications
+
+A. Cervical fusion surgery is considered medically reasonable and necessary for the
+
+decompression of symptomatic cervical nerve root impingement when all of the following
+
+requirements are met:
+
+1. Persistent or recurrent moderate or severe arm pain (4 or more on the visual analog
+
+scale or equivalent) present for a minimum of 12 weeks within the current episode of arm pain with documented failure to respond to multimodal conservative management (as tolerated) in the absence of exceptional circumstances (below) AND
+
+2. Nerve compression negatively impacts activities of daily living AND 3. All other potential sources of pain/neurological deﬁcit have been excluded AND 4. Imaging (MRI or CT) evidence of central, lateral recess or foraminal stenosis at the level
+
+corresponding with clinical myotome signs or symptoms and including at least one of
+
+the following:
+
+a. Cervical degenerative disc disease as indicated by the presence of one or more of
+
+the following ﬁndings: herniated nucleus pulposus, narrowing of the intervertebral
+
+disc, disc osteophytes, facet hypertrophy, or synovial cysts.
+
+b. Tumors (primary or metastatic) c. Post infection radiographic ﬁndings
+
+d. Spinal instability as deﬁned by subluxation or translation more than 3.5 mm on
+
+static lateral views or dynamic radiographs OR sagittal plane angulation of more
+
+1 than 11 degrees between adjacent segments.
+
+Limitations
+
+The following is considered not reasonable and necessary for the decompression of symptomatic cervical nerve root impingement:
+
+1. Isolated chronic axial cervical pain
+
+Exceptions to conservative therapy requirement for decompression of symptomatic cervical nerve root impingement:
+
+1. Concomitant myelopathy or myeloradiculopathy 1. Cervical myelopathy class III or above OR
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+6/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+2. Progression of neurological deﬁcits during the trial of conservative treatment.
+
+2. Isolated radiculopathy
+
+a. Presenting with progressive motor weakness OR b. Signiﬁcant motor weakness interfering with ADLs OR c. Severe radicular pain deﬁned as pain limiting ability to perform activities of daily living (AOLs) and ≥7/10 on VAS or equivalent scale2 AND associated with conﬁrmatory imaging (computed tomography, magnetic resonance imaging) and clinical-radiological correlation.
+
+3. Loss of bowel or bladder control due to cervical spinal cord compression.
+
+B. Cervical fusion surgery is considered reasonable and necessary for the decompression of
+
+symptomatic cervical canal stenosis when the following requirements are met:
+
+1. Persistent or recurrent moderate or severe arm pain (4 or more on the visual analog scale or equivalent) present for a minimum of 12 weeks within the episode of arm pain
+
+with documented failure to respond to multimodal conservative management (as tolerated) in the absence of exceptional circumstances (below) OR
+
+2. Nerve compression negatively impacts activities of daily living OR
+
+3. Spastic gait, loss of manual dexterity, problems with sphincter control AND
+
+4. All other potential sources of pain/neurological deﬁcit have been excluded AND
+
+5. Imaging (MRI or CT) evidence of central stenosis at the level corresponding with clinical
+
+signs or symptoms and including at least one of the following:
+
+a. Cervical degenerative disc disease as indicated by the presence of one or more of the
+
+following ﬁndings: herniated nucleus pulposus, narrowing of the intervertebral disc, disc osteophytes, facet hypertrophy, or synovial cysts.
+
+b. Congenital short pedicles
+
+c. Tumors (primary or metastatic)
+
+d. Post infection radiographic ﬁndings
+
+e. Ossiﬁcation of the posterior longitudinal ligament.
+
+f. Spinal instability as deﬁned by subluxation or translation more than 3.5 mm on static
+
+lateral views or dynamic radiographs OR sagittal plane angulation of more than 11
+
+degrees between adjacent segments.
+
+g. Cord compression with or without increased cord signal.
+
+Limitations
+
+The following are considered not reasonable and necessary for decompression of symptomatic cervical canal stenosis:
+
+1. Isolated chronic axial cervical pain. 2. Asymptomatic myelopathy (regardless of severity on imaging ﬁndings).
+
+Exceptions to conservative therapy requirement for decompression of symptomatic cervical canal stenosis:
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+7/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+1. Myelopathy
+
+1. Cervical myelopathy class III or above OR 2. Progression of neurological deﬁcits during the trial of conservative treatment.
+
+2. Radiculopathy
+
+a. Presenting with progressive motor weakness OR b. Signiﬁcant motor weakness interfering with ADLs OR c. Severe radicular pain deﬁned as pain limiting ability to perform activities of daily living (AOLs) and ≥7/10 on Visual Analog Scale (VAS) or equivalent scale AND associated with conﬁrmatory imaging (computed tomography, magnetic resonance imaging) and clinical-radiological correlation.
+
+2
+
+3. Loss of bladder or bowel function due to cervical spinal cord compression.
+
+C. Cervical fusion surgery is considered reasonable and necessary for the decompression or
+
+stabilization of the cervical spine for the following indications:
+
+1. Traumatic injuries including fractures, dislocations, fracture-dislocations, or traumatic
+
+3 ligamentous disruption when :
+
+a. Fractures or dislocations which are likely to result spinal instability without neurological
+
+defects OR
+
+b. Fractures or dislocations associated with neurological defects at the affected level OR c. Instability is present.
+
+3
+
+2. Spinal tumors involving the spine or spinal canal when:
+
+a. Malignant or benign tumors which have caused instability or neurologic deﬁcit where
+
+treatment of the tumor will likely require stabilization of the spine. OR
+
+4
+
+b. Expected treatment of the tumor whether by chemotherapy or radiation therapy or
+
+surgery will likely cause spinal instability or neurologic deﬁcits. OR
+
+4
+
+c. Instability is present.
+
+3 3. Infection involving the spine in the form of discitis, osteomyelitis, or epidural abscess when :
+
+a. Imaging or other studies (MRI, biopsy, bone aspirate) demonstrating infection AND b. Imaging evidence of vertebral body destruction OR documentation that spinal
+
+OR
+
+5,6
+
+debridement will cause vertebral instability
+
+c. Instability is present.
+
+3 4. Deformities that include the cervical spine including when :
+
+a. Cervical kyphosis associated with cord compression or Atlantoaxial (C1-C2)
+
+subluxation or Basilar invagination of the odontoid process into the foramen magnum;
+
+or Subaxial (C2-T1) instability kyphosis, head drop syndrome, post-laminectomy
+
+deformity OR
+
+b. Symptomatic pseudarthrosis (non-union of prior fusion) with radiological (e.g., CT or MRI) demonstration of non-union of prior fusion (lack of bridging bone or abnormal
+
+motion at fused segment) after 12 months since fusion surgery or with radiographic
+
+evidence of hardware failure (fracture or displacement). OR
+
+c. Spinal instability after laminectomy OR
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+8/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+d. Rheumatoid arthritis with associated instability OR e. Cervical degenerative spondylolisthesis with spinal instability
+
+(Anterolisthesis/Posterolisthesis) AND
+
+f. Substantial functional limitation is present such as severe neck pain or difﬁculty
+
+ambulating or decrease ability to perform ADLs or ability to maintain forward gaze. OR
+
+g. Progression of deformity
+
+Limitations
+
+Cervical Fusion for the decompression or stabilization of the cervical spine is not reasonable and necessary when all the above criteria are not fulﬁlled.
+
+Provider Qualiﬁcations
+
+The Medicare Program Integrity Manual states services will be considered reasonable and necessary only if performed by appropriately trained providers.
+
+Patient safety and quality of care mandate that healthcare professionals who perform cervical fusion are appropriately trained and credentialed by a formal residency/fellowship program. Credentialing or privileges are required for procedures performed in inpatient and outpatient settings.
+
+All aspects of care must be within the provider’s medical licensure and scope of practice. Reimbursement for procedures utilizing imaging techniques may be made to providers who meet training requirements for the procedures in this policy only if their respective state allows such in their practice act and formally licenses or certiﬁes the practitioner to use and interpret these imaging modalities (ionizing radiation and associated contrast material, magnetic resonance imaging, ultrasound). At a minimum, training must cover and develop an understanding of anatomy and drug pharmacodynamics and kinetics as well as proﬁciency in diagnosis and management of disease, the technical performance of the procedure, and utilization of the required associated imaging modalities.
+
+Notice: Services performed for any given diagnosis must meet all the indications and limitations stated in this LCD, the general requirements for medical necessity as stated in CMS payment policy manuals, all existing CMS national coverage determinations, and all Medicare payment rules.
+
+Deﬁnitions
+
+Acute Pain – an unpleasant sensory and emotional experience associated with actual or potential tissue damage which is present for up to 6 weeks.
+
+7
+
+Baseline Pain- An initial measurement of the pain which is taken at a speciﬁed time point and used for comparison over time to look for changes in the pain levels.
+
+Cervical Radiculopathy- Pain in a radicular pattern in one or both upper extremities related to compression and irritation of one or more cervical nerve roots.
+
+8
+
+Chronic Pain – The temporal deﬁnition of pain persisting at least 12 weeks after the onset of the acute pain.
+
+Conservative Therapy – Consists of an appropriate combination of medication in therapeutic dosages (e.g., non-steroidal anti-inﬂammatory [NSAIDs], serotonin and norepinephrine
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+9/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+reuptake inhibitors (SNRIs), analgesics, etc.) administered for a sufﬁcient amount of time to determine efﬁcacy, in combination with either physical therapy, spinal manipulation therapy, cognitive behavioral therapy (CBT), home exercise program, acupuncture, or other interventions based on the individual’s speciﬁc presentation, physical ﬁndings, and imaging results.
+
+Consistent Improvement – The progressive, incremental, and clinically meaningful improvement of physical signs or symptoms.
+
+Disability – Activity limitations or participation restrictions in an individual with a health condition, disorder or disease.
+
+9
+
+Functional Impairment - A physical or functional or physiological impairment causing deviation from the normal function of a tissue or organ. This results in a signiﬁcantly limited, impaired or
+
+delayed capacity to move, coordinate actions or perform physical activities and is exhibited by
+
+difﬁculties in one or more of the following areas: physical and motor tasks; independent 9 movement; performing basic life functions.
+
+GRADE – A system developed by the GRADE Working Group to address the shortcomings of present grading systems in healthcare. The GRADE system uses a common, sensible, and
+
+transparent approach to grading the quality of evidence. The results of applying the GRADE
+
+system to clinical trial data are displayed in a table known as a GRADE proﬁle.
+
+Hangman’s Fracture - a bilateral fracture traversing the pars interarticularis of cervical 10 vertebrae 2 (C2) with an associated traumatic subluxation of C2 on cervical vertebrae 3 (C3).
+
+Multidisciplinary Biopsychosocial Rehabilitation (MBR) – Targets physical as well as psychological and social aspects of pain and involves a team of healthcare providers with different professional backgrounds and training.
+
+Myelopathy- An inclusive term describing a compression of the spinal cord resulting in neurological deﬁcits e.g., spasticity (sustained muscle contractions), hyperreﬂexia, pathologic reﬂexes, paresthesia affecting the extremities, muscle weakness, digit/hand clumsiness, or gait disturbance.
+
+11,12
+
+Nonspeciﬁc low back pain – Back pain that cannot be attributed to a speciﬁc disease or spinal pathology.
+
+Session- A session is a time period, which includes all procedures (e.g., SIJIs and RFA ablations) that are performed during the same day.
+
+Sustained and Constant Pain Relief - The pain relief must continue for the deﬁned time period and without interruption or regression to the primary (index) pain.
+
+Symptomatic pseudarthrosis- (non-union of prior fusion) with radiological (e.g., CT or MRI) demonstration of non-union of prior fusion (lack of bridging bone or abnormal motion at fused segment) 12 months or more since fusion surgery or with radiographic evidence of hardware
+
+13
+
+failure (fracture or displacement).
+
+Unstable Spine- cervical spinal instability has been deﬁned as destruction of either the anterior or posterior elements of the spine making them nonfunctional, more than 3.5 mm of
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+10/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+displacement of one vertebra in relation to another or greater than 11 degrees of rotational
+
+1,14
+
+difference between adjacent vertebrae.
+
+Contractor Advisory Meeting
+
+A Multi-MAC Contractor Advisory Committee (CAC) Meeting was hosted by Noridian and included Noridian Healthcare Solutions, CGS Administrators, National Government Services, Palmetto GBA, WPS Government Health Administrators, First Coast Service Options and Novitas Solutions on August 16, 2023. The transcript and audio for this meeting is posted on each MACs website. Feedback from the subject matter experts is included through the evidence summary.
+
+Summary of Evidence
+
+Conservative Treatment
+
+Treatment of cervical radiculopathy can range from conservative management to surgery. Conservative care is considered initial management for cervical radiculopathy from degenerative disorders as most cases will be self-limited and resolve spontaneously over a variable length of time without speciﬁc intervention. Conservative management for cervical radiculopathy may include oral analgesics or short course of oral glucocorticoids, avoidance of provocative activities, short term immobilization with cervical collar or pillow, active physical In a published analysis of clinical practice therapy, manual therapy, and cervical traction. guidelines for neck pain and radiculopathy the following interventions were listed as 16 recommended components of conservative therapy :
+
+8
+
+15,16
+
+Pharmacotherapies: analgesics, Paracetamol (Acetaminophen), NSAIDs (non-steroidal anti-inﬂammatory drugs), SNRIS, opioids (including tramadol), topical medications including NSAIDS. Non-Pharmacologic Interventions: exercise programs/physical therapy, thermotherapy, manual therapy (combined with other treatment), acupuncture, epidural steroid injection.
+
+Studies have shown that surgery and conservative interventions achieve similar long-term results, and that conservative treatment is often the preferred option because it avoids the risks of surgical treatment. the role of conservative measures as a ﬁrst-line approach for the management of cervical radiculopathy. improve with conservative measures. was shown to be beneﬁcial for cervical radiculopathy in a systematic review and meta- analysis. randomized trial to substantially reduce neck and arm pain for patients with cervical A RCT compared cervical collar or physical therapy and found improvement radiculopathy. over a wait and see approach suggesting that an active treatment approach results in better outcomes. cervical radiculopathy had more rapid resolution of symptoms compared to those who remained in physical therapy but outcomes at 2 years were similar and conclude structured physiotherapy should be considered ﬁrst line management. Further investigation with the same author reported anterior cervical decompression and fusion (ACDF) plus PT was superior to PT alone. line approach and that there are modiﬁable risk factors such as diabetes management, smoking cessation and weight loss that can impact disease course and surgical outcomes.
+
+8,17
+
+A systematic review found sufﬁcient low-quality evidence to support
+
+18
+
+Observational data reports 40-80% of patients with cervical radiculopathy will
+
+15
+
+Exercise alone or in combination with other treatments
+
+19
+
+Physical therapy accompanied by home exercise for 6 weeks has been shown in a
+
+20
+
+21
+
+A RCT demonstrated that patient who proceed to surgery for management of
+
+22
+
+23
+
+Subject matter experts agreed that conservative therapy is an acceptable ﬁrst
+
+24
+
+NASS Guidelines state: “As the majority of patients with cervical radiculopathy will improve with nonoperative treatment, particularly within three months from onset, most practitioners would agree that a 6- to 12-week period of nonoperative care seems reasonable. Speciﬁc provisions of
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+11/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+what should be included during the course of nonoperative treatment were not outlined as there is no universally agreed upon group of modalities. The types of treatment that one would consider, however, should include physical therapy, anti-inﬂammatory pain medications and epidural steroid injections.”
+
+3
+
+A multi-disciplinary, international panel established consensus-based guidance on effective nonsurgical treatment modalities for individuals in different stages (i.e., acute, subacute, and These guidelines include patient education with positive chronic) of cervical radiculopathy. reinforcing and non-nocebo content, spinal manipulative therapy, exercise, sustaining pain- relieving positions, cognitive behavioral therapy, general aerobic exercise, strength training, postural education and workplace and vocational/ergonomic assessment.
+
+25
+
+Berman, et al compared the American College of Radiology appropriateness criteria for MRI to the speciﬁc criteria in 56 commercial policies and clinical management organizations in the USA, for neck pain both with and without radicular symptoms. coverage criteria for MRIs, the study also summarized organizational positions on conservative care.
+
+26
+
+While the focus was on
+
+Different deﬁnitions of conservative care are used e.g., “a multimodality approach consisting of a combination of active and inactive components” and “a combination of strategies to reduce inﬂammation, alleviate pain, and improve function.” All organizations require the failure of at least six weeks of conservative management.
+
+Some organizations require conservative management within the preceding 3 or 6 months,
+
+while others do not specify how recently conservative treatment needs to take place.
+
+Conservative interventions are ‘provider-directed treatment’ that includes education,
+
+activity modiﬁcation, nonsteroidal anti-inﬂammatory (NSAIDs), narcotic and non-narcotic
+
+analgesic medications, oral or injectable corticosteroids, a provider-directed home
+
+exercise/stretching program, cross-training, avoidance of aggravating activities,
+
+physical/occupational therapy, spinal manipulation, interventional pain procedure, and
+
+other pain management techniques. Only a single organization requires two separate forms
+
+of conservative treatment, although the guidelines do not specify what these are.
+
+Imaging Modalities
+
+8
+
+North American Spine Society (NASS) Evidence-Based Clinical Guidelines on the Diagnosis
+
+and Treatment for Cervical Radiculopathy from Degenerative Disorders state MRI is the
+
+recommended study for correlative compressive lesions in cervical spine patients who have
+
+failed conservative therapy and being considered for intervention based on Grade B
+
+recommendation. The consensus of the group was that CT can be considered in those who
+
+have a contraindication to MRI. Computed tomography myelography was recommended for
+
+patients with discordant ﬁndings on MRI or contraindication to MRI based on Grade B
+
+Recommendation. There was insufﬁcient evidence to make a recommendation for or against the
+
+use of electromyography (EMG) for cervical radiculopathy evaluation.
+
+Cervical Radiculopathy
+
+Cervical radiculopathy is a common condition that usually occurs when a nerve root is inﬂamed
+
+by a herniated disc or bone spur. As a result, the inﬂamed nerve root may result in neck pain,
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+12/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+numbness or muscle weakness and sensory symptoms. This condition impacts approximately
+
+27
+
+85 out of 100,000 people.
+
+Clinical Outcomes
+
+Seven evidence syntheses with publication dates ranging from 2016-2022 that assessed
+
+28-34
+
+28,30
+
+clinical outcomes were identiﬁed.
+
+Two reviews included only RCTs.
+
+Four studies
+
+included both non-randomized studies of interventions (NRSI) and a small number (range 1-6)
+
+29,31-33
+
+of RCTs.
+
+The number of primary studies in the syntheses ranged from 7-23, with
+
+generally small sample sizes. Half the studies diagnosed participants with single-level,
+
+unilateral cervical radiculopathy. Comparators included different fusion techniques,
+
+foraminotomy, arthroplasty, and conservative interventions. Anterior cervical discectomy and
+
+fusion was an intervention in each study. Timing to follow-up ranged from 24 to 47 months.
+
+Broekema, et al. (2020)conducted a systematic review with meta-analysis that included 1,567
+
+28
+
+participants described in 21 RCTs.
+
+Thirteen of the studies had data from less than 100
+
+participants. The clinical effects of ACDF were compared with posterior cervical foraminotomy
+
+(PCF), anterior cervical discectomy without intervertebral spacer (ACD), ACD with poly-
+
+methylmethacrylate as an intervertebral spacer (PMMA), autologous bone graft (ABG), ACDF
+
+with autologous bone graft plus plating (ABGP), cervical disc arthroplasty (CDA), and physical
+
+therapy. ACDF had a signiﬁcantly better success rate compared to ACD. Among the remaining
+
+comparisons, there were no signiﬁcant differences in success rates. Six subgroup comparisons
+
+found no signiﬁcant differences in work status across interventions. Aside from a signiﬁcant
+
+effect favoring ACDF over CDA, there were no differences in disability outcomes at mean
+
+follow-up. Improvement in arm pain favored ACDF with a cage over ABGP, ACD over ACDF
+
+with a cage, and ACDF over CDA. The clinical signiﬁcance of these differences was not
+
+described. Limitations in this evidence synthesis included an overall high risk of bias (only 3 of
+
+21 included studies had a low risk of bias), indirectness (the mean age across studies was 43.8 years), and imprecision due to the small sample sizes across sizes, with 62% of studies having
+
+less than 100 participants.
+
+Fang, et al. (2020) included 3 RCTs and 12 NRSI with a total of 52,705 (~51K from a single
+
+cohort study) participants diagnosed with single-level unilateral cervical radiculopathy in a
+
+systematic review with meta-analysis. Outcomes comparing ACDF with PCF were measured at
+
+29
+
+a mean of 47 months. No statistically signiﬁcant differences were identiﬁed for measures of disability (function), neck pain, arm pain, or satisfaction. Limitations impacting the certainty of
+
+the evidence included inherent drawbacks due to most of the primary study designs (12 of 15
+
+studies were retrospective cohort designs) and the 3 RCTs either did not contribute to or
+
+contributed minimally to the pooled analyses, indirectness (the mean ages across studies
+
+ranged from 39 to 53.8 years), and signiﬁcant heterogeneity was observed in subgroup
+
+analyses of ACDF vs. PCF using open and minimally invasive techniques.
+
+In a network meta-analysis, Gao, et al. (2022) performed direct and indirect comparisons of
+
+30
+
+ABG, ACD, ACF, PCF, ACDFP (ACDF plus plating), CDA, PMMA, and physical therapy.
+
+Twenty-
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+13/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+three RCTs (N=1,844) were assessed at a mean of 26 months. There were no statistical
+
+differences among the different interventions in measures of success rate, arm/neck pain, or
+
+disability. There were limitations in this network meta-analysis including an overall high risk of
+
+bias (only 13% [3 of 23] of the studies had a low risk of bias), indirectness (the mean/median age among the included studies ranged from 41 to 50.5 years and only 2 of 23 studies were
+
+conducted within the United States), imprecision (sample sizes were small [27-209]), and
+
+inconsistency (clinical and statistical heterogeneity).
+
+Goedmakers, et al. (2020) systematically reviewed 6 RCTs and 2 NRSI (N=777) in comparing
+
+31
+
+ACDF with CDA.
+
+Timing to follow-up in the studies ranged from 1-7 years. A single study
+
+reported a statistically signiﬁcant difference between interventions for disability; however, the difference did not achieve clinical relevance. Another ﬁve studies found no signiﬁcant difference
+
+between CDA and ACDF. None of the studies reported a signiﬁcant difference in neck pain after
+
+2 years post-surgery. Limitations of this systematic review included all articles showed
+
+intermediate to high risk of bias, indirectness (mean age was ~45 years), imprecision (sample
+
+sizes were small [41-209]), and inconsistency (high heterogeneity precluded pooling the results
+
+of individual studies).
+
+A systematic review with meta-analysis of 658 patients (1 RCT; 11 NRSI) with single-level
+
+32
+
+cervical radiculopathy compared traditional ACDF vs. stand-alone ACDF vs. CDA.
+
+The
+
+reviewers found no statistically signiﬁcant differences in disability measures at a minimum of 1
+
+year for the different interventions. Limitations included the drawbacks inherent in
+
+observational studies (11 of 12 included studies were cohort designs), uncertainty about the
+
+internal validity of the studies (risk of bias of the included studies was not assessed),
+
+imprecision (the mean sample size was 54.8), and inconsistency (high heterogeneity was
+
+present in the pooled analysis for disability outcomes).
+
+Liu, et al. (2016) produced a systematic review of 1,336 patients with cervical radiculopathy (3
+
+33
+
+RCTs, 7 NRSI) who underwent either ACDF or PCF.
+
+At a mean of 3.7 years following the
+
+procedure, there were no between-group differences in patient-reported measures of pain and
+
+disability. Based on a single study, ACDF showed a signiﬁcantly higher success rate (93.6%)
+
+than the PCF group (85.1%). Limitations of this review included the drawbacks inherent in
+
+observational studies (7 of the 10 studies were retrospective cohort designs), all the RCTs were
+
+judged to have a high risk of bias, and indirectness (the mean age of the included participants
+
+was ~46 years [39-53.3]).
+
+Zou, et al. (2022) conducted a systematic review with a meta-analysis of 1,175 patients with
+
+34
+
+unilateral cervical radiculopathy.
+
+One RCT and 6 NRSI compared clinical outcomes for groups
+
+receiving ACDF or MI-PCF (minimally invasive posterior cervical fusion). At a mean post-surgical
+
+follow-up of 47 months, no statistically signiﬁcant differences were observed in patient-
+
+reported disability, neck pain, or arm pain. Limitations in this evidence synthesis included those
+
+inherent in observational study designs, indirectness (the mean age of the participants was
+
+48.9 years), and inconsistency (high heterogeneity was reported for arm pain outcomes).
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+14/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+In aggregate, the clinical effects associated with the different surgical and conservative interventions did not result in statistically signiﬁcant or clinically relevant differences. The only
+
+exception was ACDF, which showed a better success rate than ACD. Overall, the certainty of
+
+the evidence was determined to be very low. Limitations included those inherent in
+
+observational study designs, high risk of bias in most RCTs, indirectness, imprecision, and
+
+heterogeneous outcomes.
+
+Surgical Outcomes
+
+Three evidence syntheses reported on perioperative measures. Operative time was assessed in
+
+29,30,34
+
+29,34
+
+all studies.
+
+Length of stay (LOS) was included in two reviews.
+
+A single study
+
+29
+
+analyzed blood loss.
+
+Fang, et al. (2020) compared ACDF with open PCF or MI-PCF for patients with single-level,
+
+29
+
+unilateral cervical radiculopathy in a systematic review with meta-analysis.
+
+The reviewers
+
+reported that compared to ACDF, open PCF had a shorter operation time, while there was no
+
+difference between ACDF and MI-PCF. Based on data from 2 studies, there was no signiﬁcant
+
+difference in blood loss among the surgical techniques. The PCF group was associated with a
+
+signiﬁcantly shorter length of hospitalization than the ACDF group. Limitations impacting the
+
+certainty of the evidence included inherent drawbacks due to most of the primary study designs
+
+(12 of 15 studies were retrospective cohort designs) and the 3 RCTs either did not contribute to
+
+or contributed minimally to the pooled analyses, indirectness (the mean ages across studies ranged from 39 to 53.8 years), and signiﬁcant heterogeneity was observed in subgroup
+
+analyses of ACDF vs. PCF using open and minimally invasive techniques.
+
+Gao, et al. (2022) assessed operative time for different surgical procedures in a network meta-
+
+30
+
+analysis.
+
+Direct and indirect comparisons showed ABGP, ACD, ACDF, and ACDFP had shorter
+
+surgery times compared with ABG. ACDF had a shorter surgery time compared with PMMA.
+
+There were limitations in this network meta-analysis including an overall high risk of bias (only 13% [3 of 23] of the studies had a low risk of bias), indirectness (the mean/median age among
+
+the included studies ranged from 41 to 50.5 years and only 2 of 23 studies were conducted
+
+within the United States), imprecision (sample sizes were small [27-209]), and inconsistency
+
+(clinical and statistical heterogeneity).
+
+Zou, et al. (2022) performed a systematic review with meta-analysis comparing ACDF with MI-
+
+34
+
+PCF. cohorts. Data from 3 retrospective studies observed a statistically signiﬁcant difference in LOS
+
+The analysis did not ﬁnd any signiﬁcant difference in operative time between the two
+
+favoring MI-PCF. Limitations in this evidence synthesis included those inherent in observational
+
+study designs, and indirectness (the mean age of the participants was 48.9 years).
+
+In summary, the observed perioperative results varied by the comparators and the type of
+
+outcome. Compared to open PCF, ACDF had signiﬁcantly longer operative time and LOS. MI-
+
+PCF also had a signiﬁcantly less LOS than ACDF. When ACDF was compared to other surgical techniques, no signiﬁcant differences were found in operative time and blood loss. The overall
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+15/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+certainty of the evidence was rated as very low due to the high risk of bias in the included RCTs,
+
+limitations inherent in observational studies, and uncertainty about the applicability of the
+
+results to the U.S. Medicare population (indirectness).
+
+Radiographic Outcomes
+
+Two evidence syntheses described post-surgical radiographic results associated with
+
+32,33
+
+individuals diagnosed with cervical radiculopathy.
+
+Katsuura, et al. (2019) performed a systematic review with meta-analysis that compared
+
+32
+
+traditional ACDF vs. stand-alone ACDF vs. CDA.
+
+At a minimum of 1-year post-surgical follow-
+
+up, no signiﬁcant differences in the C2-C7 (Cobb) angle were observed. Limitations of this
+
+evidence synthesis included the drawbacks inherent in observational studies (11 of 12 included
+
+studies were cohort designs), uncertainty about the internal validity of the studies (risk of bias
+
+of the included studies was not assessed), and imprecision (the mean sample size was 54.8).
+
+Liu, et al. (2016) systematically reviewed data from 3 RCTs and 7 NRSI, encompassing 1,335
+
+33
+
+patients; however, only a single RCT provided data regarding radiographic outcomes.
+
+The
+
+postoperative ROM of the caudal adjacent segment was 11.33° ± 5.07° in the ACDF group and
+
+8.73° ± 5.92° in the PCF group. The signiﬁcance of this difference was not described. Limitations
+
+of this review included the drawbacks inherent in observational studies (seven of the ten studies
+
+were retrospective cohort designs), all the RCTs were judged to have a high risk of bias, and
+
+indirectness (the mean age of the included participants was ~46 years [39-53.3]).
+
+Overall, there was limited evidence concerning radiographic outcomes following cervical fusion
+
+in patients diagnosed with cervical radiculopathy. No signiﬁcant between-group differences
+
+were reported for Cobb angle or ROM. The overall certainty of the evidence was judged as very
+
+low due to a high/unknown risk of bias, study design limitations, imprecise data, and
+
+indirectness.
+
+Undesirable Effects
+
+Six evidence syntheses described undesired effects associated with cervical fusion
+
+28,30,31,33-35
+
+surgery.
+
+Assessment timeframes ranged from 24 to 57 months.
+
+Broekema, et al. (2020) performed a systematic review with meta-analysis of 1,567
+
+participants diagnosed with cervical radiculopathy who underwent anterior or posterior
+
+28
+
+surgical interventions and were compared with other surgical techniques.
+
+There was a higher
+
+complication rate in the group with ABG from the iliac crest. This effect disappeared when
+
+donor-site complications were left out. No other signiﬁcant effect was observed in the
+
+comparison between ACDF with ABG and ACDF with a cage. Subgroup comparisons found no
+
+signiﬁcant differences in reoperation rate across the different surgeries. Limitations in this
+
+evidence synthesis included an overall high risk of bias (only 3 of 21 included studies had a low
+
+risk of bias), indirectness (the mean age across studies was 43.8 years), and imprecision due to
+
+the small sample sizes across sizes, with 62% of studies having less than 100 participants.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+16/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+Gao, et al. (2022) conducted a network meta-analysis of 23 RCTs that included direct and
+
+indirect comparisons of ACDF, ABG, ACD, ACF, PCF, ACDFP, CDA, PMMA, and physical
+
+30
+
+therapy.
+
+There were no statistical differences among the various interventions, including
+
+physical therapy for complication and reoperation rates. There were limitations in this network
+
+meta-analysis including an overall high risk of bias (only 13% [3 of 23] of the studies had a low
+
+risk of bias), indirectness (the mean/median age among the included studies ranged from 41 to
+
+50.5 years and only 2 of 23 studies were conducted within the United States), imprecision
+
+(sample sizes were small [27-209]), and inconsistency (clinical and statistical heterogeneity).
+
+Goedmakers, et al. (2020) systematically reviewed 777 participants with cervical radiculopathy
+
+31
+
+from 6 RCTs and 2 NRSI in comparing CDA to ACDF.
+
+The authors concluded the reporting on
+
+the level of reoperation is heterogeneous and incomplete; however, the results suggested
+
+reoperations were most frequent at the adjacent level for the ACDF group and at the index level
+
+for the CDA group. Four articles described adjacent segment disease (ASD), of which only one
+
+article described a signiﬁcantly higher incidence of ASD in ACDF patients. No other statistically
+
+signiﬁcant differences in complication rates were described between groups. Limitations of this
+
+systematic review included all articles showed intermediate to high risk of bias, indirectness
+
+(mean age was ~45 years), imprecision (sample sizes were small [41-209]), and inconsistency
+
+(high heterogeneity precluded pooling the results of individual studies).
+
+Gutman, et al. (2018) performed a systematic review with meta-analysis that focused on the
+
+comparative undesired effects of participants with single-level cervical radiculopathy who
+
+35
+
+prospectively underwent ACDF, CDA, or MI-PCF.
+
+The rate of revision surgery following ACDF
+
+(14.46) was greater than double that of MI-PCF (7.00) and CDR (6.49). Compared to ACDF
+
+(21.29), the rate of adverse events was signiﬁcantly less for MI-PCF (3.00), but greater for CDA
+
+(27.27). Limitation in this review included the risk of bias of the primary studies was not
+
+assessed, indirectness (the mean age for each of the included studies was less than 50 years
+
+[43-49.3]), imprecision (the number of studies was few [4], with small sample sizes), and
+
+uncertainty concerning inconsistency (heterogeneity was not assessed).
+
+Liu, et al. (2016) assessed the overall complication rate in a systematic review that compared
+
+33
+
+patients who had received either ACDF or PCF.
+
+The mean complication rate was 7% in the
+
+ACDF group and 4% in the PCF group. The difference was not statistically signiﬁcant.
+
+Limitations of this review included the drawbacks inherent in observational studies (seven of the
+
+ten studies were retrospective cohort designs), all the RCTs were judged to have a high risk of
+
+bias, and indirectness (the mean age of the included participants was ~46 years [39-53.3]).
+
+Zou, et al. (2022) employed a systematic review with meta-analysis of 1,175 patients who
+
+34
+
+underwent either ACDF or PCF.
+
+In the ACDF group, complication rates ranged between 1.8%
+
+and 10.5%. In the MIS-PCF group, the rate was between 0% and 14.3%. The between-group
+
+difference was not signiﬁcant. The reoperation rate was between 0-7.5% in the ACDF group
+
+and 0 -14.3% in the MIS-PCF group. The difference was not signiﬁcant. Limitations in this
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+17/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+evidence synthesis included those inherent in observational study designs, and indirectness (the
+
+mean age of the participants was 48.9 years).
+
+In aggregate, the complication rates associated with different surgical procedures and physical
+
+therapy are generally similar; however, the rate of adverse events with ACDF appears to be
+
+greater than MI-PCF, and the rate of ASD is lower with CDA vs. ACDF. The overall results of the
+
+different evidence syntheses were heterogeneous concerning reoperation rates. No signiﬁcant
+
+differences were found among the surgical interventions studied apart from a small systematic
+
+review (Gutman, et al.; 2018) that concluded the revision surgery rate of ACDF was double that
+
+of CDA and MI-PCF. The credibility of these ﬁndings was very low due to a lack of quality
+
+appraisal (risk of bias) for the included RCTs, the small numbers of studies (4) and participants
+
+(506), uncertain applicability to the U.S. Medicare population, and omitting an assessment of
+
+heterogeneity. Overall, the certainty of the evidence was judged to be very low due to multiple
+
+limitations i.e., study designs, high/unclear risk of bias, indirectness, imprecise results, and
+
+unexplained heterogeneity.
+
+Societal Input
+
+The North American Spine Society (NASS) has published appropriateness criteria for cervical
+
+3
+
+fusion surgery as a treatment for cervical radiculopathy.
+
+Cervical radiculopathy: from degenerative disorders (either from disc herniation or bony
+
+stenosis), as an adjunct to disc excision, that meets ALL the following criteria:
+
+Pattern of radiculopathy explained by imaging.
+
+Six to 12 weeks of an appropriate course of nonoperative treatment.
+
+The following can mitigate the need for an initial nonoperative trial:
+
+Severity of symptoms prevents the patient from working. Functionally limiting motor weakness.
+
+Cervical fusion may NOT be indicated in cases that do not fulﬁll the above criteria including
+
+cervical radiculopathy from isolated foraminal stenosis treated with a partial medial
+
+facetectomy/foraminotomy.
+
+Degenerative Cervical Myelopathy
+
+Clinical Outcomes
+
+Six evidence syntheses with publication dates ranging from 2014-2022 that assessed clinical
+
+36-41
+
+outcomes were identiﬁed.
+
+Three of the syntheses included only non-randomized studies of
+
+37,39,40
+
+an intervention (NRSI).
+
+Three studies included both NRSI and a small number (1-4) of
+
+36,38,41
+
+RCTs.
+
+The number of primary studies in the syntheses ranged from 5-18, with generally
+
+small sample sizes. Participants were mostly diagnosed with multilevel cervical spondylotic
+
+myelopathy (CSM). Comparators included different fusion techniques, arthroplasty, and hybrid
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+18/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+surgery. Anterior cervical discectomy and fusion was an intervention in each study. Timing to
+
+follow-up was variable (1-60+ months).
+
+Fei, et al. (2015) conducted a systematic review with meta-analysis that compared two fusion
+
+36
+
+techniques, ACDF and ACCF (anterior cervical corpectomy and fusion).
+
+Eighteen primary
+
+studies (1 RCT, 17 NRSI) were included in the review. Outcomes were assessed at a minimum of
+
+6 months post-operation. Neurological status (success) and pain intensity outcomes were
+
+similar between surgical groups. There were several limitations in this study including those
+
+associated with observational studies (17 of 18 studies were cohort or case-control designs),
+
+indirectness (17 of 18 studies included participants located in China or South Korea, and all the
+
+studies had a mean/median between 32-59 years), imprecision (all studies had small sample
+
+sizes with conﬁdence intervals that crossed the indicator for no effect), and inconsistency of
+
+effects across studies (signiﬁcant heterogeneity for all secondary outcomes).
+
+In a systematic review with meta-analysis, Han, et al. (2014) reported on 14 NRSI that
+
+37
+
+compared ACDF and ACCF.
+
+At a postoperative minimum of 24 months, all clinical measures
+
+(success rate, neurological status, pain, and function [disability]) were statistically similar (p
+
+>0.05). Limitations of this review involved the inclusion of only low-quality studies (all included
+
+studies were observational cohort or case-control designs), indirectness (mean ages ranged
+
+from 44-58.74 yrs.), imprecision (all studies had small sample sizes and pain outcomes had
+
+small numbers of pooled data), and high statistical heterogeneity (inconsistency) was present
+
+for functional outcomes.
+
+38
+
+Li, et al. (2019) performed a network meta-analysis that included 4 RCTs and 12 NRSI.
+
+The
+
+analysis included direct and indirect comparisons of ACDF, ACCF, cervical disc arthroplasty
+
+[replacement] (CDA), and hybrid surgery. At a mean of 33.3 months following surgery, CDA
+
+demonstrated a statistically signiﬁcant difference in disability outcomes compared to the other
+
+surgical procedures. The clinical signiﬁcance of these results was not described. Limitations in
+
+this network meta-analysis were associated with low-quality studies (12 of 16 studies were
+
+case-control designs), indirectness (indirect comparisons were a core component of the
+
+methodology and 14 studies took place in Asia [China, South Korea, Singapore]), and imprecision (all studies had small sample sizes).
+
+Montano, et al. (2019) systematically reviewed and meta-analyzed 5 NRSI (487 participants)
+
+39
+
+with multilevel CSM.
+
+No difference in neurological status was found between ACDF and
+
+laminoplasty at a mean of 35.4 months post-surgery (MD = -0.053; 95% CI, -0.511 to 0.404; p =
+
+0.819). Limitations involved the low-quality of all included studies (observational cohort or
+
+case-control designs), indirectness (all studies had mean ages between 54 and 56.8 years.), imprecision (too few events for all outcomes and wide conﬁdence intervals for all pooled
+
+outcomes measured).
+
+A systematic review without meta-analysis of 11 primary studies (2 RCTs, 9 NRSI) included a
+
+41
+
+total of 570 participants with single or multilevel CSM.
+
+Clinical outcomes were assessed
+
+between 12 and 60 months postoperatively. No statistically signiﬁcant differences in ACDF and
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+19/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+ACCF were found for neurological status, pain, or function (disability). Review limitations
+
+included the overall low-quality primary study designs (9 of the 11 included studies were
+
+observational cohort or case-control), indirectness (none of the studies were performed in the
+
+United States and all studies had a mean age between 46.8 and 57.7 years), imprecision (all the
+
+2
+
+studies had small sample sizes), and inconsistency (I test revealed high heterogeneity [>75%]
+
+across studies for all outcomes).
+
+Wang, et al. (2022) included 14 NRSI with wide variation in sample sizes (40-2188) that
+
+40
+
+comparatively assessed ACDF and ACCF.
+
+There was no between-group difference in patient-
+
+reported function; however, improvement in neurological status at 1-60+ months follow-up
+
+favored ACDF (OR = 0.49, 95% CI: 0.06 to 0.91; p = 0.02). Limitations involved the selection of
+
+low-quality studies (all studies were retrospective observational cohorts or case-control
+
+designs) and indirectness (11 of the studies were conducted in Asia [China, South Korea]).
+
+Primary Studies
+
+One RCT that was not included in any evidence synthesis was identiﬁed. El-Ghandour, et al.
+
+(2020) compared ACDF with posterior laminectomy with or without fusion in the management
+
+42
+
+of degenerative cervical myelopathy (DCM).
+
+Sixty-eight patients (mean age 53 years) were
+
+enrolled in a 1:1 randomized trial. Clinical outcomes were assessed after 1 year. There were
+
+signiﬁcantly better outcomes in patient-reported disability (function) and pain scores in the
+
+ACDF group compared to posterior surgical approaches. The Nurick myelopathy grading scale
+
+showed a nonsigniﬁcant improvement with using the posterior approach. The authors noted
+
+several methodologic limitations including a high risk of bias in the randomization process, small
+
+sample size, and short-term follow-up.
+
+In aggregate, clinical outcomes were found to be largely equivalent regardless of surgical
+
+technique. The overall certainty of the evidence was judged to be very low due to limitations
+
+inherent in the included study designs, indirectness (uncertainty about the applicability to the
+
+US Medicare population), imprecision (variability within studies in the direction and clinical
+
+relevance of effects), and inconsistencies across studies in the magnitude of effect.
+
+Surgical Outcomes
+
+36-
+
+A total of seven evidence syntheses evaluated surgical (perioperative) outcome measures. 40,43,44
+
+4,5
+
+All syntheses included NRSI, while RCTs were represented in two reviews.
+
+Sample
+
+sizes were small, patients were diagnosed with multilevel CSM, comparisons were between
+
+surgical interventions, and follow-up assessments were variable.
+
+Fei, et al. (2015) reported on data from 1,246 patients included in 18 primary studies (1 RCT, 17
+
+38
+
+NRSI).
+
+Compared to ACCF, patients who underwent ACDF had superior perioperative
+
+outcomes (length of stay [LOS], operative time, and blood loss). Limitations included the
+
+preponderance of low-quality studies (17 of 18 studies were of observational designs),
+
+indirectness (17 of 18 studies included participants located in China or South Korea, and all the
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+20/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+studies had a mean/median between 32-59 years), imprecision (all studies had small sample
+
+sizes with conﬁdence intervals that crossed the indicator for no effect), and inconsistency
+
+(signiﬁcant heterogeneity for all secondary outcomes).
+
+37
+
+Han, et al. (2014) included 15 NRSI (1,372 participants) in comparing ACDF and ACCF.
+
+No
+
+signiﬁcant difference in operative time was found (MD = -9.34, 95% CI = -42.99 to 24.31; p =
+
+0.59). LOS (MD = -5.60, 95% CI = -7.09 to - 4.11; p<0.00001) and blood loss (MD = -151.35,
+
+95% CI = -253.22 to -49.48; p = 0.004) were both less (better) in the ACDF group vs. the ACCF
+
+group. Limitations involved the low-quality of all included studies (observational cohort or case-
+
+control designs), indirectness (mean ages ranged from 44-58.74 years), imprecision (all studies
+
+had small sample sizes), and inconsistency (high statistical heterogeneity was present for blood
+
+loss and operative time).
+
+A network meta-analysis that included 1,639 patients with multilevel CSM found that ACDF
+
+resulted in a shorter operative time compared (directly and indirectly) to other surgical
+
+38
+
+techniques (ACCF, CDA, and hybrid surgery).
+
+Limitations included low-quality studies (12 of
+
+16 studies were case-control designs), indirectness (indirect comparisons were a core
+
+component of the methodology, 14 studies took place in Asia [China, South Korea, Singapore],
+
+and only a single study included a U.S. population), and imprecision (all studies had small sample sizes).
+
+Montano, et al. (2019) compared the results of ACDF and laminoplasty in 5 NRSI (487
+
+39
+
+patients).
+
+There was a statistically signiﬁcant difference favoring ACDF regarding blood loss
+
+(MD = -131.381; 95% CI, -259.522 to -3.240; p = 0.044). No between-group difference was
+
+seen in operative time (MD = -10.231; 95% CI, -58.612 to 38.149; p = 0.679). Limitations related
+
+to the low-quality of included studies (all were observational cohort or case-control designs), indirectness (all studies had mean ages between 54 and 56.8 years), imprecision (too few
+
+events for all outcomes and wide conﬁdence intervals for all pooled outcomes measured), and
+
+inconsistency (high heterogeneity involving operative time and blood loss).
+
+A total of 5,249 patients from 14 NRSI provided data on surgical outcomes for a systematic
+
+40
+
+review with meta-analysis.
+
+Compared to ACCF, blood loss was signiﬁcantly less in patients
+
+that underwent ACDF (OR = -528.63, 95% CI: -586.86, -470.39; p < 0.00001). Operative time was comparable between the two surgical groups. Limitations were due to the low-quality of
+
+the included studies (all studies were retrospective observational cohorts or case-control
+
+designs) and indirectness (11 of the studies were conducted in Asia [China, South Korea]).
+
+Xu, et al. (2017) pooled data from 6 NRSI (379 patients) in comparing ACDF with posterior
+
+43
+
+laminoplasty (LAMP).
+
+No signiﬁcant differences between the two surgical groups were found
+
+for operative time (MD = 32.81, 95% CI = -26.76 to 92.38; p = 0.28) and blood loss MD = -24.16, 95% CI = -174.47 to 126.15; p = 0.75). Limitations included the low-quality study designs (All
+
+studies were retrospective observational cohorts or case-control), indirectness (all studies had
+
+mean ages between 44.7 and 67 years), imprecision (data were derived from small studies with
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+21/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+wide conﬁdence intervals that crossed the indicator for no effect), and inconsistency (very high
+
+unexplained heterogeneity).
+
+A systematic review with meta-analysis of 669 participants (4 NRSI) assessed surgical
+
+44
+
+outcomes between ACDF and hybrid surgery.
+
+Blood loss signiﬁcantly favored ACDF over
+
+hybrid surgery (SMD = -30.29, 95% CI = -45.06, -15.52; p <.00001), while operative time was
+
+similar. The limitations of this review involved the low-quality study designs (all studies were
+
+retrospective observational cohorts or case-control designs), and indirectness (none of the
+
+studies were performed in the United States, and the mean age among studies ranged from 46.1 to 54.36 years).
+
+Primary Studies
+
+One RCT that was not included in any evidence synthesis was identiﬁed. El-Ghandour, et al.
+
+(2020) compared ACDF with posterior laminectomy with or without fusion in the management
+
+42
+
+of degenerative cervical myelopathy (DCM).
+
+Sixty-eight patients (mean age 53 years) were
+
+enrolled in the 1:1 randomized trial. The mean operative dura tion was signiﬁcantly longer in the
+
+ACDF group (p < 0.001). The mean hospital stay was signiﬁcantly longer in the posterior group
+
+(p < 0.001). The authors noted several methodologic limitations including a high risk of bias in
+
+the randomization process, small sample size, and short-term follow-up.
+
+Overall, the observed perioperative results varied by the comparators and the type of outcome.
+
+Compared to open PCF, ACDF had signiﬁcantly longer operative time and LOS. MI-PCF also had
+
+a signiﬁcantly less LOS than ACDF. When ACDF was compared to other surgical techniques, no
+
+signiﬁcant differences were found in operative time and blood loss. The overall certainty of the
+
+evidence was rated as very low due to the high risk of bias in the included RCTs, limitations
+
+inherent in observational studies, and uncertainty about the applicability of the results to the
+
+U.S. Medicare population (indirectness).
+
+Radiographic Outcomes
+
+Five evidence syntheses included assessments of radiographic outcomes (fusion rate, range of
+
+36,37,39,40
+
+motion [ROM], alignment, and lordotic.
+
+Fusion rate was recorded in a systematic review with meta-analysis of 18 primary studies (1
+
+36
+
+RCT, 17 NRSI).
+
+After a minimum of 6 months post-surgery, the authors found the fusion rate
+
+was 100% for patients that underwent ACDF and ACCF. Review limitations involved the low-
+
+quality of selected studies (17 of 18 studies were of observational designs), indirectness (17 of
+
+18 studies included participants located in China or South Korea, and all the studies had a
+
+mean/median between 32-59 years), imprecision (all studies had small sample sizes with
+
+conﬁdence intervals that crossed the indicator for no effect), and inconsistency (there was
+
+signiﬁcant heterogeneity for all secondary outcomes except fusion rate).
+
+In another systematic review with meta-analysis, Han, et al. (2014) also reported no difference
+
+37
+
+in fusion rates between ACDF and ACCF (OR = 1.17, 95% CI = 0.34 to 4.11; p = 0.80).
+
+Cobb
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+22/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+and segmental angles were measured at a minimum of 24 months follow-up. ACDF showed
+
+statistically signiﬁcant outcomes compared to ACCF. The limitations in this review included the
+
+low-quality of the selected studies (all studies were observational cohort or case-control
+
+designs), indirectness (mean ages ranged from 44-58.74 years), imprecision (all studies had
+
+small sample sizes), and inconsistency (high statistical heterogeneity was present for fusion
+
+rate and Cobb angle).
+
+Montano, et al. (2019) conducted a systematic review with meta-analysis that compared
+
+39
+
+radiographic outcomes reported in 5 NRSI between ACDF and laminoplasty.
+
+The Cobb angle
+
+(cervical lordosis) results were signiﬁcantly better for the ACDF group (MD = 5.63; 95% CI,
+
+1.663-8.469; p = 0.004), while ROM favored laminoplasty (MD = -5.399; 95% CI, -10.584 to
+
+0.214; p = 0.041). Limitations included the low-quality of analyzed studies (all were
+
+observational cohort or case-control designs), indirectness (all studies had mean ages between
+
+54 and 56.8 years) imprecision (too few events for all outcomes and wide conﬁdence intervals
+
+for all pooled outcomes measured), and inconsistency (high heterogeneity involving cervical
+
+lordosis and ROM.
+
+A systematic review with meta-analysis of 14 NRSI (5,249 patients diagnosed with multilevel
+
+CSM) reported statistically signiﬁcant results favoring ACDF versus ACCF in sagittal and
+
+40
+
+segmental angles, as well as fusion rate.
+
+Limitations were due to the low-quality of the
+
+included studies (all studies were retrospective observational cohorts or case-control designs)
+
+and indirectness (11 of the studies were conducted in Asia [China, South Korea]).
+
+44
+
+Zhao, et al. (2018) evaluated the radiographic effects of ACDF compared to hybrid surgery.
+
+The meta-analysis of 669 patients (4 NRSI) found no signiﬁcant differences in fusion rate and
+
+C2-C7 (Cobb) angle at 24 to 38 months post-surgery. Review limitations included the low-
+
+quality of the selected studies (all were retrospective observational cohorts or case-control
+
+designs), indirectness (none of the studies were performed in the United States and the mean
+
+age among studies ranged from 46.1 to 54.36 years), imprecision (wide conﬁdence angles that
+
+represented variable outcomes were found in the pooled data fusion rate), and inconsistency
+
+(heterogeneity of effects in the pooled analyses for C2-C7 angle and fusion rate).
+
+In aggregate, radiographic outcomes – obtained at variable time points – showed equitable or
+
+favorable results in fusion rate, angular measurements, and alignment for ACDF compared to
+
+ACCF, laminoplasty, and hybrid surgery. Laminoplasty was superior to ACDF in preserving
+
+ROM. The certainty of the evidence was determined to be very low due to the types of included
+
+study designs (mostly retrospective NRSI), uncertainty about the generalizability to the U.S. Medicare population, imprecise results, and heterogeneity of ﬁndings.
+
+Undesirable Effects
+
+Six evidence syntheses provided ﬁndings regarding a range of undesirable effects associated
+
+36-40,44
+
+with cervical fusion surgeries.
+
+Four reviews focused on the total or overall complication
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+23/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+36-39
+
+rate.
+
+In addition to the total complication rate, two syntheses detailed the results of a range
+
+40,44
+
+of undesirable effects.
+
+Fei, et al. (2015) reported that the total complication rate was signiﬁcantly lower for individuals
+
+36
+
+with ACDF than ACCF (RR= 0.51, 95% CI: 0.33, 0.80; p = 0.003).
+
+This result was based on a
+
+meta-analysis of 1,246 patients, with a minimum of 6 months follow-up. Limitation of this
+
+evidence synthesis were the low-quality of the selected studies (17 of 18 studies were of
+
+observational designs), indirectness (17 of 18 studies included participants located in China or
+
+South Korea, and all the studies had a mean/median between 32-59 years), imprecision (all
+
+studies had small sample sizes with conﬁdence intervals that crossed the indicator for no
+
+effect), and signiﬁcant heterogeneity was present.
+
+Another systematic review with meta-analysis of 1,372 patients diagnosed with multilevel CSM
+
+also determined the incidence of overall complications was signiﬁcantly greater in the ACCF
+
+group compared to those who had ACDF surgery (OR = 0.50, 95% CI = 0.35 to 0.73; p =
+
+37
+
+0.0003).
+
+In this review the minimum follow-up period was 24 months. Limitations involved the
+
+low-quality of all included studies (observational cohort or case-control designs), indirectness
+
+(mean ages ranged from 44-58.74 years), and imprecision (all studies had small sample sizes)
+
+A network meta-analysis calculated both direct and indirect comparisons of overall
+
+38
+
+complications for patients who had undergone ACDF, ACCF, CDA, or hybrid surgery.
+
+At a
+
+post-operative mean of 33.3 months, CDA resulted in a lower incidence of complications than
+
+different types of cervical fusion procedures. The limitations of this network meta-analysis
+
+included the low-quality of most study designs (12 of 16 studies were case-control designs),
+
+indirectness (indirect comparisons were a core component of the methodology, and only a
+
+single study included a U.S. population), and imprecision (all studies had small sample sizes).
+
+A systematic review with meta-analysis included 5 NRSI (N=487) that compared outcomes
+
+39
+
+(mean 35.4 months) between ACDF and laminoplasty.
+
+There was no statistically signiﬁcant
+
+difference regarding the complication rate (OR = 1.604; 95% CI, 0.972-2.648; p = 0.065).
+
+Limitations included the low-quality of the selected studies (all included studies were
+
+observational cohort or case-control designs), indirectness (all studies had mean ages between
+
+54 and 56.8 years), and imprecision (wide conﬁdence intervals for all pooled data).
+
+Wang, et al. (2022) included data from 5,249 participants (14 NRSI) in a systematic review with
+
+40
+
+meta-analysis.
+
+The number of total complications was signiﬁcantly less for individuals that
+
+received ACDF compared to ACCF (OR=0.56, 95% CI: 0.48-0.65; p < 0.00001). This study
+
+provided additional details about speciﬁc undesired effects. No signiﬁcant difference between
+
+ACDF and ACCF was found for dysphagia, hoarseness, cerebrospinal ﬂuid (CSF) leakage,
+
+infection rate, epidural hematoma, axial pain, hardware breakage, and pseudoarthrosis. ACDF
+
+demonstrated statistically superior outcomes regarding the event rate of C5 palsy, revision surgeries, graft subsidence, and graft dislodgement. The limitations of this review were related
+
+to the low-quality of all the selected studies (retrospective observational cohorts or case-control
+
+designs), and indirectness (11 of the studies were conducted in China or South Korea).
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+24/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+Zhao, et al. (2018) compared ACDF to hybrid surgery, pooling data from 4 NRSI that comprised
+
+44
+
+669 patients.
+
+Post-surgical outcomes were captured between 24 and 38 months. There was a
+
+signiﬁcant difference in total complications favoring ACDF (OR = 0.66, 95% CI = 0.44-0.98; P =
+
+.04). At the discrete outcome level, there was no signiﬁcant difference between ACDF and hybrid surgery seen for graft subsidence, C5 palsy, infection, CSF leakage, dysphagia, or
+
+epidural hematoma. Limitations related to the low-quality of all the selected studies
+
+(retrospective observational cohorts or case-control designs), and indirectness (none of the
+
+studies were performed in the United States, and mean age among studies ranged from 46.1
+
+and 54.36 years), and imprecision (wide conﬁdence intervals, representative of variable
+
+outcomes, were found in the pooled data subgroup analyses for graft subsidence, infection rate,
+
+and CSF leakage).
+
+Primary Studies
+
+One RCT that was not included in any evidence synthesis was identiﬁed. El-Ghandour, et al
+
+(2020) compared ACDF with posterior laminectomy with or without fusion in the management
+
+42
+
+of degenerative cervical myelopathy (DCM).
+
+Sixty-eight patients (mean age 53 years) were
+
+enrolled in the 1:1 randomized trial. No signiﬁcant difference in postoperative complications was found, except postoperative dysphagia was signiﬁcantly higher in the anterior group (p < 0.05).
+
+The authors noted several methodologic limitations including a high risk of bias in the
+
+randomization process, small sample size, and short-term follow-up.
+
+A retrospective cohort compared the short-term outcomes for laminoplasty, laminectomy with
+
+45
+
+fusion, and ACDF. Data from 546 patients resulted in the authors concluding that
+
+laminectomy with fusion carries the highest risk for morbidity, mortality, and unplanned
+
+readmissions in the short-term postoperative period. Laminoplasty and ACDF cases carry
+
+similar short-term complications and risks. Study limitations include the retrospective design,
+
+short-term (30-day) outcomes, and clinical heterogeneity.
+
+Overall, apart from CDA, the complication rate favored ACDF over other types of fusion and
+
+non-fusion surgeries. The certainty of the evidence was judged to be very low due to inherent
+
+study design limitations, indirectness, imprecision involving subgroup analyses, and signiﬁcant heterogeneity.
+
+Cervical Myeloradiculopathy (Mixed)
+
+Cervical myelopathy occurs when there is compression of the spinal cord in the neck area.
+
+Patients present with issues with ﬁne motor skills, pain or stiffness in the neck and loss of
+
+balance. Causes of cervical myelopathy may include Rheumatoid arthritis, cervical spine
+
+46
+
+trauma, spinal infection, spinal tumors or cancer.
+
+Myelopathy and cervical spine instability severity is classiﬁed based on the criteria put forth by
+
+47,48
+
+Ranawat.
+
+Class I – No neurologic deﬁcit
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+25/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+Class II – Subjective weakness with hyperreﬂexia and dysesthesia
+
+Class IIIA – Objective weakness with long-tract signs; remains ambulatory
+
+Class IIIB – Objective weakness with long-tract signs; nonambulatory and quadriparetic
+
+Clinical Outcomes
+
+Four evidence syntheses with publication dates ranging from 2013-2022 that assessed clinical
+
+49-52
+
+outcomes were identiﬁed.
+
+All the syntheses included only randomized controlled trials. The
+
+number of primary studies in the syntheses ranged from 8 to 30, with generally small sample
+
+sizes. The eligibility criteria included participants that were diagnosed with single or multilevel
+
+cervical radiculopathy, myelopathy, or both (myeloradiculopathy). All reviews compared the
+
+effects of ACDF to CDA. Timing to follow-up was variable (29 months to ~8 years).
+
+Núñez, et al. (2022) published a systematic review with meta-analysis that comprised 9 RCTs
+
+49
+
+with sample sizes ranging from 44 to 541.
+
+Clinical outcomes were assessed at a mean of 7.8
+
+years post-surgery. The overall success rate in the CDA group was signiﬁcantly higher than in
+
+2
+
+the ACDF group (OR = 1.98, 95% CI: 1.57–2.49, p < 0.001) with moderate heterogeneity (I =
+
+36%, p = 0.16). There were no signiﬁcant differences between the 2 groups regarding neck pain (SMD = − 0.17, 95% CI: − 0.37–0.04, p = 0.11) with high heterogeneity (I = 74%, p = 0.002). Patient-reported arm pain results signiﬁcantly favored the CDA group (SMD = − 0.16, 95% CI: − 0.29 to − 0.04, p = 0.01) with moderate heterogeneity (I = 31%, p = 0.20). The physical SF-36 (quality of life) component signiﬁcantly favored the CDA group (SMD = 0.13 95% CI: 0.03–0.23, p = 0.01) with very low heterogeneity (I = 1%, p = 0.40). No signiﬁcant differences were found between the 2 groups in the mental SF-36 component (SMD = 0.19, 95% CI: − 0.03–0.41, p = 0.10), with substantial heterogeneity (I = 69%, p = 0.02). Limitations of this review included a
+
+2
+
+2
+
+2
+
+2
+
+high or unclear risk of bias involving all RCTs, indirectness (the mean age across studies was
+
+~44.5 years), some imprecision involving overall treatment success, signiﬁcant heterogeneity
+
+was present in all pooled clinical results.
+
+Peng, et al. (2022) produced a systematic review with meta-analysis of 9,329 participants with
+
+single or multilevel cervical radiculopathy or myelopathy. At multiple follow-up time points,
+
+50
+
+overall success favored CDA (total, OR 1.91, 95% CI 1.73 to 2.11, p=0.000).
+
+Neurological
+
+success results also favored CDA in all follow-up periods (total, OR 1.74, 95% CI 1.49 to 2.04, p
+
+= 0.000). Disability results in all follow-up periods favored CDA (total, OR 1.70, 95% CI 1.49 to
+
+1.94, p = 0.000). Limitations of this analysis included all primary studies were rated as having
+
+unclear (some concerns) or high risk of bias, indirectness (the mean age among the studies
+
+ranged between 40-50 years), and imprecision (all pooled analyses for each follow-up period
+
+had conﬁdence intervals that crossed the null value).
+
+Xing, et al. (2013) included 8 RCTs with sample sizes ranging from 19 to 541. Participants
+
+(N=1,617) had single-level cervical radiculopathy or myelopathy [Xing]. Outcomes were
+
+measured between 24 and 48 months. For overall success, CDA was signiﬁcantly superior to
+
+2
+
+ACDF (OR = 1.84, 95% CI = 1.43 to 2.36; p < 0.00001), with no heterogeneity (I = 0%). The
+
+neurological success rate results showed CDA was signiﬁcantly superior to ACDF (OR = 1.75,
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+26/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+2
+
+95% CI = 1.20 to 2.55; p = 0.004), with no heterogeneity (I = 0%). There was no signiﬁcant
+
+difference between the two treatment groups concerning disability measures. For arm pain,
+
+there was a signiﬁcant difference between the two groups favoring CDA (MD = -4.86, 95% CI =
+
+2
+
+6.42 to -3.30; p < 0.00001) with low heterogeneity (I = 8%). There was a signiﬁcant difference
+
+between the two groups favoring CDA (MD = -7.90, 95% CI = -10.36 to -5.44; p < 0.00001) with
+
+2
+
+no heterogeneity (I = 0%) regarding neck pain outcomes. Limitations of this evidence synthesis
+
+included all primary studies were rated as having unclear (some concerns) or high risk of bias,
+
+indirectness (the mean age of included studies was 43 years), imprecision (six of eight [75%] of
+
+studies had sample sizes smaller than 400 and all pooled analyses exhibited conﬁdence
+
+intervals that crossed the null value), and inconsistency (moderate heterogeneity in the pooled
+
+results for disability).
+
+Zhang, et al. (2020) included 1,238 participants from 13 RCTs in a systematic review with meta-
+
+52
+
+analysis.
+
+Outcomes were assessed at a mean of 83 months. The overall success rate
+
+signiﬁcantly favored the CDA group compared to the ACDF group (OR = 1.68, 95% CI: 1.29–
+
+2
+
+2.19, p < 0.001) with low heterogeneity (I = 0%, p = 0.62). The CDA group had signiﬁcantly
+
+higher neurological success than the ACDF group (OR = 1.54, 95% conﬁdence interval [CI]:
+
+2
+
+1.14– 2.08, p = 0.004) with moderate heterogeneity (I = 34.0%, p = 0.18). For disability results, the CDA group was signiﬁcantly improved versus the ACDF group (MD = − 0.20, 95% CI: − 0.36 to − 0.05, p = 0.009), with moderate heterogeneity (I = 37.8%, p = 0.20); however, the effect size did not reach clinical relevance. Measures of quality-of-life were better in the CDA group;
+
+2
+
+however, neither statistical nor clinical signiﬁcance was achieved. Both neck and arm pain were sig niﬁcantly better in the CDA group than in the ACDF group (MD = − 0.20, 95% CI: − 0.35 to − 0.05, p = 0.01 and MD = − 0.23, 95% CI: − 0.38 to − 0.07, p = 0.004, re spectively), with low heterogeneity (I = 31.6%, p = 0.23 and I = 24.3%, p = 0.27, respectively). Limitations of this evidence synthesis included studies were rated as having unclear (some concerns) or high risk
+
+2
+
+2
+
+of bias, indirectness (the mean age across studies was ~44.5 years), imprecision (conﬁdence
+
+intervals crossed the null effect), and inconsistency (moderate to substantial heterogeneity was
+
+found in the pooled analyses for neurological success and disability outcomes).
+
+In aggregate, CDA demonstrated statistically signiﬁcant improvement across clinical outcomes
+
+apart from quality-of-life measures, which were similar to ACDF. The clinical signiﬁcance of the
+
+results was not described when assessing most pooled results for speciﬁc outcomes. Overall,
+
+the certainty of evidence was judged to be very low. All the included RCTs were rated as having
+
+unclear (some concerns) or a high risk of bias. The mean age among the studies ranged
+
+between 40-50 years and clinical relevance was not usually assessed (indirectness). More than
+
+50% of studies had small sample sizes and wide conﬁdence intervals suggesting variable
+
+effects (imprecision).
+
+Surgical Outcomes
+
+A single evidence synthesis provided data regarding surgical results.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+27/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+50
+
+Peng, et al. (2022) conducted a systematic review with meta-analysis of 30 RCTs.
+
+Participants (N=9,329) with single or multilevel cervical radiculopathy or myelopathy randomly
+
+underwent ACDF or CDA. The pooled data showed ACDF had a signiﬁcantly longer operative duration (OR, − 0.28; 95% CI, − 0.37 to − 0.2; p = 0.000). There were no signiﬁcant differences between CDA and ACDF for blood loss and LOS (OR, 0.63; 95% CI, − 2.83 to 4.1; p = 0.72; OR, − 0.01; 95% CI, − 0.08 to 0.05; p = 0.68, respectively). The limitations of this analysis included all primary studies were rated as having unclear (some concerns) or high risk of bias, indirectness
+
+(the mean age among the studies ranged between 40-50 years), and imprecision (all pooled
+
+analyses for each follow-up period had conﬁdence intervals that crossed the null value).
+
+Based on limited data, CDA demonstrated more than a 25% reduction in operative time
+
+compared to ACDF. There were no other perioperative outcomes that revealed signiﬁcant
+
+differences between CDA and ACDF. The certainty of the evidence was rated as very low. All
+
+included primary studies had unclear (some concerns) or a high risk of bias. There was
+
+uncertainty about the applicability of the results to the U.S. Medicare population (indirectness).
+
+All pooled analyses for each follow-up period had conﬁdence intervals that crossed the null
+
+value (imprecision).
+
+Radiographic Outcomes
+
+49,51,52
+
+Three evidence syntheses reported on radiographic results in comparing ACDF with CDA.
+
+Núñez, et al. (2022) systematically reviewed and meta-analyzed data from 9 RCTs (N=2,664)
+
+49
+
+who received either ACDF or CDA.
+
+The fusion rate was 94.06% in the ACDF group, with no
+
+data for CDA. The heterotopic ossiﬁcation rate for CDA = 10.3%, with no data for ACDF. The
+
+ROM rate in the CDA group was signiﬁcantly higher (SMD = 1.86, 95% CI: 1.63–2.08, p < 0.001)
+
+2
+
+with no heterogeneity (I = 0%, p = 0.52). Less superior adjacent segment disease (ASD) was
+
+reported in the CDA group (OR = 0.33, 95% CI: 0.17–0.65, p = 0.001) with substantial
+
+2
+
+heterogeneity (I = 81%, p < 0.001). Less inferior ASD was reported in the CDA group (OR =
+
+2
+
+0.31, 95% CI: 0.15–0.66, p = 0.002), with substantial heterogeneity (I = 75.1%, p = 0.05).
+
+Limitations of this review included a high or unclear risk of bias involving all RCTs, indirectness
+
+(the mean age across studies was ~44.5 years), and inconsistency (signiﬁcant heterogeneity
+
+was present in all pooled results except ROM).
+
+Xing, et al. (2013) measured radiological success as part of a systematic review with meta-
+
+51
+
+analysis.
+
+There was no signiﬁcant difference between the ACDF and CDA groups (OR = 0.87,
+
+95% CI = 0.36 to 2.09; p = 0.76). Limitations of this evidence synthesis included all primary
+
+studies were rated as having unclear (some concerns) or high risk of bias, indirectness (the
+
+mean age of included studies was 43 years), and imprecision (six of eight {75%} of studies had
+
+sample sizes smaller than 400 and all pooled analyses exhibited conﬁdence intervals that
+
+crossed the null value).
+
+Zhang, et al. (2020) pooled data from 13 RCTs (N=1,238) in assessing ROM between patients
+
+52
+
+who had ACDF or CDA.
+
+The CDA group had signiﬁcantly larger ROM than the ACDF group
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+28/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+2
+
+(MD = 1.76, 95% CI: 1.57– 1.94, p < 0.001) with low heterogeneity (I = 0%, p = 0.38).
+
+Limitations of this evidence synthesis included all studies having unclear (some concerns) or
+
+high risk of bias, indirectness (the mean age across studies was ~44.5 years), imprecision
+
+(conﬁdence intervals crossed the null effect), and inconsistency (moderate heterogeneity
+
+regarding ASD outcomes).
+
+Overall, apart from overall success, CDA demonstrated statistically greater radiological results
+
+when compared to ACDF. The certainty of the evidence was determined to be very low.
+
+Limitations included high or uncertain risk of bias across all included trials, indirectness,
+
+imprecision, and heterogeneity (ASD outcomes).
+
+Undesirable Effects
+
+Four evidence syntheses reported the pooled results of undesirable effects associated with
+
+cervical spine surgeries. All studies were conducted as systematic reviews with meta-analysis
+
+49-52
+
+of RCTs.
+
+49
+
+Núñez, et al. (2022) described outcomes for 2,664 participants obtained from 9 RCTs.
+
+For
+
+overall complication rate, no signiﬁcant differences were found between CDA (33.1%) and
+
+2
+
+ACDF (38.9%) (OR = 0.84, 95% CI: 0.56–1.27, p = 0.42), with moderate heterogeneity (I = 37%,
+
+p = 0.13). (p = 0.42). Reoperations occurred in 4.4% of CDA patients, a signiﬁcantly lower rate compared with 15.6% of the ACDF group (OR = 0.26, 95% CI: 0.19–0.37, p< 0.001), with no
+
+2
+
+heterogeneity (I = 0.0%, p = 0.97). The limitations of this review included a high or unclear risk
+
+of bias involving all RCTs, indirectness (the mean age across studies was ~44.5 years), and
+
+inconsistency (signiﬁcant heterogeneity was present in the pooled results).
+
+50
+
+Peng, et al. (2022) included 30 RCTs (N=9,329) in the review comparing ACDF with CDA.
+
+In
+
+assessing implant events, no signiﬁcant difference was found between the CDA and ACDF
+
+groups in short-term, mid-term, and long-term follow-up and total analysis (total, OR 1.14, 95%
+
+CI 0.92 to 1.42, p = 0.23). The incidence of ASD was higher in the ACDF group in long-term
+
+follow-up and total analysis (total, OR 0.71, 95% CI 0.55 to 0.94, p = 0.01). The incidence of
+
+dysphagia and dysphonia was higher in ACDF in short-term follow-up. There were no
+
+signiﬁcant differences in total, mid- and long-term follow-up between CDA and ACDF (total, OR
+
+0.9, 95% CI 0.73 to 1.09, p = 0.28). The reoperation rate was higher in ACDF in all follow-ups
+
+(total, OR 0.37, 95% CI 0.29 to 0.46, p = 0.000). This analysis had limitations including all
+
+primary studies were rated as having unclear (some concerns) or high risk of bias, indirectness
+
+(the mean age among the studies ranged between 40-50 years), and imprecision (all pooled
+
+analyses for each follow-up period had conﬁdence intervals that crossed the null value).
+
+Xing, et al (2013) compared the overall complication rates of ACDF and CDA for a mixed
+
+51
+
+(cervical radiculopathy or myelopathy) population.
+
+The meta-analysis found there was no
+
+signiﬁcant difference between the two surgical methods (RR = 0.77, 95% CI = 0.48 to 1.23; p =
+
+2
+
+0.27) with moderate heterogeneity (I = 39%). Limitations of this evidence synthesis included all
+
+primary studies were rated as having unclear (some concerns) or high risk of bias, indirectness
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+29/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+(the mean age of included studies was 43 years), and imprecision (six of eight {75%} of studies
+
+had sample sizes smaller than 400 and all pooled analyses exhibited conﬁdence intervals that
+
+crossed the null value).
+
+Zhang, et al. (2020) provided a comprehensive meta-analysis of undesired effects for 1,238
+
+52
+
+participants who underwent ACDF or CDA.
+
+The difference in complication rates was not
+
+signiﬁcant between the two groups (OR = 1.01, 95% CI: 0.77–1.32, p = 0.96), with low
+
+2
+
+heterogeneity (I = 8.4%, p = 0.37). For reoperations at the index level, the rate was signiﬁcantly
+
+lower in the CDA group than in the ACDF group (OR = 0.41, 95% CI: 0.25–0.69, p = 0.001), with
+
+2
+
+substantial heterogeneity (I = 61.0%, p = 0.004). For reoperation at an adjacent level, the rate
+
+was signiﬁcantly lower in the CDA group than in the ACDF group (OR = 0.34, 95% CI: 0.26–
+
+2
+
+0.46, p < 0.001), with low heterogeneity (I = 23.4%, p = 0.22). Limitations of this evidence
+
+synthesis included all studies having unclear (some concerns) or high risk of bias, indirectness
+
+(the mean age across studies was ~44.5 years), imprecision (conﬁdence intervals crossed the
+
+null effect), and inconsistency (substantial heterogeneity regarding the reoperation rate).
+
+In aggregate, ACDF and CDA demonstrate similar overall complication rates; however, CDA
+
+resulted in fewer reoperations and less ASD. ACDF and CDA result in equitable long-term
+
+dysphagia and dysphonia outcomes. The overall certainty of the evidence was determined to be
+
+very low due to the high or unclear risk of bias in the included RCTs, indirectness, imprecise
+
+results, and inconsistency (heterogeneity) affecting multiple outcomes.
+
+Societal Guidance
+
+3
+
+North American Spine Society (NASS) appropriateness criteria for cervical fusion surgery as a treatment for cervical myelopathy states “While there are some non-fusion procedures
+
+available to decompress the spinal canal such as laminoplasty and anterior cervical discectomy
+
+without fusion, the workhorses of surgical treatments for cervical spondylotic myelopathy (CSM)
+
+are ACDF, anterior corpectomy and fusion, and posterior laminectomy and fusion. It is well-
+
+accepted that non-operative care is acceptable in patients with mild myelopathy and that
+
+surgery should be considered in most. Anterior cervical decompression and fusion has become
+
+the most common surgical approach and technique for treating patients with CSM. With the
+
+availability of modern posterior cervical screw ﬁxation, posterior cervical laminectomy and
+
+fusion has become an additional workhorse for treatment of CSM, with equivalent results as
+
+anterior surgery.”
+
+Cervical myelopathy: (either from disc herniation, bony stenosis, or ossiﬁcation of posterior
+
+longitudinal ligament [OPLL]) may be considered as an adjunct to decompression when anterior
+
+cervical discectomy, corpectomy or posterior laminectomy is planned for decompression of the
+
+spinal cord.
+
+A multidisciplinary expert panel deﬁned appropriate use criteria (AUC) of cervical fusion for the treatment of degenerative conditions of the cervical spine [Reitman]. Appropriate use criteria
+
+were developed using the RAND/UCLA appropriateness methodology. All scenarios included a
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+30/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+surgical plan as either cervical fusion (nonspeciﬁc) or speciﬁed as anterior cervical fusion (ACF),
+
+posterior cervical fusion (PCF), or combined (APCF). Clinical scenarios involving myelopathy
+
+was most strongly associated with an “Appropriate” rating. A total of 92% of scenarios with
+
+myelopathy, and well controlled medical or mild psychosocial comorbidities, or smokers,
+
+received a ﬁnal rating of “Appropriate.” All (100%) scenarios with myelopathy and poorly
+
+controlled medical or mild psychosocial comorbidities, or smokers, received a ﬁnal rating of
+
+“Appropriate” for cervical fusion surgery.
+
+53
+
+AOSpine North America and the Cervical Spine Research Society published clinical practice guidelines that outline recommendations about how to best manage (1) patients with mild,
+
+moderate, and severe myelopathy and (2) nonmyelopathic patients with evidence of cord
+
+compression with or without clinical symptoms of radiculopathy.
+
+Recommendations based on 5 systematic reviews of the literature concerning the value of
+
+surgery and nonsurgical approaches for CSM were as follows: (1) “We recommend surgical
+
+intervention for patients with moderate and severe DCM.” (2) “We suggest offering surgical
+
+intervention or a supervised trial of structured rehabilitation for patients with mild DCM. If initial
+
+nonoperative management is pursued, we recommend operative intervention if there is
+
+neurological dete rioration and suggest operative intervention if the patient fails to improve.” (3)
+
+“We suggest not offering prophylactic surgery for nonmyelopathic patients with evidence of
+
+cervical cord compression without signs or symptoms of radiculopathy. We suggest that these
+
+patients be counseled as to potential risks of progression, educated about relevant signs and
+
+symptoms of myelopathy, and be followed clinically.” (4) “Non-myelopathic patients with cord
+
+compression and clinical evidence of radiculopathy with or without electrophysiological
+
+conﬁrmation are at a higher risk of developing myelopathy and should be counseled about this
+
+risk. We suggest offering either surgical intervention or nonoperative treatment consisting of
+
+close serial follow-up or a supervised trial of structured rehabilitation. In the event of
+
+myelopathic development, the patient should be managed according to the recommendations
+
+above.”
+
+The World Federation of Neurosurgical Societies (WFNS) The Spine Committee of the World Federation of Neurosurgical Societies (WFNS) formulated an evidence-based consensus meeting on the management of CSM to develop recommendations for global applicability.
+
+54
+
+With some adaptations, the WFNS Spine Committee endorsed the guidelines of AOSpine North
+
+53
+
+America and the Cervical Spine Research Society.
+
+Additional recommendations include: using
+
+mJOA or its regional modiﬁcations to classify CSM as severe, moderate or mild and suggest
+
+offering surgical intervention or rehabilitation for patients with mild CSM (modiﬁed Japanese
+
+Orthopedic Association scale [mJOA] score 15–17. They state there is a consistent lack of
+
+evidence regarding the value of nonoperative treatment of cervical myelopathy in the literature
+
+hence nonoperative treatment may not be the ﬁnal decision in most cases. They also share that
+
+predicting factors that indicate a possible deterioration during nonoperative, important
+
+predictors of myelopathy development include the presence of symptomatic radiculopathy,
+
+prolonged motor evoked potentials and somatosensory evoked po tentials and
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+31/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+electromyography signs of anterior horn cell lesions (low evidence), patients are likely to achieve
+
+a better result after surgery if they have a shorter duration of symptoms (low evidence) and a
+
+call for additional RCTs.
+
+World Federation of Neurosurgical Societies (WFNS) Spine Committee recommendations include:
+
+In patients with CSM, the indications for surgery include persistent or recurrent
+
+radiculopathy nonresponsive to conservative treatment (3 years); progressive neurological
+
+deﬁcit; static neurological deﬁcit with severe radicular pain when associated with
+
+conﬁrmatory imaging (computed tomography, magnetic resonance imaging) and clinical-
+
+radiological correlation.
+
+The indications of anterior surgery for patients with CSM include straightened spine or
+
+kyphotic spine with a compression level below.
+
+They clarify in the elderly age groups with bony ankylosis due to osteophytes at C5–6–7, CSM
+
+may manifest at higher levels where motion segments are preserved, especially the C3–4 level
+
+and also at lower levels such as the C7–T1 level. These guidelines provide directives for future
+
+research with suggested outcome measures, variabilities to consider as well as patient and
+
+surgery selection guidance.
+
+55
+
+The Italian Neurosurgical Society (SINch)
+
+analyzed and pro posed their own recommendations
+
+for the management of CSM in accordance with the recommendations published by the spine
+
+committee of the WFNS. The majority of WFNS recommendations were adopted with a few
+
+modiﬁcations.
+
+The Japanese Orthopaedic Association (JOA) published 2023 clinical practice guidelines on the The recommendations relevant to this management of cervical spondylotic myelopathy(CSM).
+
+56
+
+evidence analysis are reported here:
+
+For mild cases of CSM, conservative treatment is primarily selected; however, at present
+
+there is insufﬁcient evidence regarding treatment outcomes. Surgery is considered suitable
+
+for progressive myelopathy in which conservative treatment is unsuccessful.
+
+It is possible that conservative treatment can delay the progression of mild-to-moderate
+
+CSM, and therefore, performing conservative treatment is weakly recommended. For severe
+
+and progressive CSM, surgery is likely the ﬁrst choice of treatment. However, there are few
+
+reports regarding the choice of treatment for mild and moderate CSM, and thus, it is difﬁcult
+
+to draw a conclusion.
+
+There is no clear recommendation regarding which surgeries to perform
+
+Additional Systematic Review/Meta-Analysis
+
+57
+
+Youssef
+
+et al. conducted a systematic review and meta-analysis to evaluate the patient-
+
+reported and clinical outcomes of adult patients who underwent subaxial posterior cervical
+
+fusion with decompression for spondylosis, spinal stenosis and degenerative disc disease
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+32/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+resulting in radiculopathy or myelopathy. PubMed and Embase were searched for applicable
+
+literature resulting in a total of 33 and 31 articles which included in the systematic review and
+
+the meta-analysis, respectively. Changes in values of preoperative to postoperative patient-
+
+reported outcomes (visual analog scales for arm pain and neck pain, Neck Disability Index (NDI),
+
+JOA score, modiﬁed JOA score, and Nurick pain scale) were evaluated. Patient reported
+
+outcomes, successful fusion, revision surgeries, and complications/adverse events were
+
+considered. A subgroup analysis was performed in two instances; one for studies that included
+
+surgical indications for only myelopathy or radiculopathy (or combination) and another for
+
+studies that included surgical indications for only myelopathy or ossiﬁcations of the posterior
+
+longitudinal ligament (or combination). Cumulative changes in PROMs improved for all surgical
+
+indications including the two subgroup analyses. All surgical indications resulted in pooled
+
+outcomes rates of 98.25% for successful fusion, 1.09% for revision, and 9.02% for
+
+complications/adverse events. Axial pain, C5 palsy, transient neurological worsening, and
+
+wound infection were the most common complications. Limitations include high risk of bias,
+
+reporting bias, confounding, high heterogeneity, included 20/31 retrospective studies, and
+
+combining of different PROMs. Authors report many conﬂicts of interest but none that seem to
+
+impact this study; however, the study was funded by Providence Medical Technology, Inc.
+
+Unstable Spine
+
+Systematic Review/Meta-Analysis Mahmoud and colleagues conducted a systematic review 58 comprised of 627 patients and 36 articles to review the surgical indications, complications, and
+
+functional outcomes of different approaches for hangman fractures. Selected literature
+
+contained at least one of the primary outcomes: functional outcomes, complication rates,
+
+operation time, and blood loss. Minimally invasive surgery, C2 direct pedicle screw, C2- C3
+
+fusion, and ACDF techniques were reviewed. VAS scores fell in all four groups when comparing
+
+pre- and postoperative scores, with the lowest VAS scores observed in the minimally invasive
+
+surgery group. In unstable fracture patterns, the literature showed that ACDF was preferred.
+
+Complications remained low in all groups with the greatest blood loss occurring in the posterior
+
+approach (255.9 mL in open posterior approach, 75.8 mL in MIS, and 64.3 mL in ACDF). Authors
+
+concluded if indicated, posterior approach may be preferred due to lower blood loss and disc
+
+access. When considering posterior approach, MIS may improve outcomes and have fewer
+
+complications. Limitations of the present study are inclusion of studies with retrospective study
+
+design, variations in reporting methods making data points challenging to categorize and lack
+
+comparative outcome studies.
+
+59
+
+Lee and associates performed a meta-analysis comparing biomechanical and clinical
+
+outcomes between anterior-only and combined anterior and posterior fusions to determine
+
+which method of cervical fusion yielded better results for unstable cervical injuries. Ultimately,
+
+the analysis included 12 studies (eight biomechanical and four clinical studies) which included
+
+published dates between 2000-2019. Authors concluded cervical stability can be successfully
+
+restored following subaxial cervical injuries by anterior-only and combined anterior and
+
+posterior methods. No signiﬁcant differences in clinical outcomes were observed while some
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+33/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+advantages were associated with combined fusion in terms of biomechanical stability. Selective
+
+use of methods should be determined based on type of injury. Authors also note need for control
+
+of technical factors of surgery that may have impacted results of cervical fusion. Limitations
+
+include a small sample size, in vitro studies, low number of studies included for analysis, and
+
+risk of bias.
+
+Prospective
+
+60
+
+Yang et al. performed a prospective study to propose a novel classiﬁcation and scoring
+
+system called the posterior ligament-bone injury classiﬁcation and severity score (PLICS) that
+
+offers a quantitative score to guide the need for posterior stabilization in addition to anterior
+
+reconstruction for subaxial cervical fracture dislocations (SCFDs). The study included 456 SCFD patients. High risk patients were deﬁned as having PLICS ≥ 7 together with extremely unstable lateral mass fracture (EULMF). All others were deﬁned as low-risk patients. Anterior only
+
+reconstruction was performed in the low-risk patients and additional posterior lateral mass
+
+ﬁxation and fusion was performed after anterior reconstruction in the high-risk patients. The
+
+visual analogue score (VAS), the NDI, the American Spinal Injury Association (ASIA) impairment
+
+scale were utilized for outcomes. At 12 month follow up, 321 patients in the low-risk group and
+
+49 patients in the high-risk group were still participating. VAS scores from preoperative to 12
+
+months signiﬁcantly improved (from 6.1 + 0.3 to 1.1 + 0.2 in the low-risk group, P < 0.001; from
+
+6.4 + 0.2 to 1.4 + 0.2 in the high-risk group, P < 0.001). In the low-risk group at 12 month follow
+
+up the average NDI score was statistically low 8.8 + 2.5 vs 13.8 + 3.4, P = 0.034). With regards
+
+to the ASIA scale, 80.5% of patients experienced >1 grade improvement. Authors concluded for
+
+SCFD patients, EULMF and a PLICS score of 7 or greater may serve as a threshold for posterior
+
+stabilization in addition to anterior reconstruction. Limitations include the study design, patient
+
+selection methods, and exclusion of ankylosing spondylitis (AS) patients.
+
+61
+
+Madan et al. conducted a prospective cohort study to assess the functional, neurological, and
+
+radiological outcomes of the patients with traumatic cervical spine instability. A total of 99
+
+patients with subaxial cervical spine injuries were admitted and operated on at a single center
+
+between February 2014 and February 2016 and included prospectively. In all patients, bony
+
+fusion, neurological recovery, NDI and complications were assessed during the mean follow up
+
+period of 27 months (range 12–42 months). Corpectomy procedures that involved 1 level were
+
+77.8% (n=77), 2 levels were 19.2% (n=19) and 3 levels were 3% (n=3). Neck Disability Index
+
+resulted in a mean of 7.57 ± 5.42. Grade 1 fusion was reported in 64.6% of cases. The most
+
+frequent adverse event was dysphagia 79.8% (n=79). Authors concluded an appropriate
+
+treatment option for subaxial cervical spine injuries is anterior cervical corpectomy and
+
+stabilization with cage ﬁlled with bone and cervical reﬂex locking plate. Authors further state
+
+this procedure is associated with favorable fusion rates and is likely a procedure of choice for
+
+posttraumatic multiple disc prolapse. Limitations of this study include study design, single center inclusion, risk of bias and sample size.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+34/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+A prospective cohort study sponsored by the International Spine Study Group (ISSG) followed
+
+77 patients surgically treated for adult cervical deformities for 1-year.62 Diagnoses included
+
+cervical sagittal imbalance (56%), cervical kyphosis (55%), proximal junctional kyphosis (7%)
+
+and coronal deformity (9%). Posterior fusion was performed in 85% (mean levels = 10), and
+
+anterior fusion was performed in 53% (mean levels = 5). At 1 year after surgery the cohort
+
+reported statistically signiﬁcant improvement in neck pain, ability to perform usual activities and
+
+reduced pain and discomfort measured by standardized scales. Limitations include lack of
+
+control group, short term follow-up, performance at high volume centers with experienced
+
+surgeons that can reduce generalizability, and lack of standardized selection for surgery.
+
+Retrospective
+
+63
+
+Zheng and associates conducted a single center, retrospective, observational study comprised
+
+of 79 patients to investigate the role of ACDF in alleviating symptoms in patients with cervical
+
+vertigo associated with cervical instability. A signiﬁcant relief of vertigo and dizziness was
+
+reported following anterior cervical surgery during the 2 year follow up period.
+
+64
+
+Yang and associates performed a retrospective chart review to investigate the efﬁcacy and
+
+safety of halo vest application before and during surgery in 25 patients with AS and severe
+
+thoracic kyphosis who underwent surgical treatment of cervical fracture-dislocation. Posterior
+
+or combined anterior-posterior surgery was performed on all patients. Authors conclude that
+
+use of the halo vest before and during the surgery is safe and effective while assisting with
+
+positioning, awake nasoendotracheal intubation, nursing, and the procedure by providing
+
+satisfactory reduction and immobilization.
+
+65
+
+Wang et al. performed a retrospective chart review comprised of 36 patients to investigate
+
+the safety and efﬁcacy of the halo-vest in the treatment of cervical fracture in patients with
+
+ankylosing spondylitis (AS) and kyphosis. Authors concluded The AS patient should undergo
+
+early surgical stabilization utilizing a halo-vest to aid in spinal deformity correction and to avoid
+
+neurological decline.
+
+66
+
+Skeppholm and associates conducted a cohort study of 28 patients with artiﬁcial disc
+
+replacement (ADR) or anterior cervical decompression which were recruited from a larger RCT
+
+cohort to evaluate in vivo motion and stability of implanted artiﬁcial discs. Authors concluded
+
+most of the ADRs resulted in favorable mobility and proper attachment years after implantation
+
+with instability detected in only 8% of patients.
+
+67
+
+Rustagi
+
+and colleagues conducted a retrospective chart review of 29 patients to present a
+
+series of posterior-only operated occiput-cervical ﬁxation (OCF) cases following metastasis to
+
+the upper cervical spine (UCS) and craniocervical junction (CCJ). Authors concluded posterior
+
+OCF without tumor resection and anterior reconstruction can effectively manage symptomatic
+
+metastasis while offering pain relief and improved quality of life.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+35/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+68
+
+Luksanapruksa and associates conducted a retrospective cohort study of 33 patients to
+
+evaluate surgical outcomes and complications of cervical spine fractures in ankylosing
+
+spondylitis (CAS) patients who were treated using either the posterior (P) or combined
+
+approach after experiencing neck pain after a fall. Authors conclude, although not statistically
+
+signiﬁcant, posterior surgery was associated with lower blood loss, rate of complications, and
+
+shorter length of stay as compared to the combined approach. Limitations include study design,
+
+small sample size, and moderate lost to follow up rate.
+
+69
+
+Li
+
+et al. conducted a retrospective study comprised of 38 consecutive patients to describe the
+
+authors’ method of anterior discectomy/corpectomy and fusion combined with internal ﬁxation
+
+for the treatment of unstable hangman’s fractures and to evaluate the clinical and radiological
+
+outcomes. Authors conclude study results indicate to address unstable hangman’s fractures, an
+
+anterior discectomy/corpectomy and fusion combined with internal ﬁxation is a favorable
+
+approach.
+
+70
+
+Lee and associates conducted a retrospective review of radiologic images of patients (n=34)
+
+who underwent C1-2 fusion. Patients were divided into one of two groups (the C-arm group or
+
+O-arm group). Authors concluded in cases of unstable C1-2 pathologies posterior ﬁxation can
+
+reduce the operative time by utilizing intraoperative cone-beam CT scans for spinal navigation.
+
+71
+
+Lang and colleagues conducted a cohort study comprised of 33 patients to assess the
+
+radiological and mid-term patient-reported outcome of traumatic subaxial cervical fractures
+
+treated with different plate systems. Authors concluded regarding a fragile fracture, that
+
+dynamic plate provided adequate stability with no signiﬁcant loss of reduction when compared
+
+to the rigid plates. Patient-reported outcome were satisfactory in both groups.
+
+72
+
+Kong and associates retrospectively analyzed clinical data of 46 patients who underwent C2-
+
+3 ACDF combined with internal ﬁxation for unstable hangman’s fractures to investigate the
+
+changes in the sagittal parameters of the cervical spine and the clinical efﬁcacy of C2-3 ACDF
+
+combined with internal ﬁxation. Authors conclude that anterior reconstruction of the anterior
+
+and middle columns with plate internal ﬁxation can successfully achieve stability, correct
+
+displacement and angulation of C2, and restore sagittal balance while maintaining a high rate
+
+of fusion with few complications.
+
+73
+
+Kim and colleagues conducted a retrospective analysis of 65 patients who were treated for a
+
+C1 fracture at single site between 1999 and 2016. Authors concluded type 3 fractures are most
+
+likely to be unstable while type 2 fracture and MVC are associated with higher rates of fusion
+
+failure. Most fractures were managed conservatively.
+
+74
+
+Bakhsheshian systematic case review comprised of eight case series and 64 patients was
+
+performed to evaluate studies that utilized C2 lag screw placement in patients with traumatic
+
+spondylolisthesis of the axis (TSA). Authors concluded while freehand placement of C2 pedicle
+
+lag screws may be a reasonable option in some cases, C2 lag screw ﬁxation resulted in positive
+
+fusion in most TSA patients. However, this study does not demonstrate superiority over
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+36/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+conservative treatment or other surgical methodologies and evidence is limited to level IV
+
+studies.
+
+75
+
+Jin et al. conducted a retrospective clinical study to assess clinical outcomes and sagittal
+
+balance after unstable hangman fracture in 45 patients. Authors concluded that both anterior
+
+and posterior approaches are effective in treating unstable hangman fractures. They further
+
+state recovery of cervical sagittal balance was achieved by utilizing the posterior approach as
+
+compared to the anterior approach.
+
+76
+
+Garrido and colleagues conducted a retrospective data review of 71 cases to assess the
+
+clinical outcomes of both rigid and nonrigid occipitocervical (OC) fusion constructs of a
+
+multicenter cervical spine study group. Authors conclude a statistically signiﬁcant decrease in
+
+complication rates are associated with rigid occipitocervical construct as compared to
+
+nonrigidly ﬁxed.
+
+77
+
+Dagtekin et al. conducted a single center retrospective study comprised of 88 patients were
+
+included to evaluate OCJ injuries and to discuss the treatment modalities of these traumas and
+
+examine cadaveric studies for a better understanding. Authors concluded while it is essential to
+
+consider fracture pathophysiology and fracture type, they believe the most appropriate modality
+
+for atlantoaxial stabilization is C1-C2 segmental stabilization.
+
+78
+
+Clark et al. conducted a retrospective chart review comprised of 43 consecutive patients to
+
+evaluate 30-day and 1-year mortality rates and review complications associated with posterior
+
+C1–2 fusion in an octogenarian cohort. Authors conclude in the octogenarian population a
+
+greater mortality rate is associated with Initial fracture displacement. Lower mortality rates
+
+resulted with posterior C1-2 fusions with unstable type II odontoid fractures as compared to
+
+nonoperative management mortality rates.
+
+79
+
+Candura et al. performed a retrospective case series on 64 consecutive patients with Type II
+
+odontoid fractures. who presented to the Vertebral Surgery Unit. Authors conclude odontoid
+
+Type II fractures can be successfully treated with conservative treatment modalities in elderly
+
+patients.
+
+80
+
+Aldrian et al. conducted a retrospective chart review on 46 patients to evaluate outcomes
+
+following surgical or nonoperative treatment of Hadley type IIA odontoid fractures. Authors
+
+conclude following nonoperative management, Hadley type IIA odontoid fractures are
+
+associated with increased risk for secondary loss of reduction and bony nonunion.
+
+Surgical Approach
+
+Multiple studies have compared surgical approaches and have not demonstrated superiority of
+
+one approach over another. A RCT compared ventral to dorsal surgical approach for CSM and
+
+81
+
+found among 163 subjects the approaches shared similar outcomes at one year.
+
+Other
+
+studies report similar results with some advantages and disadvantages found for each
+
+approach. A meta-analysis reports on 4,348 subjects and concludes that laminectomy and
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+37/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+82
+
+fusion techniques offer comparable clinical outcomes.
+
+A 2023 systematic review and meta-
+
+analysis also found no signiﬁcant difference in functional outcomes from ACDF vs. posterior
+
+83
+
+discectomy (PD) with moderate evidence per GRADE analysis.
+
+The subject matter experts
+
+summarize that an individualized approach should be tailored to the individual patient’s
+
+pathology to determine the optimal surgical route.
+
+A 2023 systematic review on cervical degenerative disease treatment by the Agency for
+
+84
+
+Healthcare Research and Quality included 57 RCTs, 56 nonrandomized studies and one
+
+systematic review that enrolled patients with radiculopathy and/or myelopathy at one or more
+
+levels and analyzed various surgical approaches used. They report there were few comparative
+
+studies of non-operative treatments, and most studies were rated moderate risk of bias with
+
+most evidence rated lower insufﬁcient strength to draw conclusions on comparative beneﬁts
+
+and harms. They included ACDF, anterior versus posterior approach, standalone cage versus
+
+plate and cage in ACDF, and laminoplasty versus laminotomy with fusion. They conclude there
+
+were few differences in beneﬁts between surgical approaches and techniques for the treatment of cervical degenerative disease however there was some differences in the frequency of
+
+adverse events for some comparison.
+
+The Washington State Dept. of Labor & Industries’ Industrial Insurance Medical Advisory Committee (IIMAC) published a “Guideline for Diagnosis and Treatment of Cervical Radiculopathy and Myelopathy” Labor & Industries and states: “The ideal surgical approach for radiculopathy related to herniated disc remains a matter of debate. Various studies have compared the different surgery types and found no signiﬁcant difference among them. Cervical surgeries can be divided into 2 major approaches: anterior (with or without fusion) and posterior. Except for hybrid surgeries, the choice of surgical procedure is left to the discretion of the surgeon. Hybrid surgeries combine artiﬁcial disc replacements and anterior cervical discectomy with fusion at select vertebral bodies (adjacent or non-adjacent) in a single procedure. They state there is insufﬁcient evidence in medical literature to permit conclusions on its safety and efﬁcacy.”
+
+85
+
+North American Spine Society (NASS) Evidence-Based Clinical Guidelines on the Diagnosis and
+
+Treatment for Cervical Radiculopathy from Degenerative Disorders agrees that there is a lack of
+
+evidence that one surgical approach is superior. They reviewed multiple surgical approaches
+
+8
+
+and found outcomes comparable with a Grade B Recommendation.
+
+Axial Neck Pain
+
+Background
+
+Axial neck pain is a prevalent condition that causes signiﬁcant morbidity and productivity
+
+86
+
+loss.
+
+Nonspeciﬁc (primary) axial neck pain is distinguished from neck pain associated with
+
+speciﬁc causes (e.g., radiculopathy, myelopathy, stenosis, fracture). The pain distribution is
+
+localized to the neck and immediate surrounding structures and does not involve dysfunction of
+
+the arms, hands, ﬁngers, or other body regions. It is characterized primarily by dull, achy pain in
+
+87
+
+the nuchal region (posterior) neck.
+
+The pain can sometimes travel to the base of the skull,
+
+shoulder, or scapulae. Other symptoms may include neck stiffness, headaches, and localized
+
+areas of muscle pain or paresthesia. Most axial neck pain is diagnosed based on ruling out
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+38/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+speciﬁc causes of neck pain. There is a wide range of pharmacologic and non-pharmacologic
+
+treatment options for axial neck pain. The appropriateness of surgery for axial neck pain is
+
+88
+
+uncertain.
+
+The purpose of this analysis is to summarize the evidence on the impact of fusion
+
+surgery procedures for the management of primary axial neck pain.
+
+Literature Analysis
+
+In a systematic review with meta-analysis, van Middelkoop, et al. (2012) identiﬁed 10 RCTs that
+
+compared additional fusion upon anterior decompression surgical techniques. The reviewers
+
+found there was no additional beneﬁt of fusion techniques applied within an anterior
+
+discectomy procedure in patients with neck pain without radiculopathy on pain, recovery, and
+
+return to work. For recovery, the pooled risk difference in the short-term follow-up was -0.06
+
+(95% CI -0.22 to 0.10) and -0.07 (95% CI -0.14 to 0.00) in the long-term follow-up. The pooled
+
+89
+
+risk differences for pain and return to work all demonstrated no differences.
+
+Riew, et al. (2010) conducted a systematic review that examined the clinical outcome in patients
+
+90
+
+undergoing ACDF for axial neck pain without radicular or myelopathic symptoms.
+
+No
+
+comparative studies were identiﬁed; however, three case series were evaluated. All studies
+
+showed a mean improvement of pain of at least 50% approximately 4 years following surgery.
+
+Functional outcomes improved between 32% and 52% from baseline. Most patients reported
+
+satisfaction with surgery, 56% in one study and 79% in another. Complications varied among
+
+studies ranging from 1% to 10% and included pseudoarthrosis (9%), nonunion and revision
+
+(3%), and screw removal (1%). The authors concluded, “There is low evidence suggesting that
+
+patients with axial neck pain without radicular or myelopathic symptoms may receive some
+
+improvement in pain and function following ACDF. However, whether this beneﬁt is greater
+
+than nontreatment or other treatments cannot be determined with the present literature.” The
+
+authors reported several limitations in their review. These included low-quality primary study
+
+designs (noncomparative case series), indirectness (the mean age of patients ranged from 42-
+
+56 years) imprecise data (small sample sizes, and the proportion of patients who achieved a
+
+clinically meaningful improvement in pain and function >30% was not reported), and
+
+inconsistency regarding the selection of fusion levels and integrity of discs adjacent to the
+
+operated levels, and the role of provocative testing)
+
+As part of a Neck Pain Task Force, Carragee, et al. (2008) conducted a best-evidence synthesis
+
+of literature from 1980 through 2006 on surgical interventions for neck pain alone in the
+
+absence of serious pathologic disease. The reviewers found that cervical fusion for neck pain
+
+91
+
+without radiculopathy was not supported by current evidence.
+
+The literature search identiﬁed
+
+4 frequently cited studies, which were deemed to be scientiﬁcally inadmissible, pertaining to
+
+cervical Fusion for non-radicular neck pain with only common degenerative changes.
+
+Palit, et al. (1999) retrospectively reported on the outcomes of 38 patients out of a possible
+
+175 subjects (22%) who underwent ACDF for neck pain and degenerative disc disease
+
+92
+
+(DDD).
+
+No concurrent, historical, or retrospective controls were identiﬁed. Fusion levels
+
+were determined by a painful and concordant response to disc injections. An unknown
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+39/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+number of patients were excluded by the authors or declined surgery. Some potential
+
+patients (again, the number is unknown) were excluded because of psychological risk
+
+factors. The number of subjects lost to follow-up or who refused follow-up was not
+
+reported. There was no apparent standard assessment interval, and the intervals between
+
+the surgery and the reported assessment varied widely, from 2 to 7 years. Other
+
+interventions that the subjects might have received during this period— which could have
+
+affected outcomes—are not reported. Of the reported cases, the mean numerical pain
+
+rating after surgery remained greater than 4 (of 10), and the Oswestry Disability Index
+
+score showed moderate-to-serious impairment in most of the select group of patients
+
+followed. No neck-speciﬁc functional outcomes were assessed. Only 18 patients out of an
+
+unknown number (between 38 and 175) who were operated on by the authors for neck
+
+pain and degenerative disc disease said that the surgery had ‘met their expectations’.
+
+Garvey, et al. (2002) reported on 87 of 112 (78%) retrospectively identiﬁed patients who
+
+underwent ACDF for a diagnosis of ‘mechanical cervical spine pain’ (deﬁned by the authors
+
+93
+
+as patients who had more neck pain than arm pain).
+
+Patients were evaluated 5 to 10
+
+years after surgery. The number of patients evaluated or considered for surgery is
+
+unknown. The selection process and screening were not detailed. Other treatments
+
+received were not reported. The group was heterogeneous for diagnosis: an unknown
+
+proportion of patients had some radiculopathy, radiographic instability, or cervical
+
+deformity. The validity of the outcomes reported is uncertain. For example, it is not clear if
+
+pain and functional impairment measurements were recorded both before and after
+
+surgery; if validated functional assessments for neck pain were used; and whether subjects considered the occurrence of surgery to have been advantageous to their litigation claim
+
+(78%). Only 58 of these 112 patients (52%) reported feeling ‘somewhat better’ or ‘much
+
+better’ than they did before their surgery; only 25 patients (23%) reported feeling at least
+
+‘somewhat satisﬁed’ with their neck condition on follow-up. The authors cited historical
+
+controls treated by nonoperative care of neck pain alone, 21% of whom reported complete
+
+pain relief and 49% who reported partial relief. These cited ‘control’ outcomes were similar
+
+to the authors’ reported surgical outcomes.
+
+Two additional studies are frequently cited to support surgical treatment of neck
+
+94,95
+
+pain.
+
+Both are retrospective case series with poorly reported recruitment procedures
+
+and follow few acceptable study design methods for outcome evaluation. For example, in
+
+these studies surgical outcomes are based solely on surgeons’ perceptions of patient
+
+improvement as opposed to validated outcome instruments. Simmons, et al. report that the
+
+operating surgeon determined that 30 of 31 (97%) patients undergoing ACDF for neck pain
+
+were “all found to have immediate lessening” of symptoms after surgery; they further state
+
+95
+
+that in every case “all pain was gone in a week after surgery”
+
+This observation is unlike
+
+any recorded by validated outcomes measures or collected by independent examiners.
+
+96
+
+Carragee, et al.
+
+go on to state, “It is well documented that neck pain without serious
+
+underlying disease shows wide and spontaneous variations in severity and any accompanying
+
+impairment. Thus, none of these frequently cited, uncontrolled studies can conﬁdently estimate
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+40/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+how much, if any, of the reported improvement was due to a surgical intervention, how much
+
+was due to natural history, and how much might be explained by various nonspeciﬁc and
+
+unidentiﬁed factors. Although these studies are frequently cited as demonstrating clear efﬁcacy
+
+of cervical fusion for primary neck pain, none of these were found to be scientiﬁcally admissible
+
+by the Neck Pain Task Force. Instead, after critical review of the methods and data we found no
+
+clinical evidence, even in the best-known studies purporting deﬁnitive efﬁcacy, to support the
+
+use of either cervical fusion or cervical disc arthroplasty in patients with neck pain without
+
+radiculopathy or serious underlying pathology.”
+
+In addition to the methodological shortcomings of these studies described by Carragee, et al.
+
+(2008), there were further limitations. There was indirectness regarding the Medicare population
+
+(mean ages ranged from 42 to 45 years) and the target condition, nonspeciﬁc axial neck pain,
+
+(the study authored by Simmons, et al. included mostly [64%] of participants with speciﬁc
+
+causes of neck pain i.e., fracture, radiculopathy, myelopathy). All the studies had small sample
+
+sizes (n= 34-84) producing imprecise results.
+
+In addition to these earlier primary studies, a single more recent RCT compared anterior fusion
+
+surgery with multidisciplinary rehabilitation for the treatment of individuals who were refractory
+
+97
+
+to conservative treatment for chronic whiplash-associated disorders (WAD).
+
+This study
+
+included 49 patients (mean ages were 38 and 40 years for the surgery and rehabilitation
+
+groups, respectively) with predominate midline neck pain, who had no neurological
+
+abnormalities and no speciﬁc changes seen on X-ray and MRI. The primary endpoint was the
+
+patient’s perceived change in neck pain assessed on the follow-up, using the disease-speciﬁc
+
+Balanced Inventory for Spinal Disorders (BIS) questionnaire. Follow-up evaluations were
+
+performed at variable time points ranging from 17 to 50 months. Analyses were performed by
+
+intention-to-treat and per-protocol. At follow-up, 67% of the patients in the surgery group and
+
+23% (95% CI 15 to 64) in the rehabilitation group assessed improvements in the ITT analysis.
+
+Corresponding proportions in the per-protocol analysis were 83% and 12%, respectively. This
+
+study was judged to have a high risk of bias due to the lack of blinding or incomplete blinding,
+
+and the outcome measurement (self-reported change in pain perception) was likely to be
+
+inﬂuenced by the lack of blinding. Additionally, there was very serious indirectness (all
+
+participants had neck pain caused by a motor vehicle accident and the mean ages were well
+
+below the Medicare population), and imprecision (small sample size and wide conﬁdence
+
+intervals suggesting variable effects).
+
+Taking into consideration all the relevant studies, the certainty of evidence was judged to be
+
+very low due to study design and execution limitations, indirectness, and imprecision.
+
+Appropriate Use Criteria/Coverage Recommendations
+
+The North American Spine Society (NASS) assessed the appropriateness of cervical fusion for
+
+axial neck pain without stenosis and concluded that the surgical procedure was never
+
+98
+
+considered appropriate.
+
+The authors additionally commented, “There was a trend to be rarely
+
+appropriate for 2 or greater level fusions, whereas there was more uncertainty for 1 level
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+41/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+fusions. Although uncertain, anterior procedures were overall favored over posterior or anterior
+
+and posterior procedures.”
+
+3
+
+In the 2023 NASS Coverage Recommendations ), the committee states “Concerning the scenarios in which cervical fusion is not indicated, recent evidence-based medicine reviews
+
+have concluded that there is little to no evidence that fusion is an effective treatment for axial
+
+3
+
+neck pain without neurological symptoms.”
+
+Evidence-based, clinical practice decision-support guidance explicitly does not recommend
+
+surgical intervention for the management of non-radicular neck pain in adults due to a lack of
+
+99
+
+high-quality data demonstrating beneﬁt and the possible risk of harm.
+
+Analysis of Evidence (Rationale for Determination)
+
+Cervical fusion alone or in combination with other spine surgical procedures is often performed
+
+for the management of multiple spinal conditions. There are three overall categories: cervical
+
+radiculopathy, cervical myelopathy, and unstable spine. There are multiple etiologies which can
+
+be revealed on imaging including herniated disc, spinal stenosis, spinal degeneration, synovial
+
+cyst and symptomatic pseudoarthrosis from non-union of prior fusion. In all cases the history,
+
+physical exam ﬁndings and imaging must correlate with the neurological deﬁcits attributable to
+
+the affected region of the cervical spinal cord and other causes must be excluded.
+
+The natural disease course of cervical radiculopathy is improvement with time and conservative measures so surgical management is reserved for refractory cases or when motor weakness creates signiﬁcant functional limitations necessitating escalation of treatment. While the evidence supporting conservative therapy is low quality there are multiple RCTs and systematic review/meta-analysis as well as societal input and subject matter expert agree on a trial of conservative measures prior to surgical interventions. There is a paucity of data on how long the conservative period should be with reports ranging from 6 weeks to 3 or more months. As the data on disease course ﬁnds most improvement within the ﬁrst 3 months a 12-week trial of conservative management is established, however the policy does acknowledge the need for some patients with progression during this time to shift to surgical management.
+
+Cervical myelopathy (degenerative and mixed) is typically treated surgically due to the higher rate of neurological symptoms and risk of progression. In mild cases resolution with conservative therapy is possible and a trial of conservative treatment is indicated with education on progressive symptoms and intervention if worsening. Guidelines consist of a 6–12- week trial and 12 weeks was selected to allow time for the natural history of resolution or progression to determine if surgical intervention is necessary. In cases where there are progressive symptoms with neurological deﬁcits surgical intervention prior to the 12-week time period can be considered.
+
+In cases of unstable spine surgical intervention is necessary and there are few alternative options to consider. Malignant or benign spinal tumors leading to intractable pain or instability or anticipated instability due to treatment may necessitate stabilization with fusion. In some cases, spinal infection with destruction of bone and cervical kyphosis with cord compression may require surgical intervention to stabilize the spine.
+
+There is not sufﬁcient evidence to support surgical intervention for axial neck pain. Systematic review evaluating outcome for ACDF for axial neck pain with and without radiculopathy or
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+42/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+myelopathy reported low quality evidence and the beneﬁt of the surgery over time could not be established as compared to nonsurgical treatment options. The remaining evidence reviewed concludes very low quality and therefore this is not considered reasonable and necessary. This is consistent with societal guidelines.
+
+Investigation into the optimal surgical procedure has explored outcomes with various approaches. While there are clear beneﬁts and disadvantages of the various approaches the overall outcome is largely equivalent. As there is no evidence to support one surgical approach over another the decision for the optimal surgical approach is determined by the surgeon and patients with consideration of the pathology and evaluation of risk and beneﬁts of the various approaches. This is consistent with societal guidance and expert opinion.
+
+General Information
+
+Associated Information
+
+N/A
+
+Sources of Information
+
+N/A
+
+Bibliography
+
+1. White III AA, Johnson RM, Panjabi MM, Southwick WO. Biomechanical analysis of clinical
+
+stability in the cervical spine. Clinical Orthopaedics and Related Research®. 1975;109:85-
+
+96.
+
+2. Boonstra AM, Preuper HRS, Balk GA, Stewart RE. Cut-off points for mild, moderate, and
+
+severe pain on the visual analogue scale for pain in patients with chronic musculoskeletal
+
+pain. Pain®. 2014;155(12):2545-2550.
+
+3. (NASS) NASS. Cervical fusion: deﬁning appropriate coverage positions. NASS Coverage
+
+Recommendations 2023 (May). North American Spine Society (NASS). www.spine.org.
+
+Accessed11/21/23.
+
+4. Surgeons AAoN. Spinal Tumors. https://www.aans.org/Patients/Neurosurgical-Conditions-
+
+and-Treatments/Spinal-Tumors
+
+. Accessed Nov. 2, 2023.
+
+5. Nagashima H, Tanishima S, Tanida A. Diagnosis and management of spinal infections. J
+
+Orthop Sci. 2018;23(1):8-13.
+
+6. Elmajee M, Munasinghe C, Aljawadi A, Elawady K, Shuweihde F, Pillai A. Posterior
+
+stabilisation without formal debridement for the treatment of non-tuberculous pyogenic
+
+spinal infection in frail and debilitated population–A systematic review and meta-analysis.
+
+Journal of Clinical Orthopaedics and Trauma. 2021;15:9-15.
+
+7. Raja SN CD, Cohen M, Finnerup NB, Flor H, Gibson S, Keefe FJ, Mogil JS, Ringkamp M, Sluka
+
+KA, Song XJ, Stevens B, Sullivan MD, Tutelman PR, Ushida T, Vader K. . The revised
+
+International Association for the Study of Pain deﬁnition of pain: concepts, challenges, and
+
+compromises. Pain. 2020;161(9):1976-1982.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+43/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+8. Bono CM, Ghiselli G, Gilbert TJ, et al. An evidence-based clinical guideline for the diagnosis
+
+and treatment of cervical radiculopathy from degenerative disorders. The Spine Journal.
+
+2011;11(1):64-72.
+
+9. Rondinelli RD, Genovese E, Katz RT, et al. AMA guides to the evaluation of permanent
+
+impairment, Sixth Edition. 2008.
+
+10. Menger DLSGWSMRP. Hangman's Fractures. Published 2023. Updated August 13, 2023.
+
+Accessed Jan 2023.
+
+11. Donnally III CJ, Hanna A, Odom CK. Cervical myelopathy. StatPearls Publishing. StatPearls
+
+[Internet] Web site. https://www.ncbi.nlm.nih.gov/books/NBK482312/
+
+Published 2023.
+
+Accessed 10-27, 23.
+
+12. Marquis BO, Capone PM. Myelopathy. Handbook of clinical neurology. 2016;136:1015-
+
+1026.
+
+13. Wirth FP, Dowd GC, Sanders HF, Wirth C. Cervical discectomy: a prospective analysis of
+
+three operative techniques. Surgical neurology. 2000;53(4):340-348.
+
+14. Panjabi MM, White III AA. Basic biomechanics of the spine. Neurosurgery. 1980;7(1):76-93.
+
+15. Kothari MJ, Chuang Kathy Treatment and prognosis of cervical radiculopathy. UpToDate.
+
+https://www.uptodate.com/
+
+. Published 2023. Updated 2/28/23. Accessed11/1/2023.
+
+16. Corp N, Mansell G, Stynes S, et al. Evidence-based treatment recommendations for neck
+
+and low back pain across Europe: a systematic review of guidelines. European Journal of
+
+Pain. 2021;25(2):275-295.
+
+17. Nikolaidis I, Fouyas IP, Sandercock PAG, Statham PF. Surgery for cervical radiculopathy or
+
+myelopathy. Cochrane Database of Systematic Reviews. 2010(1).
+
+18. Plener J, Csiernik B, To D, et al. Conservative Management of Cervical Radiculopathy: A
+
+Systematic Review. Clin J Pain. 2023;39(3):138-146.
+
+19. Liang L, Feng M, Cui X, et al. The effect of exercise on cervical radiculopathy: A systematic
+
+review and meta-analysis. Medicine (Baltimore). 2019;98(45):e17733.
+
+20. Walker MJ, Boyles RE, Young BA, et al. The Effectiveness of Manual Physical Therapy and
+
+Exercise for Mechanical Neck Pain: A Randomized Clinical Trial. Spine. 2008;33(22):2371-
+
+2378.
+
+21. Kuijper B, Tans JT, Beelen A, Nollet F, de Visser M. Cervical collar or physiotherapy versus
+
+wait and see policy for recent onset cervical radiculopathy: randomised trial. Bmj.
+
+2009;339:b3883.
+
+22. Engquist M, Löfgren H, Öberg B, et al. Factors Affecting the Outcome of Surgical Versus
+
+Nonsurgical Treatment of Cervical Radiculopathy. Spine. 2015;40(20):1553-1563.
+
+23. Engquist M, Löfgren H, Öberg B, et al. A 5-to 8-year randomized study on the treatment of
+
+cervical radiculopathy: anterior cervical decompression and fusion plus physiotherapy
+
+versus physiotherapy alone. Journal of Neurosurgery: Spine. 2017;26(1):19-27.
+
+24. Harrop JS, Mohamed B, Bisson EF, et al. Congress of neurological surgeons systematic
+
+review and evidence-based guidelines for perioperative spine: preoperative surgical risk
+
+assessment. Neurosurgery. 2021;89(Supplement_1):S9-S18.
+
+25. Thoomes E, Thoomes-de Graaf M, Cleland JA, Gallina A, Falla D. Timing of evidence-based
+
+nonsurgical interventions as part of multimodal treatment guidelines for the management
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+44/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+of cervical radiculopathy: a Delphi study. Physical Therapy. 2022;102(5):pzab312.
+
+26. Berman D, Holtzman A, Sharfman Z, Tindel N. Comparison of Clinical Guidelines for
+
+Authorization of MRI in the Evaluation of Neck Pain and Cervical Radiculopathy in the
+
+United States. Journal of the American Academy of Orthopaedic Surgeons. 2023;31(2):64-
+
+70.
+
+27. Cervical Radiculopathy (Pinched Nerve). Cleveland Clinic.
+
+https://my.clevelandclinic.org/health/diseases/22639-cervical-radiculopathy-pinched-nerve
+
+Published 2022. Updated 03/29/2022. Accessed October 18, 2023.
+
+28. Broekema AE, Groen RJ, de Souza NFS, et al. Surgical interventions for cervical
+
+radiculopathy without myelopathy: a systematic review and meta-analysis. JBJS.
+
+2020;102(24):2182-2196.
+
+29. Fang W, Huang L, Feng F, et al. Anterior cervical discectomy and fusion versus posterior
+
+cervical foraminotomy for the treatment of single-level unilateral cervical radiculopathy: a
+
+meta-analysis. J Orthop Surg Res. 2020;15(1):202.
+
+30. Gao Q-Y, Wei F-L, Zhu K-L, et al. Clinical Efﬁcacy and Safety of Surgical Treatments in
+
+Patients With Pure Cervical Radiculopathy. Frontiers in Public Health. 2022;10:892042.
+
+31. Goedmakers CMW, Janssen T, Yang X, Arts MP, Bartels R, Vleggeert-Lankamp CLA.
+
+Cervical radiculopathy: is a prosthesis preferred over fusion surgery? A systematic review.
+
+Eur Spine J. 2020;29(11):2640-2654.
+
+32. Katsuura Y, York PJ, Goto R, et al. Sagittal Reconstruction and Clinical Outcome Using
+
+Traditional ACDF, Versus Stand-alone ACDF Versus TDR: A Systematic Review and Quantitative Analysis. Spine (Phila Pa 1976). 2019;44(19):E1151-E1158.
+
+33. Liu WJ, Hu L, Chou PH, Wang JW, Kan WS. Comparison of Anterior Cervical Discectomy
+
+and Fusion versus Posterior Cervical Foraminotomy in the Treatment of Cervical
+
+Radiculopathy: A Systematic Review. Orthop Surg. 2016;8(4):425-431.
+
+34. Zou T, Wang PC, Chen H, Feng XM, Sun HH. Minimally invasive posterior cervical
+
+foraminotomy versus anterior cervical discectomy and fusion for cervical radiculopathy: a meta-analysis. Neurosurg Rev. 2022;45(6):3609-3618.
+
+35. Gutman G, Rosenzweig DH, Golan JD. Surgical Treatment of Cervical Radiculopathy: Meta- analysis of Randomized Controlled Trials. Spine (Phila Pa 1976). 2018;43(6):E365-E372.
+
+36. Fei Q, Li J, Su N, et al. Comparison between anterior cervical discectomy with fusion and
+
+anterior cervical corpectomy with fusion for the treatment of cervical spondylotic
+
+myelopathy: a meta-analysis. Ther Clin Risk Manag. 2015;11:1707-1718.
+
+37. Han YC, Liu ZQ, Wang SJ, Li LJ, Tan J. Is anterior cervical discectomy and fusion superior to
+
+corpectomy and fusion for treatment of multilevel cervical spondylotic myelopathy? A systemic review and meta-analysis. PLoS One. 2014;9(1):e87191.
+
+38. Li Z, Long C, Li B, Wei J. Efﬁcacy and safety of surgical interventions for treating multilevel cervical spondylotic myelopathy via anterior approach: A network meta-analysis. Pain
+
+Physician. 2019;22(4):E275.
+
+39. Montano N, Ricciardi L, Olivi A. Comparison of Anterior Cervical Decompression and Fusion
+
+versus Laminoplasty in the Treatment of Multilevel Cervical Spondylotic Myelopathy: A
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+45/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+Meta-Analysis of Clinical and Radiological Outcomes. World Neurosurg. 2019;130:530-536
+
+e532.
+
+40. Wang T, Guo J, Long Y, Hou Z. Comparison of Two Anterior Reconstructive Techniques in
+
+the Treatment of 3-Level and 4 Level Cervical Spondylotic Myelopathy: A Meta-analysis of Last Decade. Geriatr Orthop Surg Rehabil. 2022;13:21514593221124415.
+
+41. Schuermans VNE, Smeets A, van de Kar LGC, et al. A Systematic Review on Neurological Outcomes for Cervical Degenerative Myelopathy After Anterior Decompression Surgery:
+
+Motion Preservation vs Fusion. Int J Spine Surg. 2022;16(6):969-976.
+
+42. El-Ghandour NMF, Soliman MAR, Ezzat AAM, Mohsen A, Zein-Elabedin M. The safety and
+
+efﬁcacy of anterior versus posterior decompression surgery in degenerative cervical myelopathy: a prospective randomized trial. J Neurosurg Spine. 2020:1-9.
+
+43. Xu L, Sun H, Li Z, Liu X, Xu G. Anterior cervical discectomy and fusion versus posterior
+
+laminoplasty for multilevel cervical myelopathy: A meta-analysis. Int J Surg. 2017;48:247-
+
+253.
+
+44. Zhao CM, Chen Q, Zhang Y, Huang AB, Ding WY, Zhang W. Anterior cervical discectomy
+
+and fusion versus hybrid surgery in multilevel cervical spondylotic myelopathy: A meta- analysis. Medicine (Baltimore). 2018;97(34):e11973.
+
+45. Lee NJ, Kim JS, Park P, Riew KD. A comparison of various surgical treatments for
+
+degenerative cervical myelopathy: a propensity score matched analysis. Global spine
+
+journal. 2022;12(6):1109-1118.
+
+46. Medicine JH. Cervical Myelopathy. Johns Hopkins Medicine. Cervical Myelopathy. Accessed
+
+11/14, 2023.
+
+47. Ranawat CS, O'Leary P, Pellicci P, Tsairis P, Marchisello P, Dorr L. Cervical spine fusion in
+
+rheumatoid arthritis. J Bone Joint Surg Am. 1979;61(7):1003-1010.
+
+48. Gillick JL, Wainwright J, Das K. Rheumatoid arthritis and the cervical spine: a review on the
+
+role of surgery. International journal of rheumatology. 2015;2015.
+
+49. Nunez JH, Escudero B, Omiste I, et al. Outcomes of cervical arthroplasty versus anterior cervical arthrodesis: a systematic review and meta-analysis of randomized clinical trials
+
+with a minimum follow-up of 7-year. Eur J Orthop Surg Traumatol. 2022.
+
+50. Peng Z, Hong Y, Meng Y, Liu H. A meta-analysis comparing the short- and mid- to long-
+
+term outcomes of artiﬁcial cervical disc replacement(ACDR) with anterior cervical discectomy and fusion (ACDF) for the treatment of cervical degenerative disc disease. Int
+
+Orthop. 2022;46(7):1609-1625.
+
+51. Xing D, Ma XL, Ma JX, Wang J, Ma T, Chen Y. A meta-analysis of cervical arthroplasty
+
+compared to anterior cervical discectomy and fusion for single-level cervical disc disease. J Clin Neurosci. 2013;20(7):970-978.
+
+52. Zhang Y, Lv N, He F, et al. Comparison of cervical disc arthroplasty and anterior cervical
+
+discectomy and fusion for the treatment of cervical disc degenerative diseases on the basis
+
+of more than 60 months of follow-up: a systematic review and meta-analysis. BMC Neurol. 2020;20(1):143.
+
+53. Fehlings MG, Martin AR, Tetreault LA, et al. A Clinical Practice Guideline for the
+
+Management of Patients With Acute Spinal Cord Injury: Recommendations on the Role of
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+46/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+Baseline Magnetic Resonance Imaging in Clinical Decision Making and Outcome Prediction. Global Spine J. 2017;7(3 Suppl):221S-230S.
+
+54. Zileli M, Maheshwari S, Kale SS, Garg K, Menon SK, Parthiban J. Outcome Measures and
+
+Variables Affecting Prognosis of Cervical Spondylotic Myelopathy: WFNS Spine Committee Recommendations. Neurospine. 2019;16(3):435-447.
+
+55. Costa F, Anania CD, Agrillo U, et al. Cervical Spondylotic Myelopathy: From the World
+
+Federation of Neurosurgical Societies (WFNS) to the Italian Neurosurgical Society (SINch)
+
+Recommendations. Neurospine. 2023;20(2):415-429.
+
+56. Watanabe M, Chikuda H, Fujiwara Y, et al. Japanese Orthopaedic Association (JOA) Clinical
+
+practice guidelines on the Management of Cervical Spondylotic Myelopathy,2020 - Secondary publication. J Orthop Sci. 2023;28(1):1-45.
+
+57. Youssef JA, Heiner AD, Montgomery JR, et al. Outcomes of posterior cervical fusion and
+
+decompression: a systematic review and meta-analysis. Spine J. 2019;19(10):1714-1729.
+
+58. Mahmoud A, Shanmuganathan K, Montgomery A. Surgical Management of Hangman's
+
+Fracture: A Systematic Review. Int J Spine Surg. 2023.
+
+59. Lee DY, Park YJ, Song MG, Kim KT, Kim DH. Comparison of anterior-only versus combined anterior and posterior fusion for unstable subaxial cervical injuries: a meta-analysis of
+
+biomechanical and clinical studies. Eur Spine J. 2021;30(6):1460-1473.
+
+60. Yang JS, Liu P, Liu TJ, et al. When is the circumferential stabilization necessary for subaxial
+
+cervical fracture dislocations? The posterior ligament-bone injury classiﬁcation and severity score: a novel treatment algorithm. Eur Spine J. 2021;30(2):524-533.
+
+61. Madan A, Thakur M, Sud S, Jain V, Singh Thakur RP, Negi V. Subaxial Cervical Spine
+
+Injuries: Outcomes after Anterior Corpectomy and Instrumentation. Asian J Neurosurg.
+
+2019;14(3):843-847.
+
+62. Ailon T, Smith JS, Shaffrey CI, et al. Outcomes of operative treatment for adult cervical
+
+deformity: a prospective multicenter assessment with 1-year follow-up. Neurosurgery. 2018;83(5):1031-1039.
+
+63. Zheng HL, Li B, Song SK, Chen PB, Jiang LS, Jiang SD. Anterior cervical discectomy and
+
+fusion to treat cervical instability with vertigo and dizziness: A single center, retrospective,
+
+observational study. Front Surg. 2022;9:1047504.
+
+64. Yang H, Wang H, Zhang B, Sun Y, Wang L, Lu X. Cervical spine fracture-dislocation in
+
+patients with ankylosing spondylitis and severe thoracic kyphosis: Application of halo vest before and during surgical management. Clin Neurol Neurosurg. 2021;207:106744.
+
+65. Wang L, Wang H, Wang C, Zhang B, Yang H, Lu X. Comparative study of halo-vest
+
+reduction and skull traction reduction in the treatment of cervical fracture dislocation in
+
+patients with ankylosing spondylitis. Front Surg. 2023;10:1129809.
+
+66. Skeppholm M, Svedmark P, Noz ME, Maguire GQ, Jr., Olivecrona H, Olerud C. Evaluation of
+
+mobility and stability in the Discover artiﬁcial disc: an in vivo motion study using high- accuracy 3D CT data. J Neurosurg Spine. 2015;23(3):383-389.
+
+67. Rustagi T, Mashaly H, Mendel E. Posterior occiput-cervical ﬁxation for metastasis to upper
+
+cervical spine. J Craniovertebr Junction Spine. 2019;10(2):119-126.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+47/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+68. Luksanapruksa P, Millhouse PW, Carlson V, Ariyawatkul T, Heller J, Kepler CK. Comparison of Surgical Outcomes of the Posterior and Combined Approaches for Repair of Cervical
+
+Fractures in Ankylosing Spondylitis. Asian Spine J. 2019;13(3):432-440.
+
+69. Li Z, Li F, Hou S, et al. Anterior discectomy/corpectomy and fusion with internal ﬁxation for
+
+the treatment of unstable hangman's fractures: a retrospective study of 38 cases. J Neurosurg Spine. 2015;22(4):387-393.
+
+70. Lee JS, Son DW, Lee SH, Ki SS, Lee SW, Song GS. Comparative Analysis of Surgical
+
+Outcomes of C1-2 Fusion Spine Surgery between Intraoperative Computed Tomography
+
+Image Based Navigation-Guided Operation and Fluoroscopy-Guided Operation. J Korean Neurosurg Soc. 2020;63(2):237-247.
+
+71. Lang S, Neumann C, Fiedler L, Alt V, Loibl M, Kerschbaum M. Does Dynamic Anterior Plate
+
+Fixation Provide Adequate Stability for Traumatic Subaxial Cervical Spine Fractures at Mid-
+
+Term Follow-Up? J Clin Med. 2021;10(6).
+
+72. Kong W, Yang X, Li Z, Hu B, Song Y. Analysis of the Cervical Sagittal Alignment in Patients
+
+with Unstable Hangman Fracture Under C2 approximately 3 Anterior Discectomy and Fusion. World Neurosurg. 2020;137:e1-e8.
+
+73. Kim HS, Cloney MB, Koski TR, Smith ZA, Dahdaleh NS. Management of Isolated Atlas
+
+Fractures: A Retrospective Study of 65 Patients. World Neurosurg. 2018;111:e316-e322.
+
+74. Bakhsheshian J, Sizdahkhani S, Ohiorhenuan I, Buchanan IA, Strickland B, Pham MH.
+
+Transpedicular lag screw placement in traumatic cervical spondylolisthesis: Case report and systematic review of the literature. J Clin Neurosci. 2019;63:256-262.
+
+75. Jin C, Xie N, Ren Y, et al. How Does Cervical Sagittal Balance Change After Hangman Fracture Treated with Anterior or Posterior Approach Surgery? World Neurosurg.
+
+2020;138:e767-e777.
+
+76. Garrido BJ, Myo GK, Sasso RC. Rigid versus nonrigid occipitocervical fusion: a clinical
+
+comparison of short-term outcomes. J Spinal Disord Tech. 2011;24(1):20-23.
+
+77. Dagtekin A, Avci E, Hamzaoglu V, et al. Management of occipitocervical junction and upper
+
+cervical trauma. J Craniovertebr Junction Spine. 2018;9(3):148-155.
+
+78. Clark S, Nash A, Shasti M, et al. Mortality Rates After Posterior C1-2 Fusion for Displaced
+
+Type II Odontoid Fractures in Octogenarians. Spine (Phila Pa 1976). 2018;43(18):E1077- E1081.
+
+79. Candura D, Perna A, Velluto C, et al. Conservative management of Anderson Type II
+
+odontoid fractures in octogenarians: is radiological union what we are searching for? Eur
+
+Rev Med Pharmacol Sci. 2022;26(1 Suppl):33-42.
+
+80. Aldrian S, Erhart J, Schuster R, et al. Surgical vs nonoperative treatment of Hadley type IIA
+
+odontoid fractures. Neurosurgery. 2012;70(3):676-682; discussion 682-673.
+
+81. Ghogawala Z, Terrin N, Dunbar MR, et al. Effect of ventral vs dorsal spinal surgery on
+
+patient-reported physical functioning in patients with cervical spondylotic myelopathy: a randomized clinical trial. Jama. 2021;325(10):942-951.
+
+82. de Dios Perez E. Degenerative cervical myelopathy: Surgical treatment, imaging evaluation,
+
+and outcome. 2023.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+48/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+83. Sattari SA, Ghanavatian M, Feghali J, et al. Anterior cervical discectomy and fusion versus posterior decompression in patients with degenerative cervical myelopathy: a systematic
+
+review and meta-analysis. J Neurosurg Spine. 2023:1-13.
+
+84. Selph SS SA, Jungbauer RM, Brodt E, Blazina I, Philipp TC, Mauer KM, Dettori J, Atchison C,
+
+Riopelle D, Stabler-Morris S, Fu R, Yu Y, Chou R. . Cervical Degenerative Disease Treatment: A Systematic Review. Comparative Effectiveness Review No. 266. (Prepared by the Paciﬁc
+
+Northwest Evidence-based Practice Center under Contract No. 75Q80120D00006.). AHRQ Publication No. 24-EHC001.Rockville, MD: Agency for Healthcare Research and Quality;.
+
+https://effectivehealthcare.ahrq.gov/products/cervical-degenerative-disease/research Accessed11/28/23.
+
+.
+
+85. Industries. WSDoL. Labor and Industries’ Industrial Insurance Medical Advisory Committee (IIMAC). Guideline for diagnosis and treatment of cervical radiculopathy and myelopathy. .
+
+https://www.lni.wa.gov/patient-care/treating-patients/treatment-guidelines-and- resources/_docs/2014CervicalGuideline-FINAL.pdf
+
+[lni.wa.gov]. Updated Effective
+
+December 2014, Hyperlinks and minor corrections June 2023. . Accessed11/28/23.
+
+86. Cohen SP. Epidemiology, diagnosis, and treatment of neck pain. Mayo Clin Proc.
+
+2015;90(2):284-299.
+
+87. Ohnari H, Sasai K, Akagi S, Iida H, Takanori S, Kato I. Investigation of axial symptoms after
+
+cervical laminoplasty, using questionnaire survey. Spine J. 2006;6(3):221-227.
+
+88. (NASS) NASS. Appropriate Use Criteria: Cervical Fusion (2013) North American Spine
+
+Society (NASS). North American Spine Society: Appropriate Use Criteria for Cervical Fusion Web site.
+
+https://www.spine.org/Portals/0/assets/downloads/ResearchClinicalCare/CervicalFusionAUC.pdf
+
+. Published 2013. Accessed 11/14/, 2023.
+
+89. van Middelkoop M, Rubinstein SM, Ostelo R, et al. No additional value of fusion techniques on anterior discectomy for neck pain: a systematic review. Pain. 2012;153(11):2167-2173.
+
+90. Riew KD, Ecker E, Dettori JR. Anterior cervical discectomy and fusion for the management of axial neck pain in the absence of radiculopathy or myelopathy. Evid Based Spine Care J.
+
+2010;1(3):45-50.
+
+91. Carragee EJ, Hurwitz EL, Cheng I, et al. Treatment of neck pain: injections and surgical
+
+interventions: results of the Bone and Joint Decade 2000-2010 Task Force on Neck Pain and Its Associated Disorders. Spine (Phila Pa 1976). 2008;33(4 Suppl):S153-169.
+
+92. Palit M, Schofferman J, Goldthwaite N, et al. Anterior discectomy and fusion for the
+
+management of neck pain. Spine (Phila Pa 1976). 1999;24(21):2224-2228.
+
+93. Garvey TA, Transfeldt EE, Malcolm JR, Kos P. Outcome of anterior cervical discectomy and fusion as perceived by patients treated for dominant axial-mechanical cervical spine pain.
+
+Spine (Phila Pa 1976). 2002;27(17):1887-1895; discussion 1895.
+
+94. Whitecloud TS, 3rd, Seago RA. Cervical discogenic syndrome. Results of operative
+
+intervention in patients with positive discography. Spine (Phila Pa 1976). 1987;12(4):313-
+
+316.
+
+95. Simmons EH, Bhalla SK. Anterior cervical discectomy and fusion. A clinical and
+
+biomechanical study with eight-year follow-up. J Bone Joint Surg Br. 1969;51(2):225-237.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+49/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+96. Carragee EJ, Hurwitz EL, Cheng I, et al. Treatment of neck pain: injections and surgical
+
+interventions: results of the Bone and Joint Decade 2000-2010 Task Force on Neck Pain and Its Associated Disorders. J Manipulative Physiol Ther. 2009;32(2 Suppl):S176-193.
+
+97. Nystrom B, Svensson E, Larsson S, Schillberg B, Mork A, Taube A. A small group Whiplash-
+
+Associated-Disorders (WAD) patients with central neck pain and movement induced
+
+stabbing pain, the painful segment determined by mechanical provocation: Fusion surgery was superior to multimodal rehabilitation in a randomized trial. Scand J Pain. 2016;12:33-
+
+42.
+
+98. Kreiner DS, Shaffer WO, Baisden JL, et al. An evidence-based clinical guideline for the
+
+diagnosis and treatment of degenerative lumbar spinal stenosis (update). Spine J. 2013;13(7):734-743.
+
+99. Isaac Z, Atlas SJ, K L. Management of non-radicular neck pain in adults. UpToDate.
+
+www.uptodate.com. Published 2023. Updated Oct. 4, 2023. Accessed Oct. 30, 2023.
+
+Revision History Information
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+50/52
+
+10/15/25, 7:00 PM
+
+LCD - Cervical Fusion (L39758)
+
+Revision History
+
+Revision History
+
+Date
+
+Number
+
+Revision History Explanation
+
+Reasons for Change
+
+Revision Effective Date:
+
+09/11/2025
+
+R2
+
+Change in
+
+09/11/2025
+
+Afﬁliated Contract
+
+CONTRACTOR INFORMATION:
+
+Numbers
+
+Added: JF contractor information
+
+This update is to consolidate JE
+
+and JF to have one uniﬁed document and policy number.
+
+Pursuant to the 21st Century Cures Act, this revision does not
+
+require notice and comment because this update is considered
+
+non-substantive and does not alter the intent of coverage or
+
+non-coverage outlined in any LCD.
+
+01/30/2025
+
+R1
+
+Revisions effective 1/30/2025:
+
+Typographical Error
+
+Corrected typographical errors.
+
+Associated Documents
+
+Attachments
+
+N/A
+
+Related Local Coverage Documents
+
+Articles
+
+A59624 - Billing and Coding: Cervical Fusion
+
+A59796 - Response to Comments: Cervical Fusion A59797 - Response to Comments: Cervical Fusion
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+51/52
+
+10/15/25, 7:00 PM LCDs
+
+LCD - Cervical Fusion (L39758)
+
+DL39758 - Cervical Fusion (MCD Archive Site)
+
+Related National Coverage Documents
+
+NCDs
+
+N/A
+
+Public Versions
+
+Updated On
+
+Effective Dates
+
+Status
+
+09/02/2025
+
+09/11/2025 - N/A
+
+Currently in Effect
+
+You are here
+
+01/24/2025
+
+01/30/2025 - 09/10/2025
+
+Superseded
+
+View
+
+05/17/2024
+
+07/07/2024 - 01/29/2025
+
+Superseded
+
+View
+
+Keywords
+
+N/A
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39758
+
+52/52

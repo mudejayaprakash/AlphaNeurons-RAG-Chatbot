@@ -1,0 +1,659 @@
+10/25/25, 12:06 PM
+
+CG-MED-59 Upper Gastrointestinal Endoscopy in Adults
+
+Clinical UM Guideline
+
+Subject: Upper Gastrointestinal Endoscopy in Adults
+
+Guideline #: CG-MED-59
+
+Publish Date: 07/01/2025
+
+Status: Revised
+
+Last Review Date: 05/08/2025
+
+Description
+
+This document addresses indications for upper gastrointestinal (GI) endoscopy in adults. This document does not address upper gastrointestinal (GI) endoscopy in children, wireless capsule endoscopy, virtual endoscopy or in vivo analysis of gastrointestinal lesions via endoscopy.
+
+Note: Please see the following related documents for additional information:
+
+CG-MED-70 Wireless Capsule Endoscopy for Gastrointestinal Imaging and the Patency Capsule CG-SURG-70 Gastric Electrical Stimulation CG-SURG-83 Bariatric Surgery and Other Treatments for Clinically Severe Obesity CG-SURG-101 Ablative Techniques as a Treatment for Barrett's Esophagus SURG.00047 Transendoscopic Therapy for Gastroesophageal Reflux Disease, Dysphagia or Gastroparesis
+
+Clinical Indications
+
+Medically Necessary:
+
+I. Diagnostic Esophagogastroduodenoscopy (EGD) in Adults
+
+EGD for diagnostic purposes for adults aged 18 years or older is considered medically necessary for any of the following indications:
+
+F e e d b a c k
+
+A. Upper abdominal signs or symptoms:
+
+1. Gastroesophageal reflux symptoms that persist or recur following an appropriate trial of therapy (for
+
+example, proton pump inhibitors) for 2 months or more; or
+
+2. Persistent vomiting of unknown cause; or 3. New-onset dyspepsia in individuals 50 years of age or older; or 4. Unexplained dysphagia or odynophagia; or 5. Signs or symptoms suggesting structural disease of the upper gastrointestinal tract such as anorexia,
+
+weight loss, early satiety, or persistent nausea; or
+
+6. Postoperative bariatric surgery with persistent abdominal pain, nausea, or vomiting despite counseling and
+
+behavior modification related to diet adherence; or
+
+7. Recent or active gastrointestinal bleed; or 8. Unexplained anemia due to either blood loss or malabsorption from a mucosal process; or 9. To assess symptoms suspicious for inflammatory bowel disease (for example, bloody diarrhea); or B. Intraoperative evaluation of anatomic reconstructions typical of modern foregut surgery (for example, evaluation of
+
+anastomotic leak and patency, fundoplication formation, pouch configuration during bariatric surgery); or
+
+C. For confirmation and specific histologic diagnosis of radiologically demonstrated lesions, including, but not limited
+
+to:
+
+1. Suspected neoplastic lesion; or 2. Gastric or esophageal ulcer; or 3. Upper tract stricture or obstruction; or
+
+D. Documentation of esophageal varices in individuals with suspected portal hypertension or cirrhosis; or E. To assess acute injury after caustic ingestion; or F. To identify upper gastrointestinal etiology of lower gastrointestinal symptoms, such as diarrhea, in individuals
+
+suspected of having small-bowel disease (for example, celiac disease); or
+
+G. To evaluate persons with radiographic findings suggestive of achalasia.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_c197646.html
+
+1/10
+
+10/25/25, 12:06 PM
+
+CG-MED-59 Upper Gastrointestinal Endoscopy in Adults
+
+II. Therapeutic EGD in Adults
+
+EGD for therapeutic purposes for adults aged 18 years or older is considered medically necessary for any of the following indications:
+
+A. Treatment of bleeding from lesions such as ulcers, tumors, vascular malformations (for example, electrocoagulation
+
+or injection therapy); or
+
+B. For esophageal varices using endoscopic variceal ligation:
+
+1. Variceal ligation may be repeated every 1 to 8 weeks until varices are eradicated; and 2. Sclerotherapy may be performed in individuals when variceal ligation is technically difficult;
+
+or
+
+C. Removal of foreign body (including food impaction); or D. Removal of selected polypoid or submucosal lesions; or E. Placement of feeding tubes (per oral when unguided placement unsuccessful, or percutaneous); or F. Dilation of stenotic lesions of the esophagus, pylorus or duodenum (for example, with transendoscopic balloon
+
+dilators or dilating systems employing guidewires); or
+
+G. Dilation for adults with eosinophilic esophagitis who have a dominant esophageal stricture or ring and remain
+
+symptomatic despite medical therapy; or
+
+H. Management of achalasia (for example, dilatation or treatment with botulinum toxin injection); or I. Endoscopic placement of self-expandable metal stents (SEMS) for palliative treatment of malignant gastric or
+
+biliary obstruction in individuals with poor performance status or inoperable disease; or
+
+J. Management of gastroduodenal dysmotility when symptoms persist despite optimal medical and dietary
+
+management; or
+
+K. Palliative therapy of stenosing neoplasms; or L. Endoscopic resection for individuals with Barrett’s esophagus and any of the following (ablative treatment of
+
+Barrett’s esophagus is addressed in CG-SURG-101 Ablative Techniques as a Treatment for Barrett's Esophagus):
+
+1. Low-grade dysplasia; or 2. Flat high-grade dysplasia; or 3. Intestinal metaplasia;
+
+or
+
+M. Endoscopic resection or radiofrequency ablation for individuals with stage T1a esophageal adenocarcinoma.
+
+III. Screening EGD in Adults
+
+Screening EGD for adults aged 18 years or older is considered medically necessary for any of the following indications:
+
+A. Individuals with familial adenomatous polyposis:
+
+1. Starting at age 25 years; and 2. Subsequent follow up every 6 months to 4 years depending on the Spigelman Stage classification (0-III) of
+
+duodenal polyposis (see Table 2.); or
+
+B. Individuals with Lynch syndrome:
+
+1. Starting at age 30 years; and 2. Subsequent follow up every 2 to 4 years;
+
+or
+
+C. Individuals with CDH1 gene variants that increase risk of hereditary diffuse gastric cancer:
+
+1. Starting at age 18 years; and 2. Subsequent follow up every 6 to 12 months;
+
+or
+
+D. Screening for Barrett’s esophagus (BE) and esophageal adenocarcinoma (EAC) may be considered in individuals
+
+with:
+
+1. Chronic symptoms of gastroesophageal reflux disease (GERD) such as heartburn or acid regurgitation
+
+(weekly symptoms for 5 or more years); and
+
+2. Three or more risk factors for BE (see Discussion/General Information section).
+
+IV. Sequential or Periodic Diagnostic EGD in Adults
+
+Sequential or periodic diagnostic EGD for adults aged 18 years or older is considered medically necessary for any of the following indications:
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_c197646.html
+
+2/10
+
+10/25/25, 12:06 PM
+
+CG-MED-59 Upper Gastrointestinal Endoscopy in Adults
+
+A. For surveillance of individuals with portal hypertension or compensated cirrhosis who meet any of the following
+
+criteria:
+
+1. With small varices or high-risk stigmata (“red wale markings”), every 1 to 2 years; or 2. Without varices, every 2 to 3 years; or 3. Secondary to alcohol abuse or decompensated liver disease, annually; or B. Following esophageal variceal eradication, surveillance in the following intervals:
+
+1. 1 to 3 months following initial eradication; and 2. Every 6 to 12 months thereafter to monitor for recurrence;
+
+or
+
+C. In individuals with Barrett’s esophagus in any of the following scenarios:
+
+1. Without dysplasia, endoscopic surveillance should take place at intervals of 3 to 5 years; or 2. With confirmed low-grade dysplasia, endoscopic surveillance of metaplastic gastric tissue may be
+
+performed every 6-12 months (endoscopic therapy is preferred); or
+
+3. With confirmed high-grade dysplasia and comorbidities that preclude endoscopic eradication therapy,
+
+endoscopic surveillance of metaplastic gastric tissue may be performed every 3 months.
+
+Not Medically Necessary:
+
+EGD for adults aged 18 years or older is considered not medically necessary when the above criteria are not met, and for all other indications, including but not limited to the following:
+
+A. Screening of any of the following:
+
+1. Asymptomatic upper gastrointestinal tract of an average risk individual; or 2. Follow-up screening for Barrett’s esophagus after a prior EGD screening examination was negative for
+
+Barrett’s esophagus; or
+
+3. Aerodigestive cancer;
+
+or
+
+B. Surveillance for any of the following:
+
+1. Healed benign disease (for example, esophagitis, gastric or duodenal ulcer); or 2. Gastric atrophy; or 3. Pernicious anemia; or 4. Fundic gland or hyperplastic polyps; or 5. Gastric intestinal metaplasia; or 6. Previous gastric operations for benign disease; or 7. Achalasia;
+
+or
+
+C. Radiographic findings of any of the following:
+
+1. Asymptomatic or uncomplicated sliding hiatal hernia; or 2. Uncomplicated duodenal ulcer that has responded to therapy; or 3. Deformed duodenal bulb when symptoms are absent or respond adequately to ulcer therapy;
+
+or
+
+D. Confirming Helicobacter pylori eradication; or E. Isolated pylorospasm, known congenital hypertrophic pyloric stenosis, constipation and encopresis, or
+
+inflammatory bowel disease responding to therapy; or
+
+F. Prior to bariatric or non-gastroesophageal surgery in asymptomatic individuals; or G. Metastatic adenocarcinoma of unknown primary site when the results will not alter management; or H. Obtaining tissue samples from endoscopically normal tissue to diagnose GERD or exclude Barrett’s esophagus in
+
+adults; or
+
+I. Symptoms that are considered functional in origin; or J. To evaluate benign appearing, uncomplicated duodenal ulcers identified on radiologic imaging; or K. When there is clinical evidence of acute perforation.
+
+Coding
+
+The following codes for treatments and procedures applicable to this guideline are included below for informational purposes. Inclusion or exclusion of a procedure, diagnosis or device code(s) does not constitute or imply member coverage or provider reimbursement policy. Please refer to the member's contract benefits in effect at the time of service to determine coverage or non-coverage of these services as it applies to an individual member.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_c197646.html
+
+3/10
+
+10/25/25, 12:06 PM
+
+CG-MED-59 Upper Gastrointestinal Endoscopy in Adults
+
+When services may be Medically Necessary when criteria are met:
+
+CPT 43233
+
+Esophagogastroduodenoscopy, flexible transoral; diagnostic, with dilation of esophagus with balloon (30 mm diameter or larger) (includes fluoroscopic guidance, when performed) Esophagogastroduodenoscopy, flexible transoral; diagnostic, including collection of specimen(s) by brushing or washing, when performed (separate procedure) Esophagogastroduodenoscopy, flexible transoral; with directed submucosal injection(s), any substance [other than injections related to gastroesophageal reflux or dysphagia] Esophagogastroduodenoscopy, flexible transoral; with biopsy, single or multiple Esophagogastroduodenoscopy, flexible transoral; with insertion of intraluminal tube or catheter Esophagogastroduodenoscopy, flexible transoral; with injection sclerosis of esophageal/gastric varices Esophagogastroduodenoscopy, flexible transoral; with band ligation of esophageal/gastric varices Esophagogastroduodenoscopy, flexible transoral; with dilation of gastric/duodenal stricture(s) (eg, balloon, bougie) Esophagogastroduodenoscopy, flexible transoral; with directed placement of percutaneous gastrostomy tube Esophagogastroduodenoscopy, flexible transoral; with removal of foreign body(s) Esophagogastroduodenoscopy, flexible transoral; with insertion of guide wire followed by passage of dilator(s) through esophagus over guide wire Esophagogastroduodenoscopy, flexible transoral; with transendoscopic balloon dilation of esophagus (less than 30 mm diameter) Esophagogastroduodenoscopy, flexible transoral; with removal of tumor(s), polyp(s), or other lesion(s) by hot biopsy forceps Esophagogastroduodenoscopy, flexible transoral; with removal of tumor(s), polyp(s), or other lesion(s) by snare technique Esophagogastroduodenoscopy, flexible transoral; with endoscopic mucosal resection Esophagogastroduodenoscopy, flexible transoral; with control of bleeding, any method Esophagogastroduodenoscopy, flexible transoral; with placement of endoscopic stent (includes pre- and post-dilation and guide wire passage, when performed) Esophagogastroduodenoscopy, flexible transoral; with ablation of tumor(s), polyp(s), or other lesion(s) (includes pre-and post-dilation and guide wire passage, when performed) [other than ablation related to Barrett’s esophagus] Esophagogastroduodenoscopy, flexible, transnasal; diagnostic, including collection of specimen(s) by brushing or washing, when performed (separate procedure) Esophagogastroduodenoscopy, flexible, transnasal; with biopsy, single or multiple Esophagogastroduodenoscopy, flexible, transnasal; with insertion of intraluminal tube or catheter
+
+43235
+
+43236
+
+43239 43241 43243
+
+43244 43245
+
+43246
+
+43247 43248
+
+43249
+
+43250
+
+43251
+
+43254 43255 43266
+
+43270
+
+0652T
+
+0653T 0654T
+
+ICD-10 Diagnosis
+
+All diagnoses
+
+When services are Not Medically Necessary: For the procedure codes listed above when criteria are not met or for situations designated in the Clinical Indications section as not medically necessary.
+
+Discussion/General Information
+
+Upper GI endoscopy, or EGD, is usually performed to evaluate symptoms of persistent upper abdominal pain, nausea, vomiting, difficulty swallowing, or bleeding from the upper GI tract. This procedure is more accurate than diagnostic imaging for detecting inflammation, ulcers, or tumors of the esophagus, stomach and duodenum and can detect early cancer. EGD can also distinguish between benign and malignant conditions when biopsies of suspicious areas are obtained. EGD uses a flexible fiber-optic scope with a light and camera to examine the upper part of the GI system. Channels in the scope support the delivery of water, air, or suction and permit introduction of medical instruments to perform biopsies, cautery, or other procedures. The scope is inserted through the mouth into the upper GI tract allowing for visualization of the esophagus, stomach, and duodenum through the camera.
+
+The quality of evidence concerning the safety and efficacy of EGD is lacking for the majority of the most common uses of the technology. In an effort to provide safe recommendations to guide clinical practice in the use of EGD, the American Society
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_c197646.html
+
+4/10
+
+10/25/25, 12:06 PM
+
+CG-MED-59 Upper Gastrointestinal Endoscopy in Adults
+
+for Gastrointestinal Endoscopy (ASGE), the American Gastroenterological Association (AGA), and the American College of Gastroenterology (ACG) have established practice guidelines based largely on consensus within these respective specialty medical societies.
+
+In 2012, the ASGE published a broad guideline entitled: Appropriate use of GI Endoscopy. The guideline contains several position statements based on a critical review of available evidence as well as expert consensus. The ASGE has also published several indication-specific guidelines such as: The Role of Endoscopy in Barrett’s Esophagus and other Premalignant Conditions of the Esophagus (2012), The Role of Endoscopy in Gastroduodenal Obstruction and Gastroparesis (2011), The Role of Endoscopy in Dyspepsia (2015), The Role of Endoscopy in the Management of Benign and Malignant Gastroduodenal Obstruction (2021), and The Role of Endoscopy in the Diagnosis of Malignancy in Biliary Strictures of Undetermined Etiology (2023). The indication-specific guidelines also contain recommendations based on consensus and a review of the literature. Each recommendation was graded on the quality of the supporting evidence in accordance with the definitions in Table 1 shown below at the bottom of this discussion section. The ACG has also published indication-specific clinical practice guidelines on the use of endoscopy in commonly encountered clinical scenarios, such as: Diagnosis and Management of Barrett's Esophagus: an Updated ACG Guideline (Shaheen 2022), Diagnosis and Management of Achalasia (Vaezi, 2020), and Gastroparesis (Camilleri, 2022). The ACG’s recommendations are graded in accordance with the same definitions as the ASGE, which appear in Table 1 below. The medically necessary indications in this clinical guideline are largely consistent with ASGE, ACG and AGA recommendations that are graded as ‘moderate’ to ‘high’ quality where the ACG has not considered the recommendation ‘conditional’ (“uncertainty about the tradeoffs”) or the AGA has not considered the recommendation ‘weak’ (“recommendation not suitable for quality or performance measure”). Where there was discordance, criteria are based on expert consensus.
+
+An AGA guideline (Wang, 2021) provides advice regarding surveillance intervals using endoscopy after removal of dysplastic lesions and early GI cancers with endoscopic submucosal dissection. These criteria are also based on expert consensus, and the authors acknowledge that the level of evidence available to support much of the surveillance advice is generally low.
+
+Screening for Barrett’s esophagus
+
+Major gastroenterological specialty societies recommend screening only for individuals at high risk for development of Barret’s esophagus (BE) or esophageal adenocarcinoma (EAC).
+
+The ACG guideline for diagnosis and management of Barrett’s esophagus (Shaheen, 2022) includes the following statement on screening:
+
+We suggest a single screening endoscopy for patients with chronic GERD symptoms and 3 or more additional risk factors for BE, including male sex, age >50 years, White race, tobacco smoking, obesity, and family history of BE or EAC in a first-degree relative (strength of recommendation: conditional; quality of evidence: very low).
+
+The ASGE (2012) guideline states that: “Risk factors for BE and EAC include male sex, white race, age older than 50 years, family history of BE, increased duration of reflux symptoms, smoking, and obesity”.
+
+Neither the ACG (Shaheen, 2022) nor the ASGE (2012) recommend screening the general population for Barrett’s esophagus.
+
+The AGA clinical practice guideline for endoscopic eradication therapy of BE (Rubenstein, 2024) does not address screening or surveillance.
+
+Hereditary diffuse gastric cancer
+
+Hereditary diffuse gastric cancer (HDGC) is an autosomal dominant cancer syndrome that is characterized by a high prevalence of diffuse gastric cancer and lobular breast cancer caused by inactivating germline mutations in the tumor suppressor gene CDH1 (Blair, 2020). Individuals with CDH1 pathogenic gene variants are advised to consider prophylactic total gastrectomy, generally between 20 and 30 years of age. For those who wish to defer or avoid gastrectomy, endoscopic surveillance is an option. The National Comprehensive Cancer Network (NCCN, 2025) advises that the age for prophylactic gastrectomy or initiation of surveillance, including among children aged under 18 years, should be based on a multidisciplinary discussion, considering personal and family history and individual preference. After an initial EGD examination, repeat endoscopy in 6 to 12 months is recommended if the individual continues to express a preference for endoscopic surveillance. The ACG guideline (Morgan, 2025) on diagnosis and management of gastric premalignant conditions states that individuals with a family history suggestive of hereditary cancer should receive genetic counseling, and potential endoscopic screening should be individualized based on the syndrome-specific guidelines and individual
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_c197646.html
+
+5/10
+
+10/25/25, 12:06 PM
+
+CG-MED-59 Upper Gastrointestinal Endoscopy in Adults
+
+preferences. The AGA guideline (Shah, 2025) on screening and surveillance in individuals at increased risk for gastric cancer states that endoscopy is the best test for screening and surveillance in individuals at increased risk for gastric cancer. Studies have shown that endoscopic screening can detect foci of gastric cancer, including signet ring cell carcinoma, and plays an important role in diagnosis and risk stratification of individuals with pathogenic CDH1 variants (Kumar, 2019; Laszkowska, 2023; Mejia Perez, 2024).
+
+Lynch syndrome
+
+Lynch syndrome predisposes individuals to multiple cancers including gastric and small bowel due to germline pathogenic variants in the DNA mismatch repair genes MLH1, MSH2, MSH6, or PMS2 or the EPCAM gene. For individuals with these variants, NCCN recommends upper GI surveillance with high-quality EGD starting at age 30-40 years and repeat every 2-4 years (category 2A recommendation). Similar surveillance recommendations for Lynch syndrome have been made by the ACG (Syngal, 2015) and the European Society of Digestive Oncology (ESDO) (Vangala, 2018). Several studies have demonstrated that endoscopic screening detects upper GI cancers, precancerous lesions, and other clinically actionable findings that favor its use to reduce the burden of morbidity and mortality in individuals with Lynch syndrome (Ceravolo, 2021; Farha, 2022; Kumar, 2020; Ladigan-Badura, 2021; Vedantam, 2023).
+
+GERD
+
+Gastroesophageal reflux disease (GERD) is defined as “symptoms or complications resulting from the reflux of gastric contents into the esophagus or beyond, into the oral cavity (including larynx) or lung” (Flores, 2019). Increased BMI, waist circumference or weight are associated with the presence of GERD (Katz, 2013; Flores, 2019). Typical symptoms of GERD include dyspepsia, epigastric pain, early satiety, belching, and bloating (Katz, 2013). As noted by Brethauer (2014) “treatment of GERD is initially medical with acid suppression but if symptoms are refractory to medical therapy or if there is an associated anatomic etiology for the GERD, surgical revision may be required”.
+
+The ACG 2022 guideline on GERD (Katz, 2022) notes that “There is no gold standard for the diagnosis of GERD. Thus, the diagnosis is based on a combination of symptom presentation, endoscopic evaluation of esophageal mucosa, reflux monitoring, and response to therapeutic intervention.” For patients with classic GERD symptoms of heartburn and regurgitation who have no alarm symptoms, ACG recommends an 8-week trial of empiric proton pump inhibitors (PPIs) once daily before a meal. The AGA (Yadlapati, 2022) concurs and further finds that “if troublesome heartburn, regurgitation, and/or non-cardiac chest pain do not respond adequately to a PPI trial or when alarm symptoms exist, clinicians should investigate with endoscopy.” The ACG recommendation on upper endoscopy for diagnosing GERD is as follows:
+
+Upper endoscopy is the most widely used objective test for evaluating the esophageal mucosa. For patients with GERD symptoms who also have alarm symptoms such as dysphagia, weight loss, bleeding, vomiting, and/or anemia, endoscopy should be performed as soon as feasible. The endoscopic findings of EE [erosive esophagitis] and Barrett’s esophagus are specific for the diagnosis of GERD.
+
+The 2025 ASGE guideline on the diagnosis and management of GERD (Desai, 2025) recommends upper endoscopy for individuals with GERD with alarm symptoms. For those with no alarm symptoms, endoscopic evaluation is suggested in those with BE risk factors (family history of BE or esophageal adenocarcinoma; GERD plus another risk factor [at least 50 years old, male sex, white race, smoking, or obesity]). Endoscopy is also recommended for individuals who have had a sleeve gastrectomy (SG) and are experiencing reflux symptoms. In individuals who had SG and are asymptomatic, the ASGE suggests endoscopic screening for 3 years after SG and then every 5 years. In individuals after peroral endoscopic myotomy (POEM), there is a high rate of GERD and periodic endoscopic evaluation in asymptomatic individuals should be considered. Regarding SG and POEM, the recommendations are conditional with very low quality of evidence.
+
+Table 1. Quality of Evidence Grading of Recommendations Assessment, Development and Evaluation (GRADE) System (AGA, 2011; ASGE, 2015; ASGE, 2018).
+
+‘High’ ‘Moderate’
+
+Further research is very unlikely to change our confidence in the estimate of effect. Further research is likely to have an important impact on our confidence in the estimate of effect and may change the estimate. Further research is very likely to have an important impact on our confidence in the estimate of effect and is likely to change the estimate. Any estimate of effect is very uncertain.
+
+‘Low’
+
+‘Very Low’
+
+Table 2. Spigelman Stage classification (0-IV) of duodenal polyposis (Brosens, 2005).
+
+Spigelman classification
+
+Endoscopic frequency
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_c197646.html
+
+6/10
+
+10/25/25, 12:06 PM
+
+CG-MED-59 Upper Gastrointestinal Endoscopy in Adults
+
+Stage 0 Stage I Stage II Stage III Stage IV
+
+4 years 2-3 years 1-3 years 6-12 months Surgical evaluation
+
+References
+
+Peer Reviewed Publications:
+
+1. Blair VR, McLeod M, Carneiro F, et al. Hereditary diffuse gastric cancer: updated clinical practice guidelines. Lancet
+
+Oncol. 2020; 21(8):e386-e397.
+
+2. Brosens LA, Keller JJ, Offerhaus GJ, et al. Prevention and management of duodenal polyps in familial
+
+adenomatous polyposis. Gut. 2005; 54(7):1034-1043.
+
+3. Ceravolo AH, Yang JJ, Latham A, et al. Effectiveness of a surveillance program of upper endoscopy for upper
+
+gastrointestinal cancers in Lynch syndrome patients. Int J Colorectal Dis. 2022; 37(1):231-238.
+
+4. Farha N, Hrabe J, Sleiman J, et al. Clinically actionable findings on surveillance EGD in asymptomatic patients with
+
+Lynch syndrome. Gastrointest Endosc. 2022; 95:105-14.
+
+5. Flores L, Krause C, Pokala B, et al. Novel therapies for gastroesophageal reflux disease. Curr Probl Surg. 2019;
+
+56(12):100692.
+
+6. Kumar S, Dudzik CM, Reed M, et al. Upper endoscopic surveillance in Lynch syndrome detects gastric and
+
+duodenal adenocarcinomas. Cancer Prev Res. 2020; 13:1047-1054.
+
+7. Kumar S, Long JM, Ginsberg GG, Katona BW. The role of endoscopy in the management of hereditary diffuse
+
+gastric cancer syndrome. World J Gastroenterol 2019; 25(23):2878-2886.
+
+8. Ladigan-Badura S, Vangala DB, Engel C, et al. Value of upper gastrointestinal endoscopy for gastric cancer
+
+surveillance in patients with Lynch syndrome. Int. J. Cancer. 2021; 148:106-114.
+
+9. Laszkowska M, Tang L, Vos E, et al. Factors associated with detection of hereditary diffuse gastric cancer on
+
+endoscopy in individuals with germline CDH1 mutations. Gastrointest Endosc. 2023; 98(3):326-336.
+
+10. Mejia Perez LK, O'Malley M, Chatterjee A, et al. Endoscopic screening for identification of signet ring cell gastric
+
+cancer foci in carriers of germline pathogenic variants in CDH1. Fam Cancer. 2024; 23(4):617-626.
+
+11. Vedantam S, Katona BW, Sussman DA, Kumar S. Outcomes of upper endoscopy screening in Lynch syndrome: a
+
+meta-analysis. Gastrointest Endosc. 2023; 97(1):2-10.
+
+Government Agency, Medical Society, and Other Authoritative Publications:
+
+1. American Gastroenterological Association; Spechler SJ, Sharma P, Souza RF, et al. American Gastroenterological
+
+Association medical position statement on the management of Barrett's esophagus. Gastroenterology. 2011; 140(3):1084-1091.
+
+2. ASGE Standards of Practice Committee, Banerjee S, Cash BD, Dominitz JA, et al. The role of endoscopy in the
+
+management of patients with peptic ulcer disease. Gastrointest Endosc. 2010; 71(4):663-668.
+
+3. ASGE Standards of Practice Committee; Chandrasekhara V, Early DS, Acosta RD, et al. ASGE guideline:
+
+modifications in endoscopic practice for the elderly. Gastrointest Endosc. 2013; 78(1):1-7.
+
+4. ASGE Standards of Practice Committee; Desai M, Ruan W, Thosani NC, et al. American Society for Gastrointestinal Endoscopy guideline on the diagnosis and management of GERD: summary and recommendations. Gastrointest Endosc. 2025; 101(2):267-284.
+
+5. ASGE Standards of Practice Committee; Early DS, Ben-Menachem T, Decker GA, et al. Appropriate use of GI
+
+endoscopy. Gastrointest Endosc. 2012; 75(6):1127-1131.
+
+6. ASGE Standards of Practice Committee, Evans JA, Chandrasekhara V, Chathadi KV, et al. The role of endoscopy in the management of premalignant and malignant conditions of the stomach. Gastrointest Endosc. 2015; 82(1):1- 8.
+
+7. ASGE Standards of Practice Committee; Evans JA, Early DS, Fukami N, et al. The role of endoscopy in Barrett's esophagus and other premalignant conditions of the esophagus. Gastrointest Endosc. 2012; 76(6):1087-1094. 8. ASGE Standards of Practice Committee; Evans JA, Muthusamy VR, Acosta RD, et al. The role of endoscopy in the
+
+bariatric surgery patient. Surg Obes Relat Dis. 2015; 11(3):507-517.
+
+9. ASGE Standards of Practice Committee; Fujii-Lau LL, Thosani NC, Al-Haddad M, et al. The role of endoscopy in
+
+the diagnosis of malignancy in biliary strictures of undetermined etiology: summary and recommendations. Gastrointest Endosc. 2023; 98:685-693.
+
+10. ASGE Standards of Practice Committee; Fukami N, Anderson MA, Khan K, et al. The role of endoscopy in
+
+gastroduodenal obstruction and gastroparesis. Gastrointest Endosc. 2011; 74(1):13-21.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_c197646.html
+
+7/10
+
+10/25/25, 12:06 PM
+
+CG-MED-59 Upper Gastrointestinal Endoscopy in Adults
+
+11. ASGE Standards of Practice Committee, Jue TL, Storm AC, Naveed M, et al. ASGE guideline on the role of
+
+endoscopy in the management of benign and malignant gastroduodenal obstruction. Gastrointest Endosc. 2021; 93(2):309-322.e4.
+
+12. ASGE Standards of Practice Committee; Khashab MA, Vela MF, Thosani N, et al. ASGE guideline on the
+
+management of achalasia. Gastrointest Endosc. 2020; 91(2):213-227.
+
+13. ASGE Standards of Practice Committee; Muthusamy VR, Lightdale JR, Acosta RD, et al. Role of endoscopy in the
+
+management of GERD. Gastrointest Endosc. 2015; 81(6):1305-1310.
+
+14. ASGE Standards of Practice Committee; Pasha SF, Acosta RD, Chandrasekhara V, et al. The role of endoscopy in
+
+the evaluation and management of dysphagia. Gastrointest Endosc. 2014; 79(2):191-201.
+
+15. ASGE Standards of Practice Committee; Qumseya B, Sultan S, Bain P, et al. ASGE guideline on screening and
+
+surveillance of Barrett's esophagus. Gastrointest Endosc. 2019; 90(3):335-359.
+
+16. ASGE Standards of Practice Committee; Wani S, Qumseya B, Sultan S, et al. Endoscopic eradication therapy for patients with Barrett's esophagus-associated dysplasia and intramucosal cancer. Gastrointest Endosc. 2018; 87(4):907-931.
+
+17. Brethauer SA, Kothari S, Sudan R, et al. Systematic review on reoperative bariatric surgery: American Society for
+
+Metabolic and Bariatric Surgery Revision Task Force. Surg Obes Relat Dis. 2014;10(5):952-972.
+
+18. Camilleri M, Kuo B, Nguyen L, et al. ACG clinical guideline: gastroparesis. Am J Gastroenterol. 2022; 117(8):1197-
+
+1220.
+
+19. Centers for Medicare and Medicaid Services. National Coverage Determination for Endoscopy. NCD #100.2.
+
+Available at: https://www.cms.gov/medicare-coverage-database/details/ncd-details.aspx? NCDId=81&ncdver=1&bc=AAAAQAAAAAAA&. Accessed on April 11, 2025
+
+20. Gupta S, Li D, El Serag HB, et al. AGA clinical practice guidelines on management of gastric intestinal metaplasia.
+
+Gastroenterology. 2020; 158(3):693-702.
+
+21. Hirano I, Chan ES, Rank MA, et al. AGA Institute and the Joint Task Force on Allergy-Immunology Practice Parameters clinical guidelines for the management of eosinophilic esophagitis. Gastroenterology. 2020; 158(6):1776-1786.
+
+22. Hwang JH, Fisher DA, Ben-Menachem T, et al. ASGE guideline: the role of endoscopy in the management of acute
+
+non-variceal upper GI hemorrhage. Gastrointest Endosc 2012; 75(6):1132-1138.
+
+23. Hwang JH, Shergill AK, Acosta RD, Chandrasekhara V, et al. ASGE Guideline: the role of endoscopy in the
+
+management of variceal hemorrhage. Gastrointest Endosc. 2014; 80(2):221-227.
+
+24. Ikenberry SO, Harrison ME, Lichtenstein D, et al.; ASGE Standards of Practice Committee. The role of endoscopy
+
+in dyspepsia. Gastrointest Endosc. 2007; 66(6):1071-1075.
+
+25. Kahrilas PJ, Shaheen NJ, Vaezi MF, et al. American Gastroenterological Association Medical Position Statement on
+
+the management of gastroesophageal reflux disease. Gastroenterology. 2008; 135(4):1383-1391.
+
+26. Katz PO, Dunbar KB, Schnoll-Sussman FH, et al. ACG clinical guideline for the diagnosis and management of
+
+gastroesophageal reflux disease. Am J Gastroenterol. 2022; 117(1):27-56.
+
+27. Katz PO, Gerson LB, Vela MF. Guidelines for the diagnosis and management of gastroesophageal reflux disease.
+
+Am J Gastroenterol. 2013; 108(3):308-328.
+
+28. Leighton JA, Shen B, Baron TH, et al. ASGE guideline: endoscopy in the diagnosis and treatment of inflammatory
+
+bowel disease. Gastrointest Endosc. 2006; 63(4):558-565.
+
+29. Levine A, Koletzko S, Turner D, et al. ESPGHAN revised porto criteria for the diagnosis of inflammatory bowel
+
+disease in children and adolescents. J Pediatr Gastroenterol Nutr. 2014; 58(6):795-806.
+
+30. Moayyedi PM, Lacy BE, Andrews CN, et al. ACG and CAG clinical guideline: management of dyspepsia. Am J
+
+Gastroenterol. 2017; 112(7):988-1013.
+
+31. Morgan DR, Corral JE, Li D, et al. ACG Clinical Guideline: Diagnosis and Management of Gastric Premalignant
+
+Conditions. 2025. Available at: https://journals.lww.com/ajg/fulltext/9900/acg_clinical_guideline__diagnosis_and_management.1623.aspx. Accessed on April 11, 2025.
+
+32. NCCN Clinical Practice Guidelines in Oncology®. ©2025 National Comprehensive Cancer Network®, Inc. For additional information visit the NCCN website: http://www.nccn.org/index.asp. Accessed on April 11, 2025.
+
+Genetic/Familial High-Risk Assessment: Colorectal, Endometrial, and Gastric (V4.2024). Revised April 2, 2025.
+
+33. Qumseya BJ, Jamil LH, Elmunzer BJ, et al. ASGE guideline on the role of endoscopy in the management of
+
+malignant hilar obstruction. Gastrointest Endosc. 2021; 94(2):222-234.e22.
+
+34. Rubenstein JH, Sawas T, Wani S, et al. AGA clinical practice guideline on endoscopic eradication therapy of
+
+Barrett’s esophagus and related neoplasia. Gastroenterology. 2024; 166(6):1020-1055.
+
+35. Shah SC, Wang AY, Wallace MB, Hwang JH. AGA clinical practice update on screening and surveillance in
+
+individuals at increased risk for gastric cancer in the United States: expert review. Gastroenterology 2025; 168:405-
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_c197646.html
+
+8/10
+
+10/25/25, 12:06 PM
+
+CG-MED-59 Upper Gastrointestinal Endoscopy in Adults
+
+416.
+
+36. Shaheen NJ, Falk GW, Iyer PG, et al. ACG clinical guideline: diagnosis and management of Barrett’s esophagus.
+
+Am J Gastroenterol. 2016; 111(1):30-50.
+
+37. Shaheen NJ, Falk GW, Iyer PG, et al. Diagnosis and management of Barrett's esophagus: an updated ACG
+
+guideline. Am J Gastroenterol. 2022; 117(4):559-587.
+
+38. Spechler SJ, Sharma P, Souza RF, et al. American Gastroenterological Association medical position statement on
+
+the management of Barrett’s esophagus. Gastroenterology 2011; 140(3):1084-1091. 39. Spechler SJ, Souza RF. Barrett’s esophagus. N Engl J Med. 2014; 371(9):836-845. 40. Syngal S, Brand RE, Church JM, et al. ACG clinical guideline: genetic testing and management of hereditary
+
+gastrointestinal cancer syndromes. Am J Gastroenterol. 2015; 110:223-262.
+
+41. Vaezi MF, Pandolfino JE, Yadlapati RH, et al. ACG clinical guidelines: diagnosis and management of achalasia. Am
+
+J Gastroenterol. 2020; 115(9):1393-1411.
+
+42. Vangala DB, Cauchin E, Balmana J, et al. Screening and surveillance in hereditary gastrointestinal cancers: recommendations from the European Society of Digestive Oncology (ESDO) expert discussion at the 20th European Society for Medical Oncology (ESMO)/World Congress on Gastrointestinal Cancer, Barcelona, June 2018. Eur J Cancer. 2018; 104:91-103.
+
+43. Wang AY, Hwang JH, Bhatt A, Draganov PV. AGA clinical practice update on surveillance after pathologically
+
+curative endoscopic submucosal dissection of early gastrointestinal neoplasia in the United States: commentary. Gastroenterology. 2021; 161:2030-2040.
+
+44. Yadlapati R, Gyawali CP, Pandolfino JE. AGA clinical practice update on the personalized approach to the
+
+evaluation and management of GERD: expert review. Clin Prac Update. 2022; 20(5):984-994.
+
+45. Yang J, Gurudu SR, Koptiuch C, et al. ASGE guideline on the role of endoscopy in familial adenomatous polyposis
+
+syndromes. Gastrointest Endosc. 2020; 91(5):963-982.e2.
+
+History
+
+Status Revised
+
+Date 05/08/2025
+
+Action Medical Policy & Technology Assessment Committee (MPTAC) review. Added MN criteria for screening EGD for individuals with pathogenic CDH1 variants. Revised Discussion/General Information and References sections. MPTAC review. Added MN criteria for screening EGD for individuals with Lynch syndrome. Revised formatting in Clinical Indications section. Revised Discussion/General Information and References sections. MPTAC review. Revised clinical indications in MN statement on screening EGD in adults at risk for Barrett’s esophagus and removed male sex. MPTAC review. Added proton pump inhibitors as an example of appropriate trial of therapy to MN statement on diagnostic EGD in adults in Clinical Indications section. Revised Discussion/General Information and References sections. MPTAC review. Revised Clinical Indications section to remove references to “life-limiting comorbidities.” Corrected spelling error in MN criteria. MPTAC review. Updated Discussion/General Information and References sections. MPTAC review. Updated Discussion/General Information and References sections. Updated Coding section with 07/01/2021 CPT changes; added 0652T, 0653T, 0654T. MPTAC review. Removed list of risk factors related to screening for Barrett’s esophagus from clinical indications in MN statement on screening EGD in adults. Updated Discussion/General Information section. Reformatted Coding section. Medical Policy & Technology Assessment Committee (MPTAC) review. In Clinical Indications section, updated “SURG.00106 Ablative Techniques as a Treatment for Barrett's Esophagus” to new guideline number “CG-SURG- 101 Ablative Techniques as a Treatment for Barrett's Esophagus.” Updated Discussion/General Information, and References sections.
+
+Revised
+
+02/20/2025
+
+Revised
+
+06/06/2024
+
+Revised
+
+05/09/2024
+
+Revised
+
+05/11/2023
+
+Reviewed
+
+11/10/2022
+
+Reviewed
+
+11/11/2021
+
+07/01/2021
+
+Revised
+
+11/05/2020
+
+Revised
+
+05/14/2020
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_c197646.html
+
+9/10
+
+10/25/25, 12:06 PM
+
+CG-MED-59 Upper Gastrointestinal Endoscopy in Adults
+
+Revised
+
+06/06/2019
+
+MPTAC review. In Sequential or Periodic Diagnostic EGD in Adults section of Clinical Indications, changed “and” to “or” in criterion A.1. Updated Description, Discussion/General Information, and References sections. Updated Coding section; removed CPT 43238, 43242, 43253. Medical Policy & Technology Assessment Committee (MPTAC) review. Title changed to Upper Gastrointestinal Endoscopy in Adults. Revised MN criteria in Diagnostic Esophagogastroduodenoscopy (EGD) in Adults section. Added MN criteria for age requirement in all indications. Removed MN criteria for screening EGD in pediatric individuals. Added NMN criteria for age requirement in all indications. Updated Description, Discussion/General Information, and References sections. MPTAC review. Updated header language from “Current Effective Date” to “Publish Date.” Added therapeutic indications to the document. Revised Title, Position Statement and Coding sections. Updated Rationale and References. MPTAC review. Initial document development.
+
+Revised
+
+09/13/2018
+
+Revised
+
+11/02/2017
+
+New
+
+09/13/2017
+
+Federal and State law, as well as contract language, and Medical Policy take precedence over Clinical UM Guidelines. We reserve the right to review and update Clinical UM Guidelines periodically. Clinical guidelines approved by the Medical Policy & Technology Assessment Committee are available for general adoption by plans or lines of business for consistent review of the medical necessity of services related to the clinical guideline when the plan performs utilization review for the subject. Due to variances in utilization patterns, each plan may choose whether to adopt a particular Clinical UM Guideline. To determine if review is required for this Clinical UM Guideline, please contact the customer service number on the member's card.
+
+Alternatively, commercial or FEP plans or lines of business which determine there is not a need to adopt the guideline to review services generally across all providers delivering services to Plan’s or line of business’s members may instead use the clinical guideline for provider education and/or to review the medical necessity of services for any provider who has been notified that his/her/its claims will be reviewed for medical necessity due to billing practices or claims that are not consistent with other providers, in terms of frequency or in some other manner.
+
+No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without permission from the health plan.
+
+© CPT Only - American Medical Association
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_c197646.html
+
+10/10

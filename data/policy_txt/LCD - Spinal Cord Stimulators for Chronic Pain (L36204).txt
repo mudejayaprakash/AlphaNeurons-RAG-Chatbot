@@ -1,0 +1,817 @@
+10/10/25, 5:26 PM
+
+LCD - Spinal Cord Stimulators for Chronic Pain (L36204)
+
+Local Coverage Determination (LCD)
+
+Spinal Cord Stimulators for Chronic Pain
+
+L36204
+
+Links in PDF documents are not guaranteed to work. To follow a web link, please use the MCD
+
+Website.
+
+Contractor Information
+
+Contract
+
+Contract
+
+Contractor Name
+
+Type
+
+Number
+
+Jurisdiction
+
+States
+
+Noridian Healthcare
+
+A and B
+
+02101 -
+
+J - F
+
+Alaska
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02102 - MAC B
+
+J - F
+
+Alaska
+
+Noridian Healthcare
+
+A and B
+
+02201 -
+
+J - F
+
+Idaho
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02202 - MAC B
+
+J - F
+
+Idaho
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02301 - MAC A
+
+J - F
+
+Oregon
+
+Noridian Healthcare
+
+A and B
+
+02302 -
+
+J - F
+
+Oregon
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02401 - MAC A
+
+J - F
+
+Washington
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=36204
+
+1/12
+
+10/10/25, 5:26 PM
+
+LCD - Spinal Cord Stimulators for Chronic Pain (L36204)
+
+Contract
+
+Contract
+
+Contractor Name
+
+Type
+
+Number
+
+Jurisdiction
+
+States
+
+Noridian Healthcare
+
+A and B
+
+02402 -
+
+J - F
+
+Washington
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Noridian Healthcare
+
+A and B
+
+03101 -
+
+J - F
+
+Arizona
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Noridian Healthcare
+
+A and B
+
+03102 -
+
+J - F
+
+Arizona
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+03201 - MAC A
+
+J - F
+
+Montana
+
+Noridian Healthcare
+
+A and B
+
+03202 -
+
+J - F
+
+Montana
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Noridian Healthcare
+
+A and B
+
+03301 -
+
+J - F
+
+North
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Dakota
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+03302 - MAC B
+
+J - F
+
+North Dakota
+
+Noridian Healthcare
+
+A and B
+
+03401 -
+
+J - F
+
+South
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Dakota
+
+Noridian Healthcare
+
+A and B
+
+03402 -
+
+J - F
+
+South
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Dakota
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+03501 - MAC A
+
+J - F
+
+Utah
+
+Noridian Healthcare
+
+A and B
+
+03502 -
+
+J - F
+
+Utah
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=36204
+
+2/12
+
+10/10/25, 5:26 PM
+
+LCD - Spinal Cord Stimulators for Chronic Pain (L36204)
+
+Contract Type
+
+Contract Number
+
+Contractor Name
+
+Jurisdiction
+
+States
+
+Noridian Healthcare
+
+A and B
+
+03601 -
+
+J - F
+
+Wyoming
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Noridian Healthcare
+
+A and B
+
+03602 -
+
+J - F
+
+Wyoming
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+LCD Information
+
+Document Information
+
+LCD ID
+
+L36204
+
+LCD Title
+
+Spinal Cord Stimulators for Chronic Pain
+
+Proposed LCD in Comment Period
+
+N/A
+
+Source Proposed LCD
+
+DL36204
+
+Original Effective Date
+
+For services performed on or after 06/01/2016
+
+Revision Effective Date
+
+For services performed on or after 12/01/2019
+
+Revision Ending Date
+
+N/A
+
+Retirement Date
+
+N/A
+
+Notice Period Start Date
+
+04/14/2016
+
+Notice Period End Date
+
+05/31/2016
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=36204
+
+3/12
+
+10/10/25, 5:26 PM
+
+LCD - Spinal Cord Stimulators for Chronic Pain (L36204)
+
+CPT codes, descriptions, and other data only are copyright 2024 American Medical Association. All Rights Reserved. Applicable FARS/HHSARS apply.
+
+Fee schedules, relative value units, conversion factors and/or related components are not assigned by the AMA, are not
+
+part of CPT, and the AMA is not recommending their use. The AMA does not directly or indirectly practice medicine or dispense medical services. The AMA assumes no liability for data contained or not contained herein.
+
+Current Dental Terminology © 2024 American Dental Association. All rights reserved.
+
+Copyright © 2025, the American Hospital Association, Chicago, Illinois. Reproduced with permission. No portion of the AHA
+
+copyrighted materials contained within this publication may be copied without the express written consent of the AHA.
+
+AHA copyrighted materials including the UB‐04 codes and descriptions may not be removed, copied, or utilized within any
+
+software, product, service, solution, or derivative work without the written consent of the AHA. If an entity wishes to utilize any AHA materials, please contact the AHA at 312‐893‐6816.
+
+Making copies or utilizing the content of the UB‐04 Manual, including the codes and/or descriptions, for internal purposes,
+
+resale and/or to be used in any product or publication; creating any modiﬁed or derivative work of the UB‐04 Manual and/or codes and descriptions; and/or making any commercial use of UB‐04 Manual or any portion thereof, including the codes
+
+and/or descriptions, is only authorized with an express license from the American Hospital Association. The American
+
+Hospital Association (the "AHA") has not reviewed, and is not responsible for, the completeness or accuracy of any information contained in this material, nor was the AHA or any of its afﬁliates, involved in the preparation of this material,
+
+or the analysis of information provided in the material. The views and/or positions presented in the material do not
+
+necessarily represent the views of the AHA. CMS and its products and services are not endorsed by the AHA or any of its
+
+afﬁliates.
+
+CMS National Coverage Policy
+
+Title XVIII of the Social Security Act (SSA), §1862(a)(1)(A), states that no Medicare payment shall be made for items or services that “are not reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member.”
+
+CMS Manual System, Pub 100-03, Medicare National Coverage Determinations Manual, Chapter 1, §160.7, Electrical Nerve Stimulators.
+
+Coverage Guidance
+
+Coverage Indications, Limitations, and/or Medical Necessity
+
+The implantation of spinal cord stimulators (SCS) may be covered as therapies for the relief of chronic intractable pain. SCS is best suited for neuropathic pain but may have some limited value in other types of nociceptive severe, intractable pain. Therapy consists of a
+
+short trial with a percutaneous implantation of neurostimulator electrode(s) in the epidural space for assessing a patient’s suitability for ongoing treatment with a permanent surgically implanted nerve stimulator. Performance and documentation of an effective trial is a prerequisite for permanent nerve stimulation. In situations where the spinal cord stimulator
+
+has been working well but is in need of replacement for battery change, malfunction or end
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=36204
+
+4/12
+
+10/10/25, 5:26 PM
+
+LCD - Spinal Cord Stimulators for Chronic Pain (L36204)
+
+of stimulator life, a new trial is not needed to replace the stimulator.
+
+Selection of patients for implantation of spinal cord stimulators is critical to success of this therapy. SCS therapy should be considered as a late option after more conservative
+
+attempts such as medications, physical therapy, psychological therapy or other modalities have been tried.
+
+Patients must have undergone careful screening, evaluation and diagnosis by a multidisciplinary team prior to implantation. (Such screening must include psychological, as well as physical evaluation). Documentation of the history and careful screening must be available in the patient chart if requested. Patients being selected for a trial
+
+Must not have active substance abuse issues. Must undergo proper patient education, discussion, and disclosure including an extensive discussion of the risks and beneﬁts of this therapy. Must undergo appropriate psychological screening
+
+Many experts recommend that the temporary neurostimulator be placed in an ASC or
+
+outpatient hospital setting. However, the temporary neurostimulator trial can be done in an ofﬁce setting if all the sterility, equipment, professional training and support personnel required for the proper surgery, and follow up of the patient are available. Permanent
+
+neurostimulators must be placed in an ASC or hospital. Physicians performing SCS trials in the ofﬁce setting must have like privileges at a local hospital or ASC, or the providers must be subspecialty boarded in Pain Medicine by the American Board of Anesthesiology.
+
+It is preferable that physicians performing the SCS trial will also perform the permanent implant. If the physician implanting the trial neurostimulator does not or cannot implant the permanent neurostimulator, the patient should be informed of this in writing and given the
+
+name of the referral surgeon who will implant the permanent neurostimulator(s).
+
+It is expected that accurate patient selection will lead to most patients going on to receive permanent implants. Only patients who experience a positive response to a trial should
+
+proceed to a permanent implantation. All trials which proceed to permanent implant must have adequate documentation in the chart to support that decision. A successful trial should be associated with at least a 50% reduction of target pain, or 50% reduction of analgesic medications, and show some element of functional improvement. (Patients with reﬂex
+
+sympathetic dystrophy may show lower levels of improvement since it takes longer periods for improvement than the typical 1-2 week trial). Physician judgment and experience will also be taken into account.
+
+Physicians with a low trial to permanent implant ratio (less than 50%) will be subject to
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=36204
+
+5/12
+
+10/10/25, 5:26 PM
+
+LCD - Spinal Cord Stimulators for Chronic Pain (L36204)
+
+post-payment review and may be asked to submit documentation as to the patient selection criteria, the radiologic imaging demonstrating proper lead placement, and the medical necessity of the trials.
+
+Noridian will reimburse for placement of a maximum of 2 leads or 16 “contacts,” and for 2 SCS trials per anatomic spinal region per patient per lifetime (with exceptions allowed for
+
+technical limitations for the initial trials or for use of different modalities of stimulation, including new technology). More than 2 SCS trials per anatomic spinal region per patient per lifetime is not considered reasonable and necessary.
+
+If a trial fails, a repeat trial is not appropriate unless there are extenuating circumstances that lead to trial failure.
+
+Summary of Evidence
+
+NA
+
+Analysis of Evidence (Rationale for Determination)
+
+NA
+
+General Information
+
+Associated Information
+
+This ﬁnal LCD, effective 06/01/2016, combines JFA DL36202 into the JFB LCD so that both JFA and JFB contract numbers will have the same ﬁnal MCD LCD number.
+
+Sources of Information
+
+1. Feler CA. Spinal Cord Stimulation: Parameter Selection and Equipment Choices. In: Deer TR, Editor. Neurostimulation for the Treatment of Chronic Pain. Interventional and
+
+Neuromodulatory Techniques for Pain Management Series. Philadelphia, PA: Elsevier Saunders; 2011: 1-7-65.
+
+2. McIntyre PJ, Bedder MD. Complications of Spinal Cord Stimulation. In: Deer TR, Editor. Neurostimulation for the Treatment of Chronic Pain. Interventional and Neuromodulatory Techniques for Pain Management Series Philadelphia, PA: Elsevier Saunders; 2011:1-15- 134.
+
+3. North RB. Spinal Cord Stimulation as a Treatment of Failed Back Surgrey Syndrome. In: Deer TR, Editor. Neurostimulation for the Treatment of Chronic Pain. Interventional and Neuromodulatory Techniques for Pain Management Series. Philadelphia, PA: Elsevier Saunders; 2011: 1-8-72.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=36204
+
+6/12
+
+10/10/25, 5:26 PM
+
+LCD - Spinal Cord Stimulators for Chronic Pain (L36204)
+
+4. Rauck RL, Nagel S, North JL, Machado AG. Spinal Cord Stimulation: Implantation Techniques. In: Deer TR, Editor. Neurostimulation for the Treatment of Chronic Pain. Interventional and Neuromodulatory Techniques for Pain Management Series. Philadelphia, PA: Elsevier Saunders; 2011: 1-6-54.
+
+5. Shah BJ, Hayek SM, Khalil AA. Medical Considerations in Spinal Cord Stimulation. In: Deer
+
+TR, Editor. Neurostimulation for the Treatment of Chronic Pain. Interventional and Neuromodulatory Techniques for Pain Management Series. Philadelphia, PA: Elsevier Saunders; 2011: 1-3-19.
+
+6. Shahbazian MS, Richeimer SH. Implant Technologies for Severe Pain: Why, When and the Outcomes. Practical Pain Management. Oct 2011;11(8):73-9.
+
+7. Wu C, Falowksi SM, Sharan A. Spinal Cord Stimulation: General Indications. In: Deer TR,
+
+Editor. Neurostimulation for the Treatment of Chronic Pain. Interventional and Neuromodulatory Techniques for Pain Management Series. Philadelphia, PA: Elsevier Saunders; 2011: 1-5-39.
+
+Bibliography
+
+NA
+
+Revision History Information
+
+Revision History Date
+
+Revision History Number
+
+Revision History Explanation
+
+Reasons for Change
+
+12/01/2019
+
+R6
+
+The LCD is revised to remove CPT/HCPCS codes in the Keyword Section of the LCD.
+
+Other (The LCD is revised to remove CPT/HCPCS codes in the Keyword Section of the LCD. )
+
+At this time 21st Century Cures Act will apply to new and revised LCDs that restrict coverage which requires comment and
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=36204
+
+7/12
+
+10/10/25, 5:26 PM
+
+LCD - Spinal Cord Stimulators for Chronic Pain (L36204)
+
+Revision History Date
+
+Revision History Number
+
+Revision History Explanation
+
+Reasons for Change
+
+notice. This revision is not a restriction to the coverage determination; and, therefore not all the
+
+ﬁelds included on the LCD are applicable as noted in this policy.
+
+12/01/2019
+
+R5
+
+As required by CR 10901, all billing and coding information has been moved to the
+
+Revisions Due To Code Removal
+
+companion article; this article is linked to the LCD.
+
+12/01/2019: At this time
+
+21st Century Cures Act will apply to new and revised LCDs that restrict coverage which requires comment and notice. This revision is not a restriction to the
+
+coverage determination; and, therefore not all the ﬁelds included on the LCD are applicable as noted in this policy.
+
+10/01/2019
+
+R4
+
+Per the annual update effective 10/01/2019, the ICD-10 code
+
+Revisions Due To ICD- 10-CM Code Changes
+
+description Z45.42 -
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=36204
+
+8/12
+
+10/10/25, 5:26 PM
+
+LCD - Spinal Cord Stimulators for Chronic Pain (L36204)
+
+Revision History Date
+
+Revision History Number
+
+Revision History Explanation
+
+Reasons for Change
+
+Encounter for adjustment and management of
+
+neuropacemaker (brain) (peripheral nerve) (spinal cord) was changed to Z45.42 - Encounter for adjustment and management of
+
+neurostimulator.
+
+10/01/2019 - At this time 21st Century Cures Act will apply to new
+
+and revised LCDs that restrict coverage which requires comment and notice. This revision is not a restriction to the coverage determination; and, therefore not all the
+
+ﬁelds included on the LCD are applicable as noted in this policy.
+
+10/01/2017
+
+R3
+
+DATE (08/21/2017): At this time 21st Century Cures Act will apply to new and revised LCDs that restrict coverage
+
+Revisions Due To ICD- 10-CM Code Changes Other (CPT® codes 63661, 63662, 63688, and 95970-95972 are
+
+which requires comment and notice. This revision is not a restriction to the coverage determination;
+
+used for conditions unrelated to this LCD and are not subject to the DX criteria in this
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=36204
+
+9/12
+
+10/10/25, 5:26 PM
+
+LCD - Spinal Cord Stimulators for Chronic Pain (L36204)
+
+Revision History Date
+
+Revision History Number
+
+Revision History Explanation
+
+Reasons for Change
+
+and, therefore not all the ﬁelds included on the
+
+LCD. These codes were deleted to decrease
+
+LCD are applicable as noted in this policy.
+
+provider confusion.)
+
+Effective DOS on or after 6/1/16, CPT®
+
+codes 63661, 63662, 63688, and 95970- 95972 are removed from this LCD. These procedure codes may be used for services unrelated to this LCD
+
+and are not subject to the DX criteria in the LCD.
+
+Effective DOS 10/01/2017, ICD-10-CM
+
+M48.06 was deleted. ICD-10-CM codes M48.061 and M48.062 replaced the deleted M48.06.
+
+10/01/2016
+
+R2
+
+This LCD has been updated to clarify that a
+
+Creation of Uniform LCDs Within a MAC
+
+repeat trial is not needed when replacing the stimulator due to the need for battery change, malfunction or end of stimulator life. Also deleted HCPCS
+
+Jurisdiction Reconsideration Request Other (clariﬁed that a repeat trial is not needed when replacing the stimulator due to the
+
+need for battery change,
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=36204
+
+10/12
+
+10/10/25, 5:26 PM
+
+LCD - Spinal Cord Stimulators for Chronic Pain (L36204)
+
+Revision History Date
+
+Revision History Number
+
+Revision History Explanation
+
+Reasons for Change
+
+code L8680 from Group
+
+malfunction or end of
+
+2
+
+stimulator life.)
+
+10/01/2016
+
+R1
+
+The LCD is revised to add new ICD-10 codes effective 10/1/2016: G57.73, T85.113A, T85.113D, T85.113S, T85.123A
+
+Revisions Due To ICD- 10-CM Code Changes
+
+T85.123D, T85.123S, T85.193A, T85.193D and T85.193S.
+
+The following ICD-10 codes descriptors were changed effective 10/1/2016: T85.112A,
+
+T85.112D, T85.112S, T85.122A, T85.122D, T85.122S, T85.192A, T85.192D and T85.192S.1
+
+Associated Documents
+
+Attachments
+
+N/A
+
+Related Local Coverage Documents
+
+Articles
+
+A57792 - Billing and Coding: Spinal Cord Stimulators for Chronic Pain A54981 - Response to Comments: Spinal Cord Stimulators for Chronic Pain LCDs
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=36204
+
+11/12
+
+10/10/25, 5:26 PM
+
+LCD - Spinal Cord Stimulators for Chronic Pain (L36204)
+
+DL36202 - Spinal Cord Stimulators for Chronic Pain (MCD Archive Site) DL36204 - Spinal Cord Stimulators for Chronic Pain (MCD Archive Site)
+
+Related National Coverage Documents NCDs
+
+160.7 - Electrical Nerve Stimulators
+
+Public Versions
+
+Updated On
+
+Effective Dates
+
+Status
+
+01/29/2020
+
+12/01/2019 - N/A
+
+Currently in Effect
+
+You are here
+
+11/20/2019
+
+12/01/2019 - N/A
+
+Superseded
+
+View
+
+Some older versions have been archived. Please visit the MCD Archive Site
+
+to retrieve
+
+them.
+
+Keywords
+
+spinal
+
+cord spinal cord
+
+stimulator
+
+SCS therapy
+
+neurostimulator implant
+
+trial
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=36204
+
+12/12

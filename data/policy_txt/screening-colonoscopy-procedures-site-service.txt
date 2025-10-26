@@ -1,0 +1,153 @@
+UnitedHealthcare® Commercial and Individual Exchange Medical Policy
+
+Screening Colonoscopy Procedures – Site of Service
+
+Policy Number: MP.15.10 Effective Date: May 1, 2025
+
+ Instructions for Use
+
+Table of Contents Page Application ............................................................................. 1 Coverage Rationale .............................................................. 1 Medical Records Documentation for Review ........................ 2 Definitions .............................................................................. 2 Applicable Codes .................................................................. 3 Clinical Evidence ................................................................... 3 References ............................................................................ 4 Policy History/Revision Information ...................................... 4 Instructions for Use ............................................................... 4
+
+Related Commercial/Individual Exchange Policies • Outpatient Surgical Procedures – Site of Service • Preventive Care Services
+
+Application
+
+UnitedHealthcare Commercial This Medical Policy applies to UnitedHealthcare Commercial benefit plans, except UnitedHealthcare West benefit plans.
+
+UnitedHealthcare Individual Exchange This Medical Policy applies to Individual Exchange benefit plans in all states except for Texas and Wisconsin.
+
+Coverage Rationale
+
+UnitedHealthcare members may choose to receive a screening colonoscopy in an ambulatory surgical center (ASC) or other locations. We are conducting site of service medical necessity reviews, however, to determine whether the outpatient hospital department is medically necessary, in accordance with the terms of the member’s benefit plan. If the outpatient hospital department is not considered medically necessary, this location will not be covered under the member’s plan.
+
+Note: When a planned colonoscopy is done for diagnostic purposes, it will be considered under the applicable non- preventive medical benefit. Refer to the Medical Policy titled Outpatient Surgical Procedures – Site of Service.
+
+Planned preventive screening colonoscopies performed in a hospital outpatient department are considered medically necessary for an individual who meets any of the following criteria: Advanced liver disease (MELD Score > 8) Anticipated need for transfusion Bleeding disorder requiring replacement factor or blood products or special infusion products to correct a coagulation
+
+defect
+
+Cardiac arrhythmia (symptomatic arrhythmia despite medication) Chronic obstructive pulmonary disease (COPD) (FEV1 < 50%) Coronary artery disease [(CAD)/peripheral vascular disease (PVD)] [ongoing cardiac ischemia requiring medical
+
+management or recently placed (within 1 year) drug eluting stent]
+
+Developmental stage or cognitive status warranting use of a hospital outpatient department End stage renal disease [(hyperkalemia above reference range) receiving peritoneal or hemodialysis] History of cerebrovascular accident (CVA) or transient ischemic attack (TIA) [recent event (< 3 months)] History of myocardial infarction (MI) [recent event (< 3 months)]
+
+Screening Colonoscopy Procedures – Site of Service UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 1 of 4 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Individuals with drug eluting stents (DES) placed within one year or bare metal stents (BMS) or plain angioplasty within 90 days unless acetylsalicylic acid and antiplatelet drugs will be continued by agreement of surgeon, cardiologist, and anesthesia
+
+Ongoing evidence of myocardial ischemia Poorly Controlled asthma (FEV1 < 80% despite medical management) Resistant hypertension (Poorly Controlled) Severe valvular heart disease Sleep apnea [moderate to severe Obstructive Sleep Apnea (OSA)] Uncompensated chronic heart failure (CHF) (NYHA Class III or IV) Uncontrolled diabetes with recurrent diabetic ketoacidosis (DKA) or severe hypoglycemia
+
+A planned preventive screening colonoscopy performed in a hospital outpatient department is considered medically necessary if there is an inability to access an ambulatory surgical center for the procedure due to any one of the following: • There is no geographically accessible ambulatory surgical center that has the necessary equipment for the procedure (examples include but are not limited to fluoroscopy, laser, ocular equipment, operating microscope, and nonstandard scopes required to perform specialized procedures*); or
+
+An ASC’s specific guideline regarding the individual’s weight or health conditions that prevents the use of an ASC
+
+Note: This specifically excludes surgeon preferred or proprietary instruments, instrument sets, or hardware sets.
+
+Site of service medical necessity reviews will be conducted for planned preventive screening colonoscopies on the Applicable Codes List only when performed in an outpatient hospital setting.
+
+Medical Records Documentation for Review
+
+Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service. Medical records documentation may be required to assess whether the member meets the clinical criteria for coverage but does not guarantee coverage of the service requested; refer to the protocol titled Medical Records Documentation Used for Reviews.
+
+Definitions
+
+American Society of Anesthesiologists (ASA) Physical Status Classification System Risk Scoring Tool: The ASA physical status classification system was developed to offer clinicians a simple categorization of a patient’s physiological status that can be helpful in predicting operative risk. The ASA score is a subjective assessment of a patient’s overall health that is based on five classes (ASA, 2020).
+
+New York Heart Association (NYHA) Classification: NYHA Classification is an ordinal, categorical variable (I-IV) that is used to document functional limitation in patients with cardiac disease, including heart failure (HF). NYHA class I includes patients with no limitations in physical activity resulting from their HF. NYHA class II includes patients who are comfortable at rest but have slight symptoms resulting from HF (dyspnea,
+
+fatigue, lightheadedness) with ordinary activity.
+
+NYHA class III includes patients who are comfortable at rest but have symptoms of HF with less than ordinary activity. NYHA class IV includes patients who are unable to carry out any physical activity without symptoms and have
+
+symptoms at rest.
+
+(Heidenreich, 2022)
+
+Obstructive Sleep Apnea (OSA): The American Academy of Sleep Medicine (AASM) defines OSA as a sleep related breathing disorder that involves a decrease or complete halt in airflow despite an ongoing effort to breathe. OSA severity is defined as: Mild for AHI or RDI ≥ 5 and < 15 Moderate for AHI or RDI ≥ 15 and ≤ 30 Severe for AHI or RDI > 30/hr. (AASM, 2008)
+
+Poorly Controlled: Requiring three or more drugs to control blood pressure (Sheppard, 2017).
+
+Screening Colonoscopy Procedures – Site of Service UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 2 of 4 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Applicable Codes
+
+The following list(s) of procedure and/or diagnosis codes is provided for reference purposes only and may not be all inclusive. Listing of a code in this policy does not imply that the service described by the code is a covered or non-covered health service. Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service. The inclusion of a code does not imply any right to reimbursement or guarantee claim payment. Other Policies and Guidelines may apply.
+
+CPT Code 45378
+
+Description Colonoscopy, flexible; diagnostic, including collection of specimen(s) by brushing or washing, when performed (separate procedure) Colonoscopy, flexible; with biopsy, single or multiple Colonoscopy, flexible; with directed submucosal injection(s), any substance Colonoscopy, flexible; with removal of tumor(s), polyp(s), or other lesion(s) by hot biopsy forceps Colonoscopy, flexible; with removal of tumor(s), polyp(s), or other lesion(s) by snare technique
+
+45380 45381 45384 45385
+
+CPT® is a registered trademark of the American Medical Association
+
+HCPCS Code G0105 G0121
+
+Description
+
+Colorectal cancer screening; colonoscopy on individual at high risk Colorectal cancer screening; colonoscopy on individual not meeting criteria for high risk
+
+Diagnosis Code Z00.00 Z00.01 Z12.10 Z12.11 Z12.12 Z80.0 Z83.710 Z83.711 Z83.718 Z83.719 Z83.72 Z83.79
+
+Description
+
+Encounter for general adult medical examination without abnormal findings Encounter for general adult medical examination with abnormal findings Encounter for screening for malignant neoplasm of intestinal tract, unspecified Encounter for screening for malignant neoplasm of colon Encounter for screening for malignant neoplasm of rectum Family history of malignant neoplasm of digestive organs Family history of adenomatous and serrated polyps Family history of hyperplastic colon polyps Other family history of colon polyps Family history of colon polyps, unspecified Family history of familial adenomatous polyposis Family history of other diseases of the digestive system
+
+Clinical Evidence
+
+A 2020 ECRI Clinical Evidence Assessment on criteria for anesthesia use and monitoring in patients undergoing colonoscopy focused on the evidence-based, guideline-directed standard-of-care (SOC) practices for managing anesthesia use in patients undergoing colonoscopy. Guidelines address five areas of care: patient evaluation for risk from anesthesia, monitoring and support needed during a procedure, determining sedative and analgesic use, and monitoring patient recovery. Three guidelines supported by systematic reviews were identified. The guidelines indicated that patients undergoing anesthesia should be classified into 1 of 6 risk categories using the American Society of Anesthesiologists (ASA) physical status classification to quantify overall comorbid disease risk. The higher the classification, the greater the risk to the patient. (ECRI, 2020)
+
+Clinical Practice Guidelines American Society of Anesthesiologists (ASA) The ASA Physical Status Classification System’s purpose is to assess and communicate a patient’s pre-anesthesia medical co-morbidities. Physical Status Classification: ASA I – A normal healthy patient ASA II - A patient with mild systemic disease
+
+Screening Colonoscopy Procedures – Site of Service UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 3 of 4 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+ASA III - A patient with severe systemic disease ASA IV - A patient with severe systemic disease that is a constant threat to life ASA V - A moribund patient who is not expected to survive without the operation ASA VI - A declared brain-dead patient whose organs are being removed for donor purposes (ASA, 2020)
+
+References
+
+American Academy of Sleep Medicine (AASM). Obstructive Sleep Apnea. 2008. Available at: https://aasm.org/resources/factsheets/sleepapnea.pdf. Accessed October 23, 2024.
+
+American Society of Anesthesiologists. Statement on ASA Physical Status Classification System (asahq.org). December 13, 2020. Accessed October 23, 2024.
+
+ECRI Institute. Criteria for anesthesia use and monitoring in patients undergoing colonoscopy. Plymouth Meeting (PA): ECRI Institute; 2020 Jan 31. (Custom Rapid Responses).
+
+Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2022 May 3;145(18):e895-e1032. Erratum in: Circulation. 2022 Sep 27;146(13):e185. Erratum in: Circulation. 2023 Apr 4;147(14):e674.
+
+Policy History/Revision Information
+
+Date 05/01/2025
+
+Summary of Changes
+
+Template Update Created shared policy version to support application to Rocky Mountain Health Plans
+
+membership
+
+Application Individual Exchange Removed language indicating this Medical Policy does not apply to the state of Colorado Supporting Information Archived previous policy version MP.15.09
+
+Instructions for Use
+
+This Medical Policy provides assistance in interpreting UnitedHealthcare standard benefit plans. When deciding coverage, the member specific benefit plan document must be referenced as the terms of the member specific benefit plan may differ from the standard plan. In the event of a conflict, the member specific benefit plan document governs. Before using this policy, please check the member specific benefit plan document and any applicable federal or state mandates. UnitedHealthcare reserves the right to modify its Policies and Guidelines as necessary. This Medical Policy is provided for informational purposes. It does not constitute medical advice.
+
+This Medical Policy may also be applied to Medicare Advantage plans in certain instances. In the absence of a Medicare National Coverage Determination (NCD), Local Coverage Determination (LCD), or other Medicare coverage guidance, CMS allows a Medicare Advantage Organization (MAO) to create its own coverage determinations, using objective evidence-based rationale relying on authoritative evidence (Medicare IOM Pub. No. 100-16, Ch. 4, §90.5).
+
+UnitedHealthcare may also use tools developed by third parties, such as the InterQual® criteria, to assist us in administering health benefits. UnitedHealthcare Medical Policies are intended to be used in connection with the independent professional medical judgment of a qualified health care provider and do not constitute the practice of medicine or medical advice.
+
+Screening Colonoscopy Procedures – Site of Service UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 4 of 4 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.

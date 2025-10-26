@@ -1,0 +1,415 @@
+10/25/25, 12:05 PM
+
+CG-MED-98 Parenteral Antibiotics for the Treatment of Lyme Disease
+
+Clinical UM Guideline
+
+Subject: Parenteral Antibiotics for the Treatment of Lyme Disease
+
+Guideline #: CG-MED-98
+
+Publish Date: 01/30/2025
+
+Status: New
+
+Last Review Date: 11/14/2024
+
+Description
+
+This document addresses the use of parenteral antibiotics (i.e., intravenous and intramuscular) for the treatment of Lyme disease.
+
+Clinical Indications
+
+Medically Necessary:
+
+A course of up to 4 weeks of intravenous (IV) antibiotic therapy is considered medically necessary for individuals with Lyme disease meeting BOTH criteria A and B below:
+
+A. The condition to be treated is ONE of the following (1, 2, or 3): 1. Myocarditis associated with any of the following:
+
+a. First-degree heart block when the PR interval is prolonged to 300 milliseconds or greater; or b. Second-degree atrioventricular block; or c. Third-degree atrioventricular block;
+
+or
+
+2. Persistent or recurrent joint swelling (that is, arthritis) after an initial 1 month trial of oral antibiotics; or 3. Acute or chronic neurological disease affecting the central or peripheral nervous system, including ANY of
+
+the following:
+
+F e e d b a c k
+
+a. Meningitis; or b. Any neurologic syndrome with cerebrospinal fluid (CSF) pleocytosis; or c. Peripheral neurologic syndromes with normal CSF (including radiculopathy, diffuse neuropathy,
+
+mononeuropathy multiplex, or cranial neuropathy) if severe or following treatment failure with oral antibiotic therapy; or d. Encephalomyelitis; or e. Encephalopathy
+
+and
+
+B. The antibiotic used is:
+
+1. Ceftriaxone (Rocephin®), cefotaxime (Claforan®), or Penicillin G; or 2. Azithromycin (Zithromax®) in individuals with betalactam allergy or intolerance.
+
+Not Medically Necessary:
+
+Intravenous (IV) antibiotic therapy for individuals with Lyme disease is considered not medically necessary when criteria are not met, including when the following IV drugs are used:
+
+A. Carbapenems (for example, doripenem, ertapenem, imipenem, meropenem); or B. First-generation cephalosporins (for example, cefazolin); or C. Fluconazole; or D. Fluoroquinolones (for example, levofloxacin, moxifloxacin).
+
+Other indications for intravenous (IV) antibiotic therapy for Lyme disease are considered not medically necessary, including, but not limited to any of the following:
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e003382.html
+
+1/9
+
+10/25/25, 12:05 PM
+
+CG-MED-98 Parenteral Antibiotics for the Treatment of Lyme Disease
+
+A. Prophylactic treatment of individuals who have reported a tick bite but have no clinical findings suggestive of Lyme
+
+disease; or
+
+B. Treatment of individuals with systemic symptoms without serologic or cerebrospinal fluid (CSF) studies confirming
+
+Lyme disease; or
+
+C. Treatment of chronic fatigue syndrome or fibromyalgia attributed to Lyme disease; or D. Initial treatment of Lyme arthritis without coexisting neurological symptoms; or E. Treatment of persistent Lyme-associated arthritis after 2 prior courses of antibiotic therapy; or F. Treatment of “post-Lyme disease” syndrome; or G. Repeat or prolonged courses (greater than 4 weeks) of intravenous antibiotics.
+
+Intramuscular antibiotics as a treatment of any aspect of Lyme disease are considered not medically necessary.
+
+Coding
+
+The following codes for treatments and procedures applicable to this guideline are included below for informational purposes. Inclusion or exclusion of a procedure, diagnosis or device code(s) does not constitute or imply member coverage or provider reimbursement policy. Please refer to the member's contract benefits in effect at the time of service to determine coverage or non-coverage of these services as it applies to an individual member.
+
+When services may be Medically Necessary when criteria are met for treatment of Lyme disease:
+
+CPT 96365
+
+Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance or drug); initial, up to 1 hour Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance or drug); each additional hour Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance or drug); additional sequential infusion of a new drug/substance, up to 1 hour Intravenous infusion, for therapy, prophylaxis, or diagnosis (specify substance or drug); concurrent infusion
+
+96366
+
+96367
+
+96368
+
+HCPCS J0456 J0696 J0698 J2540 S9494
+
+Injection, azithromycin, 500 mg Injection, ceftriaxone sodium, per 250 mg Injection, cefotaxime sodium, per gm Injection, penicillin G potassium, up to 600,000 units [IV] Home infusion therapy, antibiotic, antiviral, or antifungal therapy; administrative services, professional pharmacy services, care coordination, and all necessary supplies and equipment, per diem Home infusion therapy, antibiotic, antiviral, or antifungal therapy; once every 3 hours Home infusion therapy, antibiotic, antiviral, or antifungal therapy; once every 24 hours Home infusion therapy, antibiotic, antiviral, or antifungal therapy, once every 12 hours Home infusion therapy, antibiotic, antiviral, or antifungal therapy, once every 8 hours Home infusion therapy, antibiotic, antiviral, or antifungal therapy, once every 6 hours Home infusion therapy, antibiotic, antiviral, or antifungal therapy, once every 4 hours
+
+S9497 S9500 S9501 S9502 S9503 S9504
+
+ICD-10 Diagnosis A69.20-A69.29
+
+Lyme disease
+
+When services are Not Medically Necessary for treatment of Lyme disease: For the procedure and diagnosis codes listed above when criteria are not met, or when the code describes a procedure indicated in the Position Statement section as investigational and not medically necessary.
+
+When services also are Not Medically Necessary for treatment of Lyme disease:
+
+CPT 96372
+
+Therapeutic, prophylactic or diagnostic injection (specify substance or drug); subcutaneous or intramuscular [when specified as intramuscular antibiotic injection]
+
+HCPCS
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e003382.html
+
+2/9
+
+10/25/25, 12:05 PM
+
+CG-MED-98 Parenteral Antibiotics for the Treatment of Lyme Disease
+
+J0558 J0561 J0687 J0688 J0689 J0690 J0743 J0744 J1267 J1335 J1450 J1956 J2183 J2184 J2185 J2280 J2281 J2510
+
+Injection, penicillin G benzathine and penicillin G procaine, 100,000 units [IM] Injection, penicillin G benzathine, 100,000 units [IM] Injection, cefazolin sodium (WG Critical Care), not therapeutically equivalent to J0690, 500 mg Injection, cefazolin sodium (Hikma), not therapeutically equivalent to J0690, 500 mg Injection, cefazolin sodium (Baxter), not therapeutically equivalent to J0690, 500 mg Injection, cefazolin sodium, 500 mg Injection, cilastatin sodium; imipenem, per 250 mg Injection, ciprofloxacin for intravenous infusion, 200 mg Injection, doripenem, 10 mg Injection, ertapenem sodium, 500 mg Injection, fluconazole, 200 mg Injection, levofloxacin, 250 mg Injection, meropenem (WG Critical Care), not therapeutically equivalent to J2185, 100 mg Injection, meropenem (B. Braun), not therapeutically equivalent to J2185, 100 mg Injection, meropenem, 100 mg Injection, moxifloxacin, 100 mg Injection, moxifloxacin (Fresenius Kabi), not therapeutically equivalent to J2280, 100 mg Injection, penicillin G procaine, aqueous, up to 600,000 units [IM]
+
+ICD-10 Diagnosis A69.20-A69.29
+
+Lyme disease
+
+Discussion/General Information
+
+Lyme disease is a multisystem inflammatory disease caused by the spirochete Borrelia burgdorferi and transmitted by the bite of an infected ixodid tick endemic to Northeastern, North Central, and Pacific coastal regions of the United States. The disease is characterized by stages, beginning with localized infection of the skin (erythema migrans), followed by dissemination to many sites. Manifestations of early disseminated disease may include lymphocytic meningitis, facial palsy, painful radiculoneuritis, atrioventricular nodal block, or migratory musculoskeletal pain. Months to years later, the disease may manifest as intermittent oligoarthritis (particularly involving the knee joint), chronic encephalopathy, spinal pain, or distal paresthesias. While most manifestations of Lyme disease can be adequately treated with oral antibiotics, intravenous (IV) antibiotics are indicated in some individuals with neurologic involvement or atrioventricular heart block. However, over-diagnosis and over-treatment of Lyme disease is common due to its nonspecific symptoms, a lack of standardization of serologic tests, and difficulties in interpreting serologic test results. In particular, individuals with chronic fatigue syndrome or fibromyalgia are commonly misdiagnosed as possibly having Lyme disease and undergo inappropriate IV antibiotic therapy.
+
+Risk factors for contracting Lyme disease are based on exposure to outside environments in areas where Lyme disease occurs. Such activities include working in or near tick-infested woods or overgrown brush. Additionally, people who spend time outside or participate in leisure activities such as hunting, fishing, hiking, or camping may be at higher risk for Lyme disease. Any of these activities bring these participants into areas where ticks may be present.
+
+The following paragraphs describe the various manifestations of Lyme disease that may prompt therapy with IV antibiotics (IDSA, 2006).
+
+Neurologic Manifestations of Lyme Disease (Neuroborreliosis)
+
+Lymphocytic meningitis, characterized by head and neck pain, may occur during the acute disseminated stage of the disease. Analysis of the cerebrospinal fluid (CSF) is indispensable for the diagnosis of Lyme meningitis. If the individual has Lyme disease, the CSF will show a lymphocytic pleocytosis and increased levels of protein. Intrathecal production of antibodies directed at spirochetal antigens is typically present. A normal CSF analysis is strong evidence against Lyme meningitis. Treatment with a 2- to 4-week course of IV antibiotics, typically ceftriaxone or cefotaxime, is recommended.
+
+Cranial neuritis, most frequently facial nerve (Bell’s) palsy, may present early in the course of disseminated Lyme disease. This can occasionally occur prior to the development of anti-spirochetal antibodies, making it difficult to recognize Lyme disease as the cause. While Bell’s palsy typically resolves spontaneously with or without oral antibiotic treatment , some physicians have recommended a lumbar puncture and a course of IV antibiotics if pleocytosis in the CSF is identified, primarily as a prophylactic measure to prevent further neurologic symptoms.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e003382.html
+
+3/9
+
+10/25/25, 12:05 PM
+
+CG-MED-98 Parenteral Antibiotics for the Treatment of Lyme Disease
+
+A subacute encephalopathy may occur months to years after disease onset, characterized by subtle disturbances in memory, mood, sleep, or cognition accompanied by fatigue. These symptoms may occur in the absence of abnormalities in the electroencephalogram (EEG), magnetic resonance imaging (MRI), or CSF. In addition, the symptoms are nonspecific and overlap with fibromyalgia and chronic fatigue syndrome. Thus, diagnosis of Lyme encephalopathy may be difficult and may be best diagnosed with a mental status exam or neuropsychological testing. However, treatment with IV antibiotics is generally not indicated unless CSF abnormalities are identified.
+
+Much rarer, but of greater concern, is the development of encephalomyelitis, characterized by spastic paraparesis, ataxias, cognitive impairment, bladder dysfunction, and cranial neuropathy. CSF examination reveals a pleocytosis and an elevation in protein. Selective synthesis of anti-spirochetal antigens can also be identified. A course of IV antibiotics with 3 to 4 weeks of ceftriaxone is suggested when CSF abnormalities are identified.
+
+A variety of peripheral nervous system manifestations of Lyme disease have also been identified. Symptoms of peripheral neuropathy include paresthesias or radicular pain with only minimal sensory signs. Individuals typically exhibit electromyographic (EMG) or nerve conduction velocity abnormalities. CSF abnormalities are usually seen only in those individuals with a coexistent encephalopathy.
+
+Cardiac Manifestations of Lyme Disease
+
+Lyme carditis may appear during the early dissemination stage of the disease; symptoms include atrioventricular heart block, tachyarrhythmias, and myopericarditis. Antibiotics are typically given, although no evidence proves that this therapy hastens the resolution of symptoms. Both oral and IV regimens have been advocated. Intravenous regimens are typically used in individuals with a high degree atrioventricular block or a PR interval on the electrocardiogram (EKG) of greater than 0.3 seconds (300 milliseconds). Individuals with milder forms of carditis are treated with oral antibiotics (Lantos, 2021).
+
+Lyme Arthritis
+
+Lyme arthritis is a late manifestation of infection and is characterized by an elevated IgG response to B. burgdorferi and intermittent attacks of oligoarticular arthritis, primarily in the large joints such as the knee. Individuals with Lyme arthritis may be successfully treated with a 30-day course of oral doxycycline or amoxicillin, but care must be taken to exclude simultaneous central nervous system (CNS) involvement, requiring IV antibiotic treatment. In the small subset of individuals who do not respond to oral antibiotics, an additional 30-day course of oral or IV antibiotics may be recommended.
+
+Fibromyalgia and Chronic Fatigue Syndrome
+
+Fibromyalgia and chronic fatigue syndrome should be considered in the differential diagnosis of Lyme disease. Fibromyalgia is characterized by musculoskeletal complaints, multiple trigger points, difficulty in sleeping, generalized fatigue, headache, or neck pain. The joint pain associated with fibromyalgia is typically diffuse, in contrast to Lyme arthritis which is characterized by marked joint swelling in one or a few joints at a time, with few systemic symptoms. Chronic fatigue syndrome is characterized by multiple subjective complaints, such as overwhelming fatigue, difficulty in concentration, and diffuse muscle and joint pain. In contrast to Lyme disease, both of the above conditions lack joint inflammation, have normal neurological test results, or have test results suggesting anxiety or depression. Neither fibromyalgia nor chronic fatigue syndrome has been shown to respond to antibiotic therapy.
+
+A diagnosis of Lyme disease requires appropriate epidemiologic data, supporting clinical observations (including exposure to ixodid ticks in an endemic area), and supporting laboratory findings. Over-diagnosis and over-treatment of Lyme disease is common (American College of Rheumatology, 1993; Hu, 1993; Steere, 1993). Intravenous antibiotic therapy in individuals with presumed Lyme disease may be inappropriately recommended in several scenarios, including the following situations: an incorrect diagnosis; prolonged or repeated courses of IV antibiotics; and use of IV antibiotics when oral antibiotics are adequate. Lyme disease may be incorrectly diagnosed for individuals with positive serologies without characteristic signs or symptoms of Lyme disease; or for those with non-specific symptoms, but with no known exposure to ticks in an endemic area; or for those without supporting serologic evidence.
+
+Published literature suggests that use of IV antibiotic therapy should be limited to those individuals with objective and laboratory evidence of neuroborreliosis, those individuals with carditis and some degree of heart block, or in those with well-documented severe Lyme arthritis that does not respond to initial oral antibiotic therapy (Pachner, 1995; Rahn, 1991; Sigal, 1992 and 1995; Steere, 1997). Multiple randomized controlled studies and reviews of long-term antibiotic treatment for Lyme disease have failed to show a sustained positive therapeutic outcome (Dattwyler, 1997; Fallon, 2007; Halperin, 2007a; Kaplan, 2003; Krupp, 2003; Oksi, 2007; Wormser, 2006).
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e003382.html
+
+4/9
+
+10/25/25, 12:05 PM
+
+CG-MED-98 Parenteral Antibiotics for the Treatment of Lyme Disease
+
+In contrast to this body of data is a longitudinal cohort study of 158 participants with significant neuropsychiatric symptoms of at least 3 months duration and laboratory-confirmed Lyme disease (Stricker, 2011). Participants in this study were treated with long-term IV ceftriaxone. The dose, frequency, and length of treatment were not standardized, but were left to the discretion of the treating physician. Participants were categorized into five groups based on length of treatment: (1) 1-4 weeks (n=32); (2) 5-8 weeks (n=33); (3) 9-12 weeks (n=28); (4) 13-24 weeks (n=37); and (5) 25-52 weeks (n=28). Symptom outcomes were measured by a questionnaire developed by the investigators that evaluated three major categories including pain, neurologic function, and general symptoms. The study’s primary outcomes were improvement in fatigue, cognition, myalgia, and arthralgia using the measurement tool. Baseline measures indicated significant variation in the degree of symptom severity, but the authors note that this variation reflected real-world presentation of Lyme neuroborreliosis. The results show that arthralgias were significantly improved during the 1-4 week treatment period, (p=0.04) but that no significant improvements were noted in any of the other time periods. Both myalgias and fatigue were significantly improved during the 5-8, 13-14, and 25-52 week periods (p=0.03, p=0.01, and p=0.01, respectively). Cognition was only significantly improved in the 25-52 week timeframe (p=0.02). No data were provided regarding the impact of the different dosing or treatment protocols. These results provide some data to indicate that longer-length treatment may improve various symptom categories. However; the uncontrolled nature of this study, the lack of standard treatment protocols and dosing, the use of an unvalidated outcome tool, and the small sample size of each group do not permit reasonable conclusions about the causal relationship of longer treatment to symptom improvement.
+
+In 2007, a practice parameter published by the American Academy of Neurology (AAN) stated that “prolonged courses of antibiotics do not improve the outcome of post-Lyme syndrome, are potentially associated with adverse events, and are therefore not recommended (Level A recommendation).” The AAN maintained this position in the 2021 recommendations noted below.
+
+A biostatistical review published by Delong and colleagues concluded that the results of the four NIH-sponsored randomized controlled trials most frequently cited to demonstrate the ineffectiveness of long-term antibiotic therapy for Lyme disease are significantly flawed, and that the conclusions drawn by their authors are unfounded (2012). Delong, et al., evaluated the methodology and results used by Fallon (2008), Kaplan (2003), Klempner (2001), and Krupp (2003) in a systematic manner. Overall, the Delong review indicates that none of the trials were designed to demonstrate non- inferiority of long-term antibiotic therapy. Furthermore, the studies had methodological flaws such as inadequate power due to small sample sizes, insufficient data on drop-outs, inappropriate combination of data, and use of an end point marker not widely recognized by the clinical community. They assert that conclusions by Fallon, et al., regarding improvement in fatigue measures were biased due to unblinding and were unsubstantiated. Delong concludes that, “the inability of these trials to demonstrate a statistically significant finding provides neither proof of the absence of a clinically meaningful treatment effect nor evidence that patients with persistent symptoms suffer from a post-infectious syndrome.” While many of Delong’s points are technically correct, the authors offer no evidence that repeated or long-term antibiotics actually reduce symptoms experienced by individuals after completion of currently recommended (IDSA) antibiotic therapy of Lyme disease. The evidence of improved net health outcomes from long-term antibiotic therapy for the treatment of Lyme disease remains insufficient. Additional evidence from well-designed, properly conducted and analyzed trials is needed to understand the balance of benefits and harms from long-term antibiotic therapy before such a strategy can be considered medically necessary.
+
+In 2012, Fallon and colleagues published an article reappraising the available clinical trial data addressing what they term “post-treatment Lyme disease syndrome.” As with the DeLong article, Fallon discusses a list of methodological flaws in the Klempner report (2001), including accuracy of the Lyme diagnosis, failure to control for pre-treatment disease severity, Klempner’s statistical analyses, and a lack of consideration for the adverse effects of long-term antibiotic therapy. Klempner has disputed these criticisms. A 2014 guideline from the International Lyme and Associated Diseases Society (ILADS) recommends use of long-term antibiotics, but its authors acknowledge that this is based on very low-quality evidence. Guidelines from the IDSA, ANA, and ACR do not support use of long-term antibiotics.
+
+In 2019, Berende and others published the results of the Persistent Lyme Empiric Antibiotic Study Europe (PLEASE) trial. This was a randomized, placebo-controlled study involving 239 participants with persistent Lyme disease. All participants received a 2-week open-label regimen of intravenous ceftriaxone before a 12-week blinded oral regimen involving doxycycline, clarithromycin/hydroxychloroquine, or placebo. After 14 weeks, no differences between the treatment arms were reported with regard to performance in cognitive domains (p=0.49-0.82). At follow-up, no additional treatment effect or difference between groups was found at any time point (p=0.35-0.98 and p=0.37-0.93, respectively). The authors concluded, “This study provides Class II evidence that longer-term antibiotics in patients with borreliosis-attributed persistent symptoms does not increase cognitive performance compared to shorter-term antibiotics.”
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e003382.html
+
+5/9
+
+10/25/25, 12:05 PM
+
+CG-MED-98 Parenteral Antibiotics for the Treatment of Lyme Disease
+
+In 2020, the Association of the Scientific Medical Societies in Germany (AWMF, Rauer, 2020) published their guidelines for diagnosis and treatment in neurology. Their key recommendations* regarding neuroborreliosis were:
+
+A suspected clinical diagnosis of neuroborreliosis (cranial nerve deficits, meningitis/meningoradiculitis, encephalomyelitis) can be confirmed by the detection of inflammatory changes in cerebrospinal fluid linked to Borrelia-specific intrathecal antibody synthesis. Serological testing should only be conducted if there is sufficient clinical suspicion. ↑↑ (consensus 10/13) The following antibiotics should be used to treat early and late Lyme neuroborreliosis: doxycycline, ceftriaxone, cefotaxime, penicillin G. ↑↑ (consensus 9/13) Antibiotic treatment should last 14 days (early Lyme borreliosis) or 14–21 days (late Lyme borreliosis). ↑↑ (strong consensus 13/13) Estimation of treatment success should be based on the clinical symptoms. ↑↑ (strong consensus 12/12)
+
+“↑↑” Indicates a strong recommendation.
+
+The Infectious Diseases Society of America (IDSA), the American Academy of Neurology (AAN), and the American College of Rheumatology (ACR) published a combined set of clinical practice guidelines for the prevention, diagnosis, and treatment of Lyme disease (Lantos, 2021). Regarding the use of IV antibiotics for the treatment of Lyme disease, the guidelines state the following:
+
+XIII. What are the preferred antibiotic regimens for the treatment of acute neurologic manifestations of Lyme disease without parenchymal involvement of the brain or spinal cord? Recommendation
+
+1. In patients with Lyme disease–associated meningitis, cranial neuropathy, radiculoneuropathy, or with other
+
+peripheral nervous system (PNS) manifestations, we recommend using IV ceftriaxone, cefotaxime, penicillin G, or oral doxycycline over other antimicrobials (strong recommendation, moderate-quality evidence). Comment: Decisions about the choice of antibiotic among these, including the route of administration, should primarily be made based on individual factors such as side effect profile, ease of administration, ability to tolerate oral medication, and concerns about compliance unrelated to effectiveness. Treatment route may be changed from IV to oral during treatment. The preferred antibiotic duration is 14-21 days.
+
+XVI. Which patients with Lyme carditis require hospitalization?
+
+1. In patients with or at risk for severe cardiac complications of Lyme disease including those with significant PR
+
+prolongation (PR >300 milliseconds), other arrhythmias, or clinical manifestations of myopericarditis, we recommend hospital admission with continuous ECG monitoring (strong recommendation, very low-quality evidence).
+
+XIV. Should patients with Lyme disease-related parenchymal involvement of the brain or spinal cord be treated with oral or IV antibiotics? Recommendation
+
+1. In patients with Lyme disease-associated parenchymal involvement of the brain or spinal cord, we recommend
+
+using IV over oral antibiotics (strong recommendation, moderate-quality evidence).
+
+XIX. What are the preferred antibiotic regimens for the treatment of Lyme carditis? Recommendations
+
+1. In outpatients with Lyme carditis, we suggest oral antibiotics over IV antibiotics (weak recommendation, very-low-
+
+quality evidence).
+
+2. In the hospitalized patient with Lyme carditis, we suggest initially using IV ceftriaxone over oral antibiotics until there is evidence of clinical improvement and then switching to oral antibiotics to complete treatment (weak recommendation, very-low-quality evidence).
+
+3. For the treatment of Lyme carditis, we suggest 14-21 days of total antibiotic therapy over longer durations of
+
+treatment (weak recommendation, very-low-quality evidence). Comment: Oral antibiotic choices for Lyme carditis are doxycycline, amoxicillin, cefuroxime axetil, and azithromycin.
+
+XXII. What are the preferred antibiotic regimens for the initial treatment of Lyme arthritis? Recommendation
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e003382.html
+
+6/9
+
+10/25/25, 12:05 PM
+
+CG-MED-98 Parenteral Antibiotics for the Treatment of Lyme Disease
+
+1. For patients with Lyme arthritis, we recommend using oral antibiotic therapy for 28 days (strong recommendation,
+
+moderate-quality evidence).
+
+XXIII. What are the approaches to patients in whom Lyme arthritis has not completely resolved? Recommendations
+
+1. In patients with Lyme arthritis with partial response (mild residual joint swelling) after a first course of oral antibiotic, we make no recommendation for a second course of antibiotic vs observation (no recommendation, knowledge gap). Comment: Consideration should be given to exclusion of other causes of joint swelling than Lyme arthritis, medication adherence, duration of arthritis before initial treatment, degree of synovial proliferation vs joint swelling, patient preferences, and cost. A second course of oral antibiotics for up to 1 month may be a reasonable alternative for patients in whom synovial proliferation is modest compared with joint swelling and for those who prefer repeating a course of oral antibiotics before considering IV therapy.
+
+2. In patients with Lyme arthritis with no or minimal response (moderate to severe joint swelling with minimal reduction of the joint effusion) to an initial course of oral antibiotic, we suggest a 2- to 4-week course of IV ceftriaxone over a second course of oral antibiotics (weak recommendation, low-quality evidence).
+
+XXIV. How should postantibiotic (previously termed antibiotic refractory) Lyme arthritis be treated? Recommendation
+
+1. In patients who have failed 1 course of oral antibiotics and 1 course of IV antibiotics, we suggest a referral to a rheumatologist or other trained specialist for consideration of the use of disease modifying antirheumatic drugs (DMARDs), biologic agents, intra-articular steroids, or arthroscopic synovectomy (weak recommendation, very-low- quality evidence). Comment: Antibiotic therapy for longer than 8 weeks is not expected to provide additional benefit to patients with persistent arthritis if that treatment has included 1 course of IV therapy.
+
+XXV. Should patients with persistent symptoms following standard treatment of Lyme disease receive additional antibiotics? Recommendation
+
+1. For patients who have persistent or recurring nonspecific symptoms such as fatigue, pain, or cognitive impairment following recommended treatment for Lyme disease, but who lack objective evidence of reinfection or treatment failure, we recommend against additional antibiotic therapy (strong recommendation, moderate-quality evidence). Comment: Evidence of persistent infection or treatment failure would include objective signs of disease activity, such as arthritis, meningitis, or neuropathy.
+
+The United States Centers for Disease Control (CDC) published information regarding clinical care and treatment of Lyme carditis in 2024 (CDC, 2024). In that document they indicate IV antibiotic therapy for individuals with severe symptomatic heart block, defined as the presence of 1st degree AV block with PR interval ≥300 milliseconds, for a duration of 14-21 days.
+
+Most of the IDSA/AAN/ACR recommendations are supported by very low to moderate quality evidence. This highlights an overall lack of high-quality data to demonstrate the benefits and harms of any treatment approach, including long-term (greater than 1 month) IV antibiotic therapy. In the absence of high-quality empirical evidence, the opinions expressed by the IDSA, AAN and ACR in the 2021 guideline represent the consensus of the expert practicing community responsible for the treatment of individuals with Lyme disease and the generally accepted standards of medical practice.
+
+Definitions
+
+Arthritis: Inflammation of the joints.
+
+Carditis: Inflammation of the heart.
+
+Chronic fatigue syndrome: A condition of prolonged and severe tiredness or weariness (fatigue) that is not relieved by rest and is not directly caused by other conditions.
+
+Fibromyalgia: A common condition characterized by widespread pain in joints, muscles, tendons, and other soft tissues.
+
+Lyme disease: A disease caused by the bacteria Borrelia burgdorferi, which is transmitted through the bite of the deer tick (Ixodes scapularis).
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e003382.html
+
+7/9
+
+10/25/25, 12:05 PM
+
+CG-MED-98 Parenteral Antibiotics for the Treatment of Lyme Disease
+
+Neurological involvement: When a medical condition involves the nervous system.
+
+Pleocytosis: an increase in cell counts, such as an abnormal number of white blood cells in cerebrospinal fluid.
+
+PR interval: A portion of an electrocardiogram that measures the distance in time (in seconds) from the beginning of the P wave to the beginning of the R wave. The normal PR interval duration range is from 0.12 sec – 0.20 sec. Longer PR intervals may indicate electrical conduction problems within the heart.
+
+Prophylactic antibiotic therapy: The use of antibiotic medications in order to prevent infection when no infection exists.
+
+References
+
+Peer Reviewed Publications:
+
+1. Berende A, Ter Hofstede HJM, Vos FJ, et al. Effect of prolonged antibiotic treatment on cognition in patients with
+
+Lyme borreliosis. Neurology. 2019; 92(13):e1447-e1455.
+
+2. Dattwyler RJ, Luft BJ, Kunkel MJ, et al. Ceftriaxone compared with doxycycline for the treatment of acute
+
+disseminated Lyme disease. N Engl J Med. 1997; 337(5):289-294.
+
+3. Delong AK, Blossom B, Maloney EL, Phillips SE. Antibiotic retreatment of Lyme disease in patients with persistent symptoms: a biostatistical review of randomized, placebo-controlled, clinical trials. Contemp Clin Trials. 2012; 33(6):1132-1142.
+
+4. Fallon BA, Keilp JG, Corbera KM, et al. A randomized, placebo-controlled trial of repeated IV antibiotic therapy for
+
+Lyme encephalopathy. Neurology. 2008; 70(13):992-1003.
+
+5. Fallon BA, Petkova E, Keilp JG, Britton CB. A reappraisal of the U.S. clinical trials of post-treatment Lyme disease
+
+syndrome. Open Neurol J. 2012; 6:79-87.
+
+6. Halperin JJ. Prolonged Lyme disease treatment: enough is enough. Neurology. 2008; 70(13):986-987. 7. Hsu VM, Patella SJ, Sigal LH. “Chronic Lyme disease” as the incorrect diagnosis in patients with fibromyalgia.
+
+Arthritis Rheum. 1993; 36(11):1493-1500.
+
+8. Kaplan RF, Trevino RP, Johnson GM, et al. Cognitive function in post-treatment Lyme disease: do additional
+
+antibiotics help? Neurology. 2003; 60(12):1916-1922.
+
+9. Klempner MS, Baker PJ, Shapiro ED, et al. Treatment trials for post-Lyme disease symptoms revisited. Am J Med.
+
+2013; 126(8):665-669.
+
+10. Klempner MS, Hu LT, Evans J, et al. Two controlled trials of antibiotic treatment in patients with persistent
+
+symptoms and a history of Lyme disease. N Engl J Med. 2001; 345(2):85-92.
+
+11. Krupp LB, Hyman LG, Grimson R, et al. Study and treatment of post Lyme disease (STOP-LD): a randomized
+
+double masked clinical trial. Neurology 2003; 60(12):1923-1930.
+
+12. Oksi J, Nikoskelainen J, Hiekkanen H, et al. Duration of antibiotic treatment in disseminated Lyme borreliosis: a double-blind, randomized, placebo-controlled, multicenter clinical study. Eur J Clin Microbiol Infect Dis. 2007; 26(8):571-581.
+
+13. Pachner AR. Early disseminated Lyme disease: Lyme meningitis. Am J Med. 1995; 98(4A):30S-43S. 14. Sigal LH. Early disseminated Lyme disease: cardiac manifestations. Am J Med. 1995; 98(4A):25S-29S. 15. Steere AC. Diagnosis and treatment of Lyme arthritis. Med Clin North Am. 1997; 81(1):179-194. 16. Steere AC, Taylor E, McHugh GL, Logigian EL. The overdiagnosis of Lyme disease. JAMA. 1993; 269(14):1812-
+
+1816.
+
+17. Stricker RB, Delong AK, Green CL, et al. Benefit of intravenous antibiotic therapy in patients referred for treatment
+
+of neurologic Lyme disease. Int J Gen Med. 2011; 4:639-646.
+
+Government Agency, Medical Society, and Other Authoritative Publications:
+
+1. Cadavid D, Auwaerter PG, Rumbaugh J, Gelderblom H. Antibiotics for the neurological complications of Lyme
+
+disease. Cochrane Database Syst Rev. 2016;(12):CD006978.
+
+2. Cameron DJ, Johnson LB, Maloney EL. Evidence assessments and guideline recommendations in Lyme disease: the clinical management of known tick bites, erythema migrans rashes and persistent disease. Expert Rev Anti Infect Ther. 2014; 12(9):1103-1135.
+
+3. Halperin JJ, Shapiro ED, Logigian E, et al.; Quality Standards Subcommittee of the American Academy of
+
+Neurology. Practice parameter: treatment of nervous system Lyme disease (an evidence-based review): report of the Quality Standards Subcommittee of the American Academy of Neurology. Neurology. 2007a; 69(1):91-102. 4. Lantos PM, Rumbaugh J, Bockenstedt LK, et al. Clinical practice guidelines by the Infectious Diseases Society of
+
+America, American Academy of Neurology, and American College of Rheumatology: 2020 guidelines for the prevention, diagnosis, and treatment of Lyme disease. Neurology. 2021; 96(6):262-273.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e003382.html
+
+8/9
+
+10/25/25, 12:05 PM
+
+CG-MED-98 Parenteral Antibiotics for the Treatment of Lyme Disease
+
+5. Mygland A, Ljøstad U, Fingerle V, et al.; European Federation of Neurological Societies. EFNS guidelines on the
+
+diagnosis and management of European Lyme neuroborreliosis. Eur J Neurol. 2010; 17(1):8-16, e1-4.
+
+6. Rauer S, Kastenbauer S, Hofmann H, et al.; Consensus group. Guidelines for diagnosis and treatment in neurology
+
+Lyme neuroborreliosis. Ger Med Sci. 2020; 18:Doc03.
+
+7. United States Centers for Disease Control (CDC). Clinical care and treatment of Lyme carditis. May 15, 2024.
+
+Available at: https://www.cdc.gov/lyme/hcp/clinical-care/lyme-carditis.html? CDC_AAref_Val=https://www.cdc.gov/lyme/treatment/lymecarditis.html. Accessed on November 14, 2024.
+
+Websites for Additional Information
+
+1. Centers for Disease Control and Prevention. Lyme disease Home Page. Available at: http://www.cdc.gov/lyme/.
+
+Accessed on November 14, 2024.
+
+2. Centers for Disease Control and Prevention. Chronic Symptoms and Lyme Disease. August 30, 2024. Available at: https://www.cdc.gov/lyme/signs-symptoms/chronic-symptoms-and-lyme-disease.html. Accessed on November 14, 2024.
+
+Index
+
+Antibiotic Therapy Intravenous Antibiotic Therapy Lyme Disease
+
+The use of specific product names is illustrative only. It is not intended to be a recommendation of one product over another, and is not intended to represent a complete listing of all products available.
+
+History
+
+Status New
+
+Date 11/14/2024
+
+Action Medical Policy & Technology Assessment Committee (MPTAC) review. Initial document development. Moved content of MED.00013 Parenteral Antibiotics for the Treatment of Lyme Disease to new clinical utilization management guideline document with the same title.
+
+Federal and State law, as well as contract language, and Medical Policy take precedence over Clinical UM Guidelines. We reserve the right to review and update Clinical UM Guidelines periodically. Clinical guidelines approved by the Medical Policy & Technology Assessment Committee are available for general adoption by plans or lines of business for consistent review of the medical necessity of services related to the clinical guideline when the plan performs utilization review for the subject. Due to variances in utilization patterns, each plan may choose whether to adopt a particular Clinical UM Guideline. To determine if review is required for this Clinical UM Guideline, please contact the customer service number on the member's card.
+
+Alternatively, commercial or FEP plans or lines of business which determine there is not a need to adopt the guideline to review services generally across all providers delivering services to Plan’s or line of business’s members may instead use the clinical guideline for provider education and/or to review the medical necessity of services for any provider who has been notified that his/her/its claims will be reviewed for medical necessity due to billing practices or claims that are not consistent with other providers, in terms of frequency or in some other manner.
+
+No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without permission from the health plan.
+
+© CPT Only - American Medical Association
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e003382.html
+
+9/9

@@ -1,0 +1,411 @@
+10/25/25, 12:06 PM
+
+CG-MED-95 Transanal Irrigation
+
+Clinical UM Guideline
+
+Subject: Transanal Irrigation
+
+Guideline #: CG-MED-95
+
+Publish Date: 10/01/2025
+
+Status: Reviewed
+
+Last Review Date: 08/07/2025
+
+Description
+
+Transanal irrigation involves the introduction of water into the rectum using a gravity fed or pump system via a rectal catheter with an integral cone or balloon. Transanal irrigation results in an emptying of the lower bowel (rectum and distal sigmoid colon) and is used to prevent fecal incontinence (uncontrolled bowel movements) or to relieve and prevent constipation. Transanal irrigation may sometimes be included in a bowel management program for patients with neurogenic bowel dysfunction.
+
+Note: Please see the following related documents for additional information:
+
+CG-REHAB-07 Skilled Nursing and Skilled Rehabilitation Services (Outpatient) MED.00141 High-volume Colonic Irrigation SURG.00102 Artificial Anal Sphincter for the Treatment of Severe Fecal Incontinence
+
+Clinical Indications
+
+Medically Necessary:
+
+Transanal irrigation is considered medically necessary when ALL the following criteria (A through D) are met:
+
+A. The individual is at least 2 years of age; and B. Diagnosed with one or more of the following conditions:
+
+F e e d b a c k
+
+1. Neurogenic bowel dysfunction; or 2. Congenital disorder such as Hirschsprung disease or anorectal malformations; or 3. Fecal incontinence; or 4. Chronic constipation;
+
+and
+
+C. Requires bowel management procedures that significantly impact the individual’s quality of life (for example,
+
+interferes with ability to fully participate in school or work); and
+
+D. An adequate course of conservative medical management (including any combination of dietary modifications, bowel
+
+training, laxatives or constipation medications) has been unsuccessful or is contraindicated.
+
+Not Medically Necessary:
+
+Transanal irrigation is considered not medically necessary when the criteria above are not met.
+
+Coding
+
+The following codes for treatments and procedures applicable to this guideline are included below for informational purposes. Inclusion or exclusion of a procedure, diagnosis or device code(s) does not constitute or imply member coverage or provider reimbursement policy. Please refer to the member's contract benefits in effect at the time of service to determine coverage or non-coverage of these services as it applies to an individual member.
+
+When services may be Medically Necessary when criteria are met:
+
+HCPCS A4453 A4459
+
+Rectal catheter with or without balloon, for use with any type transanal irrigation system, each Manual transanal irrigation system, includes water reservoir, pump, tubing, and accessories, without catheter, any type
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002531.html
+
+1/10
+
+10/25/25, 12:06 PM
+
+CG-MED-95 Transanal Irrigation
+
+ICD-10 Diagnosis
+
+All diagnoses
+
+When services are Not Medically Necessary: For the procedure codes listed above when criteria are not met.
+
+Discussion/General Information
+
+Summary
+
+Transanal irrigation (TAI) involves the passing of water into the bowel via the anus in a sufficient enough quantity to reach beyond the rectum (Todd, 2024). TAI can be used by individuals with bowel dysfunction to empty the rectum and some of the colon at a time and frequency that is suitable to them, and to avoid constipation and fecal incontinence. The decision to use TAI does not depend solely on the specific bowel dysfunction but will also be determined by the individual’s degree of mobility, manual dexterity, independence, caregiver availability, home setting and personal preference. Individuals may require time, training, and support to get comfortable with and proficient at using it. Research has demonstrated that in some individuals with spinal cord injury (SCI) with neurogenic bowel dysfunction (NBD), TAI can reduce the severity of chronic constipation, as well as reduce the severity and frequency of fecal incontinence (Mosiello 2017).
+
+TAI is not considered the first treatment option for individuals with SCI NBD. Alternative treatment options include but are not necessarily limited to medication (oral drugs, suppositories, and enemas), dietary modification, and physiotherapy. Individuals with NBD may also manage their symptoms using biofeedback, bowel washouts and manual evacuation of feces. Some individuals may prefer or require surgical intervention, for example, colostomy, ileostomy, sacral nerve stimulation, an antegrade continence enema or stoma.
+
+The majority of peer-reviewed scientific literature on TAI focuses on individuals with NBD. While some studies are limited by small sample sizes, lack of randomization, and short follow up periods, the overall evidence indicates that TAI may result in a reduction of fecal incontinence, increased independence, and improved quality of life (QOL) in this population. In addition, TAI provides a non-surgical option in individuals with NBD when other conservative measures have failed. Several professional or medical societies support the use of TAI as a treatment of fecal incontinence and constipation in individuals with NBD who have not achieved adequate relief through dietary and lifestyle modification, laxatives, enemas, suppositories, or manual evacuation. Evidence of effectiveness in children without NBD (primarily functional constipation) is based on a smaller number of studies as expert opinion and literature reviews.
+
+Discussion
+
+Several TAI devices have received 510(k) marketing clearance from the United States Food and Drug Administration (FDA). Available devices include but are not necessarily limited to: Peristeen® Plus (Coloplast, Minneapolis, MN) TAI system; Navina Smart System and Navina Classic System (Dentsply Sirona, York, PA). According to information on the FDA 510(k) summaries:
+
+The Navina Systems are indicated for use in children (2 - < 12 years old), adolescents (12 - < 18 years old), and transitional adolescents (18 - < 21 years old) patients with neurogenic bowel dysfunction, congenital disorders such as Hirschsprung disease or anorectal malformations, fecal incontinence or chronic constipation where less invasive therapies are not successful, as well as, for adults who suffer from fecal incontinence, chronic constipation, and/or time consuming bowel management. Use for pediatric patients is to be performed under the supervision of a trained healthcare professional or adult caregiver. By instilling water up into the lower part of the colon, the Navina Systems promote evacuation of the contents of the colon and rectum (FDA, 510[k]a).
+
+The Peristeen Anal Irrigation System is intended to instill water into the colon through a rectal catheter - which incorporates an inflatable balloon - inserted into the rectum to promote evacuation of the contents of the lower colon. The Peristeen Anal Irrigation System is indicated for use by children (2 years -< 12 years old), adolescent (12 years - < 18 years old), transitional adolescent (18 - <2 1 years old) and adult patients with neurogenic bowel dysfunction who suffer from fecal incontinence, chronic constipation, and/or time-consuming bowel management procedures (FDA, 510[k]c).
+
+Contraindications for TAI have been suggested (Emmanuel, 2013).
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002531.html
+
+2/10
+
+10/25/25, 12:06 PM
+
+CG-MED-95 Transanal Irrigation
+
+Absolute Contraindications: Active inflammatory bowel disease; or Acute diverticulitis; or Anal stenosis; or Colorectal cancer; or Endoscopic polypectomy within the previous 4 weeks; or Ischemic colitis; or Rectal stenosis; or Rectal surgery within the previous 3 months.
+
+Relative Contraindications: Dense sigmoid disease; or Diverticular abscess, or Fecal impactions; or History of diverticulitis, or Long-term steroid medication; or Rectal surgery; or Severe diverticulosis.
+
+Constipation and Fecal Incontinence
+
+Constipation and fecal incontinence (FI) may be the result of either functional or organic disorders. Organic bowel dysfunction is relatively rare and most often caused by a congenital condition that has a neurological or anatomical origin. Individuals with NBD (discussed below) are frequently affected by organic constipation and organic FI related to open or closed spina bifida, anorectal malformations or Hirschsprung disease. In approximately 95% of children, no organic cause is found, and these children are diagnosed with functional constipation (FC). Functional (idiopathic) constipation and functional (idiopathic) fecal incontinence are diagnosed when an individual is experiencing symptoms of constipation or fecal incontinence, but no specific cause can be identified. Initial management consists of demystification, education, toilet training, and laxative treatment (Baaleman, 2022; Mosiello, 2017).
+
+A 2024 Cochrane review (Todd, 2024) evaluated the effectiveness of conservative physical and surgical interventions for managing FI and constipation in people with neurological diseases or injury that chronically affect the central nervous system such as multiple sclerosis, spinal cord injury, cerebrovascular disease, Parkinson's disease and Alzheimer's disease. The review included randomized, quasi-randomized (where allocation is not strictly random), cross-over and cluster- randomized trials comparing any type of conservative, physical or surgical intervention to placebo, usual care, or no intervention. Transanal irrigation was among the physical therapies assessed. After evaluating a total of 25 studies with 1598 participants, the researchers found the studies were at high risk of bias due to lack of blinding of personnel and participants to the intervention. Half of the studies evaluated were also at high risk of bias in terms of selective reporting. Additionally, outcomes were inconsistently reported across studies, making it hard to pool data. Due to these limitations, the reviewers concluded that there was insufficient evidence to evaluate the effects of interventions such as TAI on individual central neurological conditions.
+
+Neurogenic Bowel Dysfunction (NBD)
+
+Neurogenic bowel dysfunction (NBD) is the loss of the ability to control defecation as a result of injury to or deterioration of the nervous system which results in constipation or fecal incontinence. NBD can be caused by a variety of neurological conditions such as spinal cord injury (SCI), Parkinson’s disease, multiple sclerosis or other conditions that cause impairment or loss of sphincter control and bowel mobility disorders. In children, NBD is most often related to open or closed spina bifida, anorectal malformations or Hirschsprung disease. Bowel dysfunction can also have numerous other causes, such as injury to the bowel or rectum or constipation caused by delayed or slowed transit of stool in the colon (Mosiello, 2017).
+
+Several specialty associations or societies have issued guidance on the use of TAI in individuals with bowel dysfunction and determined it to be an accepted treatment in children and adults with bowel dysfunction, or more specifically, NBD that has not responded to conservative and medical therapies.
+
+The Consortium of Spinal Cord Medicine (a collaboration of professional and consumer organizations with a common interest in health care for individuals living with SCI), collaborated to develop a clinical practice guideline for the management of NBD in adults following spinal cord injury. Based on the evidence from RCTs or meta-analysis of such trials, the group recommended that TAI be used in individuals with NBD who have unsatisfactory results with basic bowel management (BBM) (Johns, 2021).
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002531.html
+
+3/10
+
+10/25/25, 12:06 PM
+
+CG-MED-95 Transanal Irrigation
+
+In a 2017 publication supported by Coloplast (Mosiello, 2017), an international group of pediatric specialists, all with long- standing experience of bowel management in children, stated the following:
+
+Today, transanal irrigation (TAI) is an accepted treatment in children and adults with bowel dysfunction (BD) who do not respond to conservative and medical treatments. TAI use in adults is well-defined in a stepwise pyramid of care, that can be applied when conservative and medical treatment of BD (such as dietary and lifestyle advice, regular use of laxatives, suppositories, enemas, or manual evacuation) have failed (Mosiello, 2017).
+
+Although the group concluded that TAI represents an effective and safe therapeutic approach for treating bowel dysfunction in children, they also acknowledged that while TAI practice has been standardized in adults, its introduction in the pediatric population has been without a standardized approach. Therefore, additional RCTs around the world in individuals with different pathologies, comparing safety, efficacy, and defining outcome measures including patient and parental satisfaction are needed. Additionally, the authors recommended that the industry be encouraged to produce specific devices for the pediatric age group that are distinct from adapted devices designed for adults (Mosiello, 2017).
+
+Adult Population Studies
+
+TAI using the cone catheter instead of an inflatable balloon has been explored in the treatment of individuals with low anterior resection syndrome (LARS). Meurette and colleagues (2023) conducted a multicenter (7 sites), open-label, RCT to evaluate the superiority of TAI with the cone catheter compared to traditional standard of care (SOC) in participants at least 18 years of age with a low colorectal or coloanal anastomosis who had major LARS (LARS score at least 30) at least 3 months post stoma closure. Following rectal examination and assessment of the anastomosis, participants were randomly allocated to either TAI or SOC alone. All the participating centers had previous expertise in Peristeen balloon catheter use. The primary objective was to prove the superiority of TAI over SOC in improving the LARS score at 3 months. Secondary endpoints evaluated the safety of the device, adverse events, and patient satisfaction rates, including and Fecal Incontinence Quality of Life (FIQL) scale scores and daily time spent on bowel management. SOC was delivered by the treating physician to every participant based on a pathway of bowel management, including a low-fiber diet, laxatives and/or loperamide, physiotherapy (pelvic floor retraining and biofeedback), and small-volume enemas (over 150 ml). For participants allocated to TAI, specific education and training was provided by a dedicated nurse or the treating physician in a consultation dedicated to patient education. Subsequently, TAIs were administered by the participant daily, starting with a maximum 1-litre enema, with a self-reported diary being used to document the efficacy of daily irrigation. A minimal difference in LARS score of 7 between the TAI and SOC groups was considered clinically relevant. A total of 64 participants with severe LARS were considered eligible. Of these, 32 (22 men) fulfilled the inclusion criteria and were randomized. One participant in each group was excluded (1 conducted TAI in SOC group and was excluded; 1 deferred carrying out the enemas in TAI group and was no longer eligible). By 3 months, the mean LARS score in the overall population had declined from 38.3 to 26.5 (P < 0.001). The mean LARS score was significantly lower in the TAI group at the termination of the study (P = 0.008). Because of the small number of participants, a sensitivity analysis was performed (Wilcoxon non-parametric test) that confirmed this finding. The change from baseline between the treatments was analyzed using a linear regression model. This ad hoc analysis also confirmed the superiority of TAI with cone catheter over SOC. A total of 17 adverse events occurred in 14 participants. None of these adverse events were severe. Five participants experienced seven events related to abdominal spasms and transit disturbance during irrigation (5) and irrigation pain at the anus (2), The time spent on bowel management each day decreased significantly in the TAI group as compared to SOC group. During the 3 months, a total of nine use events were reported: water leakage (2), immediate reuse of cone (3), and low water flow/pressure (4). All participants who used a Peristeen cone requested to continue with this treatment at the end of the study. While the authors concluded that TAI using the cone catheter resulted in improved outcomes compared to the SOC cohort, this study is limited by the short follow-up of 3 months. These results should be confirmed with longer follow-up before drawing conclusion regarding the long-term efficacy of TAI and the participant’s comfort with the cone.
+
+Juul and colleagues (2017) reported the results of an uncontrolled study that examined the effects of TAI on bowel function and QOL in a group of Danish participants with FI or constipation due to various causes. If the participants did not obtain satisfactory results after conservative bowel management, they were instructed in the use the TAI procedure and were consecutively recruited for this observational cohort study that lasted from March 2010 to September 2013. Participants completed questionnaires regarding bowel function, QOL, and the TAI procedure at baseline and after 12 months. Of the 507 participants that were introduced to TAI; 83 % were women and the median age was 56 (range of 19 to 86) years. At follow-up, 216 (43 %) of participants continued to use TAI, while 174 (34 %) reported that they had discontinued the treatment for a variety of reasons. Of the 174 participants that discontinued TAI treatment, 86 (49.4 %) individuals indicated they discontinued treatment due to an unsatisfactory outcome. No response was obtained from the remaining 117 (23 %) participants. Among participants still using TAI at follow-up, a statistically significant improvement of bowel function scores (St. Marks/Wexner incontinence score, Wexner constipation score and obstructed defecation syndrome score) was
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002531.html
+
+4/10
+
+10/25/25, 12:06 PM
+
+CG-MED-95 Transanal Irrigation
+
+demonstrated. The Wexner incontinence score declined from 12.4 at baseline to 10.2 at follow-up (p<0.001); the St. Marks incontinence score declined from 14.9 to 12.7 (p<0.001); the Wexner constipation score declined from 14.3 to 12.4 (p<0.001); and the obstructed defecation syndrome score also decreased, from 15.1 to 11.8 (p<0.001). Additionally, the effect of bowel dysfunction on daily activities and QOL decreased significantly, while the overall satisfaction with bowel function increased significantly (p<0.001 in all 3 measures). The authors concluded that bowel function and QOL improved in the cohort adhering to TAI after 12 months. However, when interpreting the results, one must bear in mind that analysis was only performed in participants who completed the entire study period and more than 1/3 of the participants discontinued TAI treatment within the 1st year. Additionally, QOL and adverse events were not separately evaluated for participants with FI (participants with constipation were also included in analysis). The authors reported no serious adverse events.
+
+Faaborg and colleagues (2009) reported on the long-term outcome and safety of TAI for NBD. Of the 211 (115 female) participants with NBD (age: 7-81 years [median age 49 years]), 173 participants had spinal cord injury and 38 had other neurological disorders. Data were obtained from a mailed questionnaire and hospital records. Treatment was considered successful in participants still using TAI, participants who had used TAI until they died and individuals whose symptoms had resolved while using TAI. Successful outcome was achieved in 98 (46%) participants (including 75 active users and 19 users whose symptoms had resolved) after a mean follow-up of 19 months (range 1-114 months). A Kaplan-Meier plot showed a dropout rate of 20% in the first 3 months. After 3 years, the rate of success was 35% and remained almost constant afterwards. A regression analysis showed male gender (odds ratio (OR) 2.1), mixed symptoms (OR 2.9) and prolonged colorectal transit time (OR 2.4) to be significantly correlated with successful outcome. One non-lethal bowel perforation which required emergency surgery occurred in approximately 50 000 irrigations (0.002%), whereas minor side effects were observed in 48% of participants. The most common minor side effect reported among the active TAI users were abdominal pain or discomfort, minor rectal bleeding, fatigue, and general discomfort. Of the respondents that had discontinued TAI treatment, the most common reasons for discontinuation were unsatisfactory result, the procedure was time-consuming and troublesome, or the participant disliked the treatment.
+
+Christensen and colleagues (2008) compared symptoms of NBD in participants with SCI at baseline and after 10 weeks of treatment with TAI and to identify possible factors that could predict outcome of the treatment. Sixty-two participants with SCI (45 men and 17 women; mean age, 47.5 ± 15.5 [SD] years) from 5 European SCI centers were offered treatment with TAI for a 10-week period. Bowel function was measured at baseline and at termination using the Cleveland Clinic Constipation Scoring System (CCCSS; 0-30, 30 = severe symptoms), St. Mark's Fecal Incontinence Grading System (FIGS; 0-24, 24 = severe symptoms), and the Neurogenic Bowel Dysfunction score (NBD; 0-47, 47 severe symptoms). Elements predicting improvement in bowel function scores were identified using a general linear model. Severity of symptoms at termination was significantly reduced compared with baseline measures (CCCSS: -3.4; 95% confidence interval [CI], -4.6 to -2.2; FIGS: - 4.1; 95% CI, -5.2 to -2.9; NBD: -4.5; 95% CI, -6.6 to -2.4; all p<0.0001). Predominant symptom, hand function, level of dependency, and colonic transit time were not associated with outcome. Although several factors were associated with positive outcome, no consistent and readily explainable pattern could be identified. The authors concluded that TAI in individuals with SCI improves anal incontinence, reduces constipation, and improves symptom-related QOL, but no readily obtainable factors could predict outcome. The authors suggested that no definitive pattern of positive outcome was identified because the study was not powered to support the multivariate analyses that were completed.
+
+Del Popolo and colleagues (2008) conducted a multicenter trial evaluating the effects of the TAI on NBD and patient QOL. A total of 36 participants ≥ 36 years of age with unsatisfactory treatment of NBD were enrolled from Spinal Units and Rehabilitation Centers in Italy. Treatment was provided for 3 weeks using the Peristeen TAI system. spinal cord lesion level, ambulatory status and hand function were evaluated in all participants. Symptoms of NBD and QOL were assessed prior to and following treatment, using a specific questionnaire. Statistical analysis was performed using Sign Test and McNemar Test. Of the 36 participants enrolled, 32 participants completed the study. At the end of the treatment, 28.6 % of participants reduced or eliminated their use of pharmaceuticals; 24 (75%) participants became less dependent on their caregiver. There was a significant increase in participants' opinion of their intestinal functionality (p=0.001), QOL score (p=0.001) and their responses regarding their degree of satisfaction (p=0.001). A successful outcome was recorded for 68 % of participants with fecal incontinence, and for 63 % of participants with constipation. The authors concluded that TAI (Peristeen) is a simple therapeutic method for managing NBD and improving QOL and that it should be considered as the treatment of choice for NBD.
+
+Christensen and colleagues (2006) reported the results of prospective, randomized, controlled, multicenter trial across 5 European spinal cord injury centers, which compared TAI using the Peristeen system with conservative bowel management (best supportive bowel care without irrigation). In this study a total of 87 participants with spinal cord injury with NBD were randomly assigned to either the TAI cohort (42 participants) or conservative bowel management cohort (45 participants) for a 10-week trial period. Of the 45 participants in the conservative bowel management, group, 2 participants discontinued before training with the specialist nurse. After comparing TAI with conservative bowel management, the study results demonstrated the participants treated with TAI reported fewer complaints of constipation, less fecal incontinence, improved
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002531.html
+
+5/10
+
+10/25/25, 12:06 PM
+
+CG-MED-95 Transanal Irrigation
+
+symptom-related QoL and reduced time related to bowel management procedures compared with participants treated with conservative bowel management.
+
+Pediatric Population Studies
+
+Studies investigating the use of TAI in pediatric patients have reported success, both in clinical bowel outcomes and in improvement of QoL.
+
+Bolia and colleagues (2024) reported the results of a systematic review and meta-analysis designed to evaluate the effectiveness, safety, and outcomes of TAI in children with functional constipation. A total of 482 articles were included in the systematic search. After the removal of 203 duplicative articles, 279 articles were screened, and 274 articles eliminated. The remaining five studies (n=192) included in the final analysis detailed the utility of TAI in functional constipation. Two studies were conducted prospectively, while the remaining were either cross-sectional surveys or retrospective reviews. These studies included a total of 192 children with a median age ranging from 7 to 12.2 years old. The TAI systems used in these studies included Peristeen, Qufora, Alterna and Navina. The duration of follow-up ranged from 5.5 months to 3 years. Eleven children (5.7%) did not tolerate TAI and withdrew from treatment soon after initiation. TAI was reported to be successful in 62% of the children with refractory functional constipation. A total of 27 (14%) of participants were successfully weaned off TAI at the last follow-up. Pain was experienced by 21.7% of children and was the most reported adverse event. The researchers concluded that while TAI is a safe procedure, “there is a need for well-designed prospective trials to evaluate this treatment option in children with refractory functional constipation.” Limitations of this study include but are not limited to the small number of studies included in the analysis and the use of different definitions of treatment success. Additionally, the use of various TAI systems in these studies also makes comparability difficult.
+
+Baaleman and colleagues (2022) conducted a combined retrospective and cross-sectional study investigating the clinical effectiveness and patient experience with the Navina TAI in children with constipation or fecal incontinence. The researchers retrospectively collected baseline characteristics and data on treatment success at 1- and 6-month follow-up. Successful treatment was defined as defecating at least 3 times per week and having less than 1 episode of fecal incontinence per week. The researchers cross-sectionally assessed health-related quality of life (HRQoL), treatment adherence, treatment satisfaction (Treatment Satisfaction Questionnaire for Medication [TSQM]), illness perceptions, medication beliefs, and patient empowerment with validated questionnaires. A total of 34 participants were included (median age at start TAI: 11 years old [range, 6-18]), 32 in the retrospective review, and 26 in the cross-sectional survey (median of 3 years after initiation). Most of the participants were diagnosed with functional constipation (n=26; 76%) or a neurogenic bowel disorder (n=6; 18%). Treatment success rates significantly improved at each follow-up compared with baseline (baseline: 4/25 [16%]; At 1-month follow-up: 12/16 [75%], p=0.008; 6-month follow-up: 11/18 [61%], p=0.016; cross-sectional follow-up: 13/26 [50%], p=0.008). HRQoL scores were high (PedsQL median, 73 [IQR, 54-85]). The Adherence score was low in 36% (defined as Medication Adherence Report Scale [MARS] ≥ 23), whereas TSQM effectiveness scores were high (median, 69 [IQR, 47-86]). Most participants (61%) reported increased independence following the initiation of TAI treatment. Patient empowerment (GYPES) scores were similar to those reported in children with other chronic conditions. The authors concluded that TAI using the Navina system is an effective bowel management system for children with intractable constipation or fecal incontinence.
+
+Koppen and colleagues (2017) assessed the treatment efficacy of TAI and parental satisfaction in children with intractable functional constipation treated with Peristeen TAI. Researchers surveyed the parents of children (age 0-18 years) treated with Peristeen for functional constipation (based on the Rome III criteria). Questionnaires were mailed to parents. The questionnaire consisted of 25 self-developed, multiple-choice questions regarding the use of Peristeen, current gastrointestinal symptoms, adverse effects of Peristeen, concomitant medication use, and parental satisfaction. A total of 91 families were invited to participate, of which 67 (74%) returned the questionnaire. In total, 84% of participants experienced fecal incontinence prior to treatment. Of the 49 children who continued to use Peristeen at the time of the survey, fecal incontinence had resolved completely in 41% of the participants while 12% experienced occasional episodes of fecal incontinence. The authors concluded that TAI may be an effective treatment for children with functional constipation and renders a high parental satisfaction, but additional prospective studies are necessary to further evaluate this treatment option. The authors acknowledged that limitations of the study included the risk of selection bias because some of the participants or their parents may have been reluctant to participate in the study because they had stopped using the Peristeen due to the unsuccessful treatment or due to adverse side effects. The authors also acknowledged that in the present study the participants often used concomitant medication which may have influenced the results.
+
+Midrio and colleagues (2015) presented the results of a multi-center study using the Peristeen TAI system in a pediatric group with anorectal malformations and congenital or acquired spinal cord lesions. A total of 8 Italian pediatric spina bifida and surgery centers participated in the study. Participants were between the age of 6 to 17 years, weight above 20 kg (40 lbs) and had unsatisfactory bowel management. Individuals with chronic inflammatory bowel disease, mental disability and
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002531.html
+
+6/10
+
+10/25/25, 12:06 PM
+
+CG-MED-95 Transanal Irrigation
+
+surgery within the previous 3 months were excluded from the study. The Bristol scale, a questionnaire assessing bowel function and 2 questionnaires on QoL for individuals aged 6 to 11 years (CHQ pf50) and 12 to 17 years (SF36) were administered at the beginning of treatment and after 3 months (T1). A total of 83 participants were enrolled, and 78 completed the study (41 anorectal malformations, 37 spinal cord lesions). At 3 months constipation was reduced in anorectal malformations from 69 % to 25.6 % and in spinal cord lesions from 92.7 % to 41.5 %, fecal incontinence in anorectal malformations from 50 % to 18.6 %, and in spinal cord lesions from 39 % to 9.8 % and flatus incontinence in anorectal malformations from 20.9 % to 9.8 %, and in spinal cord lesions from 31.7 % to 10 %. At the beginning of the study the Bristol Stool Scale types were 1 to 2 in 45 % of anorectal malformations and 77.5 % of the SCL group, whereas at 3 month types 1 to 2 were recorded in only 2.5 % of the spinal cord lesions group. QoL improved in both groups. In the younger cohort, a significant improvement in QoL was recorded in participants with anorectal malformations for 8 of 9 variables and in spinal cord lesions participants for 7 of 9 variables. The authors concluded that the study demonstrated that TAI using the Peristeen system resulted in a significant time reduction in colonic cleansing, increased independence from the caregiver, and improved QoL in children with anorectal malformations and spinal cord lesions.
+
+In 2014, researchers reported the results of a study that explored the use of Peristeen TAI to manage fecal incontinence secondary to myelomeningocele, Hirschsprung disease, and anorectal anomalies (Corbett, 2014). This study was a combination of a retrospective case note review and assessment using a validated QoL questionnaire to quantify pre- and post-TAI bowel function and continence. Functional outcomes and QoL scores prior to and during TAI use were compared using Wilcoxon matched pairs test (p<0.05). A total of 24 children (median age of 6 years) were managed with the Peristeen TAI to treat fecal incontinence; 3 participants did not tolerate the system. Median QoL scores in 20 of the 21 participants using the PAI demonstrated significant improvement in bowel management and continence; 2 participants discontinued use due to failure to improve continence; 1 individual underwent the Malone antegrade continence enema (MACE) procedure; and 1 individual returned to oral/rectal medications; 19 of 24 participants (79 %) continued using the TAI. The researchers concluded that the TAI is a safe, effective, non-operative alternative to MACE in children with fecal incontinence, if initial compliance can be achieved.
+
+In another study, Alenzi and colleagues (2014) prospectively evaluated children with neuropathic bladder and bowel dysfunction who needed reconstructive bladder surgery and the MACE procedure. The goal of the trial was to assess the efficacy of TAI (Peristeen) as a stool cleansing mechanism, to gain fecal continence in children who need reconstructive bladder surgery and have fecal incontinence. All participants received TAI at least 3 months prior to surgery to assess their response. Individual bowel function, the frequency of use of the TAI system, patient satisfaction (and that of their parents) as well as diaper independency were evaluated pre- and post-reconstructive surgery. A total of 18 patients (11 females, 7 males) were evaluated from April 2006 to 2014. The mean age was 7.6 years (range of 4 to 15). Fifteen individuals (83.3 %) demonstrated complete dryness from stools. Of these 15 individuals, 8 (53.3 %) were able to be diaper-free, while 6 continued wearing diapers due to fear of fecal soiling and 1 due to urinary incontinence. Individuals continued to use the TAI with the same results after reconstructive bladder surgery. The authors concluded that these initial results suggest that TAI is a successful conservative alternative for the MACE procedure.
+
+Complications and Adverse Events
+
+The most serious complication of TAI is bowel perforation. A recent review article by Christensen (2016) estimated the overall risk of perforation to be in the order of 2 per 1 million procedures (all patient groups and ages) but after 8 weeks of long-term use (Christensen, 2016; Mosiello 2017; Ng, 2015). Some of the more commonly reported side effects of TAI include abdominal pain, sweating, chills, dizziness, and a general sense of discomfort (Christensen, 2006; Johns, 2021; NG, 2015).
+
+Definitions
+
+Autonomic dysreflexia: An unreserved sympathetic nervous system response to a variety of noxious stimuli occurring in individuals with spinal cord injury at or above the thoracic 6 level.
+
+Bowel management: A program for an individual with a bowel disability that is designed to pre-emptively achieve effective bowel evacuation at a specified frequency to manage constipation or fecal incontinence. Bowel management programs may include a combination of modalities including but not necessarily limited to dietary advice, medication therapy, disposable pads, anal plugs, biofeedback, muscle/bowel training, digital stimulation, and manual evacuation.
+
+Fecal incontinence: The uncontrolled passage of gas or feces.
+
+Functional constipation: A condition in which an individual who has hard, infrequent bowel movements that are often difficult or painful to pass. Functional (idiopathic) constipation is not the result of a clearly identifiable anatomic abnormality or
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002531.html
+
+7/10
+
+10/25/25, 12:06 PM
+
+CG-MED-95 Transanal Irrigation
+
+disease process.
+
+Functional fecal incontinence: A condition in which an individual is unable to control bowel movement which results in involuntary passage of feces. Functional (idiopathic) fecal incontinence is not the result of a clearly identifiable anatomic abnormality or disease process.
+
+Low anterior resection syndrome: A group of symptoms including incontinence, urgency, frequency, or the sensation of incomplete emptying that may be experienced by individuals following sphincter-sparing resections of the rectum.
+
+References
+
+Peer Reviewed Publications:
+
+1. Alenezi H, Alhazmi H, Trbay M, et al. Peristeen anal irrigation as a substitute for the MACE procedure in children
+
+who are in need of reconstructive bladder surgery. Can Urol Assoc J 2014; 8:12-15.
+
+2. Belsey J, Greenfield S, Candy D, Geraint M. Systematic review: impact of constipation on quality of life in adults and
+
+children. Aliment Pharmacol Ther. 2010; 31(9):938-949.
+
+3. Bolia R, Goel A, Thapar N. Transanal irrigation in children with functional constipation: a systematic review and
+
+meta-analysis. J Pediatr Gastroenterol Nutr. 2024; 78(5):1108-1115.
+
+4. Bray L, Sanders C. An evidence-based review of the use of transanal irrigation in children and young people with
+
+neurogenic bowel. Spinal Cord 2013; 51:88-93.
+
+5. Christensen P, Andreasen J, Ehlers L. Cost-effectiveness of transanal irrigation versus conservative bowel
+
+management for spinal cord injury patients. Spinal Cord. 2009; 47(2):138-143.
+
+6. Christensen P, Bazzocchi G, Coggrave M, et al. A randomized, controlled trial of transanal irrigation versus conservative bowel management in spinal cord-injured patients. Gastroenterology. 2006;131(3):738-747.
+
+7. Christensen P, Bazzocchi G, Coggrave M, et al. Outcome of transanal irrigation for bowel dysfunction in patients with
+
+spinal cord injury. J Spinal Cord Med. 2008; 31(5):560-567.
+
+8. Christensen P, Krogh K, Perrouin-Verbe B, et al. Global audit on bowel perforations related to transanal irrigation.
+
+Tech Coloproctol 2016; 20:109-115.
+
+9. Corbett P, Denny A, Dick K, et al. Peristeen integrated transanal irrigation system successfully treats fecal
+
+incontinence in children. J Ped Urol 2014; 10:219-22.
+
+10. Del Popolo G, Mosiello G, Pilati C, et al. Treatment of NBD dysfunction using transanal irrigation: a multicenter
+
+Italian study. Spinal Cord. 2008; 46(7):517-522.
+
+11. Faaborg PM, Christensen P, Kvitsau B, et al. Long-term outcome and safety of transanal colonic irrigation for
+
+neurogenic bowel dysfunction. Spinal Cord 2009; 47: 545-549.
+
+12. Jørgensen CS, Kamperis K, Modin L, et al. Transanal irrigation is effective in functional fecal incontinence. Eur J
+
+Pediatr 2017; 176:731-736.
+
+13. Juul T, Christensen P. Prospective evaluation of transanal irrigation for fecal incontinence and constipation. Tech
+
+Coloproctol. 2017; 21(5):363-371.
+
+14. Koppen IJN, Kuizenga-Wessel S, Voogt HW, et al. Transanal irrigation in the treatment of children with intractable
+
+functional constipation. J Pediatr Gastroenterol Nutr 2017; 64:225-259.
+
+15. Koppen IJ, Vriesman MH, Saps M, et al. Prevalence of functional defecation disorders in children: a systematic
+
+review and meta-analysis. J Pediatr 2018; 198:121-130.
+
+16. Lallemant-Dudek P, Cretolle C, Hameury F, et al. Multicentric evaluation of the adherence to Peristeen® transanal
+
+irrigation system in children. Ann Phys Rehabil Med 2020; 63:28-32.
+
+17. Meurette G, Faucheron JL, Cotte E, et al. Low anterior resection syndrome after rectal resection management:
+
+multicentre randomized clinical trial of transanal irrigation with a dedicated device (cone catheter) versus conservative bowel management. Br J Surg. 2023; 110(9):1092-1095.
+
+18. Midrio P, Mosiello G, Ausili C, et al. Peristeen transanal irrigation in pediatric patients with anorectal malformation
+
+and spinal cord lesions: a multicentric Italian study. Colorectal Dis 2015; 18:86-93.
+
+19. Ng J, Ford K, Dalton S, et al. Transanal irrigation for intractable faecal incontinence and constipation: outcomes,
+
+quality of life and predicting non-adopters. Pediatr Surg Int 2015; 31:729-734.
+
+20. Pacilli M, Pallot D, Andrews A, et al. Use of Peristeen® transanal colonic irrigation for bowel management in children:
+
+A single-center experience. J Pediatr Surg. 2014; 49(2):269-272.
+
+21. Patel S, Hopson P, Bornstein J, et al. Impact of transanal irrigation device in management of children with fecal
+
+incontinence and constipation. J Pediatr Gastroenterol Nutr 2020; 71:292-297.
+
+22. Ridolfi TJ, Berger N, Ludwig KA. Low anterior resection syndrome: current management and future directions. Clin
+
+Colon Rectal Surg. 2016; 29(3):239-245.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002531.html
+
+8/10
+
+10/25/25, 12:06 PM
+
+CG-MED-95 Transanal Irrigation
+
+23. Siminas S, Losty PD. Current surgical management of pediatric idiopathic constipation: a systematic review of
+
+published studies. Ann Surg 2015; 262:925-933.
+
+Government Agency, Medical Society, and Other Authoritative Publications:
+
+1. American Gastroenterological Association; Bharucha AE, Dorn SD, Lembo A, Pressman A. American
+
+Gastroenterological Association medical position statement on constipation. Gastroenterology. 2013; 144(1):211- 217.
+
+2. Assmann SL, Keszthelyi D, Kleijnen J, et al. Guideline for the diagnosis and treatment of faecal incontinence-A
+
+UEG/ESCP/ESNM/ESPCG collaboration. United European Gastroenterol J. 2022; 10(3):251-286.
+
+3. Emmanuel AV, Krogh K, Bazzocchi G, et al. Consensus review of best practice of transanal irrigation in adults.
+
+Spinal Cord 2013; 51:732-738.
+
+4. Johns J, Krogh K, Rodriguez GM, et al. Management of neurogenic bowel dysfunction in adults after spinal cord
+
+injury: clinical practice guideline for health care providers. Top Spinal Cord Inj Rehabil. 2021; 27(2):75-151.
+
+5. Mosiello G, Marshall D, Rolle U, et al. Consensus review of best practice of transanal irrigation in children. J Pediatr
+
+Gastroenterol Nutr. 2017; 64(3):343-352.
+
+6. Rao SS; American College of Gastroenterology Practice Parameters Committee. Diagnosis and management of fecal incontinence. American College of Gastroenterology Practice Parameters Committee. Am J Gastroenterol. 2004; 99(8):1585-1604.
+
+7. Tabbers MM, DiLorenzo C, Berger MY, et al. Evaluation and treatment of functional constipation in infants and
+
+children: evidence-based recommendations from ESGHAN and NASPHGAN. J Pediatr Gastroenterol Nutr 2014; 58:258-274.
+
+8. Todd CL, Johnson EE, Stewart F, et al. Conservative, physical and surgical interventions for managing faecal
+
+incontinence and constipation in adults with central neurological diseases. Cochrane Database Syst Rev. 2024; 10(10):CD002115.
+
+9. U.S. Food and Drug Administration (FDA):
+
+510(K) Premarket Notification. Navina Classic System, (K170487). 2017. Available at: https://www.accessdata.fda.gov/cdrh_docs/pdf17/K170487.pdf. Accessed on June 4, 2025. 510(K) Premarket Notification. Navina Smart System, Navina Classic System (K1990977). 2019. Available at: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K190977. Accessed on June 4, 2024. 510(K) Premarket Notification. Peristeen Anal Irrigation System (K083770). 2017.Available at: https://www.accessdata.fda.gov/cdrh_docs/pdf14/K140310.pdf. Accessed on June 4, 2025.
+
+Websites for Additional Information
+
+1. National Institute of Diabetes and Digestive and Kidney Diseases. Definition and facts for constipation. Last
+
+reviewed: May 2018. Available at: https://www.niddk.nih.gov/health-information/digestive- diseases/constipation/definition- facts#:~:text=About%2016%20out%20of%20100%20adults%20have%20symptoms%20of%20constipation. Accessed on June 4, 2025.
+
+Index
+
+Navina Peristeen Transanal Irrigation
+
+The use of specific product names is illustrative only. It is not intended to be a recommendation of one product over another, and is not intended to represent a complete listing of all products available.
+
+History
+
+Status Reviewed
+
+Date 08/07/2025
+
+Action Medical Policy & Technology Assessment Committee (MPTAC) review. Revised the Rationale, References and Websites for Additional Information sections of the document. Updated Coding section with 04/01/2025 HCPCS descriptor changes for A4453, A4459.
+
+04/01/2025
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002531.html
+
+9/10
+
+10/25/25, 12:06 PM
+
+CG-MED-95 Transanal Irrigation
+
+Reviewed
+
+08/08/2024
+
+MPTAC review. Updated the Rationale, Definitions, References and Websites for Additional information sections of the document. Medical Policy & Technology Assessment Committee (MPTAC) review. Initial document development.
+
+New
+
+08/10/2023
+
+Federal and State law, as well as contract language, and Medical Policy take precedence over Clinical UM Guidelines. We reserve the right to review and update Clinical UM Guidelines periodically. Clinical guidelines approved by the Medical Policy & Technology Assessment Committee are available for general adoption by plans or lines of business for consistent review of the medical necessity of services related to the clinical guideline when the plan performs utilization review for the subject. Due to variances in utilization patterns, each plan may choose whether to adopt a particular Clinical UM Guideline. To determine if review is required for this Clinical UM Guideline, please contact the customer service number on the member's card.
+
+Alternatively, commercial or FEP plans or lines of business which determine there is not a need to adopt the guideline to review services generally across all providers delivering services to Plan’s or line of business’s members may instead use the clinical guideline for provider education and/or to review the medical necessity of services for any provider who has been notified that his/her/its claims will be reviewed for medical necessity due to billing practices or claims that are not consistent with other providers, in terms of frequency or in some other manner.
+
+No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without permission from the health plan.
+
+© CPT Only - American Medical Association
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002531.html
+
+10/10

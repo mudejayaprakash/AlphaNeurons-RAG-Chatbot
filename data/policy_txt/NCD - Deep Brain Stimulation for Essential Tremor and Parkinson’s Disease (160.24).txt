@@ -1,0 +1,311 @@
+10/10/25, 5:28 PM
+
+NCD - Deep Brain Stimulation for Essential Tremor and Parkinson’s Disease (160.24)
+
+National Coverage Determination (NCD)
+
+Deep Brain Stimulation for Essential Tremor and Parkinson’s Disease
+
+160.24
+
+Links in PDF documents are not guaranteed to work. To follow a web link, please use the MCD
+
+Website.
+
+Tracking Information
+
+Publication Number
+
+100-3
+
+Manual Section Number
+
+160.24
+
+Manual Section Title
+
+Deep Brain Stimulation for Essential Tremor and Parkinson’s Disease
+
+Version Number
+
+1
+
+Effective Date of this Version
+
+04/01/2003
+
+Implementation Date
+
+04/01/2003
+
+Description Information
+
+Beneﬁt Category
+
+Physicians' Services Prosthetic Devices
+
+Please Note: This may not be an exhaustive list of all applicable Medicare beneﬁt categories for this item or service.
+
+Indications and Limitations of Coverage
+
+https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?NCDId=279&ncdver
+
+1/6
+
+10/10/25, 5:28 PM
+
+NCD - Deep Brain Stimulation for Essential Tremor and Parkinson’s Disease (160.24)
+
+Effective for services furnished on or after April 1, 2003, Medicare will cover unilateral or
+
+bilateral thalamic ventralis intermedius nucleus (VIM) deep brain stimulation (DBS) for the
+
+treatment of essential tremor (ET) and/or Parkinsonian tremor and unilateral or bilateral
+
+subthalamic nucleus (STN) or globus pallidus interna (GPi) DBS for the treatment of
+
+Parkinson's disease (PD) only under the following conditions:
+
+1. Medicare will only consider DBS devices to be reasonable and necessary if they are
+
+Food and Drug Administration (FDA) approved devices for DBS or devices used in
+
+accordance with FDA approved protocols governing Category B Investigational Device
+
+Exemption (IDE) DBS clinical trials.
+
+2. For thalamic VIM DBS to be considered reasonable and necessary, patients must meet
+
+all of the following criteria:
+
+a. Diagnosis of ET based on postural or kinetic tremors of hand(s) without other
+
+neurologic signs, or diagnosis of idiopathic PD (presence of at least 2 cardinal PD
+
+features (tremor, rigidity or bradykinesia)) which is of a tremor-dominant form. b. Marked disabling tremor of at least level 3 or 4 on the Fahn-Tolosa-Marin Clinical Tremor Rating Scale (or equivalent scale) in the extremity intended for treatment, causing signiﬁcant limitation in daily activities despite optimal medical therapy.
+
+c. Willingness and ability to cooperate during conscious operative procedure, as well
+
+as during post-surgical evaluations, adjustments of medications and stimulator settings.
+
+3. For STN or GPi DBS to be considered reasonable and necessary, patients must meet all
+
+of the following criteria:
+
+a. Diagnosis of PD based on the presence of at least 2 cardinal PD features (tremor,
+
+rigidity or bradykinesia).
+
+b. Advanced idiopathic PD as determined by the use of Hoehn and Yahr stage or Uniﬁed Parkinson's Disease Rating Scale (UPDRS) part III motor subscale.
+
+c. L-dopa responsive with clearly deﬁned "on" periods.
+
+d. Persistent disabling Parkinson's symptoms or drug side effects (e.g., dyskinesias, motor ﬂuctuations, or disabling "off" periods) despite optimal medical therapy.
+
+e. Willingness and ability to cooperate during conscious operative procedure, as well as during post-surgical evaluations, adjustments of medications and stimulator
+
+settings.
+
+The DBS is not reasonable and necessary and is not covered for ET or PD patients with any
+
+of the following:
+
+1. Non-idiopathic Parkinson's disease or "Parkinson's Plus" syndromes. 2. Cognitive impairment, dementia or depression, which would be worsened by or would
+
+interfere with the patient's ability to beneﬁt from DBS.
+
+3. Current psychosis, alcohol abuse or other drug abuse.
+
+https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?NCDId=279&ncdver
+
+2/6
+
+10/10/25, 5:28 PM
+
+NCD - Deep Brain Stimulation for Essential Tremor and Parkinson’s Disease (160.24)
+
+4. Structural lesions such as basal ganglionic stroke, tumor or vascular malformation as
+
+etiology of the movement disorder.
+
+5. Previous movement disorder surgery within the affected basal ganglion.
+
+6. Signiﬁcant medical, surgical, neurologic or orthopedic co-morbidities contraindicating
+
+DBS surgery or stimulation.
+
+Patients who undergo DBS implantation should not be exposed to diathermy (deep heat treatment including shortwave diathermy, microwave diathermy and ultrasound diathermy)
+
+or any type of MRI, which may adversely affect the DBS system or adversely affect the brain around the implanted electrodes.
+
+The DBS should be performed with extreme caution in patients with cardiac pacemakers or other electronically controlled implants, which may adversely affect or be affected by the
+
+DBS system.
+
+For DBS lead implantation to be considered reasonable and necessary, providers and
+
+facilities must meet all of the following criteria:
+
+Neurosurgeons must:
+
+a. Be properly trained in the procedure;
+
+b. Have experience with the surgical management of movement disorders, including DBS
+
+therapy; and
+
+c. Have experience performing stereotactic neurosurgical procedures.
+
+Operative teams must have training and experience with DBS systems, including knowledge
+
+of anatomical and neurophysiological characteristics for localizing the targeted nucleus, surgical and/or implantation techniques for the DBS system, and operational and functional
+
+characteristics of the device.
+
+Physicians specializing in movement disorders must be involved in both patient selection
+
+and post-procedure care.
+
+Hospital medical centers must have:
+
+a. Brain imaging equipment (MRI and/or CT) for pre-operative stereotactic localization and
+
+targeting of the surgical site(s);
+
+b. Operating rooms with all necessary equipment for stereotactic surgery; and c. Support services necessary for care of patients undergoing this procedure and any
+
+potential complications arising intraoperatively or postoperatively.
+
+Claims Processing Instructions
+
+TN AB-03-023 (Program Memorandum Intermediaries/Carriers)
+
+https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?NCDId=279&ncdver
+
+3/6
+
+10/10/25, 5:28 PM
+
+NCD - Deep Brain Stimulation for Essential Tremor and Parkinson’s Disease (160.24)
+
+TN 128 (Medicare Claims Processing)
+
+Transmittal Information
+
+Transmittal Number
+
+167
+
+Coverage Transmittal Link
+
+https://www.cms.gov/Regulations-and-
+
+Guidance/Guidance/Transmittals/Downloads/R167CIM.pdf
+
+Revision History
+
+01/2024 - Transmittal 12350 issued November 03, 2023, is being rescinded and replaced by
+
+Transmittal 12440 dated January 3, 2024, to make changes to NCD 90.2, Next Generation Sequencing, spreadsheet to align with revisions being made to CR 13278. All other information remains the same. (TN 12440
+
+) (CR13391)
+
+11/2023 - The purpose of this Change Request (CR) is to provide a quarterly maintenance
+
+update of ICD-10 coding conversions and other coding updates speciﬁc to National Coverage Determinations (NCDs). No policy is being changed as a result of these updates. (TN 12350
+
+) (CR13391)
+
+10/2023 - The purpose of this Change Request (CR) is to provide a quarterly maintenance
+
+update of ICD-10 coding conversions and other coding updates speciﬁc to National Coverage Determinations (NCDs). No policy is being changed as a result of these updates. (TN 12319
+
+) (CR13391)
+
+04/2016 - Transmittal 1630, dated February 26, 2016, is being rescinded and replaced by
+
+Transmittal 1658 to (1) remove duplicate spreadsheet NCD210.3, (2) add missing spreadsheet NCD20.33, (3) add B/MAC to requirement 3 at request of WPS/B, (4) rename the spreadsheet titles, and, (5) provide a link to the attached spreadsheets for more efﬁcient ease of reference and accessibility. All other information remains the same. (TN 1658
+
+)
+
+(CR9540)
+
+12/2015 - This change request (CR) is the 3rd maintenance update of ICD-10 conversions/updates speciﬁc to national coverage determinations (NCDs). The majority of the NCDs included are a result of feedback received from previous ICD-10 NCD CR7818,
+
+CR8109, CR8197, CR8691, & CR9087. Some are the result of revisions required to other NCD-related CRs released separately that included ICD-10 coding. Implementation date: 01/04/2016 Effective date: 10/1/2015. (TN 1580
+
+) (CR9252)
+
+https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?NCDId=279&ncdver
+
+4/6
+
+10/10/25, 5:28 PM
+
+NCD - Deep Brain Stimulation for Essential Tremor and Parkinson’s Disease (160.24)
+
+08/2015 - This change request (CR) is the 3rd maintenance update of ICD-10 conversions/updates speciﬁc to national coverage determinations (NCDs). The majority of the NCDs included are a result of feedback received from previous ICD-10 NCD CR7818, CR8109, CR8197, CR8691, & CR9087. Some are the result of revisions required to other
+
+NCD-related CRs released separately that included ICD-10 coding. These updates do not expand, restrict, or alter existing coverage policy. Implementation date: 01/04/2016 Effective date: 10/1/2015. (TN 1537
+
+) (CR 9252)
+
+05/2014 - CMS translated the information for this policy from ICD-9-CM/PCS to ICD-10-
+
+CM/PCS according to HIPAA standard medical data code set requirements and updated any necessary and related coding infrastructure. These updates do not expand, restrict, or alter existing coverage policy. Implementation date: 10/06/2014 Effective date: 10/1/2015. (TN
+
+1388
+
+) (TN 1388
+
+) (CR 8691)
+
+09/2012 - CMS translated the information for this policy from ICD-9-CM/PCS to ICD-10- CM/PCS according to HIPAA standard medical data code set requirements and updated any necessary and related coding infrastructure. These updates do not expand, restrict, or alter existing coverage policy.Implementation date: 01/07/2013 Effective date: 10/1/2015. (TN
+
+1122
+
+) (TN 1122
+
+) (CR 7818)
+
+02/14/2003 - Provide limited coverage for unilateral or bilateral thalamic ventralis intermedius nucleus deep brain stimulation (DBS) for treatment of essential tremor and/or Parkinsonian tremor and unilateral or bilateral subthalamic nucleus or globus pallidus
+
+interna DBS for treatment of Parkinson’s disease. Effective and implementation dates 04/01/2003. (TN 167
+
+) (CR 2553)
+
+National Coverage Analyses (NCAs)
+
+This NCD has been or is currently being reviewed under the National Coverage Determination process. The following are existing associations with NCAs, from the National Coverage Analyses database.
+
+Original Consideration for Deep Brain Stimulation for Parkinson's Disease (CAG- 00124N)
+
+Additional Information
+
+Other Versions
+
+https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?NCDId=279&ncdver
+
+5/6
+
+10/10/25, 5:28 PM
+
+NCD - Deep Brain Stimulation for Essential Tremor and Parkinson’s Disease (160.24)
+
+Effective Between
+
+Title
+
+Version
+
+Deep Brain Stimulation for Essential Tremor and Parkinson’s Disease
+
+04/01/2003 - N/A
+
+You are here
+
+1
+
+https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?NCDId=279&ncdver
+
+6/6

@@ -1,0 +1,2255 @@
+UnitedHealthcare® Commercial and Individual Exchange Medical Policy
+
+Preventive Care Services
+
+Policy Number: MP.016.56 Effective Date: October 1, 2025
+
+ Instructions for Use
+
+Table of Contents Page Application .................................................................... 1 Coverage Rationale ...................................................... 1 Frequently Asked Questions ......................................... 4 Definitions ..................................................................... 5 Applicable Codes .......................................................... 5 Benefit Considerations ................................................ 45 Clinical Evidence ......................................................... 45 References ................................................................. 45 Policy History/Revision Information ............................. 45 Instructions for Use ..................................................... 46
+
+Related Commercial/Individual Exchange Policies • Breast Imaging for Screening and Diagnosing Cancer • Cardiovascular Disease Risk Tests • Consultation Services • Cytological Examination of Breast Fluids for Cancer
+
+Screening or Diagnosis
+
+Gastrointestinal Colonoscopy Procedure Guidelines • Genetic Testing for Hereditary Cancer • Long-Acting Injectable Antiretroviral Agents for HIV
+
+(for Commercial Only)
+
+Long-Acting Injectable Antiretroviral Agents for HIV
+
+(for Individual Exchange Only)
+
+Magnetic Resonance Imaging (MRI) and Computed
+
+Tomography (CT) Scan – Site of Service
+
+Ocular Photoscreening • Outpatient Surgical Procedures – Site of Service • Preventive Medicine and Screening • Preventive Vaccines (Immunizations) (for
+
+Commercial Only)
+
+Preventive Vaccines (Immunizations) (for Individual
+
+Exchange Only)
+
+Screening Colonoscopy Procedures – Site of Service
+
+Application
+
+UnitedHealthcare Commercial This Medical Policy applies to UnitedHealthcare Commercial benefit plans.
+
+UnitedHealthcare Individual Exchange This Medical Policy applies to Individual Exchange benefit plans.
+
+Coverage Rationale
+
+Indications for Coverage Introduction UnitedHealthcare covers certain medical services under the preventive care services benefit. The federal Patient Protection and Affordable Care Act (PPACA) requires non-grandfathered health plans to cover certain “recommended preventive services” as identified by PPACA under the preventive care services benefit, without cost sharing to members when provided by network providers. This includes: Evidence-based items or services that have in effect a rating of “A” or “B” in the current recommendations of the
+
+United States Preventive Services Task Force.
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 1 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Immunizations for routine use in children, adolescents and adults that have in effect a recommendation from the Advisory Committee on Immunization Practices of the Centers for Disease Control and Prevention.
+
+With respect to infants, children and adolescents, evidence-informed preventive care and screenings provided for in
+
+the comprehensive guidelines supported by the Health Resources and Services Administration.
+
+With respect to women, such additional preventive care and screenings as provided for in comprehensive guidelines
+
+supported by the Health Resources and Services Administration.
+
+Member Cost-Sharing Non-Grandfathered Plans Non-grandfathered plans provide coverage for preventive care services with no member cost sharing (i.e., covered at
+
+100% of Allowed Amounts without deductible, coinsurance, or copayment) when services are obtained from a Network provider.
+
+Under PPACA, services obtained from an out-of-network provider are not required to be covered under a plan’s
+
+preventive benefit and may be subject to member cost sharing. Refer to the member specific benefit plan document for out-of-network benefit information, if any.
+
+Grandfathered Plans Plans that maintain grandfathered status under PPACA are not required by law to provide coverage for these
+
+preventive services without member cost sharing; although a grandfathered plan may choose to voluntarily amend its plan document to include these preventive benefits.
+
+Except where there are state mandates, a grandfathered plan might include member cost sharing, or exclude some of
+
+the preventive care services identified under PPACA.
+
+Refer to the member specific benefit plan document for details on how benefits are covered under a grandfathered
+
+plan.
+
+Preventive vs. Diagnostic Services Certain services can be done for preventive or diagnostic reasons. When a service is performed for the purpose of preventive screening and is appropriately reported, it will be considered under the preventive care services benefit. This includes services directly related to the performance of a covered preventive care service (refer to the Frequently Asked Questions section for additional information.)
+
+Preventive services are those performed on a person who: has not had the preventive screening done before and does not have symptoms or other abnormal studies suggesting
+
+abnormalities*; or
+
+has had screening done within the recommended interval with the findings considered normal; or has had diagnostic services results that were normal after which the physician recommendation would be for future
+
+preventive screening studies using the preventive services intervals.
+
+In the case of a colonoscopy done as a follow-up to a positive stool-based screening (e.g., FIT, FOBT, and fecal DNA) or direct visualization screening (e.g., sigmoidoscopy or CT colonography), refer to FAQ#4 below.
+
+When a service is done for diagnostic purposes, it will be considered under the applicable non-preventive medical benefit. Diagnostic services are done on a person who: had abnormalities found on previous preventive or diagnostic studies that require further diagnostic studies; or had abnormalities found on previous preventive or diagnostic studies that would recommend a repeat of the same
+
+studies within shortened time intervals from the recommended preventive screening time intervals; or
+
+had a symptom(s) that required further diagnosis; or does not fall within the applicable population for a recommendation or guideline.
+
+Covered Breastfeeding Equipment Personal-use electric breast pump: The purchase of a personal-use electric breast pump (HCPCS code E0603).
+
+o This benefit is limited to one pump per birth. In the case of a birth resulting in multiple infants, only one breast
+
+pump is covered.
+
+o A breast pump purchase includes the necessary supplies for the pump to operate.
+
+Replacement breast pump supplies necessary for the personal-use electric breast pump to operate. This includes: standard power adaptor, tubing adaptors, tubing, locking rings, bottles specific to breast pump operation, caps for bottles that are specific to the breast pump, valves, filters, and breast shield and/or splash protector for use with the breast pump.
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 2 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Breastmilk storage bags (HCPCS code A4287).
+
+Colonoscopies Colonoscopy – Preventive Care Services Benefit (Without Member Cost-Sharing) Member cost-sharing for colonoscopy is waived when all of the following apply: • The patient’s age is 45-75 years (ends on 76th birthday) as recommended by the USPSTF; and • The provider is participating in the network; and • When billed in accordance with the coding in the Colorectal Cancer Screening row listed in this policy.
+
+Colonoscopy may require a site of service review. Refer to the Medical Policies titled Screening Colonoscopy Procedures – Site of Service and Outpatient Surgical Procedures – Site of Service.
+
+Colonoscopy – Medical Benefit (With Member Cost-Sharing) Member cost-sharing may apply when a colonoscopy is done in any one of the following scenarios: • The patient’s age is outside of the age recommendation of the USPSTF (age 45-75 years); or • The provider is non-network; or • Colonoscopy performed with a shortened time interval outside of the USPSTF recommendations; or • Colonoscopy performed for diagnostic purposes; or • Colonoscopy performed for surveillance purposes (e.g., a follow-up colonoscopy performed after identification or
+
+removal of a polyp or cancer on a previous colonoscopy); or • Colonoscopy performed for therapeutic/treatment purposes.
+
+The above colonoscopies may require advanced notification and/or site of service review. Refer to the Gastrointestinal Colonoscopy Procedure Guidelines and the Medical Policy titled Outpatient Surgical Procedures – Site of Service.
+
+Coverage Limitations and Exclusions Services not covered under the preventive care benefit may be covered under another portion of the medical benefit
+
+plan.
+
+The coverage outlined in this policy does not address certain outpatient prescription medications, tobacco cessation drugs and/or over the counter items, as required by PPACA. These preventive benefits are administered by the member’s pharmacy plan administrator. For details on coverage, refer to the member-specific pharmacy plan administrator.
+
+A vaccine (immunization) is not covered if it does not meet company vaccine policy requirements for FDA labeling and if it does not have explicit ACIP recommendations for routine use published in the Morbidity and Mortality Weekly Report (MMWR) of the Centers for Disease Control and Prevention (CDC) and is not listed on the applicable immunization schedule of ACIP. (Refer to the Preventive Care Services: Vaccine Codes.)
+
+Examinations, screenings, testing, or vaccines (immunizations) are not covered when:
+
+o
+
+required solely for the purposes of career or employment, school or education, sports or camp, travel [including travel vaccines (immunizations)], insurance, marriage, or adoption; or related to judicial or administrative proceedings or orders; or
+
+o o conducted for purposes of medical research; or o
+
+required to obtain or maintain a license of any type.
+
+Services that are investigational, experimental, unproven, or not medically necessary are not covered. Breastfeeding equipment and supplies not listed above. This includes, but is not limited to:
+
+o Manual breast pumps and all related equipment and supplies. o Hospital-grade breast pumps and all related equipment and supplies. o Equipment and supplies not listed in the Covered Breastfeeding Equipment section above, including but not
+
+limited to:  Batteries, battery-powered adaptors, and battery packs.  Electrical power adapters for travel.  Bottles which are not specific to breast pump operation. This includes the associated bottle nipples, caps, and
+
+lids.
+
+ Travel bags, and other similar travel or carrying accessories.  Breast pump cleaning supplies including soap, sprays, wipes, steam cleaning bags and other similar
+
+products.
+
+ Baby weight scales.  Garments or other products that allow hands-free pump operation.
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 3 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+ Breast milk storage accessories such as ice-packs, labels, labeling lids, and other similar products. The
+
+breastmilk storage accessories exclusion does not apply to breastmilk storage bags (HCPCS code A4287).
+
+ Nursing bras, bra pads, breast shells, nipple shields, and other similar products.  Creams, ointments, and other products that relieve breastfeeding related symptoms or conditions of the
+
+breasts or nipples.
+
+Note: Refer to the Indications for Coverage section above for covered breastfeeding equipment.
+
+Frequently Asked Questions (FAQ)
+
+1
+
+Q:
+
+If a polyp is encountered during a preventive screening colonoscopy, are future colonoscopies considered under the preventive care services benefit?
+
+A: No. If a polyp is removed during a preventive screening colonoscopy, future colonoscopies would normally be considered to be diagnostic because the time intervals between future colonoscopies would be shortened.
+
+2
+
+Q: Are the related therapeutic services for a preventive colonoscopy covered under the preventive care
+
+benefit?
+
+A: Yes, related services integral to a colonoscopy are covered under the preventive care services
+
+benefit including: pre-operative examination, the associated facility, anesthesia, polyp removal (if necessary), pathologist and physician fees. However, the preventive benefit does not include a post- operative examination.
+
+3
+
+Q: Do any preventive care services require prior-authorization? A: Certain services require prior-authorization on most benefit plans. This includes, but may not be limited to: BRCA lab screening, computed tomographic colonography (virtual colonoscopy), and screening for lung cancer with low-dose computed tomography.
+
+4
+
+Q:
+
+If a member in the age range of 45-75 years has a positive stool-based colorectal cancer screening test (e.g., FIT, FOBT, and fecal DNA) or direct visualization screening test (e.g., sigmoidoscopy or CT colonography), and has a follow up colonoscopy, is the colonoscopy included in the preventive care services benefit?
+
+A: Yes, in this situation, the colonoscopy would be considered under the preventive care services
+
+benefit when billed in accordance with the coding in the Colorectal Cancer Screening row listed in this policy.
+
+5
+
+Q: For preventive services that have a diagnosis code requirement, does the listed diagnosis code
+
+need to be the primary diagnosis on the claim?
+
+A:
+
+In general, most preventive services do not require the preventive diagnosis code to be in the primary position. However, certain preventive services do require the diagnosis code to be in the primary position, which include: (1) Chemoprevention of Breast Cancer (Counseling), (2) Genetic Counseling and Evaluation for BRCA Testing, and (3) Prevention of Human Immunodeficiency Virus (HIV) Infection.
+
+6
+
+Q:
+
+If a woman has an abnormal finding on a preventive screening mammography and the follow up mammogram was found to be normal, will UnitedHealthcare cover her future mammograms under the preventive care services benefit?
+
+A: Yes, if the member was returned to normal mammography screening protocol, her future
+
+mammography screenings would be considered under the preventive care services benefit.
+
+7
+
+Q:
+
+If a member had elevated cholesterol on a prior preventive screening, are future cholesterol tests considered under the preventive care services benefit?
+
+A: Once the diagnosis has been made, further testing is considered diagnostic rather than preventive.
+
+This is true whether or not the member is receiving pharmacotherapy.
+
+8
+
+Q: Are the related services for a woman’s outpatient sterilization or other contraceptive procedure
+
+covered under the preventive care benefit?
+
+A: Related services for a woman’s outpatient sterilization or other contraceptive procedure are covered under the preventive care services benefit. This includes associated implantable devices, facility fee, anesthesia, and surgeon/physician fees. If a woman is admitted to an inpatient facility for another reason (e.g., maternity/delivery), and has a sterilization or other contraceptive procedure performed during that admission, the sterilization or other contraceptive procedure fees mare covered under
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 4 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+the preventive care services benefit. This includes associated sterilization/ contraception surgical fees, device fees, anesthesia, pathology, and physician fees. However, the facility fees are not covered under the preventive care benefit since the sterilization or other contraceptive procedure is incidental to, and is not the primary reason, for the inpatient admission. Q: Are blood draws/venipunctures included in the preventive care benefit? A: Yes, blood draws/venipunctures are considered under the preventive benefit if billed for a covered
+
+9
+
+preventive lab service that requires a blood draw.
+
+10
+
+Q:
+
+Is a newly-combined vaccine (a vaccine with several individual vaccines combined into one) covered under preventive care benefits?
+
+A: A new vaccine that is pending ACIP recommendations, but is a combination of previously approved
+
+individual components, may be eligible under the preventive care benefit.
+
+11
+
+Q: Are preventive care services affected by other policies? A: Yes, including for example, the Reimbursement Policy titled Preventive Medicine and Screening
+
+Policy describes situations which may affect reimbursement of preventive care services.
+
+12
+
+Q: Are travel vaccines covered under preventive care benefits? A: Benefits for preventive care services include vaccines for routine use in children, adolescents and adults that have in effect a recommendation from ACIP with respect to the individual involved. Vaccines that are specific to travel (e.g., typhoid, yellow fever, cholera, plague, and Japanese encephalitis virus) are excluded from the preventive care services benefit.
+
+13
+
+Q: Does the preventive care services benefit include prescription or over the counter (OTC) items? A: Refer to the plan’s pharmacy benefit plan administrator for details on prescription medications and
+
+OTCs available under the plan’s preventive benefit.
+
+Definitions
+
+The following definitions may not apply to all plans. Refer to the member specific benefit plan document for applicable definitions.
+
+Modifier 33: Preventive service; when the primary purpose of the service is the delivery of an evidence based service in accordance with a US Preventive Services Task Force A or B rating in effect and other preventive services identified in preventive services mandates (legislative or regulatory), the service may be identified by adding 33 to the procedure. For separately reported services specifically identified as preventive, the modifier should not be used.
+
+Note: UnitedHealthcare considers the procedures and diagnostic codes and Preventive Benefit Instructions listed in the table below in determining whether preventive care benefits apply. While Modifier 33 may be reported, it is not used in making preventive care benefit determinations.
+
+Acronyms Throughout this document the following acronyms are used: USPSTF: United States Preventive Services Task Force PPACA: Patient Protection and Affordable Care Act of 2010 ACIP: Advisory Committee on Immunization Practices HRSA: Health Resources and Services Administration
+
+Applicable Codes
+
+The following list(s) of procedure and/or diagnosis codes is provided for reference purposes only and may not be all inclusive. Listing of a code in this policy does not imply that the service described by the code is a covered or non-covered health service. Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service. The inclusion of a code does not imply any right to reimbursement or guarantee claim payment. Other Policies and Guidelines may apply. CPT® is a registered trademark of the American Medical Association.
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 5 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective. Abdominal Aortic Aneurysm Screening
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions. Age 65 through 75 (ends on 76th birthday).
+
+Code(s)
+
+Procedure Code(s): Ultrasound Screening Study for Abdominal Aortic Aneurysm: 76706
+
+Requires at least one of the diagnosis codes listed in this row.
+
+USPSTF Rating (Dec. 2019): B The USPSTF recommends 1-time screening for abdominal aortic aneurysm (AAA) with ultrasonography in men aged 65-75 years who have ever smoked. Bacteriuria Screening
+
+Diagnosis Code(s): F17.210, F17.211, F17.213, F17.218, F17.219, Z87.891
+
+Requires a Pregnancy Diagnosis Code.
+
+Procedure Code(s): 81007, 87086, 87088
+
+USPSTF Rating (Sept. 2019): A The USPSTF recommends screening for asymptomatic bacteriuria using urine culture in pregnant persons. Chlamydia Infection Screening
+
+Diagnosis Code(s): Pregnancy Diagnosis Codes
+
+Chlamydia Infection Screening: Requires a Pregnancy Diagnosis Code or one of the Screening diagnosis codes listed in this row.
+
+Procedure Code(s): Chlamydia Infection Screening: 86631, 86632, 87110, 87270, 87320, 87490, 87491, 87492, 87801, 87810
+
+USPSTF Rating (Sept. 2021): B The USPSTF recommends screening for chlamydia in all sexually active women 24 years or younger and in women 25 years or older who are at increased risk for infection. Notes: This recommendation applies to asymptomatic, sexually active adolescents and adults, including pregnant persons. Bright Futures recommends sexually transmitted infection screening be conducted if risk assessment is positive between ages 11-21 years.
+
+Blood Draw: Required to be billed with 86631 or 86632 and One of the Screening diagnosis codes listed in this row or
+
+Blood Draw: 36415, 36416 Blood draw codes only apply to lab codes 86631 or 86632
+
+Diagnosis Code(s): Pregnancy: Pregnancy Diagnosis Codes or Screening: Adult: Z00.00, Z00.01 Child: Z00.121, Z00.129 Other: Z11.3, Z11.4, Z11.8, Z11.9, Z20.2, Z20.6, Z29.81, Z72.51, Z72.52, Z72.53 Procedure Code(s): 87590, 87591, 87592, 87801, 87850
+
+With a Pregnancy Diagnosis Code.
+
+Gonorrhea Screening
+
+Requires either a Pregnancy Diagnosis Code or one of the Screening diagnosis codes listed in this row.
+
+USPSTF Rating (Sept. 2021): B The USPSTF recommends screening for gonorrhea in all sexually active women 24 years or younger and in women 25 years or older who are at increased risk for infection. Notes: • This recommendation applies to asymptomatic, sexually active
+
+Diagnosis Code(s): Pregnancy: Pregnancy Diagnosis Codes or Screening: Adult: Z00.00, Z00.01 Child: Z00.121, Z00.129
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 6 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective.
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions.
+
+Code(s) Other: Z11.3, Z11.4, Z11.9, Z20.2, Z20.6, Z29.81, Z72.51, Z72.52, Z72.53
+
+adolescents and adults including pregnant persons. • Bright Futures recommends sexually transmitted infection screening be conducted if risk assessment is positive between ages 11-21 years. Hepatitis B Virus Infection Screening
+
+Hepatitis B Virus Infection Screening: Requires a Pregnancy Diagnosis Code or one of the Screening diagnosis codes listed in this row.
+
+Procedure Code(s): Hepatitis B Virus Infection Screening: 86704, 86706, 87340, 87341, 87467, G0499
+
+Pregnant Women: USPSTF Rating (July 2019): A The USPSTF recommends screening for hepatitis B virus (HBV) infection in pregnant women at their first prenatal visit.
+
+Blood Draw: Requires one of the listed Hepatitis B Virus Infection Screening procedure codes listed in this row and A Pregnancy Diagnosis Code or One of the Screening diagnosis
+
+Blood Draw: 36415, 36416
+
+Diagnosis Code(s): Pregnancy: Pregnancy Diagnosis Codes or Screening: Adult: Z00.00, Z00.01 Child: Z00.121, Z00.129 Other: Z11.3, Z11.4, Z20.2, Z20.6, Z11.59, Z29.81, Z57.8, Z72.51, Z72.52, Z72.53
+
+Adolescents and Adults at Increased Risk for Infection: USPSTF Rating (Dec. 2020): B The USPSTF recommends screening for hepatitis B virus (HBV) infection in persons at high risk for infection.
+
+codes listed in this row.
+
+Bright Futures (July 2022): Bright Futures recommends screening between the ages 0-21 years (perform risk assessment for hepatitis B virus (HBV) infection). Hepatitis C Virus Infection Screening
+
+Hepatitis C Virus Infection Screening: Does not have diagnosis code requirements for the preventive benefit to apply.
+
+Procedure Code(s): Hepatitis C Virus Infection Screening: 86803, 86804, G0472
+
+USPSTF Rating (March 2020): B The USPSTF recommends screening for hepatitis C virus infection in adults aged 18-79 years.
+
+Blood Draw: 36415, 36416
+
+Blood Draw: Requires one of the Hepatitis C Virus Infection Screening procedure codes listed in this row
+
+Diagnosis Code(s): Does not have diagnosis code requirements for the preventive benefit to apply.
+
+Bright Futures (March 2021) Bright Futures recommends screening all individuals ages 18 to 79 years at least once for hepatitis C virus infection (HCV). HIV (Human Immunodeficiency Virus) Screening for Adolescents and Adults
+
+No age limits.
+
+Procedure Code(s): HIV (Human Immunodeficiency Virus) Screening: 86689, 86701, 86702, 86703, 87389, 87390, 87391, 87534, 87535, 87536,
+
+HIV – Human Immunodeficiency Virus – Screening:
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 7 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective. USPSTF Rating (June 2019): A The USPSTF recommends that clinicians screen for HIV infection in: Adolescents and adults aged
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions. Requires a Pregnancy Diagnosis Code or one of the Screening diagnosis codes listed in this row.
+
+Code(s) 87537, 87538, 87539, 87806, G0432, G0433, G0435, G0475, S3645
+
+Blood Draw: 36415, 36416
+
+Blood Draw: Requires both of the following: One of the listed HIV Screening
+
+15-65 years. Younger adolescents and older adults who are at increased risk of infection should also be screened.
+
+Diagnosis Code(s): Pregnancy: Pregnancy Diagnosis Codes or
+
+procedure codes listed in this row and
+
+One of the Screening diagnosis codes listed in this row or a Pregnancy Diagnosis Code.
+
+All pregnant persons, including those who present in labor or at delivery whose HIV status is unknown.
+
+Screening: Adult: Z00.00, Z00.01 Child: Z00.121, Z00.129, Other: Z11.3, Z11.4, Z11.59, Z11.9, Z20.2, Z20.6, Z22.6, Z22.8, Z22.9, Z29.81, Z72.51, Z72.52, Z72.53 Also see Expanded Women’s Preventive Health section.
+
+Note: Bright Futures recommends HIV screening lab work be conducted at least once between ages 15-21 years. Also recommended anytime between ages 11-14 years, when a risk assessment is positive. And after initial screening, youth at increased risk of HIV infection should be retested annually or more frequently if at high risk. RH Incompatibility Screening
+
+RH Incompatibility Screening: Requires a Pregnancy Diagnosis Code.
+
+Procedure Code(s): RH Incompatibility Screening: 86850, 86901
+
+Blood Draw: Required to be billed with 86850 or 86901 and with a Pregnancy Diagnosis Code.
+
+USPSTF Rating (Feb. 2004): A Rh (D) blood typing and antibody testing for all pregnant women during their first visit for pregnancy- related care.
+
+Blood Draw: 36415, 36416
+
+Diagnosis Code(s): Pregnancy Diagnosis Codes
+
+USPSTF Rating (Feb. 2004): B Repeated Rh (D) antibody testing for all unsensitized Rh (D)-negative women at 24-28 weeks' gestation, unless the biological father is known to be Rh (D)-negative. Syphilis Screening
+
+Syphilis Screening: Requires a Pregnancy Diagnosis Code or one of the Screening diagnosis code listed in this row.
+
+Procedure Code(s): Syphilis Screening: 0064U, 0065U, 0210U, 86592, 86593, 86780
+
+Non-Pregnant Adolescents and Adults at Increased Risk: USPSTF Rating (Sept. 2022): A The USPSTF recommends screening for syphilis infection in persons who are at increased risk for infection (asymptomatic,
+
+Blood Draw: Requires both of the following:
+
+Blood Draw: 36415, 36416
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 8 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective. nonpregnant adolescents and adults who are at increased risk for syphilis infection).
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions. One of the listed Syphilis Screening procedure codes listed in this row and
+
+Code(s)
+
+Diagnosis Code(s): Pregnancy: Pregnancy Diagnosis Codes or Screening: Adult: Z00.00, Z00.01 Child: Z00.121, Z00.129 Other: Z11.2, Z11.3, Z11.4, Z11.9, Z20.2, Z20.6, Z29.81, Z72.51, Z72.52, Z72.53
+
+One of the Screening diagnosis codes listed in this row or a Pregnancy Diagnosis Code.
+
+Pregnant Women: USPSTF Rating (Sept. 2018): A The USPSTF recommends early screening for syphilis infection in all pregnant women.
+
+Note: Bright Futures recommends sexually transmitted infection screening be conducted if risk assessment is positive between ages 11-21 years. Genetic Counseling and Evaluation for BRCA Testing; and BRCA Lab Screening
+
+Genetic Counseling and Evaluation Procedure Code(s): Medical Genetics and Genetic Counseling Services: 96041, S0265
+
+Genetic Counseling and Evaluation *Medical Necessity plans require genetic counseling before BRCA Lab Screening.
+
+USPSTF Rating (Aug. 2019): B The USPSTF recommends that primary care clinicians assess women with a personal or family history of breast, ovarian, tubal, or peritoneal cancer or who have an ancestry associated with breast cancer susceptibility 1 and 2 (BRCA1/2) gene mutations with an appropriate brief familial risk assessment tool. Women with a positive result on the risk assessment tool should receive genetic counseling and, if indicated after counseling, genetic testing.
+
+Requires one of the Genetic Counseling and Evaluation diagnosis codes listed in this row in the primary position.
+
+Evaluation and Management (Office Visits): 99202, 99203, 99204, 99205, 99211, 99212, 99213, 99214, 99215, 99417, 99385, 99386, 99387, 99395, 99396, 99397, G0463
+
+Diagnosis Code(s): Z15.01, Z15.02, Z80.3, Z80.41, Z85.3, Z85.43
+
+BRCA Lab Screening Procedure Code(s): 81162, 81163, 81164, 81165, 81166, 81167, 81212, 81215, 81216, 81217
+
+BRCA Lab Screening *Prior authorization requirements apply to BRCA lab screening. Applies to age 18+ when billed with one of the BRCA Lab Screening diagnosis codes listed in this row.
+
+Refer to the Medical Policy titled Genetic Testing for Hereditary Cancer.
+
+Blood Draw: 36415, 36416
+
+Blood Draw: Requires one of the BRCA Lab Screening procedure codes listed in this row and one of the BRCA Lab Screening diagnosis codes listed in this row.
+
+Diagnosis Code(s): Family History or Personal History of breast cancer and/or ovarian cancer: Z15.01, Z15.02, Z80.3, Z80.41, Z85.3, Z85.43
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 9 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective. Screening for Pre- Diabetes and Type 2 Diabetes
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions. Pre-Diabetes Preventive Interventions Limited to age 35-70 years (ends on 71st birthday). Requires diagnosis code R73.03.
+
+Code(s) Pre-Diabetes Preventive Interventions Procedure Code(s): Medical Nutrition Therapy or Counseling: 97802, 97803, 97804, G0270, G0271
+
+USPSTF Rating (Aug. 2021): B The USPSTF recommends screening for prediabetes and type 2 diabetes in adults aged 35 to 70 years who have overweight or obesity. Clinicians should offer or refer patients with prediabetes to effective preventive interventions.
+
+Preventive Medicine Individual Counseling: 99401, 99402, 99403, 99404
+
+Behavioral Counseling or Therapy: 0403T, G0447, G0473, G9886
+
+Diagnosis Code(s): R73.03 (prediabetes) Diabetes Screening Procedure Code(s): Diabetes Screening: 82947, 82948, 82950, 82951, 82952, 83036
+
+Refer to Healthy Diet and Physical Activity for Cardiovascular Disease Prevention in Adults with Cardiovascular Risk Factors: Behavioral Counseling Interventions for intensive behavioral counseling interventions.
+
+Diabetes Screening Limited to age 35-70 years (ends on 71st birthday).
+
+Diabetes Screening: Requires one of the Required Diagnosis Codes listed in this row and one of the listed Additional Diagnosis Codes in this row.
+
+For additional diabetes screening benefits, also see the Expanded Women’s Preventive Health section for Screening for Diabetes in Pregnancy and Screening for Diabetes After Pregnancy.
+
+Blood Draw: 36415, 36416
+
+Diagnosis Code(s): Required Diagnosis Codes (requires at least one): Z00.00, Z00.01, Z13.1
+
+Blood Draw: Requires all of the following: One of the listed Diabetes
+
+Screening procedure codes listed in this row and
+
+And one of the following additional diagnosis codes as follows: Additional Diagnosis Codes (requires at least one): Overweight: E66.3, Z68.25, Z68.26, Z68.27, Z68.28, Z68.29
+
+One of the listed Required Diagnosis Codes and One of the listed Additional
+
+Diagnosis Codes.
+
+Preventive Benefit Does Not Apply: If a Diabetes Diagnosis Code is present in any position, the preventive benefit does not apply; see the Diabetes Diagnosis Code List.
+
+Obesity: E66.01, E66.09, E66.1, E66.2, E66.811, E66.812, E66.813, E66.89, E66.9, E88.82, Z68.41, Z68.42, Z68.43, Z68.44, Z68.45
+
+Body Mass Index 30.0 – 39.9: Z68.30, Z68.31, Z68.32, Z68.33, Z68.34, Z68.35, Z68.36, Z68.37, Z68.38, Z68.39
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 10 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective.
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions.
+
+Code(s) Body Mass Index 40.0 and Over: Z68.41, Z68.42, Z68.43, Z68.44, Z68.45
+
+See the Expanded Women’s Preventive Health section for Screening for Diabetes in Pregnancy and Screening for Diabetes After Pregnancy.
+
+Gestational Diabetes Screening
+
+See the Expanded Women’s Preventive Health section for Screening for Diabetes in Pregnancy preventive benefit instructions. Note: This benefit applies regardless of the gestational week.
+
+See the Expanded Women’s Preventive Health section for Screening for Diabetes in Pregnancy codes.
+
+USPSTF Rating (Aug. 2021): B The USPSTF recommends screening for gestational diabetes mellitus in asymptomatic pregnant persons at 24 weeks of gestation or after.
+
+For additional diabetes screening benefits, also see the Screening for Pre-Diabetes and Type 2 Diabetes row. Also see the Expanded Women’s Preventive Health section for Screening for Diabetes in Pregnancy and Screening for Diabetes After Pregnancy. Screening Mammography
+
+No age limits.
+
+Procedure Code(s): 77063, 77067
+
+Does not have diagnosis code requirements for the preventive benefit to apply.
+
+Revenue Code: 0403
+
+USPSTF Rating (2002): B The USPSTF recommends screening mammography, with or without clinical breast examination (CBE), every 1-2 years for women aged 40 and older.
+
+Note: This benefit only applies to screening mammography.
+
+Diagnosis Code(s): Does not have diagnosis code requirements for the preventive benefit to apply.
+
+Also refer to the Medical Policy titled Breast Imaging for Screening and Diagnosing Cancer. Also see the Breast Cancer Screening for Average-Risk Women recommendation in the Expanded Women’s Preventive Health section. Cervical Cancer Screening
+
+Human Papillomavirus DNA Testing (HPV) Procedure Code(s): 0502U, 87624, 87625, 87626, G0476
+
+Human Papillomavirus DNA Testing (HPV) Age 30 years and up.
+
+USPSTF Rating (Aug. 2018): A
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 11 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective. Age 21-29 years: The USPSTF recommends screening for cervical cancer every 3 years with cervical cytology alone in women aged 21-29 years.
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions. Requires one of the diagnosis codes listed in this row.
+
+Code(s)
+
+Diagnosis Code(s): Z00.00, Z00.01, Z01.411, Z01.419, Z11.51, Z12.4 Cervical Cytology (Pap Test) Code Group 1 Procedure Code(s): G0101, G0123, G0124, G0141, G0143, G0144, G0145, G0147, G0148, Q0091, P3000, P3001
+
+Cervical Cytology (Pap Test) Code Group 1: Limited to age 21-65 years (ends on 66th birthday). Does not have diagnosis code requirements for preventive benefits to apply.
+
+Age 30-65 years: For women aged 30 to 65 years, the USPSTF recommends: Screening every 3 years with cervical cytology alone, Every 5 years with high-risk human papillomavirus (hrHPV) testing alone, or Every 5 years with hrHPV
+
+Code Group 1 Diagnosis Code(s): Does not have diagnosis code requirements for preventive benefit to apply.
+
+Code Group 2 Procedure Code(s): 88141, 88142, 88143, 88147, 88148, 88150, 88152, 88153, 88155, 88164, 88165, 88166, 88167, 88174, 88175
+
+Code Group 2: Limited to age 21–65 years (ends on 66th birthday).
+
+testing in combination with cytology (co-testing).
+
+Requires one of the Code Group 2 diagnosis codes listed in this row.
+
+Bright Futures, March 2014: Adolescents should no longer be routinely screened for cervical dysplasia until age 21.
+
+Code Group 2 Diagnosis Code(s): Z00.00, Z00.01, Z01.411, Z01.419,
+
+Z12.4
+
+Also see Screening for Cervical Cancer in the Expanded Women’s Preventive Health section. Statin Use for the Primary Prevention of Cardiovascular Disease in Adults - Cholesterol Screening (Lipid Disorders Screening)
+
+Cholesterol Screening: Ages 40-75 years (ends on 76th birthday).
+
+Procedure Code(s): Cholesterol Screening: 80061, 82465, 83718, 83719, 83721, 83722, 84478
+
+Requires one of the diagnosis codes listed in this row for 80061, 82465, 83718, 83719, 83721, 83722, 84478.
+
+Blood Draw: 36415, 36416
+
+Blood Draw: Ages 40-75 years (ends on 76th birthday): Requires one of the listed Cholesterol Screening procedure codes and one of the Diagnosis Codes listed in this row.
+
+USPSTF Rating (August 2022): B The USPSTF recommends that clinicians prescribe a statin for the primary prevention of CVD for adults aged 40 to 75 years who have 1 or more CVD risk factors (i.e. dyslipidemia, diabetes, hypertension, or smoking) and an estimated 10-year risk of a cardio- vascular event of 10% or greater.
+
+ASCVD Risk Assessment and Risk Management Services: G0537, G0538
+
+Diagnosis Code(s): Z00.00, Z00.01, Z13.220
+
+ASCVD Risk Assessment and Management Services: Ages 40-75 years (ends on 76th birthday). The diagnosis codes listed in this row are not required for G0537 and G0538.
+
+Notes: For statin medications benefits, refer to the pharmacy plan administrator.
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 12 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective. See Dyslipidemia Screening
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions.
+
+Code(s)
+
+Preventive Benefit Does Not Apply: For all ages above, if any of the following lipid disorders diagnosis codes are present in any position, the preventive benefit does not apply: E71.30, E75.5, E78.00, E78.010, E78.011, E78.019, E78.2, E78.3, E78.41, E78.49, E78.5, E78.79, E78.81, E78.89, E88.2, E88.89 Colonoscopy Age Limits: 45-75 years (ends on 76th birthday).
+
+(Bright Futures) for recommendations for children.
+
+Colorectal Cancer Screening
+
+Colonoscopy Procedure Code(s): Preventive Colonoscopy: G0105, G0121
+
+USPSTF Rating (May 2021): B The USPSTF recommends screening for colorectal cancer in adults aged 45 to 49 years.
+
+Codes G0105 and G0121 do not have diagnosis code requirements for preventive benefits to apply. Codes with an asterisk(*) are preventive when: Billed with one of the diagnosis codes listed in this row (Z00.00, Z00.01, Z12.10, Z12.11, Z12.12, Z15.060, Z15.068, Z80.0, Z83.710, Z83.711, Z83.718, Z83.719, Z83.72, Z83.79); or
+
+Preventive Colonoscopy When Billed with Certain Codes (see Preventive Benefit Instructions to the right): 44388*, 44389*, 44392*, 44394*, 45378*, 45380*, 45381*, 45384*, 45385*, 45388*
+
+USPSTF Rating (May 2021): A The USPSTF recommends screening for colorectal cancer in all adults aged 50 to 75 years.
+
+Diagnosis Code(s): Applies to Procedure Codes with asterisk(*) above: Z00.00, Z00.01, Z12.10, Z12.11, Z12.12, Z15.060, Z15.068, Z80.0, Z83.710, Z83.711, Z83.718, Z83.719, Z83.72, Z83.79 Note: Also see the Colonoscopy Pre- Op Consultation row below. Sigmoidoscopy Procedure Code(s): Preventive Sigmoidoscopy: G0104
+
+Also refer to the Medical Policies titled Outpatient Surgical Procedures - Site of Service; Screening Colonoscopy Procedures – Site of Service; and Magnetic Resonance Imaging (MRI) and Computed Tomography (CT) Scan – Site of Service. Also see the Frequently Asked Questions section.
+
+Billed in addition to G0104, G0105,
+
+G0121, G0328 or S0285
+
+Sigmoidoscopy Age Limits: 45-75 years (ends on 76th birthday).
+
+Code G0104 does not have diagnosis code requirements for preventive benefits to apply.
+
+Preventive Sigmoidoscopy When Billed with Certain Codes (see Preventive Benefit Instructions to the right): 45330*, 45331*, 45333*, 45338*, 45346*
+
+Codes with an asterisk(*) are preventive when: Billed with one of the diagnosis codes listed in this row (Z00.00, Z00.01, Z12.10, Z12.11, Z12.12, Z15.060, Z15.068, Z80.0, Z83.710, Z83.711, Z83.718, Z83.719, Z83.72, Z83.79); or
+
+Diagnosis Code(s): Applies to Procedure Codes with asterisk(*) above: Z00.00, Z00.01, Z12.10, Z12.11, Z12.12, Z15.060, Z15.068, Z80.0,
+
+Billed in addition to codes G0104, G0105, G0121, G0328 or S0285
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 13 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective.
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions.
+
+Code(s) Z83.710, Z83.711, Z83.718, Z83.719, Z83.72, Z83.79, Pathology and Anesthesia (for Colonoscopy or Sigmoidoscopy) Procedure Code(s): Pathology: 88304, 88305
+
+Pathology and Anesthesia (for Colonoscopy or Sigmoidoscopy) Age Limits: 45-75 years (ends on 76th birthday).
+
+Requires both of the following: One of the diagnosis codes listed in this row (Z00.00, Z00.01, Z12.10, Z12.11, Z12.12, Z15.060, Z15.068, Z80.0, Z83.710, Z83.711, Z83.718, Z83.719, Z83.72, Z83.79); and
+
+Anesthesia: 00811, 00812, 99152, 99153, 99156, 99157, G0500
+
+Diagnosis Code(s): Applies to the Pathology and Anesthesia codes listed above: Z00.00, Z00.01, Z12.10, Z12.11, Z12.12, Z15.060, Z15.068, Z80.0, Z83.710, Z83.711, Z83.718, Z83.719, Z83.72, Z83.79
+
+One of the procedure codes listed in
+
+the Colonoscopy row, or the Sigmoidoscopy row.
+
+Note: Preventive benefits apply when the surgeon’s claim is preventive. Fecal Occult Blood Testing (FOBT) and Fecal Immunochemical Test (FIT) Age Limits: 45-75 years (ends on 76th birthday).
+
+Fecal Occult Blood Testing (FOBT) and Fecal Immunochemical Test (FIT) Procedure Code(s): Preventive: G0328
+
+Code G0328 does not have diagnosis code requirements for preventive benefits to apply.
+
+Preventive When Billed with Certain Codes (see Preventive Benefit Instructions to the right): 82270*, 82274*
+
+Codes with an asterisk(*) are preventive when: Billed with one of the diagnosis codes listed in this row (Z00.00, Z00.01, Z12.10, Z12.11, Z12.12, Z15.060, Z15.068, Z80.0, Z83.710, Z83.711, Z83.718, Z83.719, Z83.72, Z83.79); or
+
+Diagnosis Code(s): Applies to Procedure Codes with asterisk(*) above: Z00.00, Z00.01, Z12.10, Z12.11, Z12.12, Z15.060, Z15.068, Z80.0, Z83.710, Z83.711, Z83.718, Z83.719, Z83.72, Z83.79
+
+Billed in addition to G0104, G0105,
+
+G0121, G0328 or S0285.
+
+Fecal DNA Procedure Code(s): 0464U, 81528
+
+Fecal DNA Age Limits: 45-75 years (ends on 76th birthday).
+
+Benefit is limited to once every 3 years.
+
+Diagnosis Code(s): Code 81528 does not have diagnosis code requirements for preventive benefits to apply.
+
+Codes 0464U and 81528 do not have diagnosis code requirements for preventive benefits to apply.
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 14 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective.
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions. Pre-Op Consultation Age Limits: 45-75 years (ends on 76th birthday).
+
+Code(s) Pre-Op Consultation Procedure Code(s): Preventive: S0285 Preventive when billed with one of the diagnosis codes listed in this row: 99202*, 99203*, 99204*, 99205*, 99211*, 99212*, 99213*, 99214*, 99215*, 99242*, 99243*, 99244*, 99245*, 99417*
+
+Code S0285 does not have diagnosis code requirements for preventive benefits to apply.
+
+Codes with an asterisk(*) are preventive when billed with one of the diagnosis codes listed in this row (Z12.10, Z12.11, Z12.12, Z15.060, Z15.068, Z80.0, Z83.710, Z83.711, Z83.718, Z83.719, Z83.72, Z83.79).
+
+Diagnosis Code(s): Applies to Procedure Codes with asterisk(*) above: Z12.10, Z12.11, Z12.12, Z15.060, Z15.068, Z80.0, Z83.710, Z83.711, Z83.718, Z83.719, Z83.72, Z83.79
+
+Note: For additional information on the reimbursement of consultation codes 99242-99245, refer to the Reimbursement Policy titled Consultation Services. Computed Tomographic Colonography (Virtual Colonoscopy) Procedure Code(s): 74263
+
+Computed Tomographic Colonography (Virtual Colonoscopy) Age Limits: 45-75 years (ends on 76th birthday).
+
+Does not have diagnosis code requirements for preventive benefit to apply.
+
+Diagnosis Code(s): Does not have diagnosis code requirements for preventive benefit to apply.
+
+Prior authorization requirements may apply, depending on plan. Does not have diagnosis code requirements for the preventive benefit to apply.
+
+Wellness Examinations (well-baby, well-child, well-adult)
+
+Procedure Code(s): Medicare Wellness Exams: G0402, G0438, G0439
+
+USPSTF Rating: None UnitedHealthcare supports AAP and AAFP age and frequency guidelines.
+
+G0445 is limited to twice per year.
+
+STIs Behavioral Counseling: G0445 Annual Gynecological Exams: S0610, S0612, S0613
+
+G0296 is limited to age 50 to 80 years (ends on 81st birthday). Pelvic Examination add-on code 99459: Preventive care services benefits may apply to 99459 when the related evaluation and management (office visit) code is applied to the preventive care services benefit. CPT code 99459 may
+
+HRSA Requirements: The Wellness Examinations codes in this row include the following HRSA requirements for women, where applicable:
+
+Pelvic Examination (add-on code): 99459
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 15 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective. Breastfeeding support,
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions. not be payable in all circumstances due to other policies or guidelines.
+
+Code(s) Preventive Medicine Services (Evaluation and Management): 99381, 99382, 99383, 99384, 99385, 99386, 99387 99391, 99392, 99393, 99394, 99395, 99396, 99397
+
+counseling, and education Contraceptive methods and
+
+sterilizations (counseling and follow-up care)
+
+Screening and counseling for
+
+interpersonal domestic violence
+
+Preventive Medicine, Individual Counseling: 99401, 99402, 99403, 99404
+
+Screening for human
+
+immunodeficiency virus infection (HIV); education and risk assessment
+
+Preventive Medicine, Group Counseling: 99411, 99412
+
+Counseling for sexually
+
+transmitted infections (STIs) Well-woman preventive visits Screening for urinary
+
+Newborn Care (evaluation and management): 99461
+
+incontinence
+
+Obesity prevention in midlife
+
+women (counseling)
+
+Counseling Visit (to discuss the need for Lung Cancer Screening (LDCT) using Low Dose CT Scan): G0296
+
+Diagnosis Code(s): Does not have diagnosis code requirements for the preventive benefit to apply.
+
+Also see the Expanded Women’s Preventive Health section.
+
+Newborn Screenings All newborns
+
+Newborn Screenings: Age 0-90 days. Does not have diagnosis code requirements for the preventive benefit to apply.
+
+Procedure Code(s): Hypothyroidism Screening: 84437, 84443
+
+USPSTF Rating (March 2008): A Hypothyroidism Screening: Screening for congenital hypothyroidism in newborns.
+
+Phenylketonuria Screening: 84030, S3620
+
+Blood Draw: Age 0-90 days, requires one of the listed Hypothyroidism Screening, Phenylketonuria Screening, or Sickle Cell Screening procedure codes.
+
+Sickle Cell Screening: 83020, 83021, 83030, 83033, 83051, S3850 Blood Draw: 36415, 36416
+
+USPSTF Rating (March 2008): A Phenylketonuria Screening: Screening for phenylketonuria (PKU) in newborns.
+
+USPSTF Rating (Sept. 2007): A Sickle Cell Screening: Screening for sickle cell disease in newborns.
+
+Diagnosis Code(s): Does not have diagnosis code requirements for the preventive benefit to apply.
+
+Note: For Bright Futures hearing screening, see Hearing Tests (Bright Futures).
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 16 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective. Metabolic Screening Panel (Newborns)
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions.
+
+Code(s)
+
+Metabolic Screening Panel: Age 0-90 days. Does not have diagnosis code requirements for the preventive benefit to apply.
+
+Procedure Code(s): Metabolic Screening Panel: 82017, 82136, 82261, 82775, 83020, 83498, 83516, 84030, 84437, 84443, S3620
+
+Blood Draw: Age 0-90 days. Requires one of the listed Metabolic Screening Panel procedure codes listed in this row.
+
+Blood Draw: 36415, 36416
+
+Diagnosis Code(s): Does not have diagnosis code requirements for the preventive benefit to apply.
+
+Osteoporosis Screening
+
+Requires one of the diagnosis codes listed in this row.
+
+Procedure Code(s): 76977, 77080, 77081, G0130
+
+USPSTF Rating (June 2018): B Women 65 and older: The USPSTF recommends screening for osteoporosis with bone measurement testing to prevent osteoporotic fractures in women 65 years and older.
+
+Diagnosis Code(s): Z00.00, Z00.01, Z13.820, Z82.62
+
+USPSTF Rating (June 2018): B Postmenopausal women younger than 65 years at increased risk of osteoporosis: The USPSTF recommends screening for osteoporosis with bone measurement testing to prevent osteoporotic fractures in postmenopausal women younger than 65 years who are at increased risk of osteoporosis, as determined by a formal clinical risk assessment tool. Screening and Behavioral Counseling Interventions in Primary Care to Reduce Unhealthy Alcohol Use in Adults
+
+Does not have diagnosis code requirements for preventive benefits to apply.
+
+Procedure Code(s): Alcohol or Drug Use Screening: 99408, 99409
+
+Annual Alcohol Screening: G0442
+
+Brief Counseling for Alcohol: G0443
+
+USPSTF Rating (Nov. 2018): B The USPSTF recommends screening for unhealthy alcohol use in primary care settings in adults 18 years or older, including pregnant women, and providing persons
+
+Diagnosis Code(s): Does not have diagnosis code requirements for preventive benefit to apply.
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 17 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective. engaged in risky or hazardous drinking with brief behavioral counseling interventions to reduce unhealthy alcohol use.
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions.
+
+Code(s)
+
+Bright Futures (April 2017): Bright Futures recommends alcohol or drug use assessments from age 11-21 years.
+
+Also see rows: Unhealthy Drug Use Screening (Adults); and Tobacco, Alcohol, or Drug Use Assessment (Bright Futures). Unhealthy Drug Use Screening (Adults)
+
+Does not have diagnosis code requirements for preventive benefits to apply.
+
+Procedure Code(s): Alcohol or Drug Use Screening: 99408, 99409
+
+USPSTF Rating (June 2020): B The USPSTF recommends screening by asking questions about unhealthy drug use in adults age 18 years or older. Screening should be implemented when services for accurate diagnosis, effective treatment, and appropriate care can be offered or referred. (Screening refers to asking questions about unhealthy drug use, not testing biological specimens.)
+
+Diagnosis Code(s): Does not have diagnosis code requirements for preventive benefit to apply.
+
+Bright Futures (April 2017): Bright Futures recommends alcohol or drug use assessments from age 11-21 years.
+
+Also see rows: Screening and Behavioral Counseling Interventions in Primary Care to Reduce Unhealthy Alcohol Use in Adults; and Tobacco, Alcohol, or Drug Use Assessment (Bright Futures). High Blood Pressure in Adults – Screening
+
+Blood Pressure Measurement in a Clinical Setting N/A
+
+Blood Pressure Measurement in a Clinical Setting This service is included in a preventive care wellness examination.
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 18 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective. USPSTF Rating (April 2021): A The USPSTF recommends screening for hypertension in adults 18 years or older with office blood pressure measurement.
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions. Ambulatory Blood Pressure Measurement (Outside of a Clinical Setting) Age 18 years and older. Requires the diagnosis code listed in this row.
+
+Code(s) Ambulatory Blood Pressure Measurement (Outside of a Clinical Setting) Procedure Code(s): Ambulatory Blood Pressure Measurement: 93784, 93786, 93788 or 93790
+
+The USPSTF recommends obtaining blood pressure measurements outside of the clinical setting for diagnostic confirmation before starting treatment.
+
+Diagnosis Code(s): Abnormal Blood-Pressure Reading Without Diagnosis of Hypertension: R03.0 Procedure Code(s): Evaluation and Management (Office Visits): 99202, 99203, 99204, 99205, 99211, 99212, 99213, 99214, 99215, 99385, 99386, 99387, 99395, 99396, 99397, 99417, G0463
+
+Breast Cancer: Medication Use to Reduce Risk
+
+Requires one of the diagnosis codes listed in this row in the primary position.
+
+USPSTF Rating (Sept. 2019): B The USPSTF recommends that clinicians offer to prescribe risk- reducing medications, such as tamoxifen, raloxifene, or aromatase inhibitors, to women who are at increased risk for breast cancer and at low risk for adverse medication effects. Primary Care Interventions to Promote Breastfeeding
+
+Diagnosis Code(s): Z80.3, Z80.41, Z15.01, Z15.02
+
+N/A
+
+Included in primary care or OB/GYN office visits.
+
+Also see the Expanded Women’s Preventive Health section
+
+USPSTF Rating (Oct. 2016): B The USPSTF recommends providing interventions during pregnancy and after birth to support breastfeeding. Depression in Adults (Screening)
+
+Requires one of the diagnosis codes listed in this row, for 96127.
+
+Procedure Code(s): 96127, 96161, G0136, G0444
+
+The diagnosis codes listed in this row are not required, for G0136, G0444, and 96161.
+
+Diagnosis Code(s): Required for 96127 Only: Encounter for Screening for Depression: Z13.31, Z13.32
+
+USPSTF Rating (June 2023): B The USPSTF recommends screening for depression in the adult population, including pregnant and postpartum persons, as well as older adults.
+
+Bright Futures (February 2017): Maternal Depression Screening: Routine screening for postpartum depression should be integrated
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 19 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective. into well-child visits at 1, 2, 4, and 6 months of age.
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions.
+
+Code(s)
+
+Also see the rows for Screening for Anxiety (HRSA); Anxiety Disorders in Adults Screening (USPSTF): Depression in Children and Adolescents (Screening) (USPSTF); Perinatal Depression – Preventive Interventions (Counseling) (USPSTF); and Depression and Suicide Risk Screening (Bright Futures). Depression in Children and Adolescents (Screening)
+
+Requires one of the diagnosis codes listed in this row, for 96127.
+
+Procedure Code(s): 96127, 96161, G0136, G0444
+
+The diagnosis codes listed in this row are not required for G0136, G0444, and 96161.
+
+Diagnosis Code(s): Required for 96127 Only: Encounter for Screening for Depression: Z13.31, Z13.32
+
+USPSTF Rating (October 2022): B The USPSTF recommends screening for major depressive disorder (MDD) in adolescents aged 12-18 years.
+
+Bright Futures (February 2017): Maternal Depression Screening: Routine screening for postpartum depression should be integrated into well-child visits at 1, 2, 4, and 6 months of age.
+
+Note: The Bright Futures Periodicity Schedule recommends depression screening begin at age 12-21 years.
+
+Also see the rows for Anxiety Disorders in Adults Screening (USPSTF): Screening for Anxiety (HRSA); Screening for Depression in Adults (USPSTF); Perinatal Depression – Preventive Interventions (Counseling) (USPSTF); and Depression and Suicide Risk Screening (Bright Futures).
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 20 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective. Anxiety Disorders in Adults (Screening)
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions. Requires the diagnosis code listed in this row.
+
+Code(s)
+
+Procedure Code(s): 96127
+
+USPSTF Rating (June 2023): B The USPSTF recommends screening for anxiety in adults, including pregnant and postpartum persons. This applies to adults age 64 or younger.
+
+Diagnosis Code(s): Encounter for Screening Examination for Other Mental Health and Behavioral Disorders: Z13.39
+
+Also see the rows for Screening for Anxiety (HRSA); and Screening for Anxiety in Children and Adolescents (USPSTF). Screening for Anxiety in Children and Adolescents
+
+Requires the diagnosis code listed in this row.
+
+Procedure Code(s): 96127
+
+USPSTF Rating (October 2022): B The USPSTF recommends screening for anxiety in children and adolescents aged 8 to 18 years.
+
+Diagnosis Code(s): Encounter for Screening Examination for Other Mental Health and Behavioral Disorders: Z13.39
+
+Also see the rows for Anxiety Disorders in Adults Screening (USPSTF): Screening for Anxiety (HRSA); Screening for Depression in Adults (USPSTF); Perinatal Depression – Preventive Interventions (Counseling) (USPSTF); and Depression and Suicide Risk Screening (Bright Futures). Healthy Diet and Physical Activity for Cardiovascular Disease Prevention in Adults with Cardiovascular Risk Factors: Behavioral Counseling Interventions
+
+Requires one of the diagnosis codes listed in this row for 0403T, 97802- 97804, 99401-99404, G0270, G0271, and G9886
+
+Procedure Code(s): Medical Nutrition Therapy or Counseling: 97802, 97803, 97804, G0270, G0271
+
+The diagnosis codes listed in this row are not required for G0446, G0447, G0473, G0537, and G0538.
+
+Preventive Medicine Individual Counseling: 99401, 99402, 99403, 99404
+
+G0446 is limited to once per year.
+
+Behavioral Counseling or Therapy: 0403T, G0446, G0447, G0473, G9886
+
+USPSTF Rating (Nov. 2020): B The USPSTF recommends offering or referring adults with cardiovascular disease risk factors to behavioral counseling interventions to promote a healthy diet and physical activity.
+
+ASCVD Risk Assessment and Risk Management Services: G0537, G0538
+
+Diagnosis Code(s): Screening: Z13.220
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 21 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective.
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions.
+
+Code(s) Nicotine Dependence, Tobacco Use, or Family History of IHD: F17.210, F17.211, F17.213, F17.218, F17.219, Z72.0, Z87.891, Z82.49
+
+Overweight: E66.3, Z68.25, Z68.26, Z68.27, Z68.28, Z68.29
+
+Body Mass Index 30.0 – 39.9: Z68.30, Z68.31, Z68.32, Z68.33, Z68.34, Z68.35, Z68.36, Z68.37, Z68.38, Z68.39
+
+Body Mass Index 40.0 and Over: Z68.41, Z68.42, Z68.43, Z68.44, Z68.45
+
+Impaired Fasting Glucose: R73.01
+
+Metabolic Syndrome; Insulin Resistance Syndrome Type A; Other Insulin Resistance: E88.810, E88.811, E88.818, E88.819
+
+Hyperlipidemia / Dyslipidemia: E78.00, E78.010, E78.011, E78.019, E78.1, E78.2, E78.3, E78.41, E78.49, E78.5
+
+Obesity: E66.01, E66.09, E66.1, E66.2, E66.811, E66.812, E66.813, E66.89, E66.9, E88.82, Z68.41, Z68.42, Z68.43, Z68.44, Z68.45
+
+Essential Hypertension: I10
+
+Resistant Hypertension: I1A.0
+
+Secondary Hypertension: I15.0, I15.1, I15.2, I15.8, I15.9, N26.2
+
+Hypertension Complicating Pregnancy, Childbirth, and the Puerperium: O10.011, O10.012, O10.013, O10.019, O10.02, O10.03, O10.111, O10.112, O10.113, O10.119, O10.12,
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 22 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective.
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions.
+
+Code(s) O10.13, O10.211, O10.212, O10.213, O10.219, O10.22, O10.23, O10.311, O10.312, O10.313, O10.319, O10.32, O10.33, O10.411, O10.412, O10.413, O10.419, O10.42, O10.43, O10.911, O10.912, O10.913, O10.919, O10.92, O10.93, O11.1, O11.2, O11.3, O11.4, O11.5, O11.9, O13.1, O13.2, O13.3, O13.4, O13.5, O13.9, O16.1, O16.2, O16.3, O16.4, O16.5, O16.9
+
+Urgent/Emergency/Crisis Hypertension: I16.0, I16.1, I16.9
+
+Diabetes: Diabetes Diagnosis Code List
+
+Atherosclerosis: Atherosclerosis Diagnosis Code List
+
+Coronary Atherosclerosis: I25.10, I25.110, I25.111, I25.112, I25.118, I25.119, I25.700, I25.701, I25.702, I25.708, I25.709, I25.710, I25.711, I25.712, I25.718, I25.719, I25.720, I25.721, I25.722, I25.728, I25.729, I25.730, I25.731, I25.732, I25.738, I25.739, I25.750, I25.751, I25.752, I25.758, I25.759, I25.760, I25.761, I25.762, I25.768, I25.769, I25.790, I25.791, I25.792, I25.798, I25.799, I25.810, I25.811, I25.812
+
+Weight Loss to Prevent Obesity-Related Morbidity and Mortality in Adults: Behavioral Interventions
+
+Requires one of the diagnosis codes listed in this row for 0403T, 97802- 97804, 99401-99404, G0270, G0271, and G9886
+
+Procedure Code(s): Medical Nutrition Therapy: 97802, 97803, 97804, G0270, G0271
+
+Preventive Medicine Individual Counseling: 99401, 99402, 99403, 99404
+
+G0446 is limited to once per year. The diagnosis codes listed in this row are not required for G0446, G0447, and G0473.
+
+USPSTF Rating (Sept. 2018): B The USPSTF recommends that clinicians offer or refer adults with a body mass index (BMI) of 30 or higher (calculated as weight in kilograms divided by height in meters squared) to intensive multicomponent behavioral interventions.
+
+Behavioral Counseling or Therapy: 0403T, G0446, G0447, G0473, G9886
+
+Diagnosis Code(s): Body Mass Index 30.0-39.9: Z68.30, Z68.31, Z68.32, Z68.33, Z68.34, Z68.35, Z68.36, Z68.37, Z68.38, Z68.39
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 23 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective.
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions.
+
+Code(s) Body Mass Index 40.0 and over: Z68.41, Z68.42, Z68.43, Z68.44, Z68.45
+
+Obesity: E66.01, E66.09, E66.1, E66.2, E66.811, E66.812, E66.813, E66.89, E66.9, E88.82
+
+High Body Mass Index in Children and Adolescents
+
+Requires one of the diagnosis codes listed in this row for 0403T, 97802- 97804, 99401-99404, G0270, G0271, and G9886
+
+Procedure Code(s): Medical Nutrition Therapy: 97802, 97803, 97804, G0270, G0271
+
+USPSTF Rating (June 2024): B The USPSTF recommends that clinicians provide or refer children and adolescents 6 years or older with a high body mass index (BMI) (≥ 95th percentile for age and sex) to comprehensive, intensive behavioral interventions. See the Practice Considerations section of the published USPSTF recommendation or more information about behavioral interventions.
+
+Preventive Medicine Individual Counseling: 99401, 99402, 99403, 99404
+
+G0446 is limited to once per year.
+
+The diagnosis codes listed in this row are not required for G0446, G0447, and G0473.
+
+Behavioral Counseling or Therapy: 0403T, G0446, G0447, G0473, G9886
+
+Also see the codes in the Wellness Examinations row above.
+
+Diagnosis Code(s): Obesity: E66.01, E66.09, E66.1, E66.2, E66.811, E66.812, E66.813, E66.89, E66.9. E88.82
+
+Pediatric BMI of 120% or more of the 95th percentile for age: Z68.54, Z68.55, Z68.56
+
+Healthy Weight and Weight Gain During Pregnancy: Behavioral Counseling Interventions
+
+Requires one of the diagnosis codes listed in this row.
+
+Procedure Code(s): Medical Nutrition Therapy: 97802, 97803, 97804, G0270, G0271
+
+Preventive Medicine Individual Counseling: 99401, 99402, 99403, 99404
+
+USPSTF Rating (May 2021): B The USPSTF recommends that clinicians offer pregnant persons effective behavioral counseling interventions aimed at promoting healthy weight gain and preventing excess gestational weight gain in pregnancy.
+
+Behavioral Counseling or Therapy: G0447, G0473
+
+Diagnosis Code(s): Pregnancy Diagnosis Codes
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 24 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective. Behavioral Counseling to Prevent Sexually Transmitted Infections
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions. Does not have diagnosis code requirements for the preventive benefit to apply.
+
+Code(s)
+
+Procedure Code(s): STIs Behavioral Counseling: G0445
+
+Preventive Medicine Individual Counseling 99401, 99402, 99403, 99404
+
+USPSTF Rating (Aug. 2020): B The USPSTF recommends behavioral counseling for all sexually active adolescents and for adults who are at increased risk for sexually transmitted infections (STIs).
+
+G0445 is limited to twice per year.
+
+Diagnosis Code(s): Does not have diagnosis code requirements for the preventive benefit to apply.
+
+Interventions for Tobacco Smoking Cessation in Adults, including Pregnant Persons
+
+Does not have diagnosis code requirements for the preventive benefit to apply.
+
+Procedure Code(s): Behavioral Interventions: 99406, 99407
+
+Preventive Medicine, Individual Counseling: 99401, 99402, 99403, 99404
+
+USPSTF Rating (Jan. 2021): A Pregnant Persons (A): The USPSTF recommends that clinicians ask all pregnant persons about tobacco use, advise them to stop using tobacco, and provide behavioral interventions for cessation to pregnant persons who use tobacco. Nonpregnant Adults (A): The USPSTF recommends that clinicians ask all adults about tobacco use, advise them to stop using tobacco, and provide behavioral interventions and US Food and Drug Administration (FDA)–approved pharmacotherapy for cessation to nonpregnant adults who use tobacco.
+
+Also see the codes in the Wellness Examinations row above.
+
+Diagnosis Code(s): Does not have diagnosis code requirements for the preventive benefit to apply.
+
+Note: Refer to the plan’s pharmacy benefit plan administrator for details on prescription medications available under the plan’s preventive benefit. Also see rows: Unhealthy Drug Use Screening (Adults); and Tobacco, Alcohol, or Drug Use Assessment (Bright Futures).
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 25 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective. Primary Care Interventions To Prevent Tobacco Use In Children And Adolescents
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions. Does not have diagnosis code requirements for the preventive benefit to apply.
+
+Code(s)
+
+Procedure Code(s): Smoking and Tobacco Use Cessation Counseling Visit: 99406, 99407
+
+Preventive Medicine, Individual Counseling: 99401, 99402, 99403, 99404 Also see the codes in the Wellness Examinations row above.
+
+USPSTF Rating (April 2013): B The USPSTF recommends that primary care clinicians provide interventions, including education or brief counseling, to prevent initiation of tobacco use among school-aged children and adolescents.
+
+Diagnosis Code(s): Does not have diagnosis code requirements for the preventive benefit to apply.
+
+Bright Futures (April 2017): Bright Futures recommends tobacco use assessments from age 11-21 years.
+
+Also see rows: Unhealthy Drug Use Screening (Adults); and Tobacco, Alcohol, or Drug Use Assessment (Bright Futures). Screening for Visual Impairment in Children
+
+Visual Acuity Screening (99173): Up to age 21 years (ends on 22nd birthday). Does not have diagnosis code requirements for preventive benefits to apply. Instrument-Based Screening (99174 and 99177): Age 1 to 5 (ends on 6th birthday): Does not have diagnosis code requirements for preventive benefits to apply.
+
+Procedure Code(s): Visual Acuity Screening (e.g., Snellen chart): 99173
+
+USPSTF Rating (Sept. 2017): B The USPSTF recommends vision screening at least once in all children age 3 to 5 years to detect amblyopia or its risk factors.
+
+Instrument-Based Screening: 99174, 99177
+
+Diagnosis Code(s): See the Preventive Benefit Instructions.
+
+Bright Futures: Visual acuity screening is recommended for age 4 and 5 years as well as in cooperative 3 year olds. Instrument-based screening recommended for age 12 and 24 months, in addition to the well visits at 3-5 years of age. Behavioral Counseling to Prevent Skin Cancer
+
+Age 6 to 21 years (ends on 22nd birthday): Refer to the Medical Policy titled Ocular Photoscreening for allowable diagnoses.
+
+N/A
+
+This service is included in a preventive care wellness examination or focused E&M visit.
+
+USPSTF Rating (March 2018): B The USPSTF recommends counseling young adults, adolescents, children, and parents of young children about minimizing exposure to ultraviolet (UV) radiation for persons ages 6 months
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 26 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective. to 24 years with fair skin types to reduce their risk of skin cancer. Falls Prevention in Community-Dwelling Older Adults
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions.
+
+Code(s)
+
+N/A
+
+This service is included in a preventive care wellness examination or focused E&M visit.
+
+USPSTF Rating (June 2024): B The USPSTF recommends exercise interventions to prevent falls in community-dwelling adults 65 years or older who are at increased risk for falls. Screening for Intimate Partner Violence
+
+N/A
+
+This service is included in a preventive care wellness examination.
+
+USPSTF Rating (Oct. 2018): B The USPSTF recommends that clinicians screen for intimate partner violence in women of reproductive age and provide or refer women who screen positive to ongoing support services.
+
+Also see Screening and Counseling for Interpersonal and Domestic Violence in the Expanded Women’s Preventive Health section. Screening for Lung Cancer with Low-Dose Computed Tomography
+
+Requires one of the diagnosis codes listed in this row.
+
+Procedure Code(s): 71271
+
+Limitations: • Limited to one per year, and • All of the following criteria:
+
+Diagnosis Code(s): F17.210, F17.211, F17.213, F17.218, F17.219, Z87.891
+
+USPSTF Rating (March 2021): B The USPSTF recommends annual screening for lung cancer with low- dose computed tomography (LDCT) in adults aged 50 to 80 years who have a 20 pack-year smoking history and currently smoke or have quit within the past 15 years. Screening should be discontinued once a person has not smoked for 15 years or develops a health problem that substantially limits life expectancy or the ability or willingness to have curative lung surgery.
+
+o Age 50 to 80 years (ends on
+
+Codes for Reporting Purposes: G9275, G9276
+
+81st birthday), and
+
+o At least 20 pack-years* of smoking history, and
+
+Note: Codes G9275 and G9276, are for reporting purposes only, if applicable. These codes are not separately reimbursable.
+
+o Either a current smoker or has quit within the past 15 years
+
+Note: Prior authorization requirements may apply, depending on plan.
+
+A pack-year is a way to measure the amount a person has smoked over a long period of time. It is calculated by multiplying the number of packs of cigarettes smoked per day by the number of years the person has smoked. For example, 1 pack year is equal to smoking 1 pack per day for 1
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 27 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective.
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions. year, or 2 packs per day for half a year, and so on. Source: National Institutes of Health, National Cancer Institute Dictionary of Cancer Terms, pack year definition web page. https://www.cancer.gov/publications/dicti onaries/cancer-terms/def/pack-year Age 0-5years (ends on 6th birthday).
+
+Code(s)
+
+Fluoride Application in Primary Care
+
+Procedure Code(s): Application of Topical Fluoride by Physician or Other Qualified Health Care Professional: 99188 Diagnosis Code(s): Does not have diagnosis code requirements for the preventive benefit to apply.
+
+Does not have diagnosis code requirements for the preventive benefit to apply.
+
+USPSTF Rating (May 2014): B Children From Birth Through Age 5 Years. The USPSTF recommends that primary care clinicians apply fluoride varnish to the primary teeth of all infants and children starting at the age of primary tooth eruption.
+
+Bright Futures (July 2022): Bright Futures adopted the May 2014 recommendation of the USPSTF and further recommends, once teeth are present, apply fluoride varnish to all children every 3 to 6 months in the primary care or dental office, based on caries risk. Latent Tuberculosis Infection in Adults: Screening
+
+Screening: Ages 18 years and up.
+
+Procedure Code(s): Screening: 86480, 86481, 86580
+
+Requires one of the diagnosis codes listed in this row for CPT code 86480, 86481, and 86580.
+
+Follow-Up Visit to Check Results: 99211
+
+USPSTF Rating (May 2023): B The USPSTF recommends screening for latent tuberculosis infection (LTBI) in populations at increased risk. This recommendation applies to asymptomatic adults 18 years or older at increased risk for tuberculosis (TB).
+
+Follow-Up Visit to Check Results (99211): CPT code 99211 requires diagnosis code R76.11 or R76.12.
+
+Blood Draw: 36415, 36416
+
+Diagnosis Code(s): R76.11, R76.12, Z00.00, Z00.01, Z11.1, Z11.7, Z20.1
+
+Blood Draw: Ages 18 years and up.
+
+Note for age 18-21 years (ends on 22nd birthday): In addition to the codes in this row, the preventive benefit also applies to the diagnosis codes listed in the Bright Futures row: Tuberculosis (TB) Testing.
+
+Required to be billed with 86480 or 86481 and one of the diagnosis codes listed in this row.
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 28 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective. Hypertensive Disorders of Pregnancy – Screening
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions. See the following code groups in the Expanded Women’s Preventive Health section: Prenatal Office Visits Prenatal Care Visits Global Obstetrical Codes
+
+Code(s) Hypertensive disorders of pregnancy screening by blood pressure measurement is included in the code for a prenatal care office visit. See the following code groups in the Expanded Women’s Preventive Health section: Prenatal Office Visits Prenatal Care Visits Global Obstetrical Codes
+
+USPSTF Rating (Sept. 2023): B The USPSTF recommends screening for hypertensive disorders in pregnant persons with blood pressure measurements throughout pregnancy. Perinatal Depression – Preventive Interventions (Counseling)
+
+Code Group 1 Procedure Code(s): Preventive Medicine Individual Counseling: 99401, 99402, 99403, 99404
+
+Code Group 1: Does not have diagnosis code requirements for the preventive benefit to apply.
+
+USPSTF Rating (Feb. 2019): B The USPSTF recommends that clinicians provide or refer pregnant and postpartum persons who are at increased risk of perinatal depression to counseling interventions. Note: This policy addresses coding for interventions from a network medical provider only. For perinatal depression preventive interventions with a mental health provider, refer to the plan’s mental health plan benefit administrator.
+
+Preventive Medicine, Group Counseling: 99411, 99412
+
+Prenatal Care Visits: 59425, 59426
+
+Preventive Medicine Services (Evaluation and Management): 99381, 99382, 99383, 99384, 99385, 99386, 99387, 99391, 99392, 99393, 99394, 99395, 99396, 99397
+
+Code Group 2 Procedure Code(s): Evaluation and Management (Office Visits): 99202, 99203, 99204, 99205, 99211, 99212, 99213, 99214, 99215, G0463
+
+Code Group 2: Requires one of the Code Group 2 diagnosis codes listed in this row.
+
+Also see the rows for Screening for Anxiety (HRSA); Screening for Depression in Adults (USPSTF); Depression in Children and Adolescents (Screening) (USPSTF); and Depression Screening (Bright Futures).
+
+Code Group 2 Diagnosis Code(s): A Pregnancy Diagnosis Code; or Z39.2 (encounter for routine postpartum follow-up); or Z13.32 (encounter for screening for maternal depression)
+
+Prevention of Human Immunodeficiency Virus (HIV) Infection: Preexposure Prophylaxis
+
+Requires one of the diagnosis codes listed in this row in the primary position.
+
+Procedure Code(s): Kidney Function Testing (Creatinine): 82565, 82575
+
+Note: Prior authorization requirements may apply, depending on plan. Refer to the Medical Benefit Drug Policy titled Long-Acting Injectable Antiretroviral Agents for HIV (for Commercial Only) or Long-Acting Injectable Antiretroviral
+
+Pregnancy Testing: 81025, 84702, 84703
+
+USPSTF Rating (Aug. 2023): A The USPSTF recommends that clinicians prescribe preexposure prophylaxis using effective antiretroviral therapy to persons
+
+Office Visits: 99202, 99203, 99204, 99205, 99211, 99212, 99213, 99214, 99215, 99417,
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 29 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective. who are at increased risk of HIV acquisition to decrease the risk of acquiring HIV.
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions. Agents for HIV (for Individual Exchange Only).
+
+Code(s) G0463 (also see codes in the Wellness Examinations section)
+
+Note: This benefit also includes: Kidney function testing
+
+Antiretroviral Therapy Injection: 96372 (Administration) J0739 (Injection cabotegravir, 1mg) G0012 (Administration)
+
+(creatinine)
+
+Serologic testing for hepatitis B
+
+and C virus
+
+Testing for other STIs Pregnancy testing when
+
+Counseling for PrEP to prevent HIV: G0011, G0013
+
+appropriate
+
+Ongoing follow-up and
+
+Pharmacy Supplying Fee for HIV PrEP: Q0521
+
+monitoring including HIV testing every 3 months
+
+Refer to the plan’s pharmacy benefit plan administrator for details on prescription medications available under the plan’s preventive benefit.
+
+Diagnosis Code(s): Z11.3, Z11.4, Z20.2, Z20.6, Z29.81, Z72.51, Z72.52, Z72.53 Also see the sections for: Behavioral Counseling to Prevent Sexually Transmitted Infections Chlamydia Infection Screening Gonorrhea Screening Hepatitis B Virus Infection
+
+Screening
+
+Hepatitis C Virus Infection
+
+Screening
+
+HIV (Human Immunodeficiency
+
+Virus) Screening for Adolescents and Adults
+
+Syphilis Screening
+
+Bright Futures Anemia Screening in Children (Bright Futures)
+
+Anemia Screening in Children: Ages prenatal to 21 (ends on 22nd birthday). No frequency limit.
+
+Procedure Code(s): Anemia Screening in Children: 85014, 85018
+
+Requires one of the diagnosis codes listed in this row.
+
+Blood Draw: 36415, 36416
+
+Blood Draw: Ages prenatal to 21 (ends on 22nd birthday).
+
+Diagnosis Code(s): Z00.110, Z00.111, Z00.121, Z00.129, Z13.0
+
+Required to be billed with 85014 or 85018 and one of the diagnosis codes listed in this row.
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 30 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective. Hearing Tests
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions. Ages 0-90 days: Does not have diagnosis code requirements for the preventive benefit to apply.
+
+Code(s)
+
+Procedure Code(s): Hearing Tests: 92551, 92552, 92553, 92558, 92587, 92588, 92650, 92651, V5008
+
+Bright Futures (April 2017): Hearing Tests: Recommended at ages: Newborn; between 3-5 days to 2 months; 4 years; 5 years, 6 years; 8 years; 10 years; once between age 11-14 years; once between age 15-17 years; once between age 18-21 years; also recommended for those that have a positive risk assessment. Risk Assessment: Recommended at ages: 4 mo, 6 mo, 9 mo, 12 mo, 15 mo, 18 mo, 24 mo, 30 mo, 3 years, 7 years, and 9 years. Screening for Visual Impairment in Children (Bright Futures) Formal Developmental/ Autism Screening
+
+Ages 91 days to 21 years (ends on 22nd birthday). Requires one of the diagnosis codes listed in this row. Limit of once per year.
+
+Diagnosis Code(s): Examination of Hearing: Z01.10 Routine Child: Z00.121, Z00.129 General Exam (for 18-21years): Z00.00, Z00.01
+
+Note: A risk assessment is included in the code for a wellness examination visit; see the codes in the Wellness Examinations row above.
+
+See row above for Screening for Visual Impairment in Children.
+
+See row above Screening for Visual Impairment in Children.
+
+Ages prenatal to 2 years (ends on 3rd birthday).
+
+Procedure Code(s): 96110
+
+No frequency limit.
+
+Diagnosis Code(s): Z00.121, Z00.129, Z13.40, Z13.41, Z13.42, Z13.49
+
+Bright Futures: A formal, standardized
+
+Requires one of the diagnosis codes listed in this row.
+
+developmental screen is recommended during the 9 month visit.
+
+A formal, standardized
+
+developmental screen is recommended during the 18 month visit, including a formal autism screen.
+
+A formal, standardized autism screen is recommended during the 24 month visit. A formal, standardized
+
+developmental screen is recommended during the 30 month visit. Lead Screening
+
+Lead Screening: Ages 6 months through age 6 years (ends on 7th birthday). No frequency limit.
+
+Procedure Code(s): Lead Screening: 83655
+
+Bright Futures: Screening Lab Work: Conduct risk assessment or screening, as appropriate, at the following intervals: 12 mo and 24 mo.
+
+Requires one of the diagnosis codes listed in this row.
+
+Blood Draw: 36415, 36416
+
+Blood Draw: Ages 6 months through age 6 years (ends on 7th birthday).
+
+Diagnosis Code(s): Z00.121, Z00.129, Z77.011
+
+Risk Assessment, and Screening if positive: Recommended at 6 mo, 9
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 31 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective. mo, 12 mo, 18 mo, 24 mo, 3 years, 4 years, 5 years, and 6 years. Tuberculosis (TB) Testing
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions. Required to be billed with 83655 and one of the diagnosis codes in this row. Ages prenatal to 21 (ends on 22nd birthday). Note: For age 18 years and older, also refer to the USPSTF recommendation above for Latent Tuberculosis Infection: Screening, Adults
+
+Code(s)
+
+Procedure Code(s): Screening: 86580
+
+Bright Futures For age 18 years and older, also refer to the USPSTF recommendation above for Latent Tuberculosis Infection: Screening, Adults.
+
+Follow-Up Visit to Check Results: 99211
+
+No frequency limit.
+
+Diagnosis Code(s): R76.11, R76.12, Z20.1, Z00.121, Z00.129, Z11.1, Z11.7
+
+CPT code 86580 requires one of the diagnosis codes listed in this row.
+
+Note for age 18 years and older: In addition to these codes, the preventive benefit also applies to all codes listed in the USPSTF recommendation above for Latent Tuberculosis Infection: Screening, Adults.
+
+CPT code 99211 requires diagnosis code R76.11, R76.12, or Z11.1.
+
+Dyslipidemia Screening
+
+Dyslipidemia Screening Lab Work: Ages 24 months to 21 years (ends on 22nd birthday). Requires one of the diagnosis codes listed in this row.
+
+Procedure Code(s): Dyslipidemia Screening Lab Work: 80061, 82465, 83718, 83719, 83721, 83722, 84478
+
+Bright Futures (April 2014): Risk Assessment: Recommended at 24 mo, 4 years, 6 years, 8 years, 12 years, 13 years, 14 years, 15 years, 16 years. Screening Lab Work: Conduct if risk assessment is positive, or, at the following intervals: once between age 9-11 years; once between age 17-21 years
+
+Blood Draw: Ages 24 months to 21 years (ends on 22nd birthday).
+
+Blood Draw: 36415, 36416
+
+Diagnosis Code(s): Z00.121, Z00.129, Z13.220
+
+Requires one of the listed Dyslipidemia Screening procedure codes listed in this row and one of the diagnosis codes listed in this row.
+
+Note: A risk assessment is included in the code for a wellness examination visit; see the Wellness Examinations row above.
+
+Tobacco, Alcohol, or Drug Use Assessment
+
+See the rows above: Primary Care Interventions To
+
+See codes in the rows above: Primary Care Interventions To
+
+Prevent Tobacco Use in Children and Adolescents
+
+Prevent Tobacco Use in Children and Adolescents
+
+Bright Futures (April 2017): Bright Futures recommends tobacco, alcohol, or drug use assessment from age 11-21 years.
+
+Screening and Behavioral
+
+Screening and Behavioral
+
+Counseling Interventions in Primary Care to Reduce Unhealthy Alcohol Use in Adults Unhealthy Drug Use Screening
+
+Counseling Interventions in Primary Care to Reduce Unhealthy Alcohol Use in Adults
+
+Unhealthy Drug Use Screening
+
+(Adults)
+
+(Adults)
+
+Behavioral/Social/ Emotional Screening
+
+An assessment is included in the code for a wellness examination visit; see the codes in the Wellness Examinations row above.
+
+See the Wellness Examinations row above.
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 32 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective. Bright Futures (July 2022): Bright Futures recommends behavioral/social/emotional screening annually from newborn to 21 years.
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions.
+
+Code(s)
+
+Also see the rows for Screening for Anxiety (HRSA); Screening for Depression in Adults (USPSTF); Perinatal Depression – Preventive Interventions (Counseling) (USPSTF); and Depression and Suicide Risk Screening (Bright Futures). Depression and Suicide Risk Screening
+
+See the codes in the Depression in Children and Adolescents (Screening) row above.
+
+See the Depression in Children and Adolescents (Screening) row above.
+
+Bright Futures (July 2022): Bright Futures recommends screening adolescents age 12-21 years for depression and suicide risk, making every effort to preserve confidentiality of the adolescent.
+
+Bright Futures (February 2017): Maternal Depression Screening: Routine screening for postpartum depression should be integrated into well-child visits at 1, 2, 4, and 6 months of age.
+
+Also see the rows for Screening for Anxiety (HRSA); Depression in Children and Adolescents (Screening) (USPSTF); and Perinatal Depression – Preventive Interventions (Counseling). Sexually Transmitted Infections (STI)
+
+See the codes in the Chlamydia Infection Screening and Gonorrhea Screening rows above.
+
+See the Chlamydia Infection Screening and Gonorrhea Screening rows above.
+
+Bright Futures (April 2017): Bright Futures recommends the following: STI Risk Assessment: Conduct risk assessment at each of the recommended visits between 11 years – 21 years. STI Lab Work: Conduct if risk assessment is positive.
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 33 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective. HIV Screening
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions. See the HIV (Human Immunodeficiency Virus) Screening for Adolescents and Adults row above.
+
+Code(s) See the codes in the HIV (Human Immunodeficiency Virus) Screening for Adolescents and Adults row above.
+
+Bright Futures (April 2023): HIV Risk Assessment: Conduct risk assessment at age 11 years, 12 years, 13 years, 14 years, 19 years, 20 years, and 21 years.
+
+HIV Screening Lab Work: Conduct at least once between age 15-21 years. Also recommended anytime between ages 11-14 years, when a risk assessment is positive. And after initial screening, youth at increased risk of HIV infection should be retested annually or more frequently if at high risk. Sudden Cardiac Arrest (SCA) and Sudden Cardiac Death (SCD) – Risk Assessment and ECG Screening
+
+ECG Screening for those at Risk Procedure Code(s): 93000, 93005, 93010
+
+ECG Screening for those at Risk: Limited to ages 11 years to 21 years (ends on 22nd birthday). Requires one of the Screening Diagnosis Codes listed in this row and one of the Additional Diagnosis Codes listed in this row.
+
+Diagnosis Code(s): Required Screening Diagnosis Codes (requires at least one): Adult: Z00.00, Z00.01 Child: Z00.121, Z00.129
+
+Bright Futures (July 2022): All children should be evaluated for conditions predisposing to SCA and SCD in the course of routine health care. A thorough and detailed history, family history, and physical examination are necessary to begin assessing SCA and SCD risk. The ECG should be the first test ordered when there is a concern for SCA risk. The ECG should be interpreted by a physician trained in recognizing electrical heart disease (i.e., a pediatric cardiologist or pediatric electrophysiologist).
+
+And requires one of the following Additional Diagnosis Codes (requires at least one): I42.0, I42.1, I42.2, I45.81, I49.8, I49.9, R55, R06.00, R06.09, R53.83, R00.2, R01.0, R01.1, R03.0, Q87.40, Q87.410, Q87.418, Q87.42, Q87.43, Q87.85, Q93.52, Z82.41, Z84.81, Z82.49
+
+Risk Assessment A risk assessment is included in the code for a wellness examination visit; see the codes in the Wellness Examinations row above.
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 34 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Preventive Care Services Also see the Expanded Women’s Preventive Health section. Certain codes may not be payable in all circumstances due to other policies or guidelines. For preventive care medications, refer to the pharmacy plan administrator.
+
+Service A date in this column is when the listed rating was released, not when the benefit is effective. Hepatitis B Virus Infection Screening
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions. See the Hepatitis B Virus Infection Screening row above.
+
+Code(s) See the codes in the Hepatitis B Virus Infection Screening row above.
+
+Bright Futures (July 2022): Bright Futures recommends screening between the ages 0-21 years (perform risk assessment for hepatitis B virus (HBV) infection).
+
+Expanded Women’s Preventive Health These are the requirements of the Health Resources and Services Administration (HRSA). For additional services covered for women, see the Preventive Care Services section above. Certain codes may not be payable in all circumstances due to other policies or guidelines.
+
+Service A date in this column reflects when the listed rating was issued. Well-Woman Preventive Visits
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions.
+
+Code(s)
+
+Procedure Code(s): Well-Woman Visits:
+
+Well-Woman Visits: See the Wellness Examinations row in the Preventive Care Services section.
+
+HRSA Requirement (Dec. 2021): WPSI Recommends that women receive at least one preventive care visit per year beginning in adolescence and continuing across the lifespan to ensure the provision of all recommended preventive services, including preconception and many services necessary for prenatal and interconception care, are obtained. The primary purpose of these visits should be the delivery and coordination of recommended preventive services as determined by age and risk factors. These services may be completed at a single or as part of a series of visits that take place over time to obtain all necessary services depending on a woman's age, health status, reproductive health needs, pregnancy status, and risk factors. Well-women visits also include pre-pregnancy, prenatal, postpartum and interpregnancy visits.
+
+See the Wellness Examinations row in the Preventive Care Services section.
+
+Prenatal Office Visits: Requires a Pregnancy Diagnosis Code.
+
+Prenatal Office Visits: Evaluation and Management (Office Visits): 99202, 99203, 99204, 99205, 99211, 99212, 99213, 99214, 99215, 99417, G0463
+
+Pelvic Examination (add-on code): 99459
+
+Pelvic Examination add-on code 99459: Preventive care services benefits may apply to 99459 when the related evaluation and management (office visit) code is applied to the preventive care services benefit. CPT code 99459 may not be payable in all circumstances due to other policies or guidelines.
+
+Physician Prenatal Education, Group Setting: 99078
+
+Physician Prenatal Education, Group Setting: Requires a Pregnancy Diagnosis Code.
+
+Prenatal Care (Antepartum) Visits: 59425, 59426
+
+Prenatal Care (Antepartum) Visits: Does not have diagnosis code requirements for the preventive benefit to apply.
+
+Global Obstetrical Codes: 59400, 59510, 59610, 59618
+
+Global Obstetrical Codes: The routine, low-risk, prenatal visits portion of the code is covered as preventive.
+
+Also see Wellness Examinations and other USPSTF
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 35 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Expanded Women’s Preventive Health These are the requirements of the Health Resources and Services Administration (HRSA). For additional services covered for women, see the Preventive Care Services section above. Certain codes may not be payable in all circumstances due to other policies or guidelines.
+
+Service A date in this column reflects when the listed rating was issued. recommendations during pregnancy in the Preventive Care Services section.
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions. Does not have diagnosis code requirements for the preventive benefit to apply.
+
+Code(s)
+
+Postpartum Care Visits (outpatient): 59430
+
+Postpartum Care Visits (outpatient): Does not have diagnosis code requirements for the preventive benefit to apply.
+
+See above services that require a pregnancy diagnosis code.
+
+Diagnosis Code(s): Pregnancy Diagnosis Codes
+
+Screening for Diabetes in Pregnancy
+
+Diabetes Screening: Requires a Pregnancy Diagnosis Code (regardless of gestational week).
+
+Procedure Code(s): Diabetes Screening: 82947, 82948, 82950, 82951, 82952, 83036
+
+HRSA Requirement (Jan. 2023): Recommends screening pregnant women for gestational diabetes mellitus after 24 weeks of gestation (preferably between 24 and 28 weeks of gestation) to prevent adverse birth outcomes. WPSI recommends screening pregnant women with risk factors for type 2 diabetes or GDM before 24 weeks of gestation – ideally at the first prenatal visit.
+
+Blood Draw: Requires one of the diabetes screening procedure codes listed in this row and one of the Pregnancy Diagnosis Codes.
+
+Blood Draw: 36415, 36416
+
+Diagnosis Code(s): Pregnancy Diagnosis Codes
+
+Note: If a diabetes diagnosis code is present in any position, the preventive benefit will not be applied. See the Diabetes Diagnosis Code List.
+
+Also see the Screening for Pre- Diabetes and Type 2 Diabetes and Gestational Diabetes Screening sections of the Preventive Care Services section, and the Screening for Diabetes After Pregnancy section. Screening for Diabetes After Pregnancy
+
+Diabetes Screening: Requires one of the Required Screening diagnosis codes listed in this row and Z86.32.
+
+Procedure Code(s): Diabetes Screening: 82947, 82948, 82950, 82951, 82952, 83036
+
+HRSA Requirement (Jan. 2023): Recommends screening for type 2 diabetes in women with a history of gestational diabetes mellitus (GDM) who are not currently pregnant and who have not previously been diagnosed with type 2 diabetes. Initial testing should ideally occur within the first year postpartum and can be conducted as early as 4-6 weeks postpartum. Women who were not screened in the first year postpartum or those with a negative initial postpartum
+
+No age limit.
+
+Blood Draw: 36415, 36416
+
+Blood Draw: Requires one of the Diabetes Screening procedure codes listed in this row and one of the Required Screening diagnosis codes listed in this row and Z86.32.
+
+Diagnosis Code(s): Required Screening Diagnosis Codes (requires at least one): Z00.00, Z00.01, Z13.1
+
+And requires the following additional code: Additional Diagnosis Code Required: Z86.32 (personal history of gestational diabetes)
+
+Note: If a diabetes diagnosis code is present in any position, the preventive benefit will not be applied. See the Diabetes Diagnosis Code List.
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 36 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Expanded Women’s Preventive Health These are the requirements of the Health Resources and Services Administration (HRSA). For additional services covered for women, see the Preventive Care Services section above. Certain codes may not be payable in all circumstances due to other policies or guidelines.
+
+Service A date in this column reflects when the listed rating was issued. screening test result should be screened at least every 3 years for a minimum of 10 years after pregnancy. For those with a positive screening test result in the early postpartum period, testing should be repeated at least 6 months postpartum to confirm the diagnosis of diabetes regardless of the type of initial test (e.g., fasting plasma glucose, hemoglobin A1c, in the first 6 months postpartum regardless of whether the test results are positive or negative because the hemoglobin A1c test is less accurate during the first 6 months postpartum.
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions.
+
+Code(s)
+
+Also see Gestational Diabetes Screening and Screening for Pre- Diabetes and Type 2 in the Preventive Care Services section, and the Screening for Diabetes in Pregnancy section. Screening for Urinary Incontinence
+
+See the Wellness Examinations row in the Preventive Care Services section above.
+
+See the Wellness Examinations row in the Preventive Care Services section above.
+
+HRSA Requirement (Jan. 2024) The Women’s Preventive Services Initiative recommends screening women for urinary incontinence annually. Screening should address whether women experience urinary incontinence and whether it impacts their activities and quality of life. If indicated, facilitating further evaluation and treatment is recommended. Counseling for Sexually Transmitted Infections (STIs)
+
+See the Wellness Examinations row in the Preventive Care Services section above.
+
+See the Wellness Examinations row in the Preventive Care Services section above.
+
+HRSA Requirement (Dec. 2021): WPSI recommends directed behavioral counseling by a health care clinician or other appropriately trained individual for sexually active adolescent and adult women at an increased risk for STIs. WPSI recommends that clinicians review
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 37 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Expanded Women’s Preventive Health These are the requirements of the Health Resources and Services Administration (HRSA). For additional services covered for women, see the Preventive Care Services section above. Certain codes may not be payable in all circumstances due to other policies or guidelines.
+
+Service A date in this column reflects when the listed rating was issued. a woman’s sexual history and risk factors to help identify those at an increased risk of STIs. Risk factors include, but are not limited to, age younger than 25, a recent history of an STI, a new sex partner, multiple partners, a partner with concurrent partners, a partner with an STI, and a lack of or inconsistent condom use.
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions.
+
+Code(s)
+
+For adolescents and women not identified as high risk, counseling to reduce the risk of STIs should be considered, as determined by clinical judgment. Screening for Human Immunodeficiency Virus Infection (HIV)
+
+Education and Risk Assessment See the Wellness Examinations row in the Preventive Care Services section above
+
+Education and Risk Assessment See the Wellness Examinations row in the Preventive Care Services section above.
+
+HRSA Requirement (Dec. 2021): The Women’s Preventive Services Initiative (WPSI) recommends all adolescent and adult women, ages 15 and older, receive a screening test for human immunodeficiency virus (HIV) at least once during their lifetime. Earlier or additional screening should be based on risk, and rescreening annually or more often may be appropriate beginning at age 13 for adolescent and adult women with an increased risk of HIV infection. The WPSI recommends risk assessment and prevention education for HIV infection beginning at age 13 and continuing as determined by risk. A screening test for HIV is recommended for all pregnant women upon initiation of prenatal care with rescreening during pregnancy based on risk factors. Rapid HIV testing is recommended for pregnant women who present in labor with an undocumented HIV status. Contraceptive Methods (Including Sterilizations)
+
+Screening Tests See the HIV (Human Immunodeficiency Virus) Screening for Adolescents and Adults row in the Preventive Care Services section above.
+
+Screening Tests See the HIV (Human Immunodeficiency Virus) Screening for Adolescents and Adults row in the Preventive Care Services section above
+
+Code Group 1 Procedure Code(s): Sterilizations:
+
+Code Group 1: Does not have diagnosis code requirements for preventive benefits to apply.
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 38 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Expanded Women’s Preventive Health These are the requirements of the Health Resources and Services Administration (HRSA). For additional services covered for women, see the Preventive Care Services section above. Certain codes may not be payable in all circumstances due to other policies or guidelines.
+
+Service A date in this column reflects when the listed rating was issued. HRSA Requirement (Dec. 2021): WPSI recommends that adolescent and adult women have access to the full range of contraceptives and contraceptive care to prevent unintended pregnancies and improve birth outcomes. Contraceptive care includes screening, education, counseling, and provision of contraceptives (including in the postpartum period). Contraceptive care also includes follow-up care (e.g., management, evaluation, and changes, including the removal, continuation, and discontinuation of contraceptives). WPSI recommends that the full range of U.S. Food and Drug Administration (FDA)-approved, - granted, or -cleared contraceptives, effective family planning practices, and sterilization procedures be available as part of contraceptive care. The full range of contraceptives includes those currently listed in the FDA's Birth Control Guide: (1) sterilization surgery for women, (2) implantable rods, (3) copper intrauterine devices, (4) intrauterine devices with progestin (all durations and doses), (5) injectable contraceptives, (6) oral contraceptives (combined pill), (7) oral contraceptives (progestin only), (8) oral contraceptives (extended or continuous use), (9) the contraceptive patch, (10) vaginal contraceptive rings, (11) diaphragms, (12) contraceptive sponges, (13) cervical caps, (14) condoms, (15) spermicides, (16) emergency contraception (levonorgestrel), and (17) emergency contraception (ulipristal acetate), and any additional contraceptives approved, granted, or cleared by the FDA.
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions.
+
+Code(s) Tubal Ligation, Oviduct Occlusion:58600, 58605, 58611, 58615, 58670, 58671, A4264 (See Code Group 4 below for Tubal Ligation Follow-Up)
+
+Contraceptive Methods: Diaphragm or Cervical Cap: 57170, A4261, A4266 IUD (Paragard®): J7300 IUD (Skyla®): J7301 IUD (Liletta®): J7297 IUD (Kyleena®): J7296 (See Code Group 2 below for additional IUD codes)
+
+Code Group 2: Requires one of the Code Group 2 diagnosis codes listed in this row.
+
+Code Group 2 Procedure Code(s): Contraceptive Methods: Implantable Devices: J7306, J7307 11976 (capsule removal) 11981 (implant insertion) 11982 (implant removal) 11983 (removal with reinsertion)
+
+IUDs: J7298 (Mirena®) S4989 58300, S4981 (insertion) 58301 (removal) (See Code Group 1 above for additional IUD codes)
+
+Injections: 96372 (administration) J1050 (injection)
+
+Code Group 2 Diagnosis Code(s): These are required for Code Group 2. Contraceptive Management: Z30.012, Z30.013, Z30.014, Z30.017, Z30.018, Z30.019, Z30.09, Z30.40, Z30.42, Z30.430, Z30.431, Z30.432, Z30.433, Z30.46, Z30.49, Z30.8, Z30.9
+
+Code Group 3 Procedure Code(s): Anesthesia for Sterilization: 00851, 00940, 00942, 00950, 00952, 01960, 01961, 01965, 01966, 01967, 01968
+
+Code Group 3: Requires one of the Code Group 3 diagnosis code listed in this row.
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 39 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Expanded Women’s Preventive Health These are the requirements of the Health Resources and Services Administration (HRSA). For additional services covered for women, see the Preventive Care Services section above. Certain codes may not be payable in all circumstances due to other policies or guidelines.
+
+Service A date in this column reflects when the listed rating was issued. Notes: Coverage includes member
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions.
+
+Code(s) Sterilization - Laparoscopy with Removal of Adnexal Structures: 58661
+
+reimbursement for the cost of FDA-approved, cleared, or granted mobile device applications for use as contraception consistent with the FDA-approved, cleared, or granted indication.
+
+Code Group 3 Diagnosis Code(s): This code is required for all Code Group 3 Procedure Codes: Sterilization: Z30.2 Tubal Ligation Follow-Up Hysterosalpingogram Code Group 4 Procedure Code(s): Catheterization and Introduction of Saline or Contrast Material: 58340
+
+For counseling and follow-up
+
+Code Group 4: Requires one of the Code Group 4 diagnosis code listed in this row.
+
+care, see the Wellness Examinations row in the Preventive Care Services section above.
+
+Certain employers may qualify for an exemption from covering contraceptive methods and sterilizations on account of religious objections.
+
+Hysterosalpingography: 74740
+
+Refer to the plan’s pharmacy benefit plan administrator for details on pharmacy contraceptives available under the plan’s preventive benefit.
+
+Contrast Material: Q9967
+
+Code Group 4 Diagnosis Code(s): Tubal Ligation Status: Z98.51
+
+Also refer to the Medical Policy titled Outpatient Surgical Procedures – Site of Service.
+
+Code Group 5: Requires one of the Code Group 5 diagnosis code listed in this row.
+
+Code Group 5 Procedure Code(s): IUD Follow-Up Evaluation and Management (Office Visit): 99211, 99212
+
+Pelvic Examination add-on code 99459: Preventive care services benefits may apply to 99459 when the related evaluation and management (office visit) code is applied to the preventive care services benefit. CPT code 99459 may not be payable in all circumstances due to other policies or guidelines.
+
+Pelvic Examination (add-on code): 99459
+
+Refer to Code Group 7, Related Visits section below, for additional coding for Evaluation and Management (Office Visits).
+
+Code Group 5 Diagnosis Code(s): Encounter for routine checking of intrauterine contraceptive device: Z30.431
+
+Code Group 6: Requires one of the Code Group 6 diagnosis codes listed in this row.
+
+Code Group 6 Procedure Code(s): Impacted IUD removal 58562
+
+Code Group 6 Diagnosis Code(s): Z30.432, Z30.433
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 40 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Expanded Women’s Preventive Health These are the requirements of the Health Resources and Services Administration (HRSA). For additional services covered for women, see the Preventive Care Services section above. Certain codes may not be payable in all circumstances due to other policies or guidelines.
+
+Service A date in this column reflects when the listed rating was issued.
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions.
+
+Code(s)
+
+Code Group 7 Procedure Code(s): Related Visits: Related Evaluation and Management Office/Outpatient Visits for Contraception or Sterilization: 99202, 99203, 99204, 99205, 99211, 99212, 99213, 99214, 99215, 99417, G0463
+
+Code Group 7: Requires one of the Code Group 7 diagnosis codes listed in this row.
+
+Pelvic Examination add-on code 99459: Preventive care services benefits may apply to 99459 when the related evaluation and management (office visit) code is applied to the preventive care services benefit. CPT code 99459 may not be payable in all circumstances due to other policies or guidelines.
+
+Pelvic Examination (add-on code): 99459 Also see coding in the Wellness Examinations row above.
+
+Related Pregnancy Tests: Pregnancy Tests When Related to Contraception or Sterilization: 81025, 84702, 84703
+
+Code Group 7 Diagnosis Codes: Tubal Ligation Status: Z98.51 Sterilization: Z30.2 Contraceptive Management: Z30.012, Z30.013, Z30.014, Z30.017, Z30.018, Z30.019, Z30.09, Z30.40, Z30.42, Z30.430, Z30.431, Z30.432, Z30.433, Z30.46, Z30.49, Z30.8, Z30.9 Counseling and Education Procedure Code(s): 98960, 98961, 98962, 99242*, 99243*, 99244*, 99245*, 99341, 99342, 99344, 99345, 99347, 99348, 99349, 99350, S9443
+
+Breastfeeding Services and Supplies
+
+Counseling and Education Requires one of the diagnosis codes listed in this row for 98960-98962, 99242-99245, 99341-99345, and 99347- 99350.
+
+HRSA Requirement (Dec. 2021): WPSI recommends comprehensive lactation support services including consultation; counseling; education by clinicians and peer support services; and breastfeeding equipment and supplies) during the antenatal, perinatal, and postpartum periods to optimize the successful initiation and maintenance of breastfeeding. Breastfeeding equipment and supplies include, but are not limited to, double electric breast pumps (including pump parts and maintenance) and breast milk storage supplies. Access to double electric pumps should be a priority to optimize breastfeeding and
+
+Does not have diagnosis code requirements for preventive benefits to apply for S9443.
+
+Also see the codes in the Wellness Examinations row in the Preventive Care Services section above.
+
+Diagnosis Code(s): B37.89, N61.1, N64.4, N64.51, N64.52, N64.53, N64.59, N64.89, O91.011, O91.012, O91.013, O91.019, O91.02, O91.03, O91.111, O91.112, O91.113, O91.119, O91.13, O91.211, O91.212, O91.213, O91.219, O91.22, O91.23, O92.011, O92.012, O92.013, O92.019, O92.02, O92.03, O92.111, O92.112, O92.113, O92.119, O92.12, O92.13, O92.20, O92.29, O92.3, O92.4, O92.5,
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 41 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Expanded Women’s Preventive Health These are the requirements of the Health Resources and Services Administration (HRSA). For additional services covered for women, see the Preventive Care Services section above. Certain codes may not be payable in all circumstances due to other policies or guidelines.
+
+Service A date in this column reflects when the listed rating was issued. should not be predicated on prior failure of a manual pump. Breastfeeding equipment may also include equipment and supplies as clinically indicated to support dyads with breastfeeding difficulties and those who need additional services.
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions.
+
+Code(s) O92.70, O92.79, Q83.1, Q83.2, Q83.3, Q83.8,Z39.1, Z39.2
+
+For additional information on the reimbursement of consultation codes 99242-99245, refer to the Reimbursement Policy titled Consultation Services. Breastfeeding Equipment & Supplies Procedure Code(s): Personal Use Electric Breast Pump: E0603
+
+Breastfeeding Equipment & Supplies E0603 is limited to one purchase per birth. E0603 and A4281-A4287 require at least one of the diagnosis codes listed in this row.
+
+Breast Pump Supplies: A4281, A4282, A4283, A4284, A4285, A4286, A4287, A4288
+
+Diagnosis Code(s): Pregnancy Diagnosis Codes or Z39.1. See the Wellness Examinations row in the Preventive Care Services section above.
+
+Screening and Counseling for Interpersonal and Domestic Violence
+
+See the Wellness Examinations row in the Preventive Care Services section above.
+
+HRSA Requirement (Dec. 2016): Recommends screening adolescents and women for interpersonal and domestic violence, at least annually, and, when needed, providing or referring for initial intervention services. Interpersonal and domestic violence includes physical violence, sexual violence, stalking and psychological aggression (including coercion), reproductive coercion, neglect, and the threat of violence, abuse, or both. Intervention services include, but are not limited to, counseling, education, harm reduction strategies, and referral to appropriate supportive services.
+
+Also see the Screening for Intimate Partner Violence row in the Preventive Care Services section above.
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 42 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Expanded Women’s Preventive Health These are the requirements of the Health Resources and Services Administration (HRSA). For additional services covered for women, see the Preventive Care Services section above. Certain codes may not be payable in all circumstances due to other policies or guidelines.
+
+Service A date in this column reflects when the listed rating was issued. Breast Cancer Screening for Average-Risk Women
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions. See the Screening Mammography row in the Preventive Care Services section above.
+
+Code(s) See the Screening Mammography row in the Preventive Care Services section above.
+
+HRSA Requirement (Dec. 2016): Recommends that average-risk women initiate mammography screening no earlier than age 40 and no later than age 50. Screening mammography should occur at least biennially and as frequently as annually. Screening should continue through at least age 74 and age alone should not be the basis to discontinue screening. These screening recommendations are for women at average risk of breast cancer. Women at increased risk should also undergo periodic mammography screening; however, recommendations for additional services are beyond the scope of this recommendation. Screening for Cervical Cancer
+
+Human Papillomavirus DNA Testing (HPV) See the Cervical Cancer Screening row in the Preventive Care Services section above. Cervical Cytology (Pap Test) See the Cervical Cancer Screening row in the Preventive Care Services section above.
+
+Human Papillomavirus DNA Testing (HPV) See the Cervical Cancer Screening row in the Preventive Care Services section above. Cervical Cytology (Pap Test) See the Cervical Cancer Screening row in the Preventive Care Services section above.
+
+HRSA Requirement (Dec. 2016): Recommends cervical cancer screening for average-risk women aged 21 to 65 years. For women aged 21 to 29 years recommends cervical cancer screening using cervical cytology (Pap test) every 3 years. Co-testing with cytology and human papillomavirus testing is not recommended for women younger than 30 years. Women aged 30 to 65 years should be screened with cytology and human papillomavirus testing every 5 years or cytology alone every 3 years. Women who are at average risk should not be screened more than once every 3 years. Screening for Anxiety
+
+Requires the diagnosis code listed in this row.
+
+Procedure Code(s): 96127
+
+HRSA Requirement (Dec. 2019): The Women’s Preventive Services Initiative recommends screening for anxiety in adolescent and adult
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 43 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Expanded Women’s Preventive Health These are the requirements of the Health Resources and Services Administration (HRSA). For additional services covered for women, see the Preventive Care Services section above. Certain codes may not be payable in all circumstances due to other policies or guidelines.
+
+Service A date in this column reflects when the listed rating was issued. women, including those who are pregnant or postpartum. Optimal screening intervals are unknown and clinical judgement should be used to determine screening frequency. Given the high prevalence of anxiety disorders, lack of recognition in clinical practices, and multiple problems associated with untreated anxiety, clinicians should consider screening women who have not been recently screened.
+
+Preventive Benefit Instructions Refer to Coverage Rationale, and FAQ’s sections above for additional instructions.
+
+Code(s)
+
+Diagnosis Code(s): Encounter for Screening Examination for Other Mental Health and Behavioral Disorders: Z13.39
+
+Also see the rows for Anxiety Disorders in Adults Screening (USPSTF); Screening for Anxiety in Children and Adolescents (USPSTF); Screening for Depression in Adults (USPSTF); Depression in Children and Adolescents (Screening) (USPSTF); Perinatal Depression – Preventive Interventions (Counseling) (USPSTF); and Depression Screening (Bright Futures) in the Preventive Care Services section above. Obesity Prevention in Midlife Women (Counseling)
+
+See the Wellness Examinations row in the Preventive Care Services section above.
+
+See the Wellness Examinations row in the Preventive Care Services section above.
+
+HRSA Requirement (Dec. 2021): WPSI recommends counseling midlife women aged 40 to 60 years with normal or overweight body mass index (BMI) (18.5-29.9 km/m2) to maintain weight or limit weight gain to prevent obesity. Counseling may include individualized discussion of healthy eating and physical activity.
+
+Diagnosis Codes Preventive Care Services: ICD-10 Diagnosis Codes
+
+Preventive Vaccine Codes Preventive Care Services: Vaccine Codes
+
+VACCINES 0 1 64 A
+
+9 0 66 0 9 0 68 6 9 0 66 7 9 0 73 9 9 0 65 3 9 0 62 1 0 1 54 A
+
+9 0 71 4 G0 0 08 9 0 73 3 9 0 65 0 9 0 69 8 9 0 67 7 9 0 65 8
+
+9 0 63 3 9 0 46 0 9 0 64 8 9 0 69 6 Q2 0 38 9 0 74 7 9 0 71 3
+
+9 0 68 2 9 0 66 4 9 0 68 9 Q2 0 36 0 0 44 A 0 1 34 A 0 1 21 A, 0 14 1 A, 01 42 A, 0 15 1 A, 01 71 A, 0 1 72 A
+
+9 0 75 6 9 0 72 3 Q2 0 34 0 0 41 A 9 0 61 9 9 0 65 6
+
+0 1 73 A 9 0 64 4 0 0 31 A 9 0 47 4 9 0 67 3 9 0 70 7
+
+9 0 66 1 9 0 68 7 9 0 47 2 9 0 67 1 9 0 74 4 9 0 63 0
+
+9 0 71 5 G0 0 09 9 0 66 8 9 0 74 0 9 0 65 4 9 0 68 0
+
+9 0 63 4 9 0 46 1 9 0 73 4 9 0 65 1 9 0 70 0 9 0 74 8
+
+9 0 68 5 9 0 66 6 9 0 64 9 9 0 69 7 9 0 62 0 0 144 A
+
+9 0 75 9 9 0 73 2 9 0 69 4 Q2 0 37 9 0 67 4 9 0 65 7
+
+0 1 74 A 9 0 64 7 Q2 0 35 0 0 42 A 9 0 74 6 9 0 71 0
+
+9 0 66 2 9 0 68 8 0 0 34 A 9 0 58 7 0 1 24 A 9 0 63 2
+
+9 0 71 6 G0 0 10 9 0 47 3 9 0 67 2 9 0 65 5 9 0 68 1
+
+9 0 63 6 9 0 47 1 9 0 67 0 9 0 74 3 9 0 70 2 9 0 75 0
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 44 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Benefit Considerations
+
+Certain plans are not required to include coverage for the services identified by the federal Patient Protection and Affordable Care Act (PPACA). Refer to the member specific benefit plan document for coverage details.
+
+Clinical Evidence
+
+Refer to the Service column in the Applicable Codes section for the recommendation statements supporting this policy.
+
+References
+
+ACIP Vaccine-Specific Recommendations: https://www.cdc.gov/acip-recs/hcp/vaccine- specific/?CDC_AAref_Val=https://www.cdc.gov/vaccines/hcp/acip-recs/index.html. Accessed June 18, 2025.
+
+American Academy of Family Physicians (AAFP) Clinical Preventive Services Recommendations: https://www.aafp.org/family-physician/patient-care/clinical-recommendations/clinical-practice-guidelines/clinical- preventive-services-recommendations.html. Accessed June 18, 2025. American Academy of Pediatrics, Bright Futures Guidelines, 4th edition, Evidence and Rationale chapter: https://www.aap.org/en/practice-management/bright-futures/bright-futures-materials-and-tools/bright-futures-guidelines- and-pocket-guide/. Accessed June 18, 2025.
+
+American Academy of Pediatrics/Bright Futures/Recommendations for Pediatric Preventive Healthcare. (For ages 0-21): https://downloads.aap.org/AAP/PDF/periodicity_schedule.pdf. Accessed June 18, 2025.
+
+American Academy of Pediatrics: http://www.aap.org/. Accessed June 18, 2025.
+
+Centers for Disease Control and Prevention/Immunization Schedules: https://www.cdc.gov/vaccines/hcp/imz- schedules/index.html. Accessed June 18, 2025.
+
+Grade Definitions for USPSTF Recommendations: http://www.uspreventiveservicestaskforce.org/Page/Name/grade- definitions. Accessed June 18, 2025.
+
+July 19, 2010 IRS Interim Rules: http://www.irs.gov/irb/2010-29_IRB/index.html. Accessed June 18, 2025.
+
+Published Recommendations, U.S. Preventive Services Task Force: http://www.uspreventiveservicestaskforce.org/BrowseRec/Index/browse-recommendations. Accessed June 18, 2025.
+
+U.S. Food and Drug Administration (FDA), Vaccines Licensed for Use in the United States: http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM093833. Accessed June 18, 2025.
+
+U.S. Vaccine Names Information Page: https://www.cdc.gov/vaccines/hcp/vaccines-us/index.html. Accessed June 18, 2025.
+
+Women’s Preventive Services Guidelines (HRSA): https://www.hrsa.gov/womens-guidelines. Accessed June 18, 2025.
+
+Women’s Preventive Services Initiative (WPSI): https://www.womenspreventivehealth.org/recommendations/. Accessed June 18, 2025.
+
+Policy History/Revision Information
+
+Date 10/01/2025
+
+Summary of Changes
+
+Applicable Codes Preventive Care Services Statin Use for the Primary Prevention of Cardiovascular Disease in Adults - Cholesterol Screening (Lipid Disorders Screening) Updated list of applicable ICD-10 diagnosis codes for lipid disorders not covered under the
+
+preventive benefit to reflect annual edits: o Added E78.010, E78.011, and E78.019 o Removed E78.01
+
+Colorectal Cancer Screening: Colonoscopy, Sigmoidoscopy, Pathology and Anesthesia (for Colonoscopy or Sigmoidoscopy), Fecal Occult Blood Testing (FOBT) and Fecal Immunochemical Test (FIT), and Pre-Op Consultation
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 45 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Date
+
+Summary of Changes Updated list of applicable ICD-10 diagnosis codes to reflect annual edits; added Z15.060 and
+
+Z15.068
+
+Healthy Diet and Physical Activity for Cardiovascular Disease Prevention in Adults with Cardiovascular Risk Factors: Behavioral Counseling Interventions: Hyperlipidemia/Dyslipidemia Updated list of applicable ICD-10 diagnosis codes to reflect annual edits:
+
+o Added E78.010, E78.011, and E78.019 o Removed E78.01
+
+Expanded Women’s Preventive Health Contraceptive Methods (Including Sterilizations) Updated list of applicable HCPCS codes to reflect quarterly edits; revised description for J7300 Breastfeeding Services and Supplies: Breast Pump Supplies Updated list of applicable HCPCS codes to reflect quarterly edits; added A4288 Diabetes Diagnosis Code List Diabetes Mellitus: Type 2 Updated list of applicable ICD-10 diagnosis codes to reflect annual edits; added E11.A Supporting Information Archived previous policy version MP.016.55
+
+Instructions for Use
+
+This Medical Policy provides assistance in interpreting UnitedHealthcare standard benefit plans. When deciding coverage, the member specific benefit plan document must be referenced as the terms of the member specific benefit plan may differ from the standard plan. In the event of a conflict, the member specific benefit plan document governs. Before using this policy, please check the member specific benefit plan document and any applicable federal or state mandates. UnitedHealthcare reserves the right to modify its Policies and Guidelines as necessary. This Medical Policy is provided for informational purposes. It does not constitute medical advice.
+
+I7 0 .0
+
+I7 0 .1 I7 0 .2 28 I7 0 .2 48 I7 0 .3 02 I7 0 .3 31 I7 0 .3 5 I7 0 .4 08 I7 0 .4 33 I7 0 .4 62 I7 0 .5 11 I7 0 .5 35 I7 0 .5 68 I7 0 .6 13 I7 0 .6 39 I7 0 .6 91 I7 0 .7 19 I7 0 .7 42 I7 0 .7 93 E0 8 .3 19 E0 8 .3 39 2 E0 8 .3 51 9 E0 8 .3 55 2 E0 8 .4 1 E0 8 .6 30 E1 0 .3 19 E1 0 .3 39 2 E1 0 .3 51 9 E1 0 .3 55 2 E1 0 .4 1 E1 0 .6 30 E1 1 .2 9 E1 1 .3 31 9 E1 1 .3 51 2 E1 1 .3 54 9 E1 1 .3 9 E1 1 .6 22 E0 9 .2 1 E0 9 .3 31 2 E0 9 .3 49 9 E0 9 .3 54 2 E0 9 .3 7X3 E0 9 .6 20 E1 3 .1 0 E1 3 .3 29 9 E1 3 .3 49 2 E1 3 .3 53 9 E1 3 .3 7 X1 E1 3 .6 10 O0 0 .00 O0 0 .80 O0 3 .2 O0 3 .7 O0 4 .7 O0 7 .30 O0 8 .3 O0 9 .10 O0 9 .32 O0 9 .61 1 O0 9 .81 3 O0 9 .A0 O1 0 .12 O1 0 .41 1 O1 1 .3 O1 2 .14 O1 4 .00 O1 4 .25 O1 6 .3 O2 2 .02 O2 2 .40 O2 2 .92 O2 3 .30 O2 3 .52 3 O2 4 .02 O2 4 .41 0 O2 4 .81 3 O2 5 .2 O2 6 .30 O2 6 .61 3 O2 6 .82 1 O2 6 .85 3 O2 8 .0 O2 9 .02 3 O2 9 .19 1 O2 9 .3X3 O2 9 .8X1 O3 0 .01 3 O3 0 .09 1 O3 0 .12 3 O3 0 .21 1 O3 0 .293 O3 0 .83 1 O3 1 .00 X2 O3 1 .02 X2 O3 1 .10 X2 O3 1 .12 X2 O3 1 .20 X2 O3 1 .22 X2 O3 1 .30 X2 O3 1 .32 X2 O3 1 .8X1 2 O3 1 .8X3 2 O3 2 .0XX2 O3 2 2XX2
+
+I7 0 .2 01 I7 0 .2 29 I7 0 .2 49 I7 0 .3 03 I7 0 .3 32 I7 0 .3 61 I7 0 .4 09 I7 0 .4 34 I7 0 .4 63 I7 0 .5 12 I7 0 .5 38 I7 0 .5 69 I7 0 .6 18 I7 0 .6 41 I7 0 .6 92 I7 0 .7 21 I7 0 .7 43 I7 0 .7 98 E0 8 .3 21 1 E0 8 .3 39 3 E0 8 .3 52 1 E0 8 .3 55 3 E0 8 .4 2 E0 8 .6 38 E1 0 .3 21 1 E1 0 .3 39 3 E1 0 .3 52 1 E1 0 .3 55 3 E1 0 .4 2 E1 0 .6 38 E1 1 .3 11 E1 1 .3 39 1 E1 1 .3 51 3 E1 1 .3 55 1 E1 1 .4 0 E1 1 .6 28 E0 9 .2 2 E0 9 .3 31 3 E0 9 .3 51 1 E0 9 .3 54 3 E0 9 .3 7 X9 E0 9 .6 21 E1 3 .1 1 E1 3 .3 31 1 E1 3 .3 49 3 E1 3 .3 54 1 E1 3 .3 7 X2 E1 3 .6 18 O0 0 .01 O0 0 .81 O0 3 .30 O0 3 .80 O0 4 .80 O0 7 .31 O0 8 .4 O0 9 .11 O0 9 .33 O0 9 .61 2 O0 9 .81 9 O0 9 .A1 O1 0 .13 O1 0 .41 2 O1 1 .4 O1 2 .15 O1 4 .02 O1 4 .90 O1 6 .4 O2 2 .03 O2 2 .41 O2 2 .93 O2 3 .31 O2 3 .52 9 O2 4 .03 O2 4 .41 4 O2 4 .81 9 O2 5 .3 O2 6 .31 O2 6 .61 9 O2 6 .82 2 O2 6 .85 9 O2 8 .1 O2 9 .02 9 O2 9 .19 2 O2 9 .3X9 O2 9 .8X2 O3 0 .01 9 O3 0 .09 2 O3 0 .12 9 O3 0 .21 2 O3 0 .29 9 O3 0 .83 2 O3 1 .00 X3 O3 1 .02 X3 O3 1 .10 X3 O3 1 .12 X3 O3 1 .20 X3 O3 1 .22 X3 O3 1 .30 X3 O3 1 .32 X3 O3 1 .8X1 3 O3 1 .8X3 3 O3 2 .0XX3 O3 2 2XX3
+
+I7 0 .2 02 I7 0 .2 31 I7 0 .2 5 I7 0 .3 08 I7 0 .3 33 I7 0 .3 62 I7 0 .4 11 I7 0 .4 35 I7 0 .4 68 I7 0 .5 13 I7 0 .5 39 I7 0 .5 91 I7 0 .6 19 I7 0 .6 42 I7 0 .6 93 I7 0 .7 22 I7 0 .7 44 I7 0 .7 99 E0 8 .3 21 2 E0 8 .3 39 9 E0 8 .3 52 2 E0 8 .3 55 9 E0 8 .4 3 E0 8 .6 41 E1 0 .3 21 2 E1 0 .3 39 9 E1 0 .3 52 2 E1 0 .3 55 9 E1 0 .4 3 E1 0 .6 41 E1 1 .3 19 E1 1 .3 39 2 E1 1 .3 51 9 E1 1 .3 55 2 E1 1 .4 1 E1 1 .6 30 E0 9 .2 9 E0 9 .3 31 9 E0 9 .3 51 2 E0 9 .3 54 9 E0 9 .3 9 E0 9 .6 22 E1 3 .2 1 E1 3 .3 31 2 E1 3 .3 49 9 E1 3 .3 54 2 E1 3 .3 7 X3 E1 3 .6 20 O0 0 .10 1 O0 0 .90 O0 3 .31 O0 3 .81 O0 4 .81 O0 7 .32 O0 8 .5 O0 9 .12 O0 9 .40 O0 9 .61 3 O0 9 .82 1 O0 9 .A2 O1 0 .21 1 O1 0 .41 3 O1 1 .5 O1 2 .20 O1 4 .03 O1 4 .92 O1 6 .5 O2 2 .10 O2 2 .42 O2 3 .00 O2 3 .32 O2 3 .59 1 O2 4 .11 1 O2 4 .41 5 O2 4 .82 O2 6 .00 O2 6 .32 O2 6 .62 O2 6 .82 3 O2 6 .86 O2 8 .2 O2 9 .09 1 O2 9 .19 3 O2 9 .40 O2 9 .8X3 O3 0 .02 1 O3 0 .09 3 O3 0 .13 1 O3 0 .21 3 O3 0 .80 1 O3 0 .83 3 O3 1 .00 X4 O3 1 .02 X4 O3 1 .10 X4 O3 1 .12 X4 O3 1 .20 X4 O3 1 .22 X4 O3 1 .30 X4 O3 1 .32 X4 O3 1 .8X1 4 O3 1 .8X3 4 O3 2 .0XX4 O3 2 2XX4
+
+I7 0 .2 03 I7 0 .2 32 I7 0 .2 61 I7 0 .3 09 I7 0 .3 34 I7 0 .3 63 I7 0 .4 12 I7 0 .4 38 I7 0 .4 69 I7 0 .5 18 I7 0 .5 41 I7 0 .5 92 I7 0 .6 21 I7 0 .6 43 I7 0 .6 98 I7 0 .7 23 I7 0 .7 45 I7 0 .8 E0 8 .3 21 3 E0 8 .3 41 1 E0 8 .3 52 3 E0 8 .3 59 1 E0 8 .4 4 E0 8 .6 49 E1 0 .3 21 3 E1 0 .3 41 1 E1 0 .3 52 3 E1 0 .3 59 1 E1 0 .4 4 E1 0 .6 49 E1 1 .3 21 1 E1 1 .3 39 3 E1 1 .3 52 1 E1 1 .3 55 3 E1 1 .4 2 E1 1 .6 38 E0 9 .3 11 E0 9 .3 39 1 E0 9 .3 51 3 E0 9 .3 55 1 E0 9 .4 0 E0 9 .6 28 E1 3 .2 2 E1 3 .3 31 3 E1 3 .3 51 1 E1 3 .3 54 3 E1 3 .3 7 X9 E1 3 .6 21 O0 0 .10 2 O0 0 .91 O0 3 .32 O0 3 .82 O0 4 .82 O0 7 .33 O0 8 .6 O0 9 .13 O0 9 .41 O0 9 .61 9 O0 9 .82 2 O0 9 .A3 O1 0 .21 2 O1 0 .41 9 O1 1 .9 O1 2 .21 O1 4 .04 O1 4 .93 O1 6 .9 O2 2 .11 O2 2 .43 O2 3 .01 O2 3 .33 O2 3 .59 2 O2 4 .11 2 O2 4 .41 9 O2 4 .83 O2 6 .01 O2 6 .33 O2 6 .63 O2 6 .82 9 O2 6 .87 2 O2 8 .3 O2 9 .09 2 O2 9 .19 9 O2 9 .41 O2 9 .8X9 O3 0 .02 2 O3 0 .09 9 O3 0 .13 2 O3 0 .21 9 O3 0 .80 2 O3 0 .83 9 O3 1 .00 X5 O3 1 .02 X5 O3 1 .10 X5 O3 1 .12 X5 O3 1 .20 X5 O3 1 .22 X5 O3 1 .30 X5 O3 1 .32 X5 O3 1 .8X1 5 O3 1 .8X3 5 O3 2 .0XX5 O3 2 2XX5
+
+I7 0 .2 08 I7 0 .2 33 I7 0 .2 62 I7 0 .3 11 I7 0 .3 35 I7 0 .3 68 I7 0 .4 13 I7 0 .4 39 I7 0 .4 91 I7 0 .5 19 I7 0 .5 42 I7 0 .5 93 I7 0 .6 22 I7 0 .6 44 I7 0 .6 99 I7 0 .7 28 I7 0 .7 48 I7 0 .9 0 E0 8 .3 21 9 E0 8 .3 41 2 E0 8 .3 52 9 E0 8 .3 59 2 E0 8 .4 9 E0 8 .6 5 E1 0 .3 21 9 E1 0 .3 41 2 E1 0 .3 52 9 E1 0 .3 59 2 E1 0 .4 9 E1 0 .6 5 E1 1 .3 21 2 E1 1 .3 39 9 E1 1 .3 52 2 E1 1 .3 55 9 E1 1 .4 3 E1 1 .6 41 E0 9 .3 19 E0 9 .3 39 2 E0 9 .3 51 9 E0 9 .3 55 2 E0 9 .4 1 E0 9 .6 30 E1 3 .2 9 E1 3 .3 31 9 E1 3 .3 51 2 E1 3 .3 54 9 E1 3 .3 9 E1 3 .6 22 O0 0 .10 9 O0 1 .0 O0 3 .33 O0 3 .83 O0 4 .83 O0 7 .34 O0 8 .7 O0 9 .21 1 O0 9 .42 O0 9 .62 1 O0 9 .82 3 O1 0 .01 1 O1 0 .21 3 O1 0 .42 O1 2 .00 O1 2 .22 O1 4 .05 O1 4 .94 O2 0 .0 O2 2 .12 O2 2 .50 O2 3 .02 O2 3 .40 O2 3 .59 3 O2 4 .11 3 O2 4 .42 0 O2 4 .91 1 O2 6 .02 O2 6 .40 O2 6 .71 1 O2 6 .83 1 O2 6 .87 3 O2 8 .4 O2 9 .09 3 O2 9 .21 1 O2 9 .42 O2 9 .90 O3 0 .02 3 O3 0 .10 1 O3 0 .13 3 O3 0 .22 1 O3 0 .80 3 O3 0 .89 1 O3 1 .00 X9 O3 1 .02 X9 O3 1 .10 X9 O3 1 .12 X9 O3 1 .20 X9 O3 1 .22 X9 O3 1 .30 X9 O3 1 .32 X9 O3 1 .8X1 9 O3 1 .8X3 9 O3 2 .0XX9 O3 2 2XX9
+
+I7 0 .2 09 I7 0 .2 34 I7 0 .2 63 I7 0 .3 12 I7 0 .3 38 I7 0 .3 69 I7 0 .4 18 I7 0 .4 41 I7 0 .4 92 I7 0 .5 21 I7 0 .5 43 I7 0 .5 98 I7 0 .6 23 I7 0 .6 45 I7 0 .7 01 I7 0 .7 29 I7 0 .7 49 I7 0 .9 1 E0 8 .3 29 1 E0 8 .3 41 3 E0 8 .3 53 1 E0 8 .3 59 3 E0 8 .5 1 E0 8 .6 9 E1 0 .3 29 1 E1 0 .3 41 3 E1 0 .3 53 1 E1 0 .3 59 3 E1 0 .5 1 E1 0 .6 9 E1 1 .3 21 3 E1 1 .3 41 1 E1 1 .3 52 3 E1 1 .3 59 1 E1 1 .4 4 E1 1 .6 49 E0 9 .3 21 1 E0 9 .3 39 3 E0 9 .3 52 1 E0 9 .3 55 3 E0 9 .4 2 E0 9 .6 38 E1 3 .3 11 E1 3 .3 39 1 E1 3 .3 51 3 E1 3 .3 55 1 E1 3 .4 0 E1 3 .6 28 O0 0 .11 1 O0 1 .1 O0 3 .34 O0 3 .84 O0 4 .84 O0 7 .35 O0 8 .81 O0 9 .21 2 O0 9 .43 O0 9 .62 2 O0 9 .82 9 O1 0 .01 2 O1 0 .21 9 O1 0 .43 O1 2 .01 O1 2 .23 O1 4 .10 O1 4 .95 O2 0 .8 O2 2 .13 O2 2 .51 O2 3 .03 O2 3 .41 O2 3 .59 9 O2 4 .11 9 O2 4 .42 4 O2 4 .91 2 O2 6 .03 O2 6 .41 O2 6 .71 2 O2 6 .83 2 O2 6 .87 9 O2 8 .5 O2 9 .09 9 O2 9 .21 2 O2 9 .43 O2 9 .91 O3 0 .02 9 O3 0 .10 2 O3 0 .13 9 O3 0 .22 2 O3 0 .80 9 O3 0 .89 2 O3 1 .01 X0 O3 1 .03 X0 O3 1 .11 X0 O3 1 .13 X0 O3 1 .21 X0 O3 1 .23 X0 O3 1 .31 X0 O3 1 .33 X0 O3 1 .8X2 0 O3 1 .8X9 0 O3 2 .1XX0 O3 2 3XX0
+
+I7 0 .2 11 I7 0 .2 35 I7 0 .2 68 I7 0 .3 13 I7 0 .3 39 I7 0 .3 91 I7 0 .4 19 I7 0 .4 42 I7 0 .4 93 I7 0 .5 22 I7 0 .5 44 I7 0 .5 99 I7 0 .6 28 I7 0 .6 48 I7 0 .7 02 I7 0 .7 31 I7 0 .7 5 E0 8 .0 0 E0 8 .3 29 2 E0 8 .3 41 9 E0 8 .3 53 2 E0 8 .3 59 9 E0 8 .5 2 E0 8 .8 E1 0 .3 29 2 E1 0 .3 41 9 E1 0 .3 53 2 E1 0 .3 59 9 E1 0 .5 2 E1 0 .8 E1 1 .3 21 9 E1 1 .3 41 2 E1 1 .3 52 9 E1 1 .3 59 2 E1 1 .4 9 E1 1 .6 5 E0 9 .3 21 2 E0 9 .3 39 9 E0 9 .3 52 2 E0 9 .3 55 9 E0 9 .4 3 E0 9 .6 41 E1 3 .3 19 E1 3 .3 39 2 E1 3 .3 51 9 E1 3 .3 55 2 E1 3 .4 1 E1 3 .6 30 O0 0 .11 2 O0 1 .9 O0 3 .35 O0 3 .85 O0 4 .85 O0 7 .36 O0 8 .82 O0 9 .21 3 O0 9 .51 1 O0 9 .62 3 O0 9 .89 1 O1 0 .01 3 O1 0 .22 O1 0 .91 1 O1 2 .02 O1 2 .24 O1 4 .12 O1 5 .00 O2 0 .9 O2 2 .20 O2 2 .52 O2 3 .10 O2 3 .42 O2 3 .90 O2 4 .12 O2 4 .42 5 O2 4 .91 3 O2 6 .10 O2 6 .42 O2 6 .71 3 O2 6 .83 3 O2 6 .89 1 O2 8 .8 O2 9 .11 1 O2 9 .21 3 O2 9 .5X1 O2 9 .92 O3 0 .03 1 O3 0 .10 3 O3 0 .19 1 O3 0 .22 3 O3 0 .81 1 O3 0 .89 3 O3 1 .01 X1 O3 1 .03 X1 O3 1 .11 X1 O3 1 .13 X1 O3 1 .21 X1 O3 1 .23 X1 O3 1 .31 X1 O3 1 .33 X1 O3 1 .8X2 1 O3 1 .8X9 1 O3 2 .1XX1 O3 2 3XX1
+
+I7 0 .2 12 I7 0 .2 38 I7 0 .2 69 I7 0 .3 18 I7 0 .341 I7 0 .3 92 I7 0 .4 21 I7 0 .4 43 I7 0 .4 98 I7 0 .5 23 I7 0 .5 45 I7 0 .6 01 I7 0 .6 29 I7 0 .6 49 I7 0 .7 03 I7 0 .7 32 I7 0 .7 61 E0 8 .0 1 E0 8 .3 29 3 E0 8 .3 49 1 E0 8 .3 53 3 E0 8 .3 6 E0 8 .5 9 E0 8 .9 E1 0 .3 29 3 E1 0 .3 49 1 E1 0 .3 53 3 E1 0 .3 6 E1 0 .5 9 E1 0 .9 E1 1 .3 29 1 E1 1 .3 41 3 E1 1 .3 53 1 E1 1 .3 59 3 E1 1 .5 1 E1 1 .6 9 E0 9 .3 21 3 E0 9 .3 41 1 E0 9 .3 52 3 E0 9 .3 59 1 E0 9 .4 4 E0 9 .6 49 E1 3 .3 21 1 E1 3 .3 39 3 E1 3 .3 521 E1 3 .3 55 3 E1 3 .4 2 E1 3 .6 38 O0 0 .11 9 O0 2 .0 O0 3 .36 O0 3 .86 O0 4 .86 O0 7 .37 O0 8 .83 O0 9 .21 9 O0 9 .51 2 O0 9 .62 9 O0 9 .89 2 O1 0 .01 9 O1 0 .23 O1 0 .91 2 O1 2 .03 O1 2 .25 O1 4 .13 O1 5 .02 O2 1 .0 O2 2 .21 O2 2 .53 O2 3 .11 O2 3 .43 O2 3 .91 O2 4 .13 O2 4 .42 9 O2 4 .91 9 O2 6 .11 O2 6 .43 O2 6 .71 9 O2 6 .83 9 O2 6 .89 2 O2 8 .9 O2 9 .11 2 O2 9 .21 9 O2 9 .5X2 O2 9 .93 O3 0 .03 2 O3 0 .10 9 O3 0 .19 2 O3 0 .22 9 O3 0 .81 2 O3 0 .89 9 O3 1 .01 X2 O3 1 .03 X2 O3 1 .11 X2 O3 1 .13 X2 O3 1 .21 X2 O3 1 .23 X2 O3 1 .31 X2 O3 1 .33 X2 O3 1 .8X2 2 O3 1 .8X9 2 O3 2 .1XX2 O3 2 3XX2
+
+I7 0 .2 13 I7 0 .2 39 I7 0 .2 91 I7 0 .3 19 I7 0 .3 42 I7 0 .3 93 I7 0 .4 22 I7 0 .4 44 I7 0 .4 99 I7 0 .5 28 I7 0 .5 48 I7 0 .6 02 I7 0 .6 31 I7 0 .6 5 I7 0 .7 08 I7 0 .7 33 I7 0 .7 62 E0 8 .1 0 E0 8 .3 29 9 E0 8 .3 49 2 E0 8 .3 53 9 E0 8 .3 7 X1 E0 8 .6 10 E1 0 .1 0 E1 0 .3 29 9 E1 0 .3 49 2 E1 0 .3 53 9 E1 0 .3 7 X1 E1 0 .6 10 E1 1 .0 0 E1 1 .3 29 2 E1 1 .3 41 9 E1 1 .3 53 2 E1 1 .3 59 9 E1 1 .5 2 E1 1 .8 E0 9 .3 21 9 E0 9 .3 41 2 E0 9 .3 52 9 E0 9 .3 59 2 E0 9 .4 9 E0 9 .6 5 E1 3 .3 21 2 E1 3 .3 39 9 E1 3 .3 52 2 E1 3 .3 55 9 E1 3 .4 3 E1 3 .6 41 O0 0 .20 1 O0 2 .1 O0 3 .37 O0 3 .87 O0 4 .87 O0 7 .38 O0 8 .89 O0 9 .29 1 O0 9 .51 3 O0 9 .70 O0 9 .89 3 O1 0 .02 O1 0 .31 1 O1 0 .91 3 O1 2 .04 O1 3 .1 O1 4 .14 O1 5 .03 O2 1 .1 O2 2 .22 O2 2 .8X1 O2 3 .12 O2 3 .51 1 O2 3 .92 O2 4 .31 1 O2 4 .43 0 O2 4 .92 O2 6 .12 O2 6 .50 O2 6 .72 O2 6 .84 1 O2 6 .893 O2 9 .01 1 O2 9 .11 3 O2 9 .29 1 O2 9 .5X3 O3 0 .00 1 O3 0 .03 3 O3 0 .11 1 O3 0 .19 3 O3 0 .23 1 O3 0 .81 3 O3 0 .90 O3 1 .01 X3 O3 1 .03 X3 O3 1 .11 X3 O3 1 .13 X3 O3 1 .21 X3 O3 1 .23 X3 O3 1 .31 X3 O3 1 .33 X3 O3 1 .8X2 3 O3 1 .8X9 3 O3 2 .1XX3 O3 2 3XX3
+
+I7 0 .2 18 I7 0 .2 41 I7 0 .2 92 I7 0 .3 21 I7 0 .3 43 I7 0 .3 98 I7 0 .4 23 I7 0 .4 45 I7 0 .5 01 I7 0 .5 29 I7 0 .5 49 I7 0 .6 03 I7 0 .6 32 I7 0 .6 61 I7 0 .7 09 I7 0 .7 34 I7 0 .7 63 E0 8 .1 1 E0 8 .3 31 1 E0 8 .3 49 3 E0 8 .3 54 1 E0 8 .3 7 X2 E0 8 .6 18 E1 0 .1 1 E1 0 .3 31 1 E1 0 .3 49 3 E1 0 .3 54 1 E1 0 .3 7 X2 E1 0 .6 18 E1 1 .0 1 E1 1 .3 29 3 E1 1 .3 49 1 E1 1 .3 53 3 E1 1 .3 6 E1 1 .5 9 E1 1 .9 E0 9 .3 29 1 E0 9 .3 41 3 E0 9 .3 53 1 E0 9 .3 59 3 E0 9 .5 1 E0 9 .6 9 E1 3 .3 21 3 E1 3 .3 41 1 E1 3 .3 52 3 E1 3 .3 59 1 E1 3 .4 4 E1 3 .6 49 O0 0 .20 2 O0 2 .81 O0 3 .38 O0 3 .88 O0 4 .88 O0 7 .39 O0 8 .9 O0 9 .29 2 O0 9 .51 9 O0 9 .71 O0 9 .89 9 O1 0 .03 O1 0 .31 2 O1 0 .91 9 O1 2 .05 O1 3 .2 O1 4 .15 O1 5 .1 O2 1 .2 O2 2 .23 O2 2 .8X2 O2 3 .13 O2 3 .51 2 O2 3 .93 O2 4 .31 2 O2 4 .43 4 O2 4 .93 O2 6 .13 O2 6 .51 O2 6 .73 O2 6 .84 2 O2 6 .89 9 O2 9 .01 2 O2 9 .11 9 O2 9 .29 2 O2 9 .5X9 O3 0 .00 2 O3 0 .03 9 O3 0 .11 2 O3 0 .19 9 O3 0 .23 2 O3 0 .81 9 O3 0 .91 O3 1 .01 X4 O3 1 .03 X4 O3 1 .11 X4 O3 1 .13 X4 O3 1 .21 X4 O3 1 .23 X4 O3 1 .31 X4 O3 1 .33 X4 O3 1 .8X2 4 O3 1 .8X9 4 O3 2 .1XX4 O3 2 3XX4
+
+I7 0 .2 19 I7 0 .2 42 I7 0 .2 93 I7 0 .3 22 I7 0 .3 44 I7 0 .3 99 I7 0 .4 28 I7 0 .4 48 I7 0 .5 02 I7 0 .5 31 I7 0 .5 5 I7 0 .6 08 I7 0 .6 33 I7 0 .6 62 I7 0 .7 11 I7 0 .7 35 I7 0 .7 68 E0 8 .2 1 E0 8 .3 31 2 E0 8 .3 49 9 E0 8 .3 54 2 E0 8 .3 7 X3 E0 8 .6 20 E1 0 .2 1 E1 0 .3 31 2 E1 0 .3 49 9 E1 0 .3 54 2 E1 0 .3 7 X3 E1 0 .6 20 E1 1 .1 0 E1 1 .3 29 9 E1 1 .3 49 2 E1 1 .3 53 9 E1 1 .3 7 X1 E1 1 .6 10 E0 9 .0 0 E0 9 .3 29 2 E0 9 .3 41 9 E0 9 .3 53 2 E0 9 .3 59 9 E0 9 .5 2 E0 9 .8 E1 3 .3 21 9 E1 3 .3 41 2 E1 3 .3 52 9 E1 3 .3 59 2 E1 3 .4 9 E1 3 .6 5 O0 0 .20 9 O0 2 .89 O0 3 .39 O0 3 .89 O0 4 .89 O0 7 .4 O0 9 .00 O0 9 .29 3 O0 9 .52 1 O0 9 .72 O0 9 .90 O1 0 .11 1 O1 0 .31 3 O1 0 .92 O1 2 .10 O1 3 .3 O1 4 .20 O1 5 .2 O2 1 .8 O2 2 .30 O2 2 .8X3 O2 3 .20 O2 3 .51 3 O2 4 .01 1 O2 4 .31 3 O2 4 .43 5 O2 5 .10 O2 6 .20 O2 6 .52 O2 6 .81 1 O2 6 .84 3 O2 6 .90 O2 9 .01 3 O2 9 .12 1 O2 9 .29 3 O2 9 .60 O3 0 .00 3 O3 0 .04 1 O3 0 .11 3 O3 0 .20 1 O3 0 .23 3 O3 0 .82 1 O3 0 .92 O3 1 .01 X5 O3 1 .03 X5 O3 1 .11 X5 O3 1 .13 X5 O3 1 .21 X5 O3 1 .23 X5 O3 1 .31 X5 O3 1 .33 X5 O3 1 .8X2 5 O3 1 .8X9 5 O3 2 .1XX5 O3 2 3XX5
+
+I7 0 .2 21 I7 0 .2 43 I7 0 .2 98 I7 0 .3 23 I7 0 .3 45 I7 0 .4 01 I7 0 .4 29 I7 0 .4 49 I7 0 .5 03 I7 0 .5 32 I7 0 .5 61 I7 0 .6 09 I7 0 .6 34 I7 0 .6 63 I7 0 .7 12 I7 0 .7 38 I7 0 .7 69 E0 8 .2 2 E0 8 .3 31 3 E0 8 .3 51 1 E0 8 .3 54 3 E0 8 .3 7 X9 E0 8 .6 21 E1 0 .2 2 E1 0 .3 31 3 E1 0 .3 51 1 E1 0 .3 54 3 E1 0 .3 7 X9 E1 0 .6 21 E1 1 .1 1 E1 1 .3 31 1 E1 1 .3 49 3 E1 1 .3 54 1 E1 1 .3 7 X2 E1 1 .6 18 E0 9 .0 1 E0 9 .3 29 3 E0 9 .3 49 1 E0 9 .3 53 3 E0 9 .3 6 E0 9 .5 9 E0 9 .9 E1 3 .3 29 1 E1 3 .3 41 3 E1 3 .3 53 1 E1 3 .3 59 3 E1 3 .5 1 E1 3 .6 9 O0 0 .21 1 O0 2 .9 O0 3 .4 O0 3 .9 O0 7 .0 O0 8 .0 O0 9 .01 O0 9 .29 9 O0 9 .52 2 O0 9 .73 O0 9 .91 O1 0 .11 2 O1 0 .31 9 O1 0 .93 O1 2 .11 O1 3 .4 O1 4 .22 O1 5 .9 O2 1 .9 O2 2 .31 O2 2 .8X9 O2 3 .21 O2 3 .51 9 O2 4 .01 2 O2 4 .31 9 O2 4 .43 9 O2 5 .11 O2 6 .21 O2 6 .53 O2 6 .81 2 O2 6 .84 9 O2 6 .91 O2 9 .01 9 O2 9 .12 2 O2 9 .29 9 O2 9 .61 O3 0 .00 9 O3 0 .04 2 O3 0 .11 9 O3 0 .20 2 O3 0 .23 9 O3 0 .82 2 O3 0 .93 O3 1 .01 X9 O3 1 .03 X9 O3 1 .11 X9 O3 1 .13 X9 O3 1 .21 X9 O3 1 .23 X9 O3 1 .31 X9 O3 1 .33 X9 O3 1 .8X2 9 O3 1 .8X9 9 O3 2 .1XX9 O3 2 3XX9
+
+I7 0 .2 22 I7 0 .2 44 I7 0 .2 99 I7 0 .3 28 I7 0 .3 48 I7 0 .4 02 I7 0 .4 31 I7 0 .4 5 I7 0 .5 08 I7 0 .5 33 I7 0 .5 62 I7 0 .6 11 I7 0 .6 35 I7 0 .6 68 I7 0 .7 13 I7 0 .7 39 I7 0 .7 91 E0 8 .2 9 E0 8 .3 31 9 E0 8 .3 51 2 E0 8 .3 54 9 E0 8 .3 9 E0 8 .6 22 E1 0 .2 9 E1 0 .3 31 9 E1 0 .3 51 2 E1 0 .3 54 9 E1 0 .3 9 E1 0 .6 22 E1 1 .2 1 E1 1 .3 31 2 E1 1 .3 49 9 E1 1 .3 54 2 E1 1 .3 7 X3 E1 1 .6 20 E0 9 .1 0 E0 9 .3 29 9 E0 9 .3 49 2 E0 9 .3 53 9 E0 9 .3 7 X1 E0 9 .6 10 E1 3 .0 0 E1 3 .3 29 2 E1 3 .3 41 9 E1 3 .3 53 2 E1 3 .3 59 9 E1 3 .5 2 E1 3 .8 O0 0 .21 2 O0 3 .0 O0 3 .5 O0 4 .5 O0 7 .1 O0 8 .1 O0 9 .02 O0 9 .30 O0 9 .52 3 O0 9 .81 1 O0 9 .92 O1 0 .11 3 O1 0 .32 O1 1 .1 O1 2 .12 O1 3 .5 O1 4 .23 O1 6 .1 O2 2 .00 O2 2 .32 O2 2 .90 O2 3 .22 O2 3 .52 1 O2 4 .01 3 O2 4 .32 O2 4 .81 1 O2 5 .12 O2 6 .22 O2 6 .61 1 O2 6 .81 3 O2 6 .85 1 O2 6 .92 O2 9 .02 1 O2 9 .12 3 O2 9 .3X1 O2 9 .62 O3 0 .01 1 O3 0 .04 3 O3 0 .12 1 O3 0 .20 3 O3 0 .29 1 O3 0 .82 3 O3 1 .00 X0 O3 1 .02 X0 O3 1 .10 X0 O3 1 .12 X0 O3 1 .20 X0 O3 1 .22 X0 O3 1 .30 X0 O3 1 .32 X0 O3 1 .8X1 0 O3 1 .8X3 0 O3 2 .0XX0 O3 2 .2XX0 O3 2 4XX0
+
+I7 0 .2 23 I7 0 .2 45 I7 0 .3 01 I7 0 .3 29 I7 0 .3 49 I7 0 .4 03 I7 0 .4 32 I7 0 .4 61 I7 0 .5 09 I7 0 .5 34 I7 0 .5 63 I7 0 .6 12 I7 0 .6 38 I7 0 .6 69 I7 0 .7 18 I7 0 .7 41 I7 0 .7 92 E0 8 .3 11 E0 8 .3 39 1 E0 8 .3 51 3 E0 8 .3 55 1 E0 8 .4 0 E0 8 .6 28 E1 0 .3 11 E1 0 .3 39 1 E1 0 .3 51 3 E1 0 .3 55 1 E1 0 .4 0 E1 0 .6 28 E1 1 .2 2 E1 1 .3 31 3 E1 1 .3 51 1 E1 1 .3 54 3 E1 1 .3 7 X9 E1 1 .6 21 E0 9 .1 1 E0 9 .3 31 1 E0 9 .3 49 3 E0 9 .3 54 1 E0 9 .3 7 X2 E0 9 .6 18 E1 3 .0 1 E1 3 .3 29 3 E1 3 .3 49 1 E1 3 .3 53 3 E1 3 .3 6 E1 3 .5 9 E1 3 .9 O0 0 .21 9 O0 3 .1 O0 3 .6 O0 4 .6 O0 7 .2 O0 8 .2 O0 9 .03 O0 9 .31 O0 9 .52 9 O0 9 .81 2 O0 9 .93 O1 0 .11 9 O1 0 .33 O1 1 .2 O1 2 .13 O1 3 .9 O1 4 .24 O1 6 .2 O2 2 .01 O2 2 .33 O2 2 .91 O2 3 .23 O2 3 .52 2 O2 4 .01 9 O2 4 .33 O2 4 .81 2 O2 5 .13 O2 6 .23 O2 6 .61 2 O2 6 .81 9 O2 6 .85 2 O2 6 .93 O2 9 .02 2 O2 9 .12 9 O2 9 .3X2 O2 9 .63 O3 0 .01 2 O3 0 .04 9 O3 0 .12 2 O3 0 .20 9 O3 0 .29 2 O3 0 .82 9 O3 1 .00 X1 O3 1 .02 X1 O3 1 .10 X1 O3 1 .12 X1 O3 1 .20 X1 O3 1 .22 X1 O3 1 .30 X1 O3 1 .32 X1 O3 1 .8X1 1 O3 1 .8X3 1 O3 2 .0XX1 O3 2 .2XX1 O3 2 4XX1
+
+This Medical Policy may also be applied to Medicare Advantage plans in certain instances. In the absence of a Medicare National Coverage Determination (NCD), Local Coverage Determination (LCD), or other Medicare coverage guidance, CMS allows a Medicare Advantage Organization (MAO) to create its own coverage determinations, using objective evidence-based rationale relying on authoritative evidence (Medicare IOM Pub. No. 100-16, Ch. 4, §90.5).
+
+UnitedHealthcare may also use tools developed by third parties, such as the InterQual® criteria, to assist us in administering health benefits. UnitedHealthcare Medical Policies are intended to be used in connection with the independent professional medical judgment of a qualified health care provider and do not constitute the practice of medicine or medical advice.
+
+Preventive Care Services UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 46 of 46 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.

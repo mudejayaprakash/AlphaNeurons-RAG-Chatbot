@@ -1,0 +1,593 @@
+UnitedHealthcare® Commercial and Individual Exchange Medical Policy
+
+Epidural Steroid Injections for Spinal Pain
+
+Policy Number: 2025T0616L Effective Date: July 1, 2025
+
+ Instructions for Use
+
+Table of Contents Page Application ............................................................................. 1 Coverage Rationale .............................................................. 1 Medical Records Documentation Used for Reviews ............. 2 Definitions .............................................................................. 2 Applicable Codes .................................................................. 2 Description of Services ......................................................... 4 Clinical Evidence ................................................................... 4 U.S. Food and Drug Administration ...................................... 9 References .......................................................................... 10 Policy History/Revision Information .................................... 11 Instructions for Use ............................................................. 11
+
+Related Commercial/Individual Exchange Policies • Ablative Treatment for Spinal Pain • Anesthesia Policy, Professional • Facet Joint and Medical Branch Block Injections
+
+for Spinal Pain
+
+Occipital Nerve Injections and Ablation (Including
+
+Occipital Neuralgia and Headache)
+
+Office Based Procedures – Site of Service
+
+Community Plan Policy • Epidural Steroid Injections for Spinal Pain
+
+Medicare Advantage Policy • Pain Management
+
+Application
+
+UnitedHealthcare Commercial This Medical Policy applies to UnitedHealthcare Commercial benefit plans.
+
+UnitedHealthcare Individual Exchange This Medical Policy applies to Individual Exchange benefit plans.
+
+Coverage Rationale
+
+Epidural Steroid Injections (ESI) are proven and medically necessary when all of the following criteria are met: The injection is intended for the management of Radicular Pain as evidenced by history and physical exam; and • The Radicular Pain is unresponsive to the following conservative treatment for ≥ 4 weeks:
+
+o Pharmacotherapy such as NSAIDS or acetaminophen; or o Activity modification (including but not limited to heavy lifting, bending, spinal torsion activities); or o PT or home exercise; and
+
+There is evidence of structural and/or functional nerve root involvement by imaging or electrodiagnostic studies; and The injection is performed under fluoroscopic or CT guidance
+
+Conditions that would contraindicate ESIs include but are not limited to: Spinal neoplasm Rapidly progressing neurological deficit Epidural abscess
+
+The following are unproven and not medically necessary due to insufficient evidence of efficacy: The use of ultrasound guidance for ESIs ESI for all other indications of the spine not included above
+
+Epidural Steroid Injections for Spinal Pain UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 1 of 12 Effective 07/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Epidural Steroid Injection Limitations: A maximum of four (4) ESI sessions (per region, regardless of level, location, or side) per year
+
+o A session is defined as one date of service in which ESI injection(s) are performed o A region is defined by either the region of the cervical, thoracic, or lumbosacral o A year is defined as the 12-month period starting from the date of service of the first approved injection
+
+Subsequent ESIs may be provided only if:
+
+o Radicular Pain has returned and/or deterioration in function has occurred; and o One of the following:
+
+ The previous injection resulted in ≤ 50% pain relief or functional improvement for less than three months as measured by validated measurement tools and there has been a reassessment of the individual and the injection site and technique; or
+
+ The previous injection resulted in ≥ 50% pain relief or functional improvement for three or more months as
+
+measured by validated measurement tools
+
+Medical Records Documentation Used for Reviews
+
+Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service. Medical records documentation may be required to assess whether the member meets the clinical criteria for coverage but does not guarantee coverage of the service requested; refer to the guidelines titled Medical Records Documentation Used for Reviews.
+
+Definitions
+
+Conservative Therapy: Consists of an appropriate combination of medication (for example, NSAIDs, analgesics, etc.) in addition to physical therapy, spinal manipulation therapy, cognitive behavioral therapy (CBT) or other interventions based on the individual’s specific presentation, physical findings, and imaging results. (AHRQ 2013; Qassem 2017; Summers 2013)
+
+Epidural Steroid Injections (ESI): Is a nonsurgical treatment for managing radiculopathy caused by disc herniation or degenerative changes in the vertebrae. Steroids are injected directly into the epidural space of the spine. The goal of ESI is to relieve pain, improve function, and improve quality of life. (Patel 2021)
+
+Functional Impairments: Limitations due to illness; dysfunction in social and occupational spheres of life. (Ustün 2009)
+
+Non-Radicular Back Pain: Pain which does not radiate along a dermatome (sensory distribution of a single root). Appropriate imaging does not reveal signs of spinal nerve root compression and there is no evidence of spinal nerve root compression seen on clinical exam. (Lenahan, 2018)
+
+Radicular Back Pain: Pain which radiates from the spine into the extremity along the course of the spinal nerve root. The pain should follow the pattern of a dermatome associated with the irritated nerve root identified. (Lenahan, 2018)
+
+Applicable Codes
+
+The following list(s) of procedure and/or diagnosis codes is provided for reference purposes only and may not be all inclusive. Listing of a code in this policy does not imply that the service described by the code is a covered or non-covered health service. Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service. The inclusion of a code does not imply any right to reimbursement or guarantee claim payment. Other Policies and Guidelines may apply.
+
+CPT Code 62320
+
+Description
+
+Injection(s), of diagnostic or therapeutic substance(s) (e.g., anesthetic, antispasmodic, opioid, steroid, other solution), not including neurolytic substances, including needle or catheter placement, interlaminar epidural or subarachnoid, cervical or thoracic; without imaging guidance Injection(s), of diagnostic or therapeutic substance(s) (e.g., anesthetic, antispasmodic, opioid, steroid, other solution), not including neurolytic substances, including needle or catheter placement, interlaminar epidural or subarachnoid, cervical or thoracic; with imaging guidance (i.e., fluoroscopy or CT)
+
+62321
+
+Epidural Steroid Injections for Spinal Pain UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 2 of 12 Effective 07/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+CPT Code 62322
+
+Description
+
+Injection(s), of diagnostic or therapeutic substance(s) (e.g., anesthetic, antispasmodic, opioid, steroid, other solution), not including neurolytic substances, including needle or catheter placement, interlaminar epidural or subarachnoid, lumbar or sacral (caudal); without imaging guidance
+
+Injection(s), of diagnostic or therapeutic substance(s) (e.g., anesthetic, antispasmodic, opioid, steroid, other solution), not including neurolytic substances, including needle or catheter placement, interlaminar epidural or subarachnoid, lumbar or sacral (caudal); with imaging guidance (i.e., fluoroscopy or CT) Injection(s), anesthetic agent(s) and/or steroid, transforaminal epidural, with imaging guidance (fluoroscopy or CT); cervical or thoracic, single level Injection(s), anesthetic agent(s) and/or steroid, transforaminal epidural, with imaging guidance (fluoroscopy or CT); cervical or thoracic, each additional level (List separately in addition to code for primary procedure)
+
+62323
+
+64479
+
+64480
+
+Injection(s), anesthetic agent(s) and/or steroid, transforaminal epidural, with imaging guidance (fluoroscopy or CT); lumbar or sacral, single level
+
+64483
+
+Injection(s), anesthetic agent(s) and/or steroid, transforaminal epidural, with imaging guidance (fluoroscopy or CT); lumbar or sacral, each additional level (List separately in addition to code for primary procedure)
+
+64484
+
+CPT® is a registered trademark of the American Medical Association
+
+Diagnosis Code All Regions M47.20
+
+Description
+
+Other spondylosis with radiculopathy, site unspecified
+
+M47.21
+
+Other spondylosis with radiculopathy, occipito-atlanto-axial region
+
+M47.22
+
+Other spondylosis with radiculopathy, cervical region
+
+M47.25
+
+Other spondylosis with radiculopathy, thoracolumbar region
+
+M51.15
+
+Intervertebral disc disorders with radiculopathy, thoracolumbar region
+
+M54.10
+
+Radiculopathy, site unspecified
+
+M96.1
+
+Postlaminectomy syndrome, not elsewhere classified
+
+G54.2
+
+Cervical root disorders, not elsewhere classified
+
+G54.3
+
+Thoracic root disorders, not elsewhere classified
+
+Cervical/Thoracic M47.23
+
+Other spondylosis with radiculopathy, cervicothoracic region
+
+M47.24
+
+Other spondylosis with radiculopathy, thoracic region
+
+M50.10
+
+Cervical disc disorder with radiculopathy, unspecified cervical region
+
+M50.11
+
+Cervical disc disorder with radiculopathy, high cervical region
+
+M50.121
+
+Cervical disc disorder at C4-C5 level with radiculopathy
+
+M50.122
+
+Cervical disc disorder at C5-C6 level with radiculopathy
+
+M50.123
+
+Cervical disc disorder at C6-C7 level with radiculopathy
+
+M50.13
+
+Cervical disc disorder with radiculopathy, cervicothoracic region
+
+M51.14
+
+Intervertebral disc disorders with radiculopathy, thoracic region
+
+M54.11
+
+Radiculopathy, occipito-atlanto-axial region
+
+M54.12
+
+Radiculopathy, cervical region
+
+M54.13
+
+Radiculopathy, cervicothoracic region
+
+M54.14
+
+Radiculopathy, thoracic region
+
+M54.15
+
+Radiculopathy, thoracolumbar region
+
+S14.2XXA
+
+Injury of nerve root of cervical spine, initial encounter
+
+S24.2XXA
+
+Injury of nerve root of thoracic spine, initial encounter
+
+Epidural Steroid Injections for Spinal Pain UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 3 of 12 Effective 07/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Diagnosis Code Lumbar/Sacral G54.4
+
+Description
+
+Lumbosacral root disorders, not elsewhere classified
+
+M47.26
+
+Other spondylosis with radiculopathy, lumbar region
+
+M47.27
+
+Other spondylosis with radiculopathy, lumbosacral region
+
+M47.28
+
+Other spondylosis with radiculopathy, sacral and sacrococcygeal region
+
+M48.062
+
+Spinal stenosis, lumbar region with neurogenic claudication
+
+M51.A0
+
+Intervertebral annulus fibrosus defect, lumbar region, unspecified size
+
+M51.A1
+
+Intervertebral annulus fibrosus defect, small, lumbar region
+
+M51.A2
+
+Intervertebral annulus fibrosus defect, large, lumbar region
+
+M51.A3
+
+Intervertebral annulus fibrosus defect, lumbosacral region, unspecified size
+
+M51.A4
+
+Intervertebral annulus fibrosus defect, small, lumbosacral region
+
+M51.A5
+
+Intervertebral annulus fibrosus defect, large, lumbosacral region
+
+M51.16
+
+Intervertebral disc disorders with radiculopathy, lumbar region
+
+M51.17
+
+Intervertebral disc disorders with radiculopathy, lumbosacral region
+
+M54.16
+
+Radiculopathy, lumbar region
+
+M54.17
+
+Radiculopathy, lumbosacral region Radiculopathy, sacral and sacrococcygeal region
+
+M54.18
+
+M54.30
+
+Sciatica, unspecified side
+
+M54.31
+
+Sciatica, right side
+
+M54.32
+
+Sciatica, left side
+
+M54.40
+
+Lumbago with sciatica, unspecified side
+
+M54.41
+
+Lumbago with sciatica, right side
+
+M54.42
+
+Lumbago with sciatica, left side
+
+S34.21XA
+
+Injury of nerve root of lumbar spine, initial encounter
+
+S34.22XA
+
+Injury of nerve root of sacral spine, initial encounter
+
+Description of Services
+
+Spine pain, in particular pain in the lower back, is a common concern, affecting up to 90% of Americans at some point in their lifetime. The majority of episodes are mild and self-limiting, and up to 50% of affected persons will have more than one episode. It is a symptom of a variety of different conditions, including injury, spinal stenosis, disc herniation, or degenerative changes in the vertebrae. Epidural Steroid Injections (ESIs) may be used as a non-surgical modality to treat low back, neck pain, and involve the injection of a solution containing corticosteroids and/or anesthetic into the epidural space. The ESI can be performed via interlaminar (ILESI), transforaminal (TFESI), or caudal approaches (caudal ESI).
+
+Epidural Steroid Injections generally require local anesthetic only. However, for some patients, moderate/conscious sedation, non-intravenous sedation, and monitored anesthesia care (MAC) may be necessary. These sedation procedures are generally safe when administered by trained, certified providers with appropriate monitoring, but are not without risk. Examples of procedures that typically do not require moderate sedation or an anesthesia care team include but are not limited to Epidural Steroid Injections; epidural blood patch; trigger point injections; shoulder, hip, sacroiliac, facet, and knee joint injections; medial branch nerve blocks; and peripheral nerve blocks (American Society of Anesthesiologists, 2021).
+
+Clinical Evidence
+
+Ultrasound Guidance There is limited evidence in the peer-reviewed literature demonstrating the overall health benefit of the use of ultrasonic guidance during spinal injections over the use of fluoroscopy or CT-guidance.
+
+Epidural Steroid Injections for Spinal Pain UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 4 of 12 Effective 07/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+In a 2023 meta-analysis of randomized controlled trials (RCTs), Ahmed et al. compared ultrasound-guided (USG) epidural steroid injections (ESIs) to conventional fluoroscopy (FL) guided ESIs. The primary outcomes were pain reduction at 1 month and 3 months. Secondary outcomes included reduction in disability index at 1 and 3 months, multiple injections, contrast distribution, vascular puncture, and procedure time. There were 7 studies that were included in the meta- analysis. For the primary outcome of pain reduction at 1 month, there were only 4 RCTs that reported findings and all of them studied lumbosacral spinal level. The mean difference (MD) in pain score reduction between the groups was clinically nonsignificant and ranged from 0 to 0.16. Only 3 studies reported pain scores at 3 months and the overall summary MD in pain score reduction between the 2 groups was not statistically significant and ranged from 0.23 to 2.64. The authors found no statistically significant MD between the USG and FL groups when measuring functional disability indices and multiple injections. With inadvertent vascular puncture, three studies reported the incidence which included 371 individuals of which, there were 20 incidences of vascular puncture confirmed by FL. The authors note a decreased risk of vascular puncture under USG guidance with an odds ratio (OR) of 0.21 (0.07, 0.64), I2 = 0%. There were 4 studies comparing ESI under USG and FL for procedure time, but the definition of procedure time was different between the studies. For the lumbosacral subgroup, procedure time was lower in the USG guidance compared to FL. The cervical subgroup procedure time was higher in the USG guided compared to FL. Limitations include a risk of bias for all included studies and use of different approaches including transforaminal and interlaminar which may have introduced a potential bias in the results. Additionally, the authors note that epidural injections are heavily influenced by the physician’s experience and the extent of its effect on the overall outcomes studied in this meta-analysis remain uncertain.
+
+Ultrasound-guided spine injection therapy is a comparatively new technique in the management of axial and radicular pain from degenerative lumbar spinal conditions and may be a reasonable alternative to conventional methods of injection guidance. In 2020, Tay et al. completed a retrospective clinical audit of 42 patients who underwent ultrasound-guided lumbar spinal injection at a single institution for chronic axial and radicular pain in an acute public hospital sports medicine center between June 1, 2018, and June 1, 2019. 27 patients (64.3%) receiving facet joint injections and 18 patients (42.9%) receiving nerve root injections. The majority (90.5%) of patients experienced an improvement of > 30% in pain intensity at 3 months post-injection, using the Numerical Rating Scale pain score (p < 0.001); with 40 patients (95.2%) reporting a reduction in Oswestry Disability Index score (p < 0.001). No complications were reported. It was concluded that the experience of this institution confirms the safety, feasibility, and effectiveness of ultrasound-guided lumbar spinal injection for the treatment of axial and radicular pain. The authors also note that ultrasound-guided spinal injection remains technically challenging and requires a steep learning phase, as well as careful patient selection, and that the study was not designed to directly compare outcomes for ultrasound-guided injection against the conventional standard of care. A larger dataset is required to confirm the efficacy of ultrasound-guided spine injection and the rate of adverse events, and a prospective study would be useful to determine clinical factors predicting success. This study is also limited by lack of comparison group and a small number of participants.
+
+Epidural Steroid Injections Overall, the volume of evidence for the use of therapeutic epidural injections in the treatment of acute and chronic back pain is large. Clinical studies have shown that epidural steroid injections have provided short-term improvement and may be considered in the treatment of selected patients with radicular pain as part of an active therapy program. There is however insufficient evidence to demonstrate that epidural steroid injections are effective in the treatment of back pain in the absence of radicular symptoms.
+
+In a Hayes (2021, updated 2024) evolving evidence review regarding epidural steroid injections (ESI) for the treatment of thoracic spine pain, it was concluded that thoracic disc herniation is rare, and patients may present with thoracic axial pain, but no radicular pain. The clinical evidence is limited, and the results of one randomized controlled trial suggests that ESI, either anesthetic alone or anesthetic plus corticosteroid, for chronic thoracic pain in patients who primarily had disc- associated pain provides clinical benefits at up to 2 years.
+
+Helm et al. (2021) conducted a systematic review and meta-analysis of the efficacy and safety of transforaminal epidural steroid injections for 4 indications: radicular pain from spinal stenosis and failed back surgery syndrome; and for axial low back pain. The available literature on transforaminal injections was reviewed and the level of evidence was classified on a 5-point scale based on the quality of evidence developed by the US Preventive Services Task Force (USPSTF) and modified by the American Society of Interventional Pain Physicians (ASIPP). Data sources included relevant literature from 1966 to April 2020, and manual searches of the bibliographies of known primary and review articles. Pain relief and functional improvement were the primary outcome measures. A minimum of 6 months pain relief follow-up was required. Eighteen randomized controlled trials met the inclusion criteria. Eleven randomized controlled trials dealt with various aspects of transforaminal injections for radicular pain due to disc herniation and show Level 1 evidence supporting the use of transforaminal injections for this condition. A meta-analysis showed that at both 3 and 6 months, there was highly statistically significant improvement in both pain and function with both particulate and nonparticulate steroids. For radicular pain from central stenosis there is one moderate quality study, with Level IV evidence. For radicular pain caused
+
+Epidural Steroid Injections for Spinal Pain UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 5 of 12 Effective 07/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+by failed back surgery syndrome there is one moderate quality study, with Level IV evidence. For radicular pain from foraminal stenosis and for axial pain there is Level V evidence, opinion-based/consensus, supporting the use of transforaminal injections. The authors concluded that Level I evidence indicates transforaminal injections are generally safe but have been associated with major neurological complications related to spinal cord infarction. Due to concern over the role of particulate steroids, multiple other injectates have been evaluated, including nonparticulate steroids, tumor necrosis factor alpha (TNF-a) inhibitors, and local anesthetics without steroids, and none have been proven superior. This review is limited by the paucity of literature for some indications.
+
+Verheijen et al. (2021) conducted a systematic review and meta-analysis comparing epidural steroid injections (ESIs) with placebo injections in sciatica patients. The review included a total of 17 out of 732 reports: epidural placebo (n = 13), non- epidural placebo (n = 2), and both placebo groups (n = 2). The primary outcome measures were pooled using a random- effects model for 6-week, 3-month, and 6-month follow-up. Secondary outcomes were described qualitatively. Results showed that ESI was superior compared to epidural placebo at 6 weeks (−8.6 [−13.4; −3.9]) and 3 months (−5.2 [−10.1; −0.2]) for leg pain and at 6 weeks for functional status (−4.1 [−6.5; −1.6]), though the minimally clinical important difference (MCID) was not met. There was no difference in ESI and placebo for back pain, except for non-epidural placebo at 3 months (6.9 [1.3; 12.5]). Proportions of treatment success were not different. ESI reduced analgesic intake in some studies and complication rates were low. Of the 17 trials, five were considered low risk of bias, two raised some concerns, and 10 studies were considered high-risk. One serious adverse event was documented (retroperitoneal hematoma after ESI) and several minor complications related to needle placement and corticosteroid were noted. Limitations of the review include a low quality of evidence and limited number of comparison studies. The authors concluded that ESIs compared to placebo is considered safe and effective treatment for short-term pain management, however, at three and six months, no proven additional value of ESI compared to placebo was noted.
+
+In a 2020 meta-analysis of randomized controlled trials, Yang et al. compared the clinical effectiveness of epidural steroid injections (ESI) versus conservative treatments for patients with lumbosacral radicular pain. A search was conducted on relevant studies published between 2000 and January 10, 2019, and randomized controlled trials directly comparing the efficacy of ESI with conservative treatment were selected. Primary Outcomes included pain relief, functional improvement using The Oswetry Disability Index, or successful events. 6 randomized controlled trials (249 patients with ESI and 241 patients with conservative treatment) were identified and included in this meta-analysis. The results showed that ESI was beneficial for pain relief at short-term (1-3 months) and intermediate-term (3-6 months) when compared with conservative treatment, but this effect was not maintained at long-term (6 months to one year) follow-up. In terms of functional improvement, the overall outcome of meta-analysis showed that ESI did not have any advantage over conservative treatment at short-term and intermediate-term follow-up. Successful event rates were significantly higher in patients who received ESI than in patients who received conservative treatment. There were no statistically significant differences in functional improvement after ESI and conservative treatment at short-term and intermediate-term follow-up. The authors concluded that the use of ESI is more effective for alleviating lumbosacral radicular pain than conservative treatments in terms of short-term and intermediate term. Patients also reported more successful outcomes after receiving ESI when compared to conservative treatment. However, this effect was not maintained at long-term follow-up. The limitations of this meta-analysis resulted from the variation in types of interventions and small sample size.
+
+A Hayes (2019, updated 2022) health technology assessment regarding epidural steroid injections for cervical radiculopathy concluded that the evidence did not demonstrate any beneficial effect of ESIs on pain or disability associated with cervical radiculopathy compared with epidural injection of anesthetic alone. Although complications reported in the reviewed studies were generally mild and transient, serious AEs have occurred, including paraplegia, meningitis, and epidural abscess. Differences, often subtle, in the injection route, region, steroid, anesthetic, and patient pathology result in a vast array of procedural options for ESI, and such variability makes interpretation of existing ESI data difficult.
+
+Smith et al (2019) published the results of a systematic review of 19 studies assessing the efficacy of lumbar transforaminal steroid injection for radicular pain due to lumbar disc herniation. Placebo controlled RCTs, pragmatic studies, and observational studies were included in the analysis. Utilizing a threshold of ≥ 50% reduction in pain, treatment success rates across studies were 63% (Range: 58 to 68%) at 1-month, 74% (Range: 68-80%) at 3-months, 64% (59-69%) at 6-months, and 64% (57-71%) at 1year. The authors concluded that there is strong evidence that lumbar transforaminal injection of steroids is an effective treatment for radicular pain due to disc herniation.
+
+In a systematic review, Manchikanti et al (2015) reported on the long-term efficacy of cervical intralaminar and transforaminal epidural injections, focusing on cervical disc herniation, spinal stenosis, and discogenic pain. Based on 7 randomized controlled trials of different types of injections, none of which included comparison to a placebo group or to non-invasive treatment, the authors concluded that the evidence demonstrated Level II evidence for efficacy of cervical interlaminar epidural injections, in spite of the scant available clinical literature specific to conditions other than disc
+
+Epidural Steroid Injections for Spinal Pain UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 6 of 12 Effective 07/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+herniation. The findings are limited by lack of relevant comparison group that would allow to estimate the benefit of cervical epidural injection as compared to other treatment approaches.
+
+A randomized, double-blind controlled trial was conducted by Manchikanti et al (2014). The objective of this trial was to assess the effect on pain relief and functional improvement using thoracic interlaminar epidural injections in patients with chronic mid back pain and/or upper back pain. Two groups of 55 patients each were randomized to receive injections with local anesthetic alone, or injections with local anesthetic plus steroids. After two years both groups of patients saw significant improvement (71% using anesthetic alone, and 80% using anesthetic plus steroids). The authors concluded that chronic thoracic pain (not originating in the facet joint) could be managed with both types of thoracic epidural injections. This study was limited by lack of a placebo group.
+
+Rosas et al. (2010) performed a retrospective case series to evaluate fluoroscopically directed thoracic transforaminal epidural injections. One hundred and ninety-eight foraminal nerve blocks and foraminal epidural injections to the thoracic spine were performed between 1997 and 2007. This new technique was reviewed to evaluate improved safety, as this approach should decrease the change of inadvertently injuring surrounding structures. There were no major complications when this new technique was properly performed. The authors concluded that this new technique of performing thoracic transforaminal epidural injections under fluoroscopy allows the ability to gauge needle depth, thereby decreasing potential injury to surrounding structures, including the pleura, dura mater, and vasculature. The findings are limited by lack of outcome data other than safety data and lack of comparison group.
+
+Manchikanti et al. (2010) conducted a double-blind randomized controlled trial of interlaminar epidural steroid injections, with and without steroids, in managing chronic pain of lumbar disc herniation or radiculitis. Seventy patients were equally randomized to receive either a local anesthetic only (group I) or a local anesthetic mixed with a steroid (group II). Outcomes were measured at baseline, 3-, 6-, and 12-months post-treatment with the Numeric Rating Scale (NRS), the Oswestry Disability Index 2.0 (ODI), employment status, and opioid intake. Significant pain relief (≥ 50%) was seen at 12 months in 74% of patients in group I and 86% in group II, and 69% and 83% in ODI scores, respectively. Patients in group II also had more improvement in functional status at 12 months (83% vs. 69%) and required less opioid intake.
+
+Clinical Practice Guidelines American College of Occupational and Environmental Medicine (ACOEM) •
+
+In the 2021 guidelines for invasive treatments for low back disorders, the ACOEM state the following regarding epidural steroid injections (ESI): Recommended (I), Moderate Confidence for select circumstances as an option for treatment of acute or subacute radicular pain syndromes, typically after treatment with NSAID and waiting at least 3 weeks.
+
+Moderately Not Recommended (B), Moderate Confidence for treatment of spinal stenosis. • Not Recommended, Evidence (C), High Confidence for treatment of acute, subacute, or chronic low back pain in the
+
+absence of significant radicular symptoms.
+
+Agency for Healthcare Research and Quality (AHRQ) Technology Assessment Program The 2015 AHRQ comparative effectiveness study on injection therapies for low back pain (LBP) concluded that ESIs for radiculopathy were associated with immediate improvements in pain and might be associated with immediate improvements in function, but benefits were small and not sustained, and there was no effect on long-term risk of surgery. Evidence did not suggest that effectiveness varies based on injection technique, corticosteroid, dose, or comparator. Limited evidence suggested that epidural corticosteroid injections are not effective for spinal stenosis or nonradicular back pain. (Chou et al. 2015)
+
+American Society of Anesthesiologists (ASA) As of 2010, the ASA had not issued a statement specifically on the use of epidural steroids for the management of low back pain and/or sciatica. However, the ASA Task Force on Pain Management issued more general practice guidelines for chronic pain management. The 2010 ASA guidelines recommended that: Epidural steroid injections with or without local anesthetics may be used as part of a multimodal treatment regimen to provide pain relief in selected patients with radicular pain or radiculopathy. Transforaminal epidural injections should be performed with appropriate image guidance to confirm correct needle position and spread of contrast before injecting a therapeutic substance.
+
+American Academy of Neurology (AAN) In 2007, and reaffirmed in 2010, the Therapeutics and Technology Assessment Subcommittee of the AAN released an assessment addressing the use of epidural steroid injections (ESIs) to treat radicular lumbosacral pain:
+
+Epidural Steroid Injections for Spinal Pain UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 7 of 12 Effective 07/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Epidural steroid injections may result in some improvement in radicular lumbosacral pain when determined between 2 and 6 weeks following the injection, compared to control treatment (Level C, Class I to III evidence). The average magnitude of effect is small, and the generalizability of the observation is limited by the small number of studies, limited to highly selected patient populations, the few techniques and doses studied, and variable comparison treatments. In general, epidural steroid injections for radicular lumbosacral pain have shown no impact on average impairment of function, on need for surgery, or on long-term pain relief beyond 3 months. Their routine use for these indications is not recommended (Level B, Class I to III evidence).
+
+Data on use of epidural steroid injections to treat cervical radicular pain are inadequate to make any recommendation
+
+(Level U).
+
+American Society of Interventional Pain Physicians (ASIPP) The ASIPP published updated evidence-based guidelines regarding epidural interventional techniques in the management of chronic spinal pain in 2021 (Manchikanti et al.). The ASIPP maintains a comprehensive guideline for epidural steroid injections including indications, limitations, and therapy frequencies. Specifically, these guidelines make the following conclusion or recommendations, among others: • Disc herniation: Based on relevant, high-quality fluoroscopically guided epidural injections, with or without steroids,
+
+and results of previous systematic reviews, the evidence is Level I for caudal epidural injections, lumbar interlaminar epidural injections, lumbar transforaminal epidural injections, and cervical interlaminar epidural injections with strong recommendation for long-term effectiveness.
+
+For thoracic disc herniation, based on one relevant, high-quality RCT of thoracic epidural with fluoroscopic guidance, with or without steroids, the evidence is Level II with moderate to strong recommendation for long-term effectiveness.
+
+Spinal stenosis: The evidence based on one high-quality RCT in each category the evidence is Level III to II for fluoroscopically guided caudal epidural injections with moderate to strong recommendation and Level II for fluoroscopically guided lumbar and cervical interlaminar epidural injections with moderate to strong recommendation for long-term effectiveness.
+
+The evidence for lumbar transforaminal epidural injections is Level IV to III with moderate recommendation with
+
+fluoroscopically guided lumbar transforaminal epidural injections for long-term improvement.
+
+Axial discogenic pain: The evidence for axial discogenic pain without facet joint pain or sacroiliac joint pain in the
+
+lumbar and cervical spine with fluoroscopically guided caudal, lumbar, and cervical interlaminar epidural injections, based on one relevant high quality RCT in each category is Level II with moderate to strong recommendation for long- term improvement, with or without steroids.
+
+Post-surgery syndrome: The evidence for lumbar and cervical post-surgery syndrome based on one relevant, high- quality RCT with fluoroscopic guidance for caudal and cervical interlaminar epidural injections, with or without steroids, is Level II with moderate to strong recommendation for long-term improvement.
+
+The authors also observe that in “the therapeutic phase (after the diagnostic phase is completed), the suggested frequency of interventional techniques should be 2½ to 3 months or longer between each injection, provided that > 50% relief is obtained for 2½ to 3 months, not exceeding 4 per year, per region.”
+
+American Association of Neurological Surgeons and Congress of Neurological Surgeons In a 2014 joint guideline update, the American Association of Neurological Surgeons and the Congress of Neurological Surgeons states that the published medical literature continues to fail to support the use of lumbar epidural injections for long-term relief of chronic back pain without radiculopathy, and that there is limited support for their use for short-term relief in selected patients with chronic back pain. (Watters, 2014)
+
+North American Spine Society (NASS) In 2020, NASS revised its coverage policy recommendations for epidural steroid injections and selective spinal nerve blocks. They stated that the rationale for coverage is based on high-level evidence and what most practitioners would consider to be accepted practice patterns. Multiple randomized-controlled trials (RCTs) have demonstrated that lumbar epidural steroid injections (LESIs) are effective in the treatment of lumbar radiculitis caused by disc herniation. There is sufficient literature to suggest that a trial of ESIs for radicular pain caused by conditions other than disc herniation is appropriate prior to considering surgical intervention.
+
+In their 2020 Evidence-Based Clinical Guidelines for Multidisciplinary Spine Care: Diagnosis & Treatment of Low Back Pain, the NASS states there is there is insufficient evidence to make a recommendation for or against the use of caudal epidural steroid injections and interlaminar epidural steroid injections in patients with low back pain.
+
+Epidural Steroid Injections for Spinal Pain UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 8 of 12 Effective 07/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+In 2013 NASS published a Review and Recommendation Statement entitled “Lumbar Transforaminal Epidural Steroid Injections”. A grade A recommendation (defined as good evidence) was given for the effectiveness of ESI at treating radicular pain related to lumbar disc herniation for at least 1 month in more than 50% of individuals. The review graded the evidence as insufficient for a recommendation to treat lumbar radicular pain in the presence of stenosis. There was insufficient evidence to provide an evidence-based recommendation on the maximum number of lumbar ESIs that are appropriate in any given timeframe, or the amount of pain/functional improvement needed to justify repeat injections.
+
+In 2011, NASS revised its evidence-based clinical guidelines for multidisciplinary spine care: diagnosis and treatment of degenerative lumbar spinal stenosis with the following recommendation: while there is evidence that non fluoroscopically guided interlaminar and single radiographically guided transforaminal ESIs can result in short-term symptom relief in patients with neurogenic claudication or radiculopathy, there is conflicting evidence concerning long-term efficacy. The guidelines also note that there is some evidence that a multiple injection regimen of radiographically guided transforaminal ESIs or caudal injections can produce long-term relief of pain in patients with radiculopathy or neurogenic intermittent claudication from lumbar spinal stenosis. However, the evidence is of relatively poor quality, and therefore no strong recommendation in support of this therapy was made.
+
+In the 2010 Evidence-Based Clinical Guidelines for Multidisciplinary Spine Care: Diagnosis & Treatment of Cervical Radiculopathy from Degenerative Disorders, NASS states that transforaminal epidural steroid injections using fluoroscopic or CT guidance may be considered when developing a medical/interventional treatment plan for patients with cervical radiculopathy from degenerative disorders, and that consideration should be given to the potential complications before performing this procedure.
+
+World Federation of Neurosurgical Societies (WFNS) In 2020, the WFNS published the Spine Committee Recommendations on Conservative Treatment and Percutaneous Pain Relief in Patients with Lumbar Spinal Stenosis (Fornari et al. 2020). The following recommendations are made: Conservative Treatment or follow-up for Lumbar Spinal Stenosis (LSS):
+
+o
+
+In non-severe clinical conditions, a conservative approach based on at least 3 weeks of therapeutic exercise may be the first therapeutic choice.
+
+o Medical/interventional treatment should be preferred to surgical treatment in patients with spinal stenosis with mild
+
+symptoms.
+
+o Physical therapy should consist of multimodal approaches. o
+
+If conservative treatment is chosen, surgery should be considered in cases in which the clinical condition does not change in 3 months.
+
+o There are some cases in which immediate surgical treatment can be indicated.
+
+Percutaneous pain relief techniques for LSS:
+
+o The literature supports short- to intermediate-term benefits of epidural injections for symptomatic treatment of
+
+LSS. Inclusion of steroids does not confer a benefit compared with local anesthetic alone in epidural injections for symptomatic treatment of LSS.
+
+o
+
+o For patients with symptomatic relief lasting < 3 months after epidural injections, proceeding with further injections
+
+is not recommended.
+
+U.S. Food and Drug Administration (FDA)
+
+This section is to be used for informational purposes only. FDA approval alone is not a basis for coverage.
+
+Epidural Steroid Injection is a procedure and, therefore, not subject to FDA regulation. However, any medical devices, drugs, biologics, or tests used as a part of this procedure may be subject to FDA regulation. Injectable corticosteroids include methylprednisolone, hydrocortisone, triamcinolone, betamethasone, and dexamethasone, and are approved by the FDA, however, the effectiveness and safety of the drugs for Epidural Steroid Injection have not been established, and FDA has not approved corticosteroids for such use. Additional information may be obtained from the U.S. Food and Drug Administration - Center for Drug Evaluation and Research (CDER) at: https://www.fda.gov/about-fda/fda- organization/center-drug-evaluation-and-research-cder. (Accessed February 5, 2025)
+
+In April 2014, the U.S. Food and Drug Administration (FDA) warned, that injection of corticosteroids into the epidural space of the spine may result in rare but serious adverse events, including loss of vision, stroke, paralysis, and death. They noted the effectiveness and safety of epidural administration of corticosteroids have not been established, and the FDA has not approved corticosteroids for this use. FDA is requiring the addition of a warning to the drug labels of injectable corticosteroids to describe these risks. The FDA recommends that individuals should discuss the benefits and
+
+Epidural Steroid Injections for Spinal Pain UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 9 of 12 Effective 07/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+risks of epidural corticosteroid injections with their health care professionals, along with the benefits and risks associated with other possible treatments. Further information can be found at: https://www.fda.gov/drugs/drug-safety-and- availability/fda-drug-safety-communication-fda-requires-label-changes-warn-rare-serious-neurologic-problems-after. (Accessed February 5, 2025)
+
+References
+
+Ahmed M, Ahmad A, Arshad M, et al. Ultrasound-guided versus conventional fluoroscopy-guided epidural injection for radiculopathy. A meta-analysis of randomized controlled trials. World Neurosurg. 2023 Dec;180:203-212.e4.
+
+American Academy of Neurology (AAN). Summary of Evidence-based Guideline for Clinicians: Use of Epidural Steroid Injections to Treat Radicular Lumbosacral Pain. 2007. Reaffirmed in 2010.
+
+American College of Occupational and Environmental Medicine Guidelines. Invasive Treatments for Low Back Disorders. 2021.
+
+American Society of Anesthesiologists (ASA). Committee on Pain Medicine. Statement on Anesthetic Care During Interventional Pain Procedures for Adults. October 2005; Amended October 2021. Located at: https://www.asahq.org/standards-and-practice-parameters/statement-on-anesthetic-care-during-interventional-pain- procedures-for-adults. Accessed February 5, 2025.
+
+American Society of Anesthesiologists (ASA). Practice Guidelines for Chronic Pain Management: An Updated Report by the American Society of Anesthesiologists Task Force on Chronic Pain Management and the American Society of Regional Anesthesia and Pain Medicine. Anesthesiology 2010.
+
+Botwin KP, Baskin M, Rao S. Adverse effects of fluoroscopically guided interlaminar thoracic epidural steroid injections. Am J Phys Med Rehabil. 2006;85(1):14-23.
+
+Chou R, Hashimoto R, Friedly J, et al. Pain Management Injection Therapies for Low Back Pain. Rockville (MD): Agency for Healthcare Research and Quality 2015.
+
+Cyteval C, Fescquet N, Thomas E, et al. Predictive factors of efficacy of periradicular corticosteroid injections for lumbar radiculopathy. AJNR Am J Neuroradiol. 2006.
+
+Everett CR, Baskin MN, Novoseletsky D, et al. Flushing as a side effect following lumbar transforaminal epidural steroid injection. Pain Physician. 2004.
+
+Fornari M, Robertson SC, Pereira P, et al. Conservative treatment and percutaneous pain relief techniques in patients with lumbar spinal stenosis: WFNS Spine Committee Recommendations. World Neurosurg X. 2020 Jun 23; 7:100079.
+
+Hayes, Inc. Health Technology Assessment. Epidural Steroid Injections for Cervical Radiculopathy. Landsdale, PA: February 28, 2019. Updated February 2022.
+
+Hayes, Inc. Evolving Evidence Review. Epidural Steroid Injections for the Treatment of Thoracic Spine Pain. Lansdale, PA: July 23, 2021.
+
+Helm Ii S, Harmon PC, Noe C, et al. Transforaminal Epidural Steroid Injections: A Systematic Review and Meta-Analysis of Efficacy and Safety. Pain Physician. 2021 Jan;24(S1): S209-S232.
+
+Lenahan et al. Current Guidelines for Management of Low Back Pain. Clinical Advisor. 2018.
+
+Manchikanti L, Cash KA, McManus CD, Pampati V, Benyamin RM. Thoracic interlaminar epidural injections in managing chronic thoracic pain: a randomized, double-blind, controlled trial with a 2-year follow-up. Pain Physician. 2014;17(3):E327-E338.
+
+Manchikanti L, Nampiaparampil DE, Candido KD, et al. Do cervical epidural injections provide long-term relief in neck and upper extremity pain? A systematic review. Pain Physician. 2015;18(1):39-60.
+
+Manchikanti L, Knezevic NN, Navani A, et al. Epidural Interventions in the Management of Chronic Spinal Pain: American Society of Interventional Pain Physicians (ASIPP) Comprehensive Evidence-Based Guidelines. Pain Physician. 2021 Jan;24(S1): S27-S208.
+
+Manchikanti L, Singh V, Falco FJ, et al. Evaluation of the effectiveness of lumbar interlaminar epidural injections in managing chronic pain of lumbar disc herniation or radiculitis: a randomized, double-blind, controlled trial. Pain Physician. 2010.
+
+North American Spine Society (NASS). Evidence Based Clinical Guidelines for Multidisciplinary Spine Care: Diagnosis and Treatment of Low Back Pain. 2020.
+
+North American Spine Society (NASS). Evidence- Based Clinical Guidelines for Multidisciplinary Spine Care: Diagnosis and Treatment of Degenerative Lumbar Spinal Stenosis (Revised 2011).
+
+Epidural Steroid Injections for Spinal Pain UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 10 of 12 Effective 07/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+North American Spine Society (NASS). Evidence- based Clinical Guidelines for Multidisciplinary Spine Care. Diagnosis and Treatment of Cervical Radiculopathy from Degenerative Disorders. 2010.
+
+North American Spine Society (NASS). Lumbar transforaminal epidural steroid injections: Review and recommendation statement. 2013. Located at: https://www.spine.org/Portals/0/assets/downloads/ResearchClinicalCare/LTFESIReviewRecStatement.pdf. Accessed February 5, 2025.
+
+Patel K, Chopra P, Upadhyayula S. Epidural Steroid Injections. [Updated 2021 Jul 19]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2022 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK470189/. Accessed February 5, 2025.
+
+Qassem, Amir, et al. Noninvasive treatments for acute, subacute and chronic low back pain: A clinical practice guideline from the American College of Physicians. Annals of Internal Medicine. April 2017.
+
+Rosas, HG, Gilula, LA. Performing thoracic transforaminal injections: A new technique. Radiology, Vol 254, No. 2, January 7, 2010.
+
+Smith CC, McCormick ZL, Mattie R et al. The effectiveness of lumbar transforaminal injection of steroid for the treatment of radicular pain. Pain Med, July 2019.
+
+Summers, Jeffrey. International Spine Intervention Society Recommendations for treatment of Cervical and Lumbar Spine Pain. 2013.
+
+Tay M, Sian SCSH, Eow CZ, et al. Ultrasound-guided lumbar spine injection for axial and radicular pain: A Single Institution Early Experience. Asian Spine J. 2020 Sep 3.
+
+Ustün B, Kennedy C. What is "functional impairment"? Disentangling disability from clinical significance. World Psychiatry. 2009;8(2):82-85.
+
+Verheijen EJA, Bonke CA, Amorij EMJ, et al. Epidural steroid compared to placebo injection in sciatica: a systematic review and meta-analysis. Eur Spine J. 2021 Nov;30(11):3255-3264.
+
+Watters WC 3rd, Resnick DK, Eck JC, et al. Guideline update for the performance of fusion procedures for degenerative disease of the lumbar spine. Part 13: injection therapies, low-back pain, and lumbar fusion. J Neurosurg Spine. 2014 Jul;21(1):79-90.
+
+Yang S, Kim W, Kong HH, et al. Epidural steroid injection versus conservative treatment for patients with lumbosacral radicular pain: A meta-analysis of randomized controlled trials. Medicine (Baltimore). 2020 Jul 24;99(30).
+
+Policy History/Revision Information
+
+Date 07/01/2025
+
+Summary of Changes
+
+Coverage Rationale Revised coverage criteria for Epidural Steroid Injections (ESI); replaced criterion requiring “there
+
+is evidence of structural and/or functional nerve root involvement by imaging or electromyography (EMG)” with “there is evidence of structural and/or functional nerve root involvement by imaging or electrodiagnostic studies”
+
+Supporting Information Updated Clinical Evidence and References sections to reflect the most current information Archived previous policy version 2025T0616K
+
+Instructions for Use
+
+This Medical Policy provides assistance in interpreting UnitedHealthcare standard benefit plans. When deciding coverage, the member specific benefit plan document must be referenced as the terms of the member specific benefit plan may differ from the standard plan. In the event of a conflict, the member specific benefit plan document governs. Before using this policy, please check the member specific benefit plan document and any applicable federal or state mandates. UnitedHealthcare reserves the right to modify its Policies and Guidelines as necessary. This Medical Policy is provided for informational purposes. It does not constitute medical advice.
+
+This Medical Policy may also be applied to Medicare Advantage plans in certain instances. In the absence of a Medicare National Coverage Determination (NCD), Local Coverage Determination (LCD), or other Medicare coverage guidance, CMS allows a Medicare Advantage Organization (MAO) to create its own coverage determinations, using objective evidence-based rationale relying on authoritative evidence (Medicare IOM Pub. No. 100-16, Ch. 4, §90.5).
+
+Epidural Steroid Injections for Spinal Pain UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 11 of 12 Effective 07/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+UnitedHealthcare may also use tools developed by third parties, such as the InterQual® criteria, to assist us in administering health benefits. UnitedHealthcare Medical Policies are intended to be used in connection with the independent professional medical judgment of a qualified health care provider and do not constitute the practice of medicine or medical advice.
+
+Epidural Steroid Injections for Spinal Pain UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 12 of 12 Effective 07/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.

@@ -1,0 +1,819 @@
+10/10/25, 5:27 PM
+
+LCD - Peripheral Nerve Stimulation (L37360)
+
+Local Coverage Determination (LCD)
+
+Peripheral Nerve Stimulation
+
+L37360
+
+Links in PDF documents are not guaranteed to work. To follow a web link, please use the MCD
+
+Website.
+
+Contractor Information
+
+Contract
+
+Contract
+
+Contractor Name
+
+Type
+
+Number
+
+Jurisdiction
+
+States
+
+Noridian Healthcare
+
+A and B
+
+02101 -
+
+J - F
+
+Alaska
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02102 - MAC B
+
+J - F
+
+Alaska
+
+Noridian Healthcare
+
+A and B
+
+02201 -
+
+J - F
+
+Idaho
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02202 - MAC B
+
+J - F
+
+Idaho
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02301 - MAC A
+
+J - F
+
+Oregon
+
+Noridian Healthcare
+
+A and B
+
+02302 -
+
+J - F
+
+Oregon
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+02401 - MAC A
+
+J - F
+
+Washington
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=37360
+
+1/12
+
+10/10/25, 5:27 PM
+
+LCD - Peripheral Nerve Stimulation (L37360)
+
+Contract
+
+Contract
+
+Contractor Name
+
+Type
+
+Number
+
+Jurisdiction
+
+States
+
+Noridian Healthcare
+
+A and B
+
+02402 -
+
+J - F
+
+Washington
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Noridian Healthcare
+
+A and B
+
+03101 -
+
+J - F
+
+Arizona
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Noridian Healthcare
+
+A and B
+
+03102 -
+
+J - F
+
+Arizona
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+03201 - MAC A
+
+J - F
+
+Montana
+
+Noridian Healthcare
+
+A and B
+
+03202 -
+
+J - F
+
+Montana
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Noridian Healthcare
+
+A and B
+
+03301 -
+
+J - F
+
+North
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Dakota
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+03302 - MAC B
+
+J - F
+
+North Dakota
+
+Noridian Healthcare
+
+A and B
+
+03401 -
+
+J - F
+
+South
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Dakota
+
+Noridian Healthcare
+
+A and B
+
+03402 -
+
+J - F
+
+South
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+Dakota
+
+Noridian Healthcare Solutions, LLC
+
+A and B MAC
+
+03501 - MAC A
+
+J - F
+
+Utah
+
+Noridian Healthcare
+
+A and B
+
+03502 -
+
+J - F
+
+Utah
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=37360
+
+2/12
+
+10/10/25, 5:27 PM
+
+LCD - Peripheral Nerve Stimulation (L37360)
+
+Contract Type
+
+Contract Number
+
+Contractor Name
+
+Jurisdiction
+
+States
+
+Noridian Healthcare
+
+A and B
+
+03601 -
+
+J - F
+
+Wyoming
+
+Solutions, LLC
+
+MAC
+
+MAC A
+
+Noridian Healthcare
+
+A and B
+
+03602 -
+
+J - F
+
+Wyoming
+
+Solutions, LLC
+
+MAC
+
+MAC B
+
+LCD Information
+
+Document Information
+
+LCD ID
+
+L37360
+
+LCD Title
+
+Peripheral Nerve Stimulation
+
+Proposed LCD in Comment Period
+
+N/A
+
+Source Proposed LCD
+
+DL37360
+
+Original Effective Date
+
+For services performed on or after 08/27/2018
+
+Revision Effective Date
+
+For services performed on or after 12/01/2019
+
+Revision Ending Date
+
+N/A
+
+Retirement Date
+
+N/A
+
+Notice Period Start Date
+
+09/17/2018
+
+Notice Period End Date
+
+11/01/2018
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=37360
+
+3/12
+
+10/10/25, 5:27 PM
+
+LCD - Peripheral Nerve Stimulation (L37360)
+
+CPT codes, descriptions, and other data only are copyright 2024 American Medical Association. All Rights Reserved. Applicable FARS/HHSARS apply.
+
+Fee schedules, relative value units, conversion factors and/or related components are not assigned by the AMA, are not
+
+part of CPT, and the AMA is not recommending their use. The AMA does not directly or indirectly practice medicine or dispense medical services. The AMA assumes no liability for data contained or not contained herein.
+
+Current Dental Terminology © 2024 American Dental Association. All rights reserved.
+
+Copyright © 2025, the American Hospital Association, Chicago, Illinois. Reproduced with permission. No portion of the AHA
+
+copyrighted materials contained within this publication may be copied without the express written consent of the AHA.
+
+AHA copyrighted materials including the UB‐04 codes and descriptions may not be removed, copied, or utilized within any
+
+software, product, service, solution, or derivative work without the written consent of the AHA. If an entity wishes to utilize any AHA materials, please contact the AHA at 312‐893‐6816.
+
+Making copies or utilizing the content of the UB‐04 Manual, including the codes and/or descriptions, for internal purposes,
+
+resale and/or to be used in any product or publication; creating any modiﬁed or derivative work of the UB‐04 Manual and/or codes and descriptions; and/or making any commercial use of UB‐04 Manual or any portion thereof, including the codes
+
+and/or descriptions, is only authorized with an express license from the American Hospital Association. The American
+
+Hospital Association (the "AHA") has not reviewed, and is not responsible for, the completeness or accuracy of any information contained in this material, nor was the AHA or any of its afﬁliates, involved in the preparation of this material,
+
+or the analysis of information provided in the material. The views and/or positions presented in the material do not
+
+necessarily represent the views of the AHA. CMS and its products and services are not endorsed by the AHA or any of its
+
+afﬁliates.
+
+Issue
+
+Issue Description
+
+Correcting typographical error.
+
+CMS National Coverage Policy
+
+Title XVIII of the Social Security Act (SSA), §1862(a)(1)(A), states that no Medicare payment shall be made for items or services that “are not reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member.”
+
+CMS Manual System, Pub 100-03, Medicare National Coverage Determinations Manual, Chapter 1, §160.7, Electrical Nerve Stimulators.
+
+Coverage Guidance
+
+Coverage Indications, Limitations, and/or Medical Necessity
+
+Peripheral nerve stimulation (PNS) may be covered for relief of chronic intractable pain for patients with conditions known to be responsive to this form of therapy, and only after
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=37360
+
+4/12
+
+10/10/25, 5:27 PM
+
+LCD - Peripheral Nerve Stimulation (L37360)
+
+attempts to cure the underlying conditions and appropriate attempts at medication management, physical therapy, psychological therapy and other less invasive interventional treatments. As with spinal nerve stimulations (spinal cord stimulators (SCS) are dealt with in a companion policy), severe neuropathic pain is typically well suited for successful responses
+
+to PNS. There may be rare selected situations where both spinal cord stimulators and peripheral neurostimulators are used together.
+
+PNS refers to the placement of a lead by a physician (via open surgical or percutaneous approach) near the known anatomic location of a peripheral nerve. Peripheral nerve ﬁeld stimulation (PNFS) refers to use of a lead placed to stimulate the subcutaneous distal distribution of an area of pain (indirectly stimulating the peripheral nerve). In both PNS and
+
+PNFS leads are composed of multiple contacts (of varying number) connected to an external pulse generator when temporary and implanted when made permanent.
+
+PNS, like deep brain stimulation and spinal cord stimulation modulates the nervous system with electrical stimulation to lessen chronic pain and other conditions. PNFS has an uncertain mechanism of action.
+
+PNS has been tried for over 50 years and has been used in a wide variety of chronic pain syndromes, but the scientiﬁc literature is limited for many of the indications tried. The most accepted uses of PNS involves one of two methods:
+
+Open exposure of a peripheral nerve and direct implantation of a PNS electrode (as in
+
+treatment of a radial nerve, sciatic nerve, median nerve, etc.). Percutaneous insertion of a PNS electrode in direct vicinity of the stimulated nerve (e.g., occipital nerve for severe headaches).
+
+As with a SCS and PNS, performance of an effective trial is a pre-requisite of ﬁnal
+
+implantation. Many experts recommend that the temporary neurostimulator be placed in an Ambulatory Surgical Center (ASC) or outpatient hospital setting. However, the temporary neurostimulator trial can be done in an ofﬁce setting if all the sterility, equipment, professional training and support personnel for the proper surgery and follow up of the
+
+patient are available. Permanent neurostimulators must be placed in an ASC or hospital. Physicians performing PNS trials in place of service ofﬁce must have like privileges at an ASC or hospital, or the physician must be board certiﬁed or board eligible in Pain Medicine, Orthopedic Surgery, or Neurosurgery by an ABMS Board or the equivalent as determined by
+
+the state of practice. Other ABMS Specialty Boards or the equivalent in the state of practice may be included if such practice is included in the training program curriculum.
+
+It is preferable that the physicians performing the PNS trials will also perform the permanent implant. If the physician implanting the trial PNS does not or cannot implant the permanent
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=37360
+
+5/12
+
+10/10/25, 5:27 PM
+
+LCD - Peripheral Nerve Stimulation (L37360)
+
+neurostimulator(s), the patient should be informed of this in writing and given the name of the referral surgeon who will implant the permanent neurostimulator(s).
+
+Coverage of PNS trials requires that patients have all of the following:
+
+Documented chronic and severe pain for at least 3 months, Documented failure of less invasive treatment modalities and medications, Lack of surgical contraindications including infections and medical risks,
+
+Appropriate proper patient education, discussion and disclosure of risks and beneﬁts, No active substance abuse issues, Formal psychological screening by a mental health professional, and Successful stimulation trial with greater than or equal to 50% reduction in pain intensity
+
+before permanent implantation.
+
+The only reliable predictor of PNS effectiveness is a trial of stimulation with implanted PNS electrodes. If a trial fails, a repeat trial is usually not appropriate unless there are extenuating circumstances that led to the trial failure (equipment malfunction, early lead
+
+migration, etc.), technological advances, or an alternative neuromodulary technique that may lead to a more successful second trial. Documentation must explain these unusual situations. It is expected that accurate patient selection will lead to most patients going on
+
+to receive permanent implants. All trials which proceed to permanent implant must have adequate documentation in the chart to support that decision. A successful trial should be associated with at least a 50% reduction of target pain, or 50% reduction of analgesic medications, and show some element of functional improvement.
+
+Physicians with a low trial to permanent implant ratio less than 50% will be subject to post
+
+payment review and may be asked to submit documentation as to the patient selection criteria, the imaging demonstrating proper lead placement, and the medical necessity of the trials. Failure to provide this documentation will be cause for post-payment denial and recoupment of reimbursement. It is understood that all patients may not have a favorable result of the trial implant; but careful selection should ﬁnd the most appropriate patients.
+
+Examples of peripheral stimulation indications with evidence of efﬁcacy that may be covered
+
+are:
+
+PNS of occipital nerves for occipital neuralgia, post-surgical neuropathic pain, cervicogenic headaches and treatment resistant migraines. PNS of trigeminal nerves (and branches) for post-traumatic and post-surgical
+
+neuropathic pain in the face related to the trigeminal nerves. PNS of nerves in upper and lower extremities of complex regional pain syndromes (type 1 and 2), pain due to peripheral nerve injury, post-surgical scar formation, nerve entrapment, painful mononeuropathy, and painful amputation neuromas.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=37360
+
+6/12
+
+10/10/25, 5:27 PM
+
+LCD - Peripheral Nerve Stimulation (L37360)
+
+PNS of intercostal and ilio-inguinal nerves for post-surgical and post-traumatic neuropathic pain involving these nerve distributions.
+
+Current peer-reviewed data DOES NOT SUPPORT PNS for ﬁbromyalgia, phantom limb pain,
+
+diffuse polyneuropathy, nociceptive pain in trunk or lower back, or angina pectoris. Claims for these indications will be denied as not reasonable and necessary. Current peer-reviewed data also is insufﬁcient to warrant the medical necessity of coverage for PNFS for any condition. Therefore, this service will not be covered for any condition.
+
+Summary of Evidence
+
+NA
+
+Analysis of Evidence (Rationale for Determination)
+
+NA
+
+General Information
+
+Associated Information Utilization Guidelines
+
+Noridian expects no more than two services of 64555-(Percutaneous implantation of neurostimulator electrodes; peripheral nerve [excludes sacral nerve]) be billed per 365 days.
+
+Trials will be limited to four leads with maximum of 16 contacts.
+
+Sources of Information
+
+1. Al-Jehani H, Jacques L. Peripheral nerve stimulation for chronic neurogenic pain. Prog
+
+Neurol Surg. 2011;24:27-40. doi: 10.1159/000323017. Epub 2011 Mar 21.
+
+2. Cairns KD, McRoberts WP, Deer T. Peripheral nerve stimulation for the treatment of truncal pain. Prog Neurol Surg. 2011;24:58-69. doi: 10.1159/000323025. Epub 2011 Mar 21.
+
+3. Dafer RM. Neurostimulation in Headache Disorders. Neurol Clin. 2010; 28:835-41. 4. Desai MJ, Jacob L, Leiphart J. Successful peripheral nerve ﬁeld stimulation for thoracic
+
+radiculitis following Brown-Sequard syndrome. Neuromodulation. 2011 May- Jun;14(3):249-52; discussion 252. doi: 10.1111/j.1525-1403.2011.00356.x. Epub 2011 Apr 15.
+
+5. Ellens DJ, Levy RM. Peripheral neuromodulation for migraine headache. Prog Neurol
+
+Surg. 2011;24:109-17. doi:10.1159/000323890. Epub 2011 Mar 21.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=37360
+
+7/12
+
+10/10/25, 5:27 PM
+
+LCD - Peripheral Nerve Stimulation (L37360)
+
+6. Hamm-Faber TE, Aukes HA, de Loos F, Gültuna I. Subcutaneous stimulation as an
+
+additional therapy to spinal cord stimulation for the treatment of lower limb pain and/or back pain: a feasibility study. Neuromodulation. 2012 Mar-Apr;15(2):108-16; discussion 116-7. doi: 10.1111/j.1525-1403.2011.00393.x. Epub 2011 Sep 21.
+
+7. Lepski G, Vahedi P, Tatagiba MS, Morgalla M. Combined spinal cord and peripheral
+
+nerve ﬁeld stimulation for persistent post-herniorrhaphy pain. Neuromodulation. 2013 Jan;16(1):84-9. doi: 10.1111/j.1525-1403.2012.00463.x. Epub 2012 Jun 1.
+
+8. Reverberi C, Dario A, Barolat G. Spinal Cord Stimulation (SCS) in Conjunction With
+
+Peripheral Nerve Field Stimulation (PNfS) for the Treatment of Complex Pain in Failed Back Surgery Syndrome (FBSS). Neuromodulation. 2013 Jan;16(1):78-83. doi: 10.1111/j.1525-1403.2012.00497.x. Epub 2012 Sep 17.
+
+9. Occipital Nerve Stimulation. Blue Cross Blue Shield of Vermont. July, 2011.
+
+Bibliography
+
+NA
+
+Revision History Information
+
+Revision History Date
+
+Revision History Number
+
+Revision History Explanation
+
+Reasons for Change
+
+12/01/2019
+
+R5
+
+Under Coverage Indications, Limitations, and/or Medical Necessity, corrected the typographical error in Paragraph 1 from
+
+Typographical Error
+
+‘interdenominational’ to ‘interventional’.
+
+At this time 21st Century Cures Act will apply to new and
+
+revised LCDs that restrict coverage which requires comment and notice. This revision is not a restriction to the coverage determination.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=37360
+
+8/12
+
+10/10/25, 5:27 PM
+
+LCD - Peripheral Nerve Stimulation (L37360)
+
+Revision History Date
+
+Revision History Number
+
+Revision History Explanation
+
+Reasons for Change
+
+12/01/2019
+
+R4
+
+The LCD is revised to remove CPT/HCPCS codes in the
+
+Other (The LCD is revised to
+
+Keyword Section of the LCD.
+
+remove CPT/HCPCS codes in the Keyword Section of the LCD. )
+
+At this time 21st Century Cures Act will apply to new and revised LCDs that restrict
+
+coverage which requires comment and notice. This revision is not a restriction to the coverage determination; and, therefore not all the ﬁelds included on the LCD are applicable as noted in this
+
+policy.
+
+12/01/2019
+
+R3
+
+Removed the following information from the Utilization Guidelines in the Associated Information section as this is appropriately documented in the Revision History: 06/20/18 -
+
+Typographical Error Revisions Due To Code Removal
+
+At this time 21st Century Cures Act will apply to new and revised LCDs that restrict coverage which requires comment and notice. This revision is not a restriction to the coverage determination; and, therefore not all the ﬁelds
+
+included on the LCD are applicable as noted in this policy. LCD updated to add ICD-10-CM code M54.81.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=37360
+
+9/12
+
+10/10/25, 5:27 PM
+
+LCD - Peripheral Nerve Stimulation (L37360)
+
+Revision History Date
+
+Revision History Number
+
+Revision History Explanation
+
+Reasons for Change
+
+As required by CR 10901, all billing and coding information
+
+has been moved to the companion article; this article is linked to the LCD.
+
+12/01/19: At this time 21st
+
+Century Cures Act will apply to new and revised LCDs that restrict coverage which requires comment and notice. This revision is not a restriction to the coverage determination; and, therefore not all the ﬁelds
+
+included on the LCD are applicable as noted in this policy.
+
+01/01/2019
+
+R2
+
+The LCD revised to remove
+
+Revisions Due To
+
+deleted CPT code 64550 from Group 1 effective 1/1/2019.
+
+CPT/HCPCS Code Changes
+
+At this time 21st Century Cures Act will apply to new and
+
+revised LCDs that restrict coverage which requires comment and notice. This revision is not a restriction to the coverage determination; and, therefore not all the ﬁelds included on the LCD are
+
+applicable as noted in this policy. The draft LCD was issued prior to the
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=37360
+
+10/12
+
+10/10/25, 5:27 PM
+
+LCD - Peripheral Nerve Stimulation (L37360)
+
+Revision History Date
+
+Revision History Number
+
+Revision History Explanation
+
+Reasons for Change
+
+implementation of the 21st
+
+Century Cures Act so the requirement of the Act does not apply to this policy.
+
+11/02/2018
+
+R1
+
+08/23/2018 - At this time 21st Century Cures Act will apply to new and revised LCDs that restrict coverage which requires comment and notice. This revision is not a restriction to the coverage determination; and, therefore not all the ﬁelds
+
+Other (No Notice Period article posted with original Draft to Final LCD in error.)
+
+included on the LCD are applicable as noted in this policy. The draft LCD was issued prior to the implementation of the 21st Century Cures Act so the requirement of the Act does not
+
+apply to this policy.
+
+This LCD is being republished with a new Notice Period and Effective Date because the 45-
+
+day notice of the original Draft to Final LCD did not get published per CMS requirements.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=37360
+
+11/12
+
+10/10/25, 5:27 PM
+
+LCD - Peripheral Nerve Stimulation (L37360)
+
+Associated Documents
+
+Attachments
+
+N/A
+
+Related Local Coverage Documents Articles
+
+A55531 - Billing and Coding: Peripheral Nerve Stimulation
+
+A56042 - Response to Comments: Peripheral Nerve Stimulation LCDs
+
+DL37360 - Peripheral Nerve Stimulation (MCD Archive Site)
+
+Related National Coverage Documents NCDs
+
+160.7 - Electrical Nerve Stimulators
+
+Public Versions
+
+Updated On
+
+Effective Dates
+
+Status
+
+09/18/2025
+
+12/01/2019 - N/A
+
+Currently in Effect
+
+You are here
+
+01/29/2020
+
+12/01/2019 - N/A
+
+Superseded
+
+View
+
+11/20/2019
+
+12/01/2019 - N/A
+
+Superseded
+
+View
+
+Some older versions have been archived. Please visit the MCD Archive Site
+
+to retrieve
+
+them.
+
+Keywords
+
+Peripheral Nerve
+
+Stimulation Trial
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=37360
+
+12/12

@@ -1,0 +1,447 @@
+10/25/25, 12:26 PM
+
+Injectable Medications - Medical Clinical Policy Bulletins | Aetna
+
+-->
+
+(https://www.aetna.com/)
+
+Injectable Medications
+
+Medical Clinical Policy Bulletins
+
+Clinical Policy Bulletins
+
+Number: 0020
+
+Table Of Contents
+
+Policy History
+
+Policy
+
+Applicable CPT / HCPCS / ICD-10 Codes
+
+Last Review
+
+Background
+
+02/18/2025
+
+References
+
+Effective: 10/06/1995
+
+Next Review: 01/08/2026
+
+Review History
+
+Deﬁnitions
+
+Policy
+
+Additional Information
+
+Scope of Policy
+
+Clinical Policy Bulletin
+
+This Clinical Policy Bulletin addresses injectable medications.
+
+Notes
+
+I. Medical Necessity
+
+A. Policy requirements for a trial of an injectable drug therapy
+
+may be waived for persons who meet diagnostic criteria
+
+for needle phobia (see appendix for DSM 5 criteria), if there is
+
+documentation of preexisting excessive fear (outside of the
+
+particular request being considered) of injections and blood
+
+draws with documented attempts at management and
+
+https://www.aetna.com/cpb/medical/data/1_99/0020.html?utm_source=chatgpt.com
+
+1/7
+
+10/25/25, 12:26 PM
+
+Injectable Medications - Medical Clinical Policy Bulletins | Aetna
+
+psychological counseling, especially if there are associated
+
+symptoms (vasovagal syncope, panic attack).
+
+B. Aetna covers injectable medications when an appropriate oral
+
+alternative drug does not exist. This coverage includes those
+
+medications intended to be self-administered. The medication
+
+must be medically necessary and appropriate to the member's
+
+needs or condition.
+
+II. Experimental, Investigational, or Unproven
+
+Experimental, investigational drugs or drugs that have not been
+
+proven safe and eﬀective for a speciﬁc disease or approved for a
+
+mode of treatment by the U.S. Food and Drug Administration
+
+(FDA) and/or the National Institutes of Health are not covered.
+
+This provision does not exclude coverage of established “oﬀ label”
+
+uses of otherwise FDA-approved prescribed medications.
+
+III. Policy Limitations and Exclusions
+
+A. Drugs related to the treatment of non-covered services are not
+
+covered. Infertility injectable medications are covered only
+
+when required by regulation or covered by a speciﬁc beneﬁt
+
+design. Steroids are not covered for the enhancement of
+
+performance, as this is not considered treatment of disease. Note: Some state-to-state and plan type variations exist.
+
+B. Certain classes of injectable medications are excluded from
+
+coverage under some beneﬁt plans. Please check beneﬁt plan
+
+descriptions for details:
+
+1. Anabolic steroids when used for performance enhancement
+
+** 2. Contraceptive injectable medications.
+
+3. Immunizations for travel
+
+4. Infertility injectable medications
+
+Exception: Infertility injectable medications; are covered only
+
+
+
+when required by regulation or covered by a speciﬁc beneﬁt
+
+design.
+
+https://www.aetna.com/cpb/medical/data/1_99/0020.html?utm_source=chatgpt.com
+
+2/7
+
+10/25/25, 12:26 PM
+
+Injectable Medications - Medical Clinical Policy Bulletins | Aetna
+
+**
+
+Contraceptive injectable medications are covered under plans
+
+with the contraceptives rider or under plans with a contraceptives
+
+beneﬁt, as well as under non-grandfathered plans that are
+
+currently subject to DHHS requirements for coverage of
+
+preventive services.
+
+IV. Related Policies
+
+CPB 0327 - Infertility (../300_399/0327.html)
+
+CPB 0473 - Vaccines for Travel (../400_499/0473.html)
+
+CPB 0510 - Progestins (../500_599/0510.html)
+
+CPB 0528 - Androgens and Anabolic Steroids
+
+(../500_599/0528.html)
+
+Note: Medical necessity criteria for oral and certain self-
+
+administered injectable medications are addressed in Pharmacy
+
+Clinical Policy Bulletins (PCPBs).
+
+CPT Codes / HCPCS Codes / ICD-10 Codes
+
+Information in the [brackets] below has been added for clariﬁcation purposes. Codes requiring a 7th character are represented by "+":
+
+Code
+
+Code Description
+
+Other CPT codes related to the CPB:
+
+90281 - 90399 Immune globulins [intramuscular, intravenous, subcutaneous]
+
+90471, 90472,
+
+Immunization administration for vaccines/toxoids [intradermal,
+
+90474
+
+intramuscular, percutaneous, subcutaneous]
+
+90581 -
+
+Vaccines, toxoids [intradermal, intramuscular, intravesicular,
+
+90658, 90666
+
+percutaneous, subcutaneous]
+
+90676,
+
+90691 -
+
+90710, 90713
+
+90749
+
+https://www.aetna.com/cpb/medical/data/1_99/0020.html?utm_source=chatgpt.com
+
+3/7
+
+10/25/25, 12:26 PM
+
+Injectable Medications - Medical Clinical Policy Bulletins | Aetna
+
+Code
+
+Code Description
+
+96365-96379 Therapeutic, prophylactic, and diagnostic injections and
+
+infusions
+
+Other HCPCS codes related to the CPB:
+
+A4737, A9543,
+
+Injectable medications and administration [intramuscular,
+
+A9563, A9564,
+
+intrathecal, intravenous, subcutaneous]
+
+A9600 -
+
+A9605, A9699,
+
+C8957 -
+
+C9235, G0008
+
+G0010,
+
+G0260,
+
+G0332,
+
+G3001, J0120 -
+
+J0270, J0278 -
+
+J2543, J2550 -
+
+J3520, J3570 -
+
+J3590, J7187 -
+
+J7199, J7319,
+
+J9000 - J9999,
+
+Q0081 -
+
+Q0085,
+
+Q0515, Q2009
+
+Q2017,
+
+Q3027,
+
+Q4079, Q4081
+
+Q4086,
+
+S0017 -S0081,
+
+S0091 -
+
+S0093, S0122
+
+S0132,
+
+S0145 -
+
+S0156, S0162
+
+S0167,
+
+S0171, S5550
+
+S5553
+
+ICD-10 codes covered if selection criteria are met:
+
+Fear of injections and transfusions
+
+F40.231
+
+https://www.aetna.com/cpb/medical/data/1_99/0020.html?utm_source=chatgpt.com
+
+4/7
+
+10/25/25, 12:26 PM
+
+Injectable Medications - Medical Clinical Policy Bulletins | Aetna
+
+Code
+
+Code Description
+
+Other specified phobia [needle phobia]
+
+F40.298
+
+Background
+
+Appendix
+
+Speciﬁc Phobia: DSM 5 Diagnostic Criteria
+
+A marked fear or anxiety about a speciﬁc object or situation (e.g.,
+
+ﬂying, heights, animals, receiving an injection, seeing blood). Note:
+
+In children, the fear or anxiety may be expressed by crying,
+
+tantrums, freezing, or clinging.
+
+The phobic object or situation almost always provokes immediate
+
+fear or anxiety.
+
+The phobic object or situation is actively avoided or endured with
+
+intense fear or anxiety.
+
+The fear or anxiety is out of proportion to the actual danger posed
+
+by the speciﬁc object or situation and to the sociocultural context.
+
+The fear, anxiety, or avoidance is persistent, typically lasting for 6
+
+months or more.
+
+The fear, anxiety, or avoidance causes clinically signiﬁcant distress
+
+or impairment in social, occupational, or other important areas of
+
+functioning.
+
+The disturbance is not better explained by the symptoms of
+
+another mental disorder, including fear, anxiety, and avoidance of
+
+situations associated with panic-like symptoms or other
+
+incapacitating symptoms (as in agoraphobia); objects or situations
+
+related to obsessions (as in obsessive-compulsive disorder);
+
+reminders of traumatic events (as in posttraumatic stress
+
+disorder); separation from home or attachment ﬁgures (as in
+
+https://www.aetna.com/cpb/medical/data/1_99/0020.html?utm_source=chatgpt.com
+
+5/7
+
+10/25/25, 12:26 PM
+
+Injectable Medications - Medical Clinical Policy Bulletins | Aetna
+
+separation anxiety disorder); or social situations (as in social
+
+anxiety disorder).
+
+Source: APA, 2013.
+
+References
+
+The above policy is based on the following references:
+
+1. AHFS Drug Information. Bethesda, MD: American Society of
+
+Health-System Pharmacists; updated periodically.
+
+2. American Psychiatric Association (APA). Diagnostic and Statistical
+
+Manual of Mental Disorders. 5th ed. Washington, DC: APA; 2013.
+
+3. Clinical Pharmacology. Tampa, FL: Gold Standard/Elsevier;
+
+updated periodically.
+
+4. DRUGDEX System [Internet database]. Ann Arbor, MI: Truven
+
+Health Analytics Micromedex; updated periodically.
+
+5. Lexi-Drugs. Alphen aan den Rijn, Netherlands: Wolters Kluwer;
+
+updated periodically.
+
+6. NCCN Drug and Biologics Compendium. Fort Washington, PA:
+
+National Comprehensive Cancer Network (NCCN); updated
+
+periodically.
+
+7. Physicians' Desk Reference (PDR). Montvale, NJ: Thomson PDR;
+
+updated periodically.
+
+https://www.aetna.com/cpb/medical/data/1_99/0020.html?utm_source=chatgpt.com
+
+6/7
+
+10/25/25, 12:26 PM
+
+Injectable Medications - Medical Clinical Policy Bulletins | Aetna
+
+Copyright Aetna Inc. All rights reserved. Clinical Policy Bulletins are developed by Aetna to assist in administering plan benefits and
+
+constitute neither offers of coverage nor medical advice. This Clinical Policy Bulletin contains only a partial, general description of plan or
+
+program benefits and does not constitute a contract. Aetna does not provide health care services and, therefore, cannot guarantee any
+
+results or outcomes. Participating providers are independent contractors in private practice and are neither employees nor agents of Aetna
+
+or its affiliates. Treating providers are solely responsible for medical advice and treatment of members. This Clinical Policy Bulletin may be
+
+updated and therefore is subject to change.
+
+Copyright © 2001-2025 Aetna Inc.
+
+Language services can be provided by calling the number on your member ID card. For additional language assistance: Español Tiếng Việt 한국어 Tagalog Pусский ةيبرعلا Kreyòl Français Polski Português Italiano Deutsch ⽇本語 یسراف Other
+
+Languages…
+
+(http://www.aetna.com/individuals-families/contact-aetna/information-in-other-languages.html)
+
+https://www.aetna.com/cpb/medical/data/1_99/0020.html?utm_source=chatgpt.com
+
+7/7

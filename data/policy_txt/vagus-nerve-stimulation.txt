@@ -1,0 +1,597 @@
+UnitedHealthcare® Commercial and Individual Exchange Medical Policy
+
+Vagus and External Trigeminal Nerve Stimulation
+
+Policy Number: 2025T0101LL Effective Date: May 1, 2025
+
+ Instructions for Use
+
+Table of Contents Page Application ............................................................................. 1 Coverage Rationale .............................................................. 1 Medical Records Documentation Used for Reviews ............. 2 Definitions .............................................................................. 2 Applicable Codes .................................................................. 2 Description of Services ......................................................... 3 Clinical Evidence ................................................................... 3 U.S. Food and Drug Administration .................................... 14 References .......................................................................... 15 Policy History/Revision Information .................................... 19 Instructions for Use ............................................................. 19
+
+Related Commercial/Individual Exchange Policies • Bariatric Surgery • Deep Brain and Cortical Stimulation • • Transcranial Magnetic Stimulation
+
+Implanted Electrical Stimulator for Spinal Cord
+
+Community Plan Policy • Vagus and External Trigeminal Nerve Stimulation
+
+Application
+
+UnitedHealthcare Commercial This Medical Policy applies to UnitedHealthcare Commercial benefit plans.
+
+UnitedHealthcare Individual Exchange This Medical Policy applies to Individual Exchange benefit plans.
+
+Coverage Rationale
+
+Implantable vagus nerve stimulators are proven and medically necessary for treating epilepsy in individuals with all of the following: • Medically refractory epileptic seizures with failure of two or more trials of single or combination antiepileptic drug
+
+therapy or intolerable side effects of antiepileptic drug therapy; and
+
+The individual is not a candidate for epilepsy surgery, has failed epilepsy surgery, or refuses epilepsy surgery after
+
+Shared Decision Making discussion; and
+
+No history of left or bilateral cervical vagotomy. The U.S. Food and Drug Administration (FDA) identifies a history of
+
+left or bilateral cervical vagotomy as a contraindication to vagus nerve stimulation.
+
+Implantable vagus nerve stimulators are unproven and not medically necessary for treating all other conditions due to insufficient evidence of efficacy. These conditions include but are not limited to: • Alzheimer's disease • Anxiety disorder • Autism spectrum disorder • Autoimmune disorders • Back and neck pain • Bipolar disorder • Bulimia • Cerebral palsy
+
+Chronic pain syndrome • Cluster headaches • Depression • Fibromyalgia • Heart failure • Migraines • Morbid obesity • Musculoskeletal disorders
+
+Narcolepsy • Obsessive-compulsive
+
+disorder
+
+Paralysis agitans • Sleep disorders • Tourette's syndrome • Upper limb impairment related
+
+to stroke
+
+The following devices are unproven and not medically necessary due to insufficient evidence of efficacy: • Transcutaneous (non-implantable vagus nerve stimulation devices) for preventing or treating all indications.
+
+Vagus and External Trigeminal Nerve Stimulation UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 1 of 19 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+External or transcutaneous (non-implantable) trigeminal nerve stimulation devices for preventing or treating all
+
+conditions including but not limited to: o Attention deficit hyperactivity disorder (ADHD) o Depression o Epilepsy o Headache
+
+Note: For vagus nerve blocking for the treatment of obesity, refer to the Medical Policy titled Bariatric Surgery.
+
+Medical Records Documentation Used for Reviews
+
+Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service. Medical records documentation may be required to assess whether the member meets the clinical criteria for coverage but does not guarantee coverage of the service requested; refer to the protocol titled Medical Records Documentation Used for Reviews.
+
+Definitions
+
+Shared Decision Making: Shared Decision Making is a process in which a provider and a patient (including caregivers and family) work together to make a health care decision about what is best for the patient. The optimal decision considers evidence-based information about available options, the provider’s experience and knowledge, and the values and preferences of the patient. This includes comparing the benefits, harms, and risks of each option and discussing what matters most to the patient (AHRQ, The SHARE Approach. Putting Shared Decision Making into Practice: A User’s Guide for Clinical Teams, 2014).
+
+Applicable Codes
+
+The following list(s) of procedure and/or diagnosis codes is provided for reference purposes only and may not be all inclusive. Listing of a code in this policy does not imply that the service described by the code is a covered or non-covered health service. Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service. The inclusion of a code does not imply any right to reimbursement or guarantee claim payment. Other Policies and Guidelines may apply.
+
+CPT Code 61885
+
+Description
+
+Insertion or replacement of cranial neurostimulator pulse generator or receiver, direct or inductive coupling; with connection to a single electrode array Insertion or replacement of cranial neurostimulator pulse generator or receiver, direct or inductive coupling; with connection to 2 or more electrode arrays Percutaneous implantation of neurostimulator electrode array; cranial nerve Open implantation of cranial nerve (e.g., vagus nerve) neurostimulator electrode array and pulse generator Removal of cranial nerve (e.g., vagus nerve) neurostimulator electrode array and pulse generator
+
+61886
+
+64553 64568
+
+64570
+
+CPT® is a registered trademark of the American Medical Association
+
+HCPCS Code A4541 E0733 E0735 E0770
+
+Description
+
+Monthly supplies for use of device coded at E0733 Transcutaneous electrical nerve stimulator for electrical stimulation of the trigeminal nerve Noninvasive vagus nerve stimulator Functional electrical stimulator, transcutaneous stimulation of nerve and/or muscle groups, any type, complete system, not otherwise specified Durable medical equipment, miscellaneous Implantable neurostimulator, pulse generator, any type Implantable neurostimulator electrode, each Implantable neurostimulator radiofrequency receiver
+
+E1399 L8679 L8680 L8682
+
+Vagus and External Trigeminal Nerve Stimulation UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 2 of 19 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+HCPCS Code L8683
+
+Description
+
+Radiofrequency transmitter (external) for use with implantable neurostimulator radiofrequency receiver Implantable neurostimulator pulse generator, single array, rechargeable, includes extension Implantable neurostimulator pulse generator, single array, nonrechargeable, includes extension Implantable neurostimulator pulse generator, dual array, rechargeable, includes extension Implantable neurostimulator pulse generator, dual array, nonrechargeable, includes extension
+
+L8685 L8686 L8687 L8688
+
+Description of Services
+
+Vagus nerve stimulation(VNS) is a treatment for epilepsy where electrical impulses are delivered to the brain via the vagus nerve. This involves the implantation of a generator device to send electrical impulses to the cervical portion of the vagus nerve via stimulating leads surgically placed around the vagus nerve in the carotid sheath. The vagus nerve in turn sends signals to the brain which stimulate the area of the brain believed to be involved in seizure activity. The mechanism of effect of VNS is currently unclear, but several pathways have been proposed and studied so far, including an increase in the release of neurotransmitters, such as norepinephrine and serotonin, increased cerebral blood flow to the thalamus and cortex, and desynchronization of the alpha rhythms, as observed on EEG. The traditional or open-loop VNS with on- off cycles with an on-demand magnet that allows the individual to interrupt the seizure activity by swiping the magnet over the implantable device. Another model is the closed loop VNS, also known as responsive vagal stimulation, which is involved with automatic vagal stimulation in response to an ictal HR increase that serves as a predictor for an impending seizure (Tzadok et al. 2019).
+
+Non-implantable VNS devices (also referred to as n-VNS or transcutaneous VNS [t-VNS]) are being investigated as a noninvasive alternative to implantable VNS for indications such as pain, epilepsy, tinnitus, and depression. An example of this type of device is gammaCore (ElectroCore, LLC) which is a noninvasive handheld prescription device intended to deliver transcutaneous vagus nerve stimulation for the acute treatment of pain associated with episodic cluster headache.
+
+External or transcutaneous trigeminal nerve stimulation (TNS) is a non-invasive therapy that delivers signals to the brain via the trigeminal nerve. TNS is commonly delivered by applying stimulating electrodes on the skin of the forehead. The Monarch external Trigeminal Nerve Stimulation (eTNS) System is being developed to treat several conditions including attention deficit hyperactivity disorder (ADHD), epilepsy, and depression. The Cefaly device is being developed to treat headaches by transcutaneously stimulating the supraorbital and/or infraorbital branches of the trigeminal nerve.
+
+Clinical Evidence
+
+Epilepsy Implantable Vagus Nerve Stimulators Diniz et al (2024) conducted a systematic review and meta-analysis to examine the current research on the replacement of a traditional VNS with a cardiac based VNS (cbVNS) for patients with drug-resistant epilepsy with the main focus on seizure reduction. The main outcomes were number of patients experiencing a ≥ 50 % and ≥ 80 % reduction in seizures, as defined by the McHugh scale. Additionally, we assessed the number of patients achieving freedom from seizures. They included 178 patients with DRE from 7 studies who were initially treated with tVNS and subsequently had it replaced by cbVNS. The follow-up for cbVNS ranged from 6 to 37.5 months. There was a statistically significant reduction in seizure frequency with the replacement of tVNS by cbVNS, using a ≥ 50 % (OR 1.79; 95 % CI 1.07 to 2.97; I² = 0 %; p = 0.03) and a ≥ 80 % (OR 2.06; 95 % CI 1.17 to 3.62; I²=0 %; p = 0.01) reduction threshold. Nineteen (13 %) participants achieved freedom from seizures after switching to cbVNS. There was no difference in the rate of freedom from seizures between groups (OR 1.85; 95 % CI 0.81 to 4.21; I²=0 %; p = 0.14). The authors concluded that, in patients with DRE undergoing battery replacement, cbVNS might be associated with seizure reduction (≥ 50 % and ≥ 80 % threshold) after switching from tVNS. Additional studies are needed comparing these two VNS approaches, although they did note devices could be associated with ≥ 50 % and ≥ 80 % reduction in seizures. There was no difference in the rate of complete seizure freedom between the two groups. The authors states that patients undergoing battery replacement, should be considered for a cbVNS (Hamilton et al. (2017) included in this review).
+
+Mao et al. (2021) in conducted a systematic review and meta-analysis to compare the short- and long-term efficacies as well as tolerability of vagus nerve stimulation (VNS) for the patients with drug-resistant epilepsy (DRE) in comparison with status at baseline. A total of 61 studies, containing 5223 patients, were included. The pooled ORs of responder rates, hoarseness/voice change, throat pain, coughing, dyspnea, paresthesia, muscle pain, and headache during the short-term
+
+Vagus and External Trigeminal Nerve Stimulation UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 3 of 19 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+phase were 2.195 (p = 0.001), 5.527 (p = 0.0001), 0.935 (p = 0.883), 1.119 (p = 0.655), 2.901 (p = 0.005), 1.775 (p = 0.061), 3.606 (p = 0.123), and 0.928 (p = 0.806), respectively. The overall responder rates in 3, 6, 12, 24, 36, 48, and 60 months postoperatively were 0.421, 0.455, 0.401, 0.451, 0.482, 0.502, and 0.508, respectively. The overall incidences of complication were 0.274 for hoarseness/voice change, 0.099 for throat pain, 0.133 for coughing, 0.099 for dyspnea, 0.102 for paresthesia, 0.062 for muscle pain, 0.101 for headache, 0.015 for dysphagia, 0.013 for neck pain, 0.040 for infection, 0.030 for lead fracture, 0.019 for vocal cord palsy, and 0.020 for device malfunction, respectively. Data indicates that VNS is an effective treatment selection for patients with DRE.
+
+Tzadok et al. (2019) in a retrospective review looked at the outcomes in an attempt to understand the long-term effects and therapy benefit of the AspireSR® in a patient population managed in a pediatric neurology unit. The records of patients who underwent transplantation during 2015-2017 and are continuously followed in one pediatric-epilepsy clinic, were retrospectively analyzed. Collected information included demographics, use of antiepileptic drugs and seizure type, frequency, and duration before and after VNS implantation. There were 46 patients ages 5-31 years (mean 15.7 ±5.8), mean age at implantation 14 ±5.8 years, were included. 29 patients (63%) were new insertions and 17 of the patients (37%) underwent a VNS replacement to the AspireSR® model. Mean follow-up was 13 ±7.5 months (range 2-29 months). The total cohort responder rate (patients with ≥ 50% reduction in seizure frequency compared to the pre-implantation period) was 60.9%. (62% in the new insertion group; while 59% in the replacement group had additional benefit over their former VNS model, p = 0.981). Epilepsy etiology, age, age at implantation and type of seizures pre-implantation showed no correlation to response-rate. Five patients (10.9%) experienced complete seizure-freedom following implantation (4/5 in the "new insertion" group). Responses were reported at median follow up of 5 ±1.3 months post-implantation. 67.4% experienced shorter seizure duration post-implantation. Study limitations included: a small sample-size and by its retrospective design this study was predisposed to biases, including recall-bias of the caregivers as well as selection bias resulting from lack of randomization and data was limited due to the study not being preplanned with gathering the same information or at the same time intervals. While this study provides early and meaningful benefits to drug-resistant epilepsy patients, additional research is needed to include large-scale prospective studies, using standardized seizure- information collection methods and device management data, can provide a more accurate estimate of the device efficacy and overall effect on patient well-being.
+
+Hamilton et al. (2018) compared the efficacy of AspireSR to preceding VNS battery models for battery replacements and evaluated the efficacy of the AspireSR for new implants. Data were collected retrospectively from patients with epilepsy who had VNS AspireSR implanted over a three-year period between June 2014 and June 2017 by a single surgeon. Cases were divided into two cohorts, those in whom the VNS was a new insertion, and those in whom the VNS battery was changed from a previous model to AspireSR. Within each group, the seizure burden was compared between the periods before and after insertion of AspireSR. Fifty-one patients with a newly inserted AspireSR VNS model had a significant reduction in seizure frequency, with 59% (n = 30) reporting ≥ 50% reduction. Of the 62 patients who had an existing VNS, 53% (n = 33) reported ≥ 50% reduction in seizure burden when the original VNS was inserted. After the battery was changed to the AspireSR, 71% (n = 44) reported a further reduction of ≥ 50% in their seizure burden. The size of this reduction was at least as large as that resulting from the insertion of their existing VNS in 98% (61/62) of patients. The authors indicated that the results suggest that approximately 70% of patients with existing VNS insertions could have significant additional benefit from cardiac based seizure detection and closed loop stimulation from the AspireSR device. According to the authors, this study was a retrospective analysis and they reported patients’ and carers’ interpretation of their response to VNS therapy rather than by prospectively collected seizure diaries or a formal quality of life assessment tool. This retrospective seizure reporting was therefore a potential source of recall bias. The authors indicated that the lack of blinding and randomization could have resulted in selection bias as patients who were more likely to have had benefit from VNS therapy were offered treatment with AspireSR.
+
+Kawai et al. (2017) reported the overall outcome of a national, prospective registry that included all patients implanted in Japan. The registry included patients of all ages with all seizure types who underwent VNS implantation for drug-resistant epilepsy in the first three years after approval of VNS in 2010. The registry excluded patients who were expected to benefit from resective surgery. Efficacy analysis was assessed based on the change in frequency of all seizure types and the rate of responders. Changes in cognitive, behavioral, and social status, quality of life (QOL), antiepileptic drug (AED) use, and overall AED burden were analyzed as other efficacy indices. A total of 385 patients were initially registered. Efficacy analyses included data from 362 patients. Age range at the time of VNS implantation was 12 months to 72 years; 21.5% of patients were under 12 years of age and 49.7% had prior epilepsy surgery. Follow-up rate was > 90%, even at 36 months. Seizure control improved over time with median seizure reduction of 25.0%, 40.9%, 53.3%, 60.0%, and 66.2%, and responder rates of 38.9%, 46.8%, 55.8%, 57.7%, and 58.8% at three, six, 12, 24, and 36 months of VNS therapy, respectively. There were no substantial changes in other indices throughout the three years of the study, except for self/family accessed QOL which improved over time. No new safety issues were identified. The authors concluded that this prospective national registry of patients with drug-resistant epilepsy, with > 90% follow-up rate, indicates long-term efficacy of VNS therapy which increased over time, over a period of up to three years.
+
+Vagus and External Trigeminal Nerve Stimulation UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 4 of 19 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Englot et al. (2016) examined rates and predictors of seizure freedom with VNS. The investigators examined 5554 patients from the VNS therapy Patient Outcome Registry, and also performed a systematic review of the literature including 2869 patients across 78 studies. Registry data showed a progressive increase over time in seizure freedom after VNS therapy. Overall, 49% of patients responded to VNS therapy 0 to 4 months after implantation (≥ 50% reduction seizure frequency), with 5.1% of patients becoming seizure-free, while 63% of patients were responders at 24 to 48 months, with 8.2% achieving seizure freedom. On multivariate analysis, seizure freedom was predicted by age of epilepsy onset > 2 years, and predominantly generalized seizure type, while overall response to VNS was predicted by non- lesional epilepsy. Systematic literature review results were consistent with the registry analysis: At 0 to 4 months, 40.0% of patients had responded to VNS, with 2.6% becoming seizure-free, while at last follow-up, 60.1% of individuals were responders, with 8.0% achieving seizure freedom.
+
+Fisher et al. (2016) evaluated the performance, safety of the Automatic Stimulation Mode (AutoStim) feature of the Model 106 Vagus Nerve Stimulation (VNS) Therapy System during a 3-5-day Epilepsy Monitoring Unit (EMU) stay and long- term clinical outcomes of the device stimulating in all modes. This study was a prospective, unblinded, U.S. multisite study of the AspireSR in patients with drug-resistant partial onset seizures and history of ictal tachycardia. VNS Normal and Magnet Modes stimulation were present at all times except during the EMU stay. Outpatient visits at 3, 6, and 12 months tracked seizure frequency, severity, quality of life, and adverse events. Twenty implanted patients (ages 21 - 69) experienced 89 seizures in the EMU. A total of 28/38 (73.7%) of complex partial and secondarily generalized seizures exhibited ≥ 20% increase in heart rate change. A total of 31/89 (34.8%) of seizures were treated by Automatic Stimulation on detection; 19/31 (61.3%) seizures ended during the stimulation with a median time from stimulation onset to seizure end of 35 sec. Mean duty cycle at six-months increased from 11% to 16%. At 12 months, quality of life and seizure severity scores improved, and responder rate was 50%. Common adverse events were dysphonia (n = 7), convulsion (n = 6), and oropharyngeal pain (n = 3). The authors concluded that the Model 106 performed as intended in the study population, was well tolerated, and associated with clinical improvement from baseline. The study design did not allow determination of which factors were responsible for improvements. Study limitations include small sample size (20 patients) and short duration of follow-up (12 months).
+
+In a Cochrane review, Panebianco et al. (2015, Updated 2022) evaluated the current evidence for the efficacy and tolerability of vagus nerve stimulation when used as an adjunctive treatment for people with drug-resistant partial epilepsy. Five randomized controlled trials (439 participants) were included in the review. The authors concluded that VNS for partial seizures appears to be an effective and well tolerated treatment in 439 included participants from five trials. Results of the overall efficacy analysis show that VNS stimulation using the high stimulation paradigm was significantly better than low stimulation in reducing frequency of seizures. Results for the outcome "withdrawal of allocated treatment" suggest that VNS is well tolerated as withdrawals were rare. Adverse effects associated with implantation and stimulation were primarily hoarseness, cough, dyspnea, pain, paresthesia, nausea, and headache, with hoarseness and dyspnea more likely to occur on high stimulation than low stimulation.
+
+In a 2022 clinical guideline, Epilepsies in children, young people and adults, the National Institute for Health, and Care Excellence (NICE) stated that vagus nerve stimulation tends to be offered as an add-on treatment to anti-seizure medications when the medications have failed to control seizures and epilepsy surgery is not suitable or has not been successful. There was no evidence to suggest that use of vagus nerve stimulation should stop for this small group with complex needs and few management options. NICE also recommends that VNS be discussed with the person with epilepsy, and their family or carers if appropriate, the benefits and risks of vagus nerve stimulation before making a shared decision about having this procedure (NICE 2022).
+
+Clinical Practice Guidelines American Academy of Neurology (AAN) American Academy of Neurology (AAN) In the multi-center, randomized, double-blind, sham-controlled SMART trial, Fischgrund et al. (2018, included in the Hayes report cited above) evaluated the safety and efficacy of RFA of the basivertebral nerve (BVN) for the treatment of chronic low back pain. A total of 225 patients diagnosed with chronic low back pain were randomized to treatment with the Intracept procedure (n = 147) or sham therapy (n = 78). All patients had Type I or Type II Modic changes of the treated vertebral bodies. The primary endpoint was the comparative change in the ODI from baseline to 3 months. At 3 months, the average ODI in the treatment arm decreased 20.5 points, as compared to a 15.2 point decrease in the sham arm in the per-protocol population. A responder analysis based on ODI decrease ≥ 10 points showed that 75.6% of patients in the treatment arm as compared to 55.3% in the sham control arm exhibited a clinically meaningful improvement at 3 months. Two subsequently published open-label extension studies at 2 years follow-up (Fischgrund et al., 2019, included in the Hayes report cited above) and 5 years follow-up (Fischgrund et al., 2020, included in the Hayes report cited above) reported secondary analyses. Participants randomized to the sham control arm were allowed to cross to RFA at 12 months. Due to a high rate of crossover, RFA treated participants acted as
+
+Vagus and External Trigeminal Nerve Stimulation UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 5 of 19 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+their own control in a comparison to baseline. Clinically meaningful improvements in function and pain compared with baseline were sustained through 2-year follow-up; however, 8% at 2 years and 10% at 5 years had inadequate pain relief and underwent surgery.
+
+In a practice parameter update on vagus nerve stimulation for epilepsy, the AAN stated that VNS is indicated for adults and adolescents over 12 years of age with medically intractable partial seizures who are not candidates for potentially curative surgical resections, such as lesionectomies or mesial temporal lobectomies. The degree of improvement in seizure control from VNS remains comparable to that of new antiepileptic drugs (AEDs) but is lower than that of mesial temporal lobectomy in suitable surgical resection candidates. Because VNS rarely causes complete seizure remission, and is moderately invasive and expensive, use of VNS is more appropriate in individuals unable to tolerate or benefit from antiepileptic drugs (AEDs), and for whom a partial reduction in seizure frequency will significantly improve their quality of life. Sufficient evidence exists to rank VNS for epilepsy as effective and safe, based on a preponderance of Class I evidence (Fisher, 1999).
+
+In an evidence-based guideline update on vagus nerve stimulation for the treatment of epilepsy (Morris et al. 2013), the AAN makes the following recommendations in addition to those reported in the 1999 assessment: • VNS may be considered as adjunctive treatment for children with partial or generalized epilepsy (level C). VNS was associated with a greater than 50% reduction in seizure frequency in 55% of 470 children with partial or generalized epilepsy (14 class III studies) but there was significant heterogeneity in the data.
+
+VNS may be considered in patients with Lennox-Gastaut syndrome (LGS) (level C). VNS was associated with a
+
+greater than 50% seizure reduction in 55% of 113 patients with LGS (4 class III studies).
+
+VNS may be considered progressively effective in patients over multiple years of exposure (level C). • There should be extra vigilance in monitoring for occurrence of site infection in children. There is evidence of an
+
+increase in infection risk at the VNS implantation site in children relative to that in adults.
+
+The AAN defines level C as possibly effective, ineffective, or harmful (or possibly useful/predictive or not useful/predictive) for the given condition in the specified population. Level C rating requires at least one Class II study or two consistent Class III studies.
+
+International League Against Epilepsy (ILAE) A taskforce by the ILAE defines drug resistant epilepsy as a failure of adequate trials of two tolerated, appropriately chosen and used antiepileptic drug schedules (whether as monotherapies or in combination) to achieve sustained seizure freedom (Téllez-Zenteno et al., 2014).
+
+Epilepsy Society In a vagus nerve stimulation (VNS) therapy factsheet, the Epilepsy Society states that VNS therapy is usually considered if an individual has tried a number of anti-epileptic drugs which have not fully controlled the seizures, and the individual is not suitable for or does not want to have brain surgery (Epilepsy Society, 2019).
+
+Depression There is insufficient evidence to support the use of vagus nerve stimulation for depression due to study limitations. Larger studies are needed to establish safety, efficacy, and long-term outcomes.
+
+Bottomley et al. (2019) conducted a systematic review and meta-analysis to provide an update of all studies of adjunctive Vagus nerve stimulation (VNS) in treatment resistant depression (TRD), including recent long-term patient-relevant findings. A recent 5-year comparative study prompted this review of its impact in this very severe population. Previous systematic literature reviews (SLR) cited concerns in terms of missing studies or patient duplication. This review looked at these criticisms, assessed all outcomes of longer-term adjunctive VNS in all studies, irrespective of TRD severity, comparing where feasible with treatment-as-usual (TAU). We searched for adult VNS+TAU studies (January 1, 2000 to June 24, 2019). Comparative and single-arm studies were eligible. All reported efficacy, safety, and quality of life (QOL) outcomes were assessed. Where possible, meta-analysis was used to calculate overall pooled effect estimates across studies at several time points. Of 22 identified studies, there were two randomized controlled (RCT), sixteen single-arm and four non-randomized comparative studies. Numerous depression-specific, safety and quality of life (QOL) measures were reported. Meta-analysis was possible for three efficacy [Montgomery-Asberg Depression Rating Scale, Clinician Global Impression-Improvement, Hamilton Rating Scale for Depression] and three safety [serious adverse events, study drop-outs and all-cause mortality] but no QOL measures. Data beyond 2 years was not poolable. Analyses demonstrated that antidepressant benefits improved to 24 months and safety issues were minimal. Heterogeneity was high and statistically significant. There are study limitations. The major limitation was the unavailability of randomized controlled
+
+Vagus and External Trigeminal Nerve Stimulation UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 6 of 19 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+studies and the fact that the available studies did not report the scope of this review. Despite limitations in the evidence base, the comprehensive summary of VNS + TAU outcomes suggest that this treatment shows improving benefit and hope for this very hard-to-treat chronic population. Future studies are needed that involve data collection of QOL outcomes together with more comprehensive safety and efficacy outcomes, especially for TAU alone, with a view to signal the different treatment combinations.
+
+Aaronson et al. (2017) investigated whether adjunctive vagus nerve stimulation (VNS) with treatment as usual in depression has superior long-term outcomes compared with treatment as usual only. This 5-year, prospective, open-label, nonrandomized, observational Treatment-Resistant Depression Registry study was conducted at 61 U.S. sites and included 795 patients who were experiencing a major depressive episode (unipolar or bipolar depression) of at least 2 years' duration or had three or more depressive episodes (including the current episode), and who had failed four or more depression treatments (including ECT). Patients with a history of psychosis or rapid-cycling bipolar disorder were excluded. The primary efficacy measure was response rate, defined as a decrease of ≥ 50% in baseline Montgomery- Åsberg Depression Rating Scale (MADRS) score at any post-baseline visit during the 5-year study. Secondary efficacy measures included remission. Patients had chronic moderate to severe depression at baseline. The registry results indicate that the adjunctive VNS group had better clinical outcomes than the treatment-as-usual group, including a significantly higher 5-year cumulative response rate (67.6% compared with 40.9%) and a significantly higher remission rate (cumulative first-time remitters, 43.3% compared with 25.7%). A sub analysis demonstrated that among patients with a history of response to ECT, those in the adjunctive VNS group had a significantly higher 5-year cumulative response rate than those in the treatment-as-usual group (71.3% compared with 56.9%). A similar significant response differential was observed among ECT non-responders (59.6% compared with 34.1%). According to the authors, this registry represents the longest and largest naturalistic study of efficacy outcomes in treatment-resistant depression, and it provides additional evidence that adjunctive VNS has enhanced antidepressant effects compared with treatment as usual in this severely ill patient population. The authors indicted there were several important limitations to this registry design. Given ethical concerns about following such a severely ill patient population over a 5-year period, the registry had a naturalistic, observational design and did not randomly assign patients to the treatment groups. Similarly, the treatment assignment in the registry was not blinded, in part because it would have been unethical to implant a sham device for a long duration in severely ill patients.
+
+A Comparative Effectiveness Review was prepared for the Agency for Healthcare Research and Quality (AHRQ) on Nonpharmacologic Interventions for Treatment-Resistant Depression in Adults. The report identified only one study (Rush et al., 2005a) comparing VNS to sham, conducted in a Tier 1 major depressive disorder (MDD)/bipolar mix population. According to the AHRQ report, the majority of measures used by this study found no difference between VNS and sham on changes in depressive severity or rates of response and remission. Since only a single study was identified for this comparison, further assessment by key variables was not possible (Gaynes et al., 2011).
+
+In a 2020 guidance document, the National Institute for Health, and Care Excellence (NICE) stated that the current evidence on the safety raises no major safety concerns, but there are frequent well-recognized side effects. Evidence on its efficacy is limited in quality. Therefore, this procedure should be used only with special arrangements for clinical governance, consent and audit or research. It should be used only in patients with treatment-resistant depression. NICE encourages further research into implanted vagus nerve stimulation for treatment-resistant depression, in the form of randomized controlled trials with a placebo or sham stimulation arm. Studies should report details of patient selection. Outcomes should include validated depression rating scales, patient-reported quality of life, time to onset of effect and duration of effect, and any changes in concurrent treatments. (NICE, 2020).
+
+Clinical Practice Guidelines American Psychiatric Association (APA) The 2019 American Psychological Association (APA) clinical practice guidelines providing recommendations for the treatment of depressive disorders, including major depression, subsyndromal depression, and persistent depressive disorder across three age cohorts: children, adolescents, adults, and older adults; The panel examined the efficacy of psychological treatments, pharmacotherapy, and complementary and alternative medicine treatments. While there was a conditional recommendation for use for complementary and alternative treatments in adults, VNS was not listed as a specific modality in the recommended list.
+
+Canadian Network for Mood and Anxiety Treatments (CANMAT) In 2024, the Canadian Network for Mood and Anxiety Treatments (CANMAT) revised the 2016 evidence-based clinical guidelines for the treatment of major depressive disorder (MMD) in adult guidelines by updating the evidence and recommendations. The scope of the 2024 guidelines remains the management of MDD in adults, with a target audience of community-based psychiatrists and other mental health professionals. Using the question-answer format, the authors
+
+Vagus and External Trigeminal Nerve Stimulation UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 7 of 19 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+conducted a systematic literature search focusing on systematic reviews and meta-analyses. Evidence was graded using CANMAT-defined criteria for level of evidence. Recommendations for lines of treatment were based on the quality of evidence and clinical expert consensus. "Neurostimulation Treatments" is the eighth of 8 sections of the 2024 guidelines. Neuromodulation, also known as neurostimulation refers to treatments that change central nervous system activity through the application of electrical or magnetic stimulation of the brain. These treatments are most often used when initial therapies have not been effective. Some neuromodulation treatments are noninvasive (e.g., ECT, magnetic seizure therapy [MST], repetitive transcranial magnetic stimulation [rTMS], and transcranial direct current stimulation [tDCS], while others involve surgical placement of electrodes (e.g., vagus nerve stimulation [VNS] and deep brain stimulation. The authors concluded that there is increasing evidence for efficacy, tolerability, and safety of neurostimulation treatments. ECT is a first-line for major depressive disorder (DRE) and rTMS is a first-line recommendation for patients with treatment resistant depression (TRD). ECT remains a second-line treatment for patients for difficult to treat depression (DTD). Third- line recommendations include tDCS for mild-moderate MDE and VNS for DTD. MST and DBS are still considered investigational treatments for DTD (Lam et al., 2024).
+
+Other Conditions The use of vagus nerve stimulation has been investigated for other conditions including Alzheimer’s disease (Merrill et al., 2006), anxiety (George et al., 2008), autism spectrum disorder (Levy et al., 2010), obsessive-compulsive disorder (Rapinesi et al., 2019), chronic pain (Costa et al. (2024); Napadow et al., 2012), headaches (Pintea et al., 2017; Cecchini et al., 2009), sleep disorders (Jain et al., 2014), heart disease/congestive heart failure (Nearing et al. 2021); De Ferrari et al., 2017; Gold et al. 2016; Zannad et al. 2015; Premchand et al. 2016), asthma (Steyn et al., 2013; Miner et al., 2012), fibromyalgia (Lange et al., 2011), upper limb impairment due to stroke (ECRI, 2021; Dawson et al., 2020, 2021; Wang et al. 2023;), autoimmune and musculoskeletal disorders (Courties et al., 2021) and other psychiatric disorders (Cimpianu et al., 2017). However, because of limited studies, small sample sizes and weak study designs, there is insufficient data to conclude that vagus nerve stimulation is safe and/or effective for treating these indications. Further clinical trials demonstrating the clinical usefulness of vagus nerve stimulation are necessary before it can be considered proven for these conditions.
+
+Transcutaneous (Non-Implantable) Vagus Nerve Stimulation There is insufficient evidence to support the use of Transcutaneous (Non-Implantable) Vagus Nerve Stimulation due to study limitations. Larger studies are needed to establish safety, efficacy, and long-term outcomes.
+
+Cluster Headache There is insufficient evidence to support the use of transcutaneous vagus nerve stimulation for Cluster Headaches(CH) due to study limitations. Larger studies are needed to establish safety, efficacy, and long-term outcomes.
+
+A Hayes report (2020, Updated 2023) for the use of gammaCore (electroCore Medical LLC) noninvasive vagus nerve stimulator for the acute treatment or prevention of episodic and chronic cluster headaches (eCH and cCH) indicates that a small, very-low-quality body of evidence does not allow for conclusions to be drawn regarding the safety and efficacy of nVNS with the gammaCore device for prevention or treatment of CH.
+
+Fernández-Hernando et al. (2024) conducted a systematic review to evaluate the effectiveness of non-invasive neuromodulation of the vagus nerve for the management of CH. Out of 1003 articles, there were only nine articles included in the systematic review. The results showed some positive effects using n-VNS as a treatment for cluster headache, particularly regarding cervical neuromodulation of the vagus nerve. nVNS was notable compared to sham therapy for the treatment of eCH but not for the treatment of cCH in one of the studies. Another study offered positive results regarding a reduction in chronic cluster headache attack frequency within two weeks after its addition to SoC, showing significantly higher response rates of ≥ 25%, ≥ 50%, and ≥ 75% than SoC alone. The third study provided enough details regarding nVNS-treated (eCH, n = 38; cCH, n = 22) and 73 sham-treated (eCH, n = 47; cCH, n = 26) subjects. A response was achieved in 26.7% of the nVNS-treated subjects and 15.1% of the sham-treated subjects (p = 0.1). The response rate was significantly higher with nVNS than with the sham treatment for the eCH cohort (nVNS, 34.2%; sham, 10.6%; p = 0.008), but not for the cCH cohort (nVNS, 13.6%; sham, 23.1%; p = 0.48). The sustained response rates were significantly higher with nVNS for the eCH cohort (p = 0.008) and for the total sample (p = 0.04). Study limitations included low-quality methodologies, high risk of bias and a lack of similar designs amongst the studies. The systematic review found moderate-to-high-quality evidence supporting that n-VNS and cervical n-VNS may have some positive effects at the end of the treatment being effective to relieve the frequency and intensity of cluster headaches. The poor quantity of studies offered and the lack of homogeneity in the study protocols did not allow enough data for a meta-analysis. Additional research is needed to better evaluate these results. (Gaul 2017, Goadsby 2018 and Silberstein 2016 are included in this study).
+
+Vagus and External Trigeminal Nerve Stimulation UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 8 of 19 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+De Coo et al. (2020) conducted a meta-analysis on two randomized, double-blind, sham-controlled trials (ACT1, ACT2) that evaluated the differential efficacy, tolerability, and application options non-invasive vagus nerve stimulation (nVNS) as an acute treatment in the two different cluster headache subtypes. Main outcome measures were the primary endpoints of each study. This was the proportion of participants whose first treated attack improved from moderate (2), severe (3), or very severe (4) pain intensity to mild (1) or nil (0) for ACT1 and the proportion of treated attacks whose pain intensity improved from 2-4 to 0 for ACT2. The study population included 225 participants (episodic: n = 112; chronic: n = 113) from ACT1 (n = 133) and ACT2 (n = 92) in the nVNS (n = 108) and sham (n = 117) groups. Interaction was shown between treatment group and cluster headache subtype (p < 0.05). nVNS was superior to sham in episodic but not chronic cluster headache (both endpoints p < 0.01). Only four patients discontinued the studies due to adverse events. Adverse events were mild, and there were no safety concerns during the trial. While nVNS is a well-tolerated and effective acute treatment for episodic cluster headache, studies evaluating long-term outcomes are needed.
+
+Goadsby et al. (2018) compared non-invasive vagus nerve stimulation (nVNS) with a sham device for acute treatment in patients with episodic or chronic cluster headache (CH) (eCH, cCH). After completing a 1-week run-in period, subjects were randomly assigned (1:1) to receive nVNS or sham therapy during a 2-week double-blind period. The primary efficacy endpoint was the proportion of all treated attacks that achieved pain-free status within 15 minutes after treatment initiation, without rescue treatment. The Full Analysis Set comprised 48 nVNS-treated (14 eCH, 34 cCH) and 44 sham-treated (13 eCH, 31 cCH) subjects. For the primary endpoint, nVNS (14%) and sham (12%) treatments were not significantly different for the total cohort. In the eCH subgroup, nVNS (48%) was superior to sham (6%). No significant differences between nVNS (5%) and sham (13%) were seen in the cCH subgroup. Combining both eCH and cCH patients, nVNS was no different to sham. The authors concluded that for the treatment of CH attacks, nVNS was superior to sham therapy in eCH but not in cCH. According to the authors, this study had limitations, including its short duration, which did not allow for evaluation of continued/change in response with long-term nVNS therapy. Another study limitation was the imbalance between CH subtypes, with the eCH subgroup comprising < 30% of subjects. During the open-label period, subjects could alter their CH treatment regimens by adding prophylactic therapies, or changing doses of existing treatments, or both. According to the authors, this stipulation confounded the results, making it impossible to discern whether changes in efficacy outcomes were attributable to nVNS therapy or to other changes in treatment during this period.
+
+Gaul et al. (2017) evaluated additional patient-centric outcomes, including the time to and level of therapeutic response, in a post hoc analysis of the PREVA study (Gaul et al., 2016). After a 2-week baseline phase, 97 patients with chronic cluster headache entered a 4-week randomized phase to receive non-invasive vagus nerve stimulation plus standard of = 49). All 92 patients who continued into a 4-week extension phase received care (nVNS + SoC) (n = 48) or SoC alone (n nVNS SoC led to a significantly lower mean weekly attack frequency by week 2 of the randomized phase; the attack frequency remained significantly lower in the nVNS + SoC group through week 3 of the extension phase. Attack frequencies in the nVNS + SoC group were significantly lower at all study time points than they were at baseline. Response rates were significantly greater with nVNS + SoC than with SoC alone when response was defined as attack frequency reductions of ≥ 25%, ≥ 50%, and ≥ 75% from baseline. The authors concluded that prophylactic nVNS led to rapid, significant, and sustained reductions in chronic cluster headache attack frequency within 2 weeks after its addition to SoC and was associated with significantly higher ≥ 25%, ≥ 50%, and ≥ 75% response rates than SoC alone. The rapid decrease in weekly attack frequency justifies a 4-week trial period to identify responders to nVNS, with a high degree of confidence, among patients with chronic cluster headache. Of note, the 100% response rate was 8% with nVNS + SoC and 0% with SoC alone. This study examined the prophylactic use of non-invasive vagus nerve stimulation but did not control for placebo effect and lacked data beyond four weeks.
+
++ SoC. Compared with SoC alone, nVNS
+
++
+
+Gaul et al. (2016) evaluated non-invasive vagus nerve stimulation (nVNS) as an adjunctive prophylactic treatment of chronic cluster headache (CH) in a prospective, open-label, randomized study (PREVA Trial) that compared adjunctive prophylactic nVNS (n = 48) with standard of care (SoC) alone (control (n = 49)). A two-week baseline phase was followed by a four-week randomized phase (SoC plus nVNS vs control) and a four-week extension phase (SoC plus nVNS). The primary end point was the reduction in the mean number of CH attacks per week. Response rate, abortive medication use, and safety/tolerability were also assessed. During the randomized phase, individuals in the intent-to-treat population treated with SoC plus nVNS (n = 45) had a significantly greater reduction in the number of attacks per week vs controls (n = 48) for a mean therapeutic gain of 3.9 fewer attacks per week. Higher ≥ 50% response rates were also observed with SoC plus nVNS vs controls. No serious treatment-related adverse events occurred. The authors concluded that adjunctive prophylactic nVNS is a well-tolerated novel treatment for chronic CH, offering clinical benefits beyond those with standard of care. Study limitations include the lack of a placebo or sham device, an open-label study design, the short treatment duration, and the use of patient-reported outcomes.
+
+Silberstein et al. (2016a) evaluated non-invasive vagus nerve stimulation (nVNS) as an acute cluster headache (CH) treatment. One hundred fifty subjects were enrolled and randomized (1:1) to receive nVNS or sham treatment for ≤ 1 month during a double-blind phase; completers could enter a 3-month nVNS open-label phase. The primary end point
+
+Vagus and External Trigeminal Nerve Stimulation UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 9 of 19 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+was response rate, defined as the proportion of subjects who achieved pain relief (pain intensity of 0 or 1) at 15 minutes after treatment initiation for the first CH attack without rescue medication use through 60 minutes. Secondary end points included the sustained response rate (15-60 minutes). Sub-analyses of episodic cluster headache (eCH) and chronic cluster headache (cCH) cohorts were prespecified. The intent-to-treat population comprised 133 subjects: 60 nVNS- treated (eCH, n = 38; cCH, n = 22) and 73 sham-treated (eCH, n = 47; cCH, n = 26). A response was achieved in 26.7% of nVNS-treated subjects and 15.1% of sham-treated subjects. Response rates were significantly higher with nVNS than with sham for the eCH cohort (nVNS, 34.2%; sham, 10.6%) but not the cCH cohort (nVNS, 13.6%; sham, 23.1%). Sustained response rates were significantly higher with nVNS for the eCH cohort and total population. Adverse device effects (ADEs) were reported by 35/150 (nVNS, 11; sham, 24) subjects in the double-blind phase and 18/128 subjects in the open-label phase. No serious ADEs occurred. The authors indicated that non-invasive vagus nerve stimulation is a safe and well-tolerated treatment that represents a novel and promising option for eCH. According to the authors, study limitations include the analysis of the cCH cohort as part of the primary end point, the need for careful interpretation of sub-analyses results, challenges with blinding inherent in medical device studies, and the time to first measurement of response used to define the primary efficacy end point.
+
+Migraine Headache There is insufficient evidence to support the use of the noninvasive vagus nerve stimulation for migraine headaches due to study limitations. Larger studies are needed to establish safety, efficacy, and long-term outcomes.
+
+Song et al. (2023) conducted a systematic review to evaluate the therapeutic effects and clinical application of n-VNS for the acute and preventative treatment of migraine headaches. There were 6 studies included in the study which included 845 patients with chronic migraine, episodic migraine, or other non-specified subtypes. Meta-analysis shows that non- invasive cervical vagus nerve stimulation (n-cVNS) significantly impacted ≥ 50% responder rate (OR, 1.64; 95% CI, 1.1 to 2.47; p headache days (MD, −0.68; 95% CI, −1.52 to 0.16; p nerve stimulation (n-aVNS) was found to significantly reduce the number of migraine days (MD, −1.8; 95% CI, −3.34 to −0.26; p medication days per month (MD, −1.1; 95% CI, −3.84 to 1.64; p tolerated in most patients. Limitations included a small sample size, which limited the ability to conduct a sensitivity analysis. There was also a limited number of studies using a n-aVNS which was not sham controlled. The author’s concluded that while a n-VNS can significantly decrease migraines or number of headache days, n-cVNS for migraine markedly increased ≥ 50% responder rate, and low-frequency n-aVNS could significantly reduce headache intensity. The findings support that the potential of n-VNS to reduce migraines and improve the persons quality of life.
+
+=
+
+0.02), but had no significant effect on reducing migraine days (MD, −0.46; 95% CI, −1.21 to 0.29; p
+
+=
+
+0.23) and
+
+=
+
+0.11). In contrast, low-frequency non-invasive auricular vagus
+
+=
+
+0.02) and headache intensity (SMD, −0.7; 95% CI, −1.23 to −0.17; p
+
+0.009), but not the number of acute 0.43). In addition, n-cVNS was found safe and well-
+
+=
+
+=
+
+Najib et al. (2022) conducted a prospective randomized, multi-center, double-blind, parallel, sham-controlled study, designed for comparison of two parallel groups, gammaCore®-Sapphire (active treatment) and a sham (inactive) treatment to evaluate the efficacy and safety of non-invasive vagus nerve stimulation for migraine prevention. The study period began with a four-week run-in period, during which there was no investigational treatment. The purpose of the run- in period was to establish a baseline of the subject's headache/migraine history for longitudinal comparison. After completing a 4-week diary run-in period, adults who had migraine with or without aura were randomly assigned to receive active non-invasive vagus nerve stimulation or sham therapy during a 12-week double-blind period. Of 336 enrolled participants, 113 (active, n = 56; sham, n = 57) completed ≥ 70 days of the double-blind period and were ≥ 66% adherent with treatment, comprising the prespecified modified intention-to-treat population. The COVID-19 pandemic led to early trial termination, and the population was 60% smaller than the statistical target for full power. Mean reduction in monthly migraine days (primary endpoint) was 3.12 for the active group and 2.29 days for the sham group (difference, -0.83; p = 0.2329). Responder rate (i.e., the percentage of participants with a ≥ 50% reduction in migraine days) was greater in the active group (44.87%) than the sham group (26.81%; p = 0.0481). Prespecified subgroup analysis suggested that participants with aura responded favorably. No serious device-related adverse events were reported. Study limitations included the impact of the Covid pandemic which included : difficulty in blinding of devices., research was suspended at several of the sites, migraine load may be affected making it difficult to identify the effect of the intervention, frequency, severity, and characteristics were also affected by the pandemic as well as a decrease in > 20% of participants. The sham device in the Premium I study was found to have some vagal stimulation therefore a different device was used in the Premium II which also produced a strong response. The authors indicate that results suggest the clinical value of non- invasive vagus nerve stimulation for migraine prevention, mainly for patients who have migraine with aura, and reinforce the well-established safety and tolerability profile of this therapy. The authors indicated that the COVID-19 pandemic negatively impacted their ability to fully enroll PREMIUM II, their analysis indicates they would have likely reached statistical significance on all of predefined endpoints had the study reached its original enrollment targets. Additional studies are needed to confirm these results that were affected by the pandemic.
+
+Vagus and External Trigeminal Nerve Stimulation UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 10 of 19 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+A 2021 ECRI clinical evidence assessment for gammaCore Sapphire for treating and preventing migraines indicated that gammaCore is safe and may be effective for achieving pain resolution in some patients with episodic migraines; the findings were based on one systematic review with too few events to be conclusive. It cannot be determined if gammaCore provides a benefit over sham treatment for improving partial pain relief, abortive medication use, or migraine prevention because the SR assessed too few patients. No studies assessed non-pain symptoms (e.g., light sensitivity, nausea), and no studies compared gammaCore with implanted VNS or other treatments, such as trigeminal nerve stimulation or transcranial magnetic stimulation. Additional RCTs are needed to assess gamma Core’s effectiveness for treating and preventing chronic and episodic migraines.
+
+Diener et al. (2019) conducted a multicenter trial Introduction evaluating non-invasive vagus nerve stimulation (nVNS; gammaCore®) and the potential to prevent migraine days in patients with migraine based on mechanistic rationale and pilot clinical data. The PREMIUM trial (NCT02378844) included a 4-week run-in period, a 12-week double-blind period of randomized treatment with nVNS or sham, and a 24-week open-label period of nVNS. Patients were to administer two 120-second stimulations bilaterally to the neck three times daily (6-8 hours apart). Of the 477 enrolled patients, 332 comprised the intent-to-treat (ITT) population. Mean reductions in migraine days per month (primary outcome) were 2.26 for nVNS (n = 165; baseline, 7.9 days) and 1.80 for sham (n = 167; baseline, 8.1 days) (p = 0.15). Results were similar across other outcomes. Upon observation of suboptimal adherence rates, post hoc analysis of patients with ≥ 67% adherence per month demonstrated significant differences between nVNS (n = 138) and sham (n = 140) for outcomes including reduction in migraine days (2.27 vs. 1.53; p = 0.043); therapeutic gains were greater in patients with aura than in those without aura. Most nVNS device-related adverse events were mild and transient, with application site discomfort being the most common. Results indicated that preventive nVNS treatment in episodic migraine was not superior to sham stimulation in the ITT population. The "sham" device inadvertently provided a level of active vagus nerve stimulation. Post hoc analysis showed significant effects of nVNS in treatment-adherent patients. Study limitations include vagal activity of the sham device, the use of bilateral stimulations and suboptimal subject adherence to the TID treatment regimen. Future studies are needed that include using an inactive sham device, unilateral stimulation, and patients with a higher headache burden.
+
+Tassorelli et al. (2018) evaluated the efficacy, safety, and tolerability of noninvasive vagus nerve stimulation (nVNS; gammaCore; electroCore, LLC,) for the acute treatment of migraine in a multicenter, double-blind, randomized, sham- controlled trial. A total of 248 participants with episodic migraine with/without aura were randomized to receive nVNS or sham within 20 minutes from pain onset. Participants were to repeat treatment if pain had not improved in 15 minutes. nVNS (n = 120) was superior to sham (n = 123) for pain freedom at 30 minutes (12.7% vs 4.2%) and 60 minutes (21.0% vs 10.0%) but not at 120 minutes (30.4% vs 19.7%) after the first treated attack. A post hoc repeated-measures test provided further insight into the therapeutic benefit of nVNS through 30, 60, and 120 minutes. nVNS demonstrated benefits across other endpoints including pain relief at 120 minutes and was safe and well-tolerated. The authors concluded that this randomized sham-controlled trial supports the abortive efficacy of nVNS as early as 30 minutes and up to 60 minutes after an attack. Findings also suggest effective pain relief, tolerability, and practicality of nVNS for the acute treatment of episodic migraine. According to the authors, the role of nVNS in migraine therapy is being further explored in ongoing large-scale, randomized, sham-controlled trials with long-term follow-up.
+
+Silberstein et al. (2016b) evaluated the feasibility, safety, and tolerability of noninvasive vagus nerve stimulation (nVNS) for the prevention of chronic migraine (CM) attacks. In this prospective, multicenter, double-blind, sham-controlled pilot study of nVNS in CM prophylaxis, adults with CM (≥ 15 headache d/mo) entered the baseline phase (1 month) and were subsequently randomized to nVNS or sham treatment (2 months) before receiving open-label nVNS treatment (6 months). The primary endpoints were safety and tolerability. Efficacy endpoints in the intent-to-treat population included change in the number of headache days per 28 days and acute medication use. Fifty-nine participants (mean age, 39.2 years; mean headache frequency, 21.5 d/mo) were enrolled. During the randomized phase, tolerability was similar for nVNS (n = 30) and sham treatment (n = 29). Most adverse events were mild/moderate and transient. Mean changes in the number of headache days were -1.4 (nVNS) and -0.2 (sham). Twenty-seven participants completed the open-label phase. For the 15 completers initially assigned to nVNS, the mean change from baseline in headache days after 8 months of treatment was -7.9. The authors concluded that therapy with nVNS was well-tolerated with no safety issues. Study limitations included the small sample size, blinding challenges, and high discontinuation rate. According to the authors, larger sham-controlled studies are needed.
+
+In a monocentric, randomized, controlled, double-blind study, Straube et al. (2015) assessed the efficacy and safety of transcutaneous stimulation of the auricular branch of the vagal nerve (t-VNS) in the treatment of chronic migraine. After one month of baseline, chronic migraine patients were randomized to receive 25 Hz or 1 Hz stimulation of the sensory vagal area at the left ear by a handhold battery driven stimulator for 4 h/day for 3 months. Headache days per 28 days were compared between baseline and the last month of treatment and the number of days with acute medication was recorded The Headache Impact Test (HIT-6) and the Migraine Disability Assessment (MIDAS) questionnaires were used
+
+Vagus and External Trigeminal Nerve Stimulation UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 11 of 19 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+to assess headache-related disability. Of 46 randomized patients, 40 finished the study (per protocol). In the per protocol analysis, patients in the 1 Hz group had a significantly larger reduction in headache days per 28 days than patients in the 25 Hz group. 29.4 % of the patients in the 1 Hz group had a ≥ 50 % reduction in headache days vs. 13.3 % in the 25 Hz group. HIT-6 and MIDAS scores were significantly improved in both groups, without group differences. There were no serious treatment-related adverse events. The authors concluded that treatment of chronic migraine by t-VNS at 1 Hz was safe and effective. This study was limited by a small sample size.
+
+The National Institute for Health and Care Excellence (NICE) has published a guideline addressing transcutaneous stimulation of the cervical branch of the vagus nerve for cluster headache and migraine. The guideline states that current evidence on the safety of transcutaneous stimulation of the cervical branch of the vagus nerve for cluster headache and migraine raises no major concerns. The evidence on efficacy is limited in quantity and quality. Therefore, this procedure should only be used with special arrangements for clinical governance, consent, and audit or research (NICE, 2016).
+
+NICE 2019 gammaCore for cluster headache recommendations: • Evidence supports the case for adopting gammaCore to treat cluster headache in the NHS. gammaCore reduces the
+
+frequency and intensity of cluster headache attacks and improves quality of life.
+
+GammaCore is not effective in everyone with cluster headache. Treatment with gammaCore should only continue for
+
+people whose symptoms reduce in the first 3 month.
+
+Clinical Practice Guidelines American Headache Society (AHS) The AHS Position Statement On Integrating New Migraine Treatments Into Clinical Practice indicates the FDA has cleared: • Electrical trigeminal nerve stimulation for the acute and preventive treatment of migraine. • Noninvasive vagus nerve stimulation for the acute treatment of migraine; Patients who prefer nondrug therapies and those who have failed to respond to, have contraindications to, or poor tolerability with pharmacotherapy may be candidates for neuromodulation.
+
+Although the efficacy and safety of neuromodulation is supported by positive results from clinical trials, the use of neuromodulatory devices in clinical practice has been limited. Determinations regarding the precise role of neuromodulation in an overall treatment plan must be individualized (Ailani et al. 2021).
+
+The AHS guideline on the treatment of cluster headache does not include specific recommendations for noninvasive vagus nerve stimulation. The guideline notes that future sham-controlled blinded trials are warranted to elucidate the efficacy and safety of nVNS for the treatment of cluster headache (Robbins et al., 2016).
+
+Other Conditions Transcutaneous vagus nerve stimulation has been investigated for other conditions including atrial fibrillation (Stavrakis et al., 2015; 2020), epilepsy (Lampros et al., 2021; Barbella et al, 2018; Bauer et al., 2016), depression (Tan et al., 2023; Liu et al., 2016; Fang et al., 2016; Hein, et al., 2013; Rong, et al., 2016), frequent premature ventricular contractions (Liu et al. 2024)., impaired glucose tolerance (Huang et al., 2014), schizophrenia (Osoegawa et al., 2018), tinnitus (Fernández- Hernando et al,. 2023; Ylikoski et al., 2017; Kreuzer et al., 2014), sleep quality (Jackowska et al. 2022). Due to limited studies, small sample sizes and weak study designs, there is insufficient data to conclude that transcutaneous vagus nerve stimulation is safe and/or effective for treating these indications. Further clinical trials demonstrating the clinical usefulness of these devices are necessary before it can be considered proven for these conditions.
+
+External or Transcutaneous Trigeminal Nerve Stimulation There is insufficient evidence to support the use of External or Transcutaneous Trigeminal Nerve Stimulation due to study limitations. Larger studies are needed to establish safety, efficacy, and long-term outcomes.
+
+A 2023 ECRI Clinical Evidence Assessment for external trigeminal nerve stimulation for treating migraine headache indicates that the external trigeminal nerve stimulation (eTNS) reduces pain and improves quality of life compared with sham stimulation or in combination with migraine medication, based on evidence from a systematic review and meta- analysis. Whether these benefits are maintained and which treatment protocols and treatment frequency yield these benefits is uncertain from available evidence. Based on the low quality evidence, the use of eTNS cannot be determined.
+
+Stanak et al. (2020) performed a systematic review to analyze the effectiveness and safety of eTNS for the prevention and acute treatment of migraine attacks in episodic and chronic migraine patients. The literature search from four
+
+Vagus and External Trigeminal Nerve Stimulation UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 12 of 19 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+databases that yielded 433 citations and additional seven citations were found via hand-search. Two randomized placebo- controlled trials and five prospective case series were included in the analysis. Results concerning prevention, statistically significant differences were found with respect to reduction of migraine attacks (0.67 less migraine attacks per month), migraine days (1.74 less migraine days per month), headache days (2.28 less headache days per month), and acute antimigraine drug intake (4.24 less instances of acute drug intake per month). Concerning acute treatment, statistically significant differences were found with respect to pain reduction on a visual analogue scale at ½/24 h post-acute treatment (1.68/1.02/1.08 improvement, respectively). No serious adverse events happened in any of the studies. E-TNS has the potential to improve migraine symptoms, but the quality of evidence is low. High quality comparative data, studies with larger sample sizes, and studies with standard and relevant primary outcome parameters are needed.
+
+Gil-López et al. (2020) conducted a randomized controlled trial to determine the long-term efficacy and tolerability of external trigeminal nerve stimulation (ETNS) in patients with focal drug-resistant epilepsy (DRE). Also, to explore whether its efficacy depends on the epileptogenic zone (frontal or temporal), and its impact on mood, cognitive function, quality of life, and trigeminal nerve excitability. Forty consecutive patients with frontal or temporal DRE, unsuitable for surgery, were randomized to ETNS or usual medical treatment. Participants were evaluated at 3, 6 and 12 months for efficacy, side effects, mood scales, neuropsychological tests, and trigeminal nerve excitability. Subjects had a median of 15 seizures per month and had tried a median of 12.5 antiepileptic drugs. At 12 months, the percentage of responders was 50% in ETNS group and 0% in control group. Seizure frequency in ETNS group decreased by -43.5% from baseline. Temporal epilepsy subgroup responded better than frontal epilepsy subgroup (55.56% vs. 45.45%, respectively). Median stimulation intensity was 6.2 mA. ETNS improved quality of life, but not anxiety or depression. Long-term ETNS affected neither neuropsychological function, but not trigeminal nerve excitability. No serious side effects were observed. According to the authors, (ETNS is an effective and well-tolerated therapy for focal DRE. Patients with temporal epilepsy responded better than those with frontal epilepsy. Future studies with larger populations are needed to define its role compared to other neurostimulation techniques.
+
+In a systematic review of clinical trials, Reuter et al. (2019) assessed the scientific rigor and clinical relevance of the available data to inform clinical decisions about non-invasive neuromodulation. This analysis compared study designs using recommendations of the International Headache Society for pharmacological clinical trials, the only available guidelines for migraine and cluster headache. Pivotal studies were identified for the three non-invasive neuromodulation therapies with regulatory clearance for migraine and/or cluster headache [i.e., non-invasive vagus nerve stimulation (nVNS), single-transcranial magnetic stimulation (sTMS) and external trigeminal nerve stimulation (e-TNS)]. Therapeutic effects on the pain-free response rate at 2 hours were comparable among the three pivotal studies of acute treatment, with significance (vs sham) demonstrated for sTMS (active, 39%; sham, 22%; p = 0.0179) but not for nVNS (active, 30.4%; sham, 19.7%; p = 0.067) or e-TNS (active, 19%; sham, 8%; p = 0.136). Non-invasive vagus nerve stimulation studies demonstrated the most consistent adherence to available guidelines. The scope of this systematic review was limited by the heterogeneity among the clinical trials analyzed and the unavailability of many of the study results, which precluded a formal systematic meta-analysis of all identified studies. This heterogeneity in the pivotal studies of nVNS, e- TNS, and sTMS makes the comparison of these devices and their efficacy outcomes difficult.
+
+McGough et al. (2019) conducted a blinded sham-controlled trial to assess the efficacy and safety of trigeminal nerve stimulation (TNS) for attention-deficit/hyperactivity disorder (ADHD) and potential changes in brain spectral power using resting-state quantitative electroencephalography. Sixty-two children 8 to 12 years old, with full-scale IQ of at least 85 and Schedule for Affective Disorders and Schizophrenia-diagnosed ADHD, were randomized to 4 weeks of nightly treatment with active or sham TNS, followed by 1 week without intervention. Assessments included weekly clinician-administered ADHD Rating Scales (ADHD-RS) and Clinical Global Impression (CGI) scales and quantitative electroencephalography at baseline and week 4. ADHD-RS total scores showed significant group-by-time interactions. CGI-Improvement scores also favored active treatment. Resting-state quantitative electroencephalography showed increased spectral power in the right frontal and frontal midline frequency bands with active TNS. The study found that only slightly more than half of those receiving therapy had clinically meaningful improvement and a virtual lack of clinically meaningful adverse events. The authors concluded that this study demonstrates TNS efficacy for ADHD in a blinded sham-controlled trial, with estimated treatment effect size similar to non-stimulants. According to the authors, additional research should examine treatment response durability and potential impact on brain development with sustained use. Chou et al. (2019) assessed the safety and efficacy of external trigeminal nerve stimulation for acute pain relief during migraine attacks with or without aura via a sham-controlled trial. This was a double-blind, randomized, sham-controlled study conducted across three headache centers in the United States. Adult patients who were experiencing an acute migraine attack with or without aura were recruited on site and randomly assigned 1:1 to receive either verum or sham external trigeminal nerve stimulation treatment for 1 hour. Neurostimulation was applied via the e-TNS Cefaly device. Pain intensity was scored using a visual analogue scale (0 = no pain to 10 = maximum pain). The primary outcome measure was the mean change in pain intensity at 1 hour compared to baseline. A total of 106 patients were randomized and included in the intention-to-treat analysis (verum: n = 52; sham: n = 54). The primary outcome measure was significantly more reduced in the verum group
+
+Vagus and External Trigeminal Nerve Stimulation UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 13 of 19 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+than in the sham group. With regards to migraine subgroups, there was a significant difference in pain reduction between verum and sham for ‘migraine without aura’ attacks. For ‘migraine with aura’ attacks, pain reduction was numerically greater for verum versus sham, but did not reach significance. No serious adverse events were reported, and five minor adverse events occurred in the verum group. The authors concluded that one-hour treatment with external trigeminal nerve stimulation resulted in significant headache pain relief compared to sham stimulation and was well tolerated, suggesting it may be a safe and effective acute treatment for migraine attacks. According to the authors, study limitations included the following: there was a small sample size and unbalanced baseline characteristics between the verum and sham groups for migraine type, migraine duration, and prior acute medication use. These differences in baseline characteristics were subsequently accounted for in a post hoc ANCOVA analysis, without modifying the significance of the treatment effect defined by the primary outcome.
+
+Generoso et al. (2019) examined the effects of trigeminal nerve stimulation (TNS) in major depressive disorder (MDD) after a 10-day experimental protocol. This was a randomized, double blind, and sham-controlled phase II study with 24 patients with severe MDD. Patients underwent a 10-day intervention protocol and were assessed with the 17-item Hamilton Depression Rating Scale (HDRS-17) at following three observation points: baseline (T1), after 10 days (T2), and after one month of the last stimulation session (T3). Main clinical outcome analysis of variance (ANOVA) was performed. Patients in the active group presented a mean reduction of 36.15% in depressive symptoms after the stimulation protocol. There was a significant interaction between group and time regarding HDRS-17 scores. Post hoc analyses exhibited a statistically significant difference between active and sham group symptoms at T2 and T3, which highlights the sustained amelioration of depressive symptoms. The authors concluded that this study found improvement of depressive symptoms for patients undergoing a 10-day stimulation protocol of TNS, and this was sustained after one month of follow-up. The authors indicated that the study had several limitations such as a relatively small sample size and no long-term follow-up.
+
+Boon et al. (2018) conducted a systematic review on the currently available neurostimulation modalities primarily with regard to effectiveness and safety for drug-resistant epilepsy (DRE). The authors found that there is insufficient data to support the efficacy of trigeminal nerve stimulation (TNS) for DRE. According to the authors, additional data collection on potentially promising noninvasive neurostimulation modalities such as TNS is warranted to evaluate its therapeutic benefit and long-term safety.
+
+The National Institute for Health and Care Excellence (NICE) published guidance on the use of a transcutaneous electrical stimulation of the supraorbital nerve for treating and preventing migraine in 2022. The guidance indicates that the evidence on the safety of transcutaneous electrical stimulation of the supraorbital nerve for treating and preventing migraine is adequate and raises no major safety concerns. For efficacy, the evidence for treating an acute migraine attack is adequate but, for treating subsequent attacks, is limited in quality and quantity. So, for treating acute migraine, this procedure should only be used with special arrangements for clinical governance, consent, and audit or research. The evidence for preventing migraine is inadequate in quality. So, for preventing migraine, this procedure should only be used in the context of research.
+
+Clinical Practice Guidelines American Academy of Pediatrics The American Academy of Pediatrics (based on the above McGough (2019) updated their clinical practice guideline for the diagnosis, evaluation, and treatment of ADHD in children and adolescents. The revised guideline states that external trigeminal nerve stimulation (eTNS) cannot be recommended as a treatment for ADHD because supporting evidence is sparse and in no way approaches the robust strength of evidence documented for established medication and behavioral treatments for ADHD. (Wolraich et al. 2019)
+
+U.S. Food and Drug Administration (FDA)
+
+This section is to be used for informational purposes only. FDA approval alone is not a basis for coverage.
+
+Implantable Vagus Nerve Stimulators The FDA has approved a number of Implantable Vagus Nerve Stimulator devices. Refer to the following website for more information (use product codes LYJ, MUZ and QPY): https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMA/pma.cfm. (Accessed October 1, 2024)
+
+Vagus and External Trigeminal Nerve Stimulation UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 14 of 19 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Transcutaneous (Non-Implantable) Vagus Nerve Stimulation Devices The FDA has approved a number of devices used for Transcutaneous (Non-Implantable) Vagus Nerve Stimulation. Refer to the following website for more information (use product codes PKR and QAK) https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm. (Accessed October 1, 2024)
+
+External or Transcutaneous Trigeminal Nerve Stimulation The FDA has approved a number of devices used for External or Transcutaneous Trigeminal Nerve Stimulation. Refer to the following website for more information https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm (use product codes PCC and QGL). (Accessed October 1, 2024)
+
+To locate marketing clearance information for a specific device or manufacturer, search the Center for Devices and Radiological Health (CDRH) 510(k) database or the Premarket Approval (PMA) database by product and/or manufacturer name.
+
+References
+
+Aaronson ST, Sears P, Ruvuna F, et al. A 5-year observational study of patients with treatment-resistant depression treated with vagus nerve stimulation or treatment as usual: comparison of response, remission, and suicidality. Am J Psychiatry. 2017 Jul 1;174(7):640-648.
+
+Agency for Healthcare Research and Quality (AHRQ). The SHARE Approach. Putting Shared Decision Making into Practice: A User’s Guide for Clinical Teams, 2020. Available at: https://www.ahrq.gov/professionals/education/curriculum- tools/shareddecisionmaking/index.html. Accessed August 20, 2024.
+
+Ailani J, Burch RC, Robbins MS; Board of Directors of the American Headache Society. The American Headache Society Consensus Statement: Update on integrating new migraine treatments into clinical practice. Headache. 2021 Jul;61(7):1021-1039.nic.
+
+American Headache Society. The American Headache Society Position Statement On Integrating New Migraine Treatments Into Clinical Practice. Headache. 2019 Jan;59(1):1-18. Barbella G, Cocco I, Freri E, et al. Transcutaneous vagal nerve stimulation (t-VNS): An adjunctive treatment option for refractory epilepsy. Seizure. 2018 Jun 18;60:115-119.
+
+Bauer S, Baier H, Baumgartner C, et al. Transcutaneous Vagus Nerve Stimulation (tVNS) for Treatment of Drug-Resistant Epilepsy: A Randomized, Double-Blind Clinical Trial (cMPsE02). Brain Stimul. 2016 May-Jun;9(3):356-63.
+
+Boon P, De Cock E, Mertens A, et al. Neurostimulation for drug-resistant epilepsy: a systematic review of clinical evidence for efficacy, safety, contraindications and predictors for response. Curr Opin Neurol. 2018 Apr;31(2):198-210.
+
+Bottomley JM, LeReun C, Diamantopoulos A, Mitchell S, Gaynes BN. Vagus nerve stimulation (VNS) therapy in patients with treatment resistant depression: A systematic review and meta-analysis. Compr Psychiatry. 2019 Dec 12;98:152156.
+
+Cecchini AP, Mea E, Tullo V, et al. Vagus nerve stimulation in drug-resistant daily chronic migraine with depression: preliminary data. Neurol Sci. 2009 May;30 Suppl 1:S101-4.
+
+Chou DE, Shnayderman Yugrakh M, Winegarner D, et al. Acute migraine therapy with external trigeminal neurostimulation (ACME): A randomized controlled trial. Cephalalgia. 2019 Jan;39(1):3-14.
+
+Cimpianu CL, Strube W, Falkai P, et al. Vagus nerve stimulation in psychiatry: a systematic review of the available evidence. J Neural Transm (Vienna). 2017 Jan;124(1):145-158.
+
+Costa V, Gianlorenço AC, Andrade MF, et al. Transcutaneous vagus nerve stimulation effects on chronic pain: systematic review and meta-analysis. Pain Rep. 2024 Aug 7;9(5):e1171.
+
+Courties A, Berenbaum F, Sellam J. Vagus nerve stimulation in musculoskeletal diseases. Joint Bone Spine. 2021 May;88(3):105149.
+
+Dawson J, Engineer ND, Prudente CN, et al. Vagus nerve stimulation paired with upper-limb rehabilitation after stroke: one-year follow-up. Neurorehabil Neural Repair. 2020 Jul;34(7):609-615.
+
+Dawson J, Liu CY, Francisco GE, et al. Vagus nerve stimulation paired with rehabilitation for upper limb motor function after ischemic stroke (VNS-REHAB): a randomized, blinded, pivotal, device trial. Lancet. 2021 Apr 24;397(10284):1545- 1553.
+
+de Coo IF, Marin JC, Silberstein SD, et al. Differential efficacy of non-invasive vagus nerve stimulation for the acute treatment of episodic and chronic cluster headache: A meta-analysis. Cephalalgia. 2019 Jul;39(8):967-977.
+
+Vagus and External Trigeminal Nerve Stimulation UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 15 of 19 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+De Ferrari GM, Stolen C, Tuinenburg AE, et al. Long-term vagal stimulation for heart failure: Eighteen-month results from the nEural Cardiac TherApy foR Heart Failure (NECTAR-HF) trial. Int J Cardiol. 2017 Oct 1;244:229-234.
+
+Diener HC, Goadsby PJ, et al. Non-invasive vagus nerve stimulation (nVNS) for the preventive treatment of episodic migraine: The multicenter, double-blind, randomized, sham-controlled PREMIUM trial. Cephalalgia. 2019 Oct;39(12):1475-1487.
+
+Diniz JBC, Alfonso Rodriguez Elvir F, Silva Santana L, et al. Replacement of traditional vagus nerve stimulation with cardiac-based device and seizure reduction: A systematic review and meta-analysis. Seizure. 2024 May;118:65-70.
+
+ECRI Institute. Custom Product Brief- Symmetry Vagus Nerve Stimulation Therapy System (LivaNova plc) for Treatment- resistant Depression. Plymouth Meeting (PA): ECRI; 2020 Apr 29.
+
+ECRI. gammaCore Sapphire Noninvasive Vagus Nerve Stimulator (electroCore, LLC) for Treating and Preventing Migraines. Plymouth Meeting (PA): ECRI; 2021 Feb 5. (Clinical Evidence Assessment).
+
+ECRI. Vivistim Paired VNS System (MicroTransponder, Inc.) for improving upper limb function after stroke. Plymouth Meeting (PA): ECRI; 2021 Sep. (Clinical Evidence Assessment).
+
+Englot DJ, Rolston JD, Wright CW, et al. Rates and predictors of seizure freedom with vagus nerve stimulation for intractable epilepsy. Neurosurgery. 2016 Sep;79(3):345-53.
+
+Epilepsy Society. Vagus nerve stimulation therapy factsheet. September 2019. Available at: https://www.epilepsysociety.org.uk/vagus-nerve-stimulation#.xXaoTbko4Ww. Accessed September 9, 2024.
+
+Fang J, Egorova N, Rong P, et al. Early cortical biomarkers of longitudinal transcutaneous vagus nerve stimulation treatment success in depression. Neuroimage Clin. 2016 Dec 18;14:105-111.
+
+Fernández-Hernando D, Fernández-de-Las-Peñas C, Machado-Martín A et al. Effects of Non-Invasive Neuromodulation of the Vagus Nerve for Management of Tinnitus: A Systematic Review with Meta-Analysis. J Clin Med. 2023 May 25;12(11):3673.
+
+Fernández-Hernando D, Justribó Manion C, Pareja JA, et al. Effects of non-invasive neuromodulation of the vagus nerve for the management of cluster headache: A systematic review. J Clin Med. 2023 Sep 30;12(19):6315.
+
+Fisher RS, Afra P, Macken M, et al. Automatic vagus nerve stimulation triggered by ictal tachycardia: Clinical Outcomes and Device Performanc—-The U.S. E-37 Trial. Neuromodulation. 2016 Feb;19(2):188-95.
+
+Fisher RS, Handforth A. Reassessment: vagus nerve stimulation for epilepsy: a report of the Therapeutics and Technology Assessment Subcommittee of the American Academy of Neurology. Neurology. 1999;53:666-669.
+
+Gaul C, Diener HC, Silver N, et al. PREVA Study Group. Non-invasive vagus nerve stimulation for PREVention and Acute treatment of chronic cluster headache (PREVA): A randomized controlled study. Cephalalgia. 2016 May;36(6):534-46.
+
+Gaul C, Magis D, Liebler E, et al. Effects of non-invasive vagus nerve stimulation on attack frequency over time and expanded response rates in patients with chronic cluster headache: a post hoc analysis of the randomized, controlled PREVA study. J Headache Pain. 2017 Dec;18(1):22.
+
+Gaynes BN, Lux L, Lloyd S, et al. Nonpharmacologic Interventions for Treatment-Resistant Depression in Adults. Comparative Effectiveness Review No. 33. (Prepared by RTI International-University of North Carolina (RTI-UNC) Evidence based Practice Center under Contract No. 290-02-0016I.) AHRQ Publication No. 11-EHC056-EF. Rockville, MD: Agency for Healthcare Research and Quality. September 2011.
+
+Generoso MB, Taiar IT, Garrocini LP, et al. Effect of a 10-day transcutaneous trigeminal nerve stimulation (TNS) protocol for depression amelioration: A randomized, double blind, and sham-controlled phase II clinical trial. Epilepsy Behav. 2019 Apr 23;95:39-42.
+
+George MS, Ward HE Jr, Ninan PT, et al. C. A pilot study of vagus nerve stimulation (VNS) for treatment-resistant anxiety disorders. Brain Stimul. 2008 Apr;1(2):112-21.
+
+Gil-López F, Boget T, Manzanares I, et al. External trigeminal nerve stimulation for drug resistant epilepsy: A randomized controlled trial. Brain Stimul. 2020 Sep-Oct;13(5):1245-1253.
+
+Goadsby PJ, de Coo IF, Silver N, et al. ACT2 Study Group. Non-invasive vagus nerve stimulation for the acute treatment of episodic and chronic cluster headache: A randomized, double-blind, sham controlled ACT2 study. Cephalalgia. 2018 Apr;38(5):959-969.
+
+Gold MR, Van Veldhuisen DJ, Hauptman PJ, et al. Vagus Nerve Stimulation for the Treatment of Heart Failure: The INOVATE-HF Trial. J Am Coll Cardiol. 2016 Jul 12;68(2):149-58.
+
+Guideline Development Panel for the Treatment of Depressive Disorders. Summary of the clinical practice guideline for the treatment of depression across three age cohorts. Am Psychol. 2022 Sep;77(6):770-780.
+
+Vagus and External Trigeminal Nerve Stimulation UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 16 of 19 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Hamilton P, Soryal I, Dhahri P, et al. Clinical outcomes of VNS therapy with AspireSR(including cardiac-based seizure detection) at a large complex epilepsy and surgery center. Seizure. 2018 May;58:120-126.
+
+Hayes, Inc. Hayes Medical Technology Directory Report. Vagus Nerve Stimulation for Treatment-Resistant Depression. Lansdale, PA: Hayes, Inc., February 2019, Reviewed January 2022.
+
+Hayes, Inc. Health Technology Assessment. Noninvasive Vagus Nerve Stimulation with gammaCore for Prevention or Treatment of Cluster Headache. Lansdale, PA: Hayes, Inc., May 2020, Reviewed June 2023.
+
+Hein E, Nowak M, Kiess O, et al. Auricular transcutaneous electrical nerve stimulation in depressed patients: a randomized controlled pilot study. J Neural Transm (Vienna). 2013 May;120(5):821-7.
+
+Huang F, Dong J, Kong J, et al. Effect of transcutaneous auricular vagus nerve stimulation on impaired glucose tolerance: a pilot randomized study. BMC Complement Altern Med. 2014 Jun 26;14:203.
+
+Jackowska M, Koenig J, Vasendova V, et al. A two-week course of transcutaneous vagal nerve stimulation improves global sleep: Findings from randomized trial in community-dwelling adults. Auton Neurosci. 2022 Jul;240:102972.
+
+Jain SV, Glauser TA. Effects of epilepsy treatments on sleep architecture and daytime sleepiness: an evidence-based review of objective sleep metrics. Epilepsia. 2014 Jan;55(1):26-37.
+
+Kawai K, Tanaka T, Baba H, et al. Outcome of vagus nerve stimulation for drug-resistant epilepsy: the first three years of a prospective Japanese registry. Epileptic Disord. 2017 Sep 1;19(3):327-338.
+
+Kreuzer PM, Landgrebe M, Resch M, et al. Feasibility, safety and efficacy of transcutaneous vagus nerve stimulation in chronic tinnitus: an open pilot study. Brain Stimul. 2014 Sep-Oct;7(5):740-7.
+
+Lam RW, Kennedy SH, Adams C, et al. Canadian Network for Mood and Anxiety Treatments (CANMAT) 2023 Update on Clinical Guidelines for Management of Major Depressive Disorder in Adults: Can J Psychiatry. 2024 Sep;69(9):641-687.
+
+Lampros M, Vlachos N, Zigouris A, et al. Transcutaneous vagus nerve stimulation (t-VNS) and epilepsy: A systematic review of the literature. Seizure. 2021 Oct;91:40-48.
+
+Lange G, Janal MN, Maniker A, et al. Safety and Efficacy of Vagus Nerve Stimulation in Fibromyalgia: A Phase I/II Proof of Concept Trial. Pain Med. 2011 Aug 3. doi: 10.1111/j.1526-4637.2011.01203.x.
+
+Levy ML, Levy KM, Hoff D, et al. Vagus nerve stimulation therapy in patients with autism spectrum disorder and intractable epilepsy: results from the vagus nerve stimulation therapy patient outcome registry. J Neurosurg Pediatr. 2010 Jun;5(6):595-602.
+
+Liu J, Fang J, Wang Z, et al. Transcutaneous vagus nerve stimulation modulates amygdala functional connectivity in patients with depression. J Affect Disord. 2016 Nov 15;205:319-326.
+
+Liu Y, Wei X, Wang L, et al Efficacy and safety of transcutaneous auricular vagus nerve stimulation for frequent premature ventricular complexes: rationale and design of the TASC-V trial. BMC Complement Med Ther. 2024 Jul 29;24(1):288.
+
+Mao H, Chen Y, Ge Q, Ye L, Cheng H. Short- and long-term response of vagus nerve stimulation therapy in drug-resistant epilepsy: A Systematic Review and Meta-Analysis. Neuromodulation. 2021 Aug 14.
+
+McGough JJ, Sturm A, Cowen J, et al. Double-blind, sham-controlled, pilot study of trigeminal nerve stimulation for attention-deficit/hyperactivity disorder. J Am Acad Child Adolesc Psychiatry. 2019 Apr;58(4):403-411.e3.
+
+Merrill CA, Jonsson MA, Minthon L, et al. Vagus nerve stimulation in patients with Alzheime’'s disease: Additional follow- up results of a pilot study through 1 year. J Clin Psychiatry. 2006 Aug;67(8):1171-8.
+
+Miner JR, Lewis LM, Mosnaim GS, et al. Feasibility of percutaneous vagus nerve stimulation for the treatment of acute asthma exacerbations. Acad Emerg Med. 2012 Apr;19(4):421-9. doi: 10.1111/j.1553-2712.2012.01329.x. Morris GL 3rd, Gloss D, Buchhalter J, et al. Evidence-based guideline update: vagus nerve stimulation for the treatment of epilepsy: report of the Guideline Development Subcommittee of the American Academy of Neurology. Neurology. 2013 Oct 15;81(16):1453-9.
+
+Najib U, Smith T, Hindiyeh N, Saper J, et al. Non-invasive vagus nerve stimulation for prevention of migraine: The multicenter, randomized, double-blind, sham-controlled PREMIUM II trial. Cephalalgia. 2022 Jun;42(7):560-569. Napadow V, Edwards RR, Cahalan CM, et al. Evoked pain analgesia in chronic pelvic pain patients using respiratory-gated auricular vagal afferent nerve stimulation. Pain Med. 2012 Jun;13(6):777-89.
+
+National Institute for Health and Care Excellence (NICE). Transcutaneous electrical stimulation of the supraorbital nerve for treating and preventing migraine. Interventional procedures guidance (IPG740). Published October 2022.
+
+National Institute for Health and Care Excellence (NICE). Transcutaneous stimulation of the cervical branch of the vagus nerve for cluster headache and migraine. Interventional procedures guidance [IPG552]. March 2016.
+
+Vagus and External Trigeminal Nerve Stimulation UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 17 of 19 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+National Institute for Health and Care Excellence (NICE). Vagus nerve stimulation for treatment-resistant depression. August 2020.
+
+National Institute for Health and Care Excellence (NICE). Epilepsies in children, young people and adults. NICE guideline [NG217]. April 2022.
+
+Nearing BD, Libbus I, Carlson GM, et al. Chronic vagus nerve stimulation is associated with multi-year improvement in intrinsic heart rate recovery and left ventricular ejection fraction in ANTHEM-HF. Clin Auton Res. 2021 Jun;31(3):453-462.
+
+Osoegawa C, Gomes JS, Grigolon RB, et al. Non-invasive brain stimulation for negative symptoms in schizophrenia: An updated systematic review and meta-analysis. Schizophr Res. 2018 Jan 31. pii: S0920-9964(18)30031-8.
+
+Panebianco M, Rigby A, Marson AG. Vagus nerve stimulation for focal seizures. Cochrane Database Syst Rev. 2022 Jul 14;7(7):CD002896.
+
+Panebianco M, Rigby A, Weston J, et al. Vagus nerve stimulation for partial seizures. Cochrane Database Syst Rev. 2015 Apr 3;4:CD002896.
+
+Pintea B, Hampel K, Boström J, et al. Extended long-term effects of cervical vagal nerve stimulation on headache intensity/frequency and affective/cognitive headache perception in drug resistant complex-partial seizure patients. Neuromodulation. 2017 Jun;20(4):375-382.
+
+Premchand RK, Sharma K, Mittal S, et al. Extended Follow-Up of Patients with Heart Failure Receiving Autonomic Regulation Therapy in the ANTHEM-HF Study. J Card Fail. 2016 Aug;22(8):639-42.
+
+Rapinesi C, Kotzalidis GD, Ferracuti S, Sani G, Girardi P, Del Casale A. Brain stimulation in obsessive-compulsive disorder (OCD): A Systematic Review. Curr Neuropharmacol. 2019;17(8):787-807.
+
+Reuter U, McClure C, Liebler E, et al. Non-invasive neuromodulation for migraine and cluster headache: a systematic review of clinical trials. J Neurol Neurosurg Psychiatry. 2019 Mar 1. pii: jnnp-2018-320113.
+
+Robbins MS, Starling AJ, Pringsheim TM, et al. Treatment of cluster headache: The American Headache Society Evidence-Based Guidelines. Headache. 2016 Jul;56(7):1093-106.
+
+Rong P, Liu J, Wang L, et al. Effect of transcutaneous auricular vagus nerve stimulation on major depressive disorder: A nonrandomized controlled pilot study. J Affect Disord. 2016 May;195:172-9.
+
+Silberstein SD, Calhoun AH, Lipton RB, et al.; EVENT Study Group. Chronic migraine headache prevention with noninvasive vagus nerve stimulation: The EVENT study. Neurology. 2016b Aug 2;87(5):529-38.
+
+Silberstein SD, Mechtler LL, Kudrow DB, et al.; ACT1 Study Group. Non-invasive vagus nerve stimulation for the acute treatment of cluster headache: findings from the randomized, double-blind, sham controlled ACT1 study. Headache. 2016a Sep;56(8):1317-32.
+
+Song D, Li P, Wang Y, Cao J. Noninvasive vagus nerve stimulation for migraine: a systematic review and meta-analysis of randomized controlled trials. Front Neurol. 2023 May 11;14:1190062.
+
+Stanak M, Wolf S, Jagoš H, Zebenholzer K. The impact of external trigeminal nerve stimulator (e-TNS) on prevention and acute treatment of episodic and chronic migraine: A systematic review. J Neurol Sci. 2020 May 15;412.
+
+Stavrakis S, Humphrey MB, Scherlag BJ, et al. Low-level transcutaneous electrical vagus nerve stimulation suppresses atrial fibrillation. J Am Coll Cardiol. 2015 Mar 10;65(9):867-75.
+
+Stavrakis S, Stoner JA, Humphrey MB, et al. TREAT AF (transcutaneous electrical vagus nerve stimulation to suppress atrial fibrillation): A randomized clinical trial. JACC Clin Electrophysiol. 2020 Mar;6(3):282-291.
+
+Steyn E, Mohamed Z, Husselman C. Non-invasive vagus nerve stimulation for the treatment of acute asthma exacerbations-results from an initial case series. Int J Emerg Med. 2013 Mar 19;6(1):7.
+
+Straube A, Ellrich J, Eren O, et al. Treatment of chronic migraine with transcutaneous stimulation of the auricular branch of the vagal nerve (auricular t-VNS): a randomized, monocentric clinical trial. J Headache Pain. 2015;16:543.
+
+Tan C, Qiao M, Ma Y, et al. The efficacy and safety of transcutaneous auricular vagus nerve stimulation in the treatment of depressive disorder: A systematic review and meta-analysis of randomized controlled trials. J Affect Disord. 2023 Sep 15;337:37-49.
+
+Tassorelli C, Grazzi L, de Tommaso M, et al. PRESTO Study Group. Noninvasive vagus nerve stimulation as acute therapy for migraine: The randomized PRESTO study. Neurology. 2018 Jun 15. pii: 10.1212/WNL.0000000000005857.
+
+Téllez-Zenteno JF, Hernández-Ronquillo L, Buckley Sek et al. A validation of the new definition of drug-resistant epilepsy by the International League Against Epilepsy. Epilepsia. 2014 Jun;55(6):829-34.
+
+Vagus and External Trigeminal Nerve Stimulation UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 18 of 19 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Tzadok M, Harush A, Nissenkorn A, Zauberman Y, Feldman Z, Ben-Zeev B. Clinical outcomes of closed-loop vagal nerve stimulation in patients with refractory epilepsy. Seizure. 2019 Oct;71:140-144.
+
+Wang X, Ding Q, Li T, Li W, Yin J, Li Y, Li Y, Zhuang W. Application of vagus nerve stimulation on the rehabilitation of upper limb dysfunction after stroke: a systematic review and meta-analysis. Front Neurol. 2023 Jun 21;14:1189034.
+
+Wolraich ML, Hagan JF Jr, Allan C, et al.; Subcommittee on children and adolescents with attention-deficit/hyperactive disorder. Clinical practice guideline for the diagnosis, evaluation, and treatment of attention-deficit/hyperactivity disorder in children and adolescents. Pediatrics. 2019 Oct;144(4):e20192528.
+
+Ylikoski J, Lehtimäki J, Pirvola U, et al. Non-invasive vagus nerve stimulation reduces sympathetic preponderance in patients with tinnitus. Acta Otolaryngol. 2017 Apr;137(4):426-431.
+
+Zannad F, De Ferrari GM, Tuinenburg AE, et al. Chronic vagal stimulation for the treatment of low ejection fraction heart failure: results of the NEural Cardiac TherApy foR Heart Failure (NECTAR-HF) randomized controlled trial. Eur Heart J. 2015 Feb 14;36(7):425-33.
+
+Policy History/Revision Information
+
+Date 05/01/2025
+
+Summary of Changes
+
+Template Update • Created shared policy version to support application to Rocky Mountain Health Plans
+
+membership
+
+Application Individual Exchange • Removed language indicating this Medical Policy does not apply to the state of Colorado Supporting Information • Archived previous policy version 2025T0101KK
+
+Instructions for Use
+
+This Medical Policy provides assistance in interpreting UnitedHealthcare standard benefit plans. When deciding coverage, the member specific benefit plan document must be referenced as the terms of the member specific benefit plan may differ from the standard plan. In the event of a conflict, the member specific benefit plan document governs. Before using this policy, please check the member specific benefit plan document and any applicable federal or state mandates. UnitedHealthcare reserves the right to modify its Policies and Guidelines as necessary. This Medical Policy is provided for informational purposes. It does not constitute medical advice.
+
+This Medical Policy may also be applied to Medicare Advantage plans in certain instances. In the absence of a Medicare National Coverage Determination (NCD), Local Coverage Determination (LCD), or other Medicare coverage guidance, CMS allows a Medicare Advantage Organization (MAO) to create its own coverage determinations, using objective evidence-based rationale relying on authoritative evidence (Medicare IOM Pub. No. 100-16, Ch. 4, §90.5).
+
+UnitedHealthcare may also use tools developed by third parties, such as the InterQual® criteria, to assist us in administering health benefits. UnitedHealthcare Medical Policies are intended to be used in connection with the independent professional medical judgment of a qualified health care provider and do not constitute the practice of medicine or medical advice.
+
+Vagus and External Trigeminal Nerve Stimulation UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 19 of 19 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
