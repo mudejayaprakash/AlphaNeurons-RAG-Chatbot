@@ -1,0 +1,299 @@
+UnitedHealthcare® Commercial and Individual Exchange Medical Policy
+
+Electrical and Ultrasound Bone Growth Stimulators
+
+Policy Number: 2025T0561V Effective Date: May 1, 2025
+
+ Instructions for Use
+
+Table of Contents Page Application ............................................................................. 1 Coverage Rationale .............................................................. 1 Medical Records Documentation Used for Reviews ............. 2 Definitions .............................................................................. 2 Applicable Codes .................................................................. 2 Description of Services ......................................................... 3 Clinical Evidence ................................................................... 3 U.S. Food and Drug Administration ...................................... 7 References ............................................................................ 7 Policy History/Revision Information ...................................... 9 Instructions for Use ............................................................... 9
+
+Community Plan Policy • Electrical and Ultrasound Bone Growth
+
+Stimulators
+
+Medicare Advantage Policy • Electrical Stimulators
+
+Application
+
+UnitedHealthcare Commercial This Medical Policy applies to UnitedHealthcare Commercial benefit plans.
+
+UnitedHealthcare Individual Exchange This Medical Policy applies to Individual Exchange benefit plans.
+
+Coverage Rationale
+
+The use of an Invasive or Non-Invasive spinal Electrical Bone Growth Stimulator is proven and medically necessary as an adjunct to lumbar spinal fusion surgery when the following two criteria are met: • Radiographic evidence of skeletal maturity; and •
+
+Increased risk for fusion failure demonstrated by any of the following: o Previously failed fusion at the same site, when minimum of six months has elapsed since the last surgical
+
+procedure
+
+o Spinal fusion performed or to be performed at more than one level as part of a single surgery o Comorbid conditions associated with compromised bone healing (e.g., diabetes, obesity, osteoporosis, current
+
+tobacco use)
+
+o Spondylolisthesis grade II or greater
+
+The use of an Invasive or Non-Invasive Electrical Bone Growth Stimulator is unproven and not medically necessary for the treatment of all other indications due to insufficient evidence of efficacy and/or safety.
+
+The use of Ultrasonic Bone Growth Stimulators is proven and medically necessary for the treatment of Nonunion of long bone fractures when all of the following criteria are met: • Fracture gap is less than or equal to 1 cm • Radiographic evidence of a persistent fracture line without bridging callus is present for 3 months or more • Fracture reduced and immobilized • Less than 6 months have passed since the date of most recent surgical operation • Fracture that is not pathological or associated with malignancy • Radiographic evidence of skeletal maturity
+
+Electrical and Ultrasound Bone Growth Stimulators UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 1 of 9 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+The use of Ultrasonic Bone Growth Stimulators is unproven and not medically necessary for the treatment of all other indications due to insufficient evidence of efficacy and/or safety.
+
+Medical Records Documentation Used for Reviews
+
+Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service. Medical records documentation may be required to assess whether the member meets the clinical criteria for coverage but does not guarantee coverage of the service requested; refer to the protocol titled Medical Records Documentation Used for Reviews.
+
+Definitions
+
+Delayed Union: A fracture has not healed within the expected time period. The fact that a bone is delayed in its union does not mean that it will become a non-union (Mehmood, 2017).
+
+Electrical Bone Growth Stimulator: A device (either implanted into the body or worn externally), that uses an electric field or current to stimulate the growth of bone tissue (Haglin 2017). •
+
+Invasive: The implantable current generator is surgically placed in an intramuscular or subcutaneous space, while an electrode is implanted within the fragments of bone graft at the targeted fusion site. The implanted device is usually functional for 6 to 9 months at which point the current generator is removed in a second surgical procedure, while the electrodes may or may not be removed. Implantable bone growth stimulators are used as an adjunct to spinal fusion surgery and implanted at the time of surgery.
+
+Non-Invasive: An external power source generates a weak electrical current to the target sites using either pulsed
+
+electromagnetic fields, capacitive coupling or combined magnetic fields.
+
+Fracture Union: The point at which the fractured bone has regained sufficient strength and stiffness to function as a weightbearing structure without external support (Morshed, 2014).
+
+Nonunion Fracture: The result of an arrest in the healing process and is defined by the following three findings (Thomas, 2022): • Motion at the fracture site. • Radiographic evidence showing the persistence of the fracture line without bridging callus. •
+
+Incomplete progression toward radiographic healing in the expected length of time for the given bone and further healing not expected.
+
+Ultrasonic Bone Growth Stimulator: A Non-Invasive device that emits low intensity, pulsed ultrasound to accelerate bone repair. The device is characterized by a main operating unit with an external power supply that is connected to a treatment head module affixed to a mounting fixture and centered over the fracture site. This device is specifically programmed to promote accelerated fracture healing (Haglin 2017).
+
+Applicable Codes
+
+The following list(s) of procedure and/or diagnosis codes is provided for reference purposes only and may not be all inclusive. Listing of a code in this` policy does not imply that the service described by the code is a covered or non- covered health service. Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service. The inclusion of a code does not imply any right to reimbursement or guarantee claim payment. Other Policies and Guidelines may apply.
+
+Description Electrical Bone Growth Stimulator: Non-Spinal (Invasive, Non-Invasive)
+
+CPT Code
+
+20974 20975
+
+Electrical stimulation to aid bone healing; noninvasive (nonoperative) Electrical stimulation to aid bone healing; invasive (operative)
+
+Ultrasound Bone Growth Stimulator
+
+20979
+
+Low intensity ultrasound stimulation to aid bone healing, noninvasive (nonoperative)
+
+CPT® is a registered trademark of the American Medical Association
+
+Electrical and Ultrasound Bone Growth Stimulators UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 2 of 9 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Coding Clarification: Utilize HCPCS code E0748 when reporting bone growth stimulation for all anatomical levels of the spine.
+
+HCPCS Code E0747 E0748 E0749 E0760
+
+Description
+
+Osteogenesis stimulator, electrical, noninvasive, other than spinal applications Osteogenesis stimulator, electrical, noninvasive, spinal applications Osteogenesis stimulator, electrical, surgically implanted Osteogenesis stimulator, low intensity ultrasound, noninvasive
+
+Description of Services
+
+Bone healing is a complex process dependent on a variety of factors. The rate of bone repair and composition of tissue varies depending on type of bone fractured, the extent of the bone and soft tissue damage, the adequacy of the blood supply, and the degree of separation between bone ends. The individual's general health and nutritional status also play a significant role in bone healing. The presence of infection may adversely affect healing. Diminished blood flow to the fracture site will often suppress the healing response; factors that can cause diminished blood flow include heavy smoking, malnutrition, diabetes, alcoholism, peripheral vascular disease, increasing age, and the use of some medications such as steroids. Other characteristics such as high-grade trauma, high grade and open fractures, comminution of the fracture, vertical or oblique fracture pattern, and fracture displacement may also contribute to poor healing of bone [Agency for Healthcare Research and Quality (AHRQ), 2005].
+
+Bone growth stimulation is utilized to promote bone healing in difficult to heal fractures or fusions by applying electrical or ultrasonic current to the fracture/fusion site. Ultrasonic stimulation is applied externally, while electrical stimulation can be applied either from the outside of the body (Non-Invasive) or from the inside of the body (Invasive). (ECRI, 2024).
+
+Bone growth stimulators are only indicated for use in individuals who are skeletally mature. A person is said to be skeletally mature when all bone growth is complete; the cartilage cells of the growth plate cease to proliferate, the growth plate becomes thinner, is replaced by bone, and disappears, and the epiphysis is "closed" or fused with the shaft. [Agency for Healthcare Research and Quality (AHRQ), 2005].
+
+Clinical Evidence
+
+Electrical Bone-Growth Stimulators (EBGS) The evidence in peer-reviewed literature for EBGS is insufficient to evaluate health outcomes as a treatment for any condition. except as an adjunct to spinal fusion surgery. Evidence from randomized controlled trials (RCTs) are needed to establish safety and efficacy.
+
+ECRI updated a published Clinical Evidence Assessment on noninvasive electrical bone growth stimulators for treating nonunion fractures. After extensive review ECRI determined that the evidence found is at high risk of bias due to one or more of the following: small sample size, single-center focus, retrospective design, and lack of control groups, randomization, or blinding. No studies reported on patients' quality of life and functional status using validated instruments. ECRI also found no published guidelines that discuss noninvasive electrical bone growth stimulators for treating nonunion fractures. Large randomized controlled trials(RCTS) comparing electrical stimulators with other noninvasive bone growth stimulators and those comparing noninvasive electrical stimulators from different manufacturers and reporting on pain, functional status, quality of life, and retreatment rates are needed to address evidence gaps.
+
+A Hayes Evidence Analysis Research Brief (EARB) on noninvasive electrical bone growth stimulation for cervical spinal fusion found through a search of peer-reviewed published literature that there was one newly published study since they had archived their Health Technology Assessment (HTA) on this technology. The study they found performed two evaluations to compare fusion rates between pulsed electromagnetic field stimulation (PEMF) using a historical control group (160 subjects) from the FDA investigational device exemption (IDE) study with a post hoc analysis of high-risk subjects from the FDA study and a multicentre, open-label study consisting of 274 subjects treated with PEMF. Hayes has not published an updated HTA with any recommendations based on this one study (2022).
+
+Another EARB by Hayes (2022) on noninvasive electric bone growth stimulation for non-spinal arthrodesis found no new studies that addressed noninvasive electrical bone growth stimulation (EBGS) as an adjunct to arthrodesis for foot, ankle, or other non-spinal indications. Their HTA on noninvasive EBGS that addressed foot and ankle indications was archived in October 2021.
+
+Electrical and Ultrasound Bone Growth Stimulators UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 3 of 9 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+ECRI published a Clinical Evidence Assessment for Cervical-Stim (Orthofix Medical, Inc.), a Food and Drug Administration (FDA) approved device that provides noninvasive PEMF as an adjunctive treatment option for cervical fusion in patients at high-risk for non-fusion. In the assessment, ECRI determined that the evidence is inconclusive due to a very low quality body of evidence which consisted of a post hoc analysis of a randomized controlled trial (RCT) and an additional retrospective cohort. The RCT included in the analysis was the Foley (2008) study cited below which ECRI found to be at high risk of bias because it reported subjective, patient-reported outcomes and because the patients were not blinded to their treatment allocation group. The retrospective study's findings involved post hoc subgroup analysis and were found to be at high risk of selection bias and confounding effects. ECRI also noted that the RCT and the comparison cohort study used the same patients as the control group which limited findings interpretation and generalizability (2021).
+
+Caliogna et al. (2021) conducted an extensive review of the recent literature of the signaling pathways modulated by pulsed electromagnetic fields (PEMFs) and PEMFs clinical application for bone healing. A review of the literature was performed on two medical electronic databases (PubMed and Embase). Three authors performed the evaluation of the studies and the data extraction. All studies for this review were selected following these inclusion criteria: studies written in English, studies available in full text and studies published in peer-reviewed journal. The investigators concluded that the data reported in the literature give a solid base for the clinical application of PEMFs; unfortunately, the selected electromagnetic field parameters are very different (frequency, waveform, and amplitude), thus preventing the possibility to carry out accurate analysis. To date, there is a great heterogeneity of the PEMFs physical parameters used, both for in vitro and in vivo studies for bone healing. As a consequence of lack of standardized experimental guidelines, controlled trials resulted in non-comparable and inconclusive data. The investigators indicted that further biology studies and clinical trials with clear and standardized parameters (intensity, frequency, dose, duration, type of coil) are required to clarify the precise dose-response relationship and to understand the real applications in clinical practice of PEMFs for bone healing.
+
+Peng et al. (2020) conducted a systematic review and meta-analysis to evaluate the effect of pulsed electromagnetic field (PEMF) on bone healing in patients with fractures. The investigators searched CNKI, Wan Fang, VIP, EMbase, PubMed, CENTRAL, Web of Science, Physiotherapy Evidence Database, and Open Grey websites for randomized controlled trials (published before July 2019 in English or Chinese) comparing any form of PEMF to sham. Reference lists were also searched. Related data were extracted by two investigators independently. The bias risk of the articles and the evidence strength of the outcomes were evaluated. Twenty-two studies were eligible and included in the analysis (n = 1,468 participants). The pooled results of 14 studies (n = 1,131 participants) demonstrated that healing rate in PEMF group was 79.7%, and that in the control group was 64.3%. PEMF increased healing rate by the Mantel-Haenszel analysis, relieved pain by the inverse variance analysis, and accelerated healing time by the inverse variance analysis. Moderate quality evidence suggested that PEMF increased healing rate and relieved pain of fracture, and very low-quality evidence showed that PEMF accelerated healing time. According to the investigators, a limitation of this systematic review and meta-analysis was that the literature was insufficient to analyze whether PEMF has an impact on bone mineral density (BMD) and functional outcome. Even for bone healing, different effects may be achieved by PEMF treatments with different parameters (frequency, intensity). Though the determination of effective intensity and frequency is important for each clinical application, there was not enough literature to analyze them, and it is difficult to discuss the dose response relationship. In the future, more high best parameters, dose, and duration of PEMF.
+
+quality trials are needed to analyze the effectiveness of PEMF and to identify the
+
+‐
+
+‐
+
+Akhter et al. (2020) conducted a systematic review and meta-analysis to evaluate if postoperative electrical stimulation is more efficacious than no stimulation or placebo in promoting radiographic fusion in patients undergoing spinal fusion. The investigators searched the Cochrane Central Register of Controlled Trials (CENTRAL), EMBASE, CINAHL and MEDLINE from date of inception to current. Ongoing clinical trials were also identified, and reference lists of included studies were manually searched for relevant articles. Two reviewers independently screened studies, extracted data, and assessed risk of bias. Data were pooled using the Mantel-Haenszel method. Trialists were contacted for any missing or incomplete data. Of 1184 articles screened, 7 studies were eligible for final inclusion (n = 941). A total of 487 patients received postoperative electrical stimulation and 454 patients received control or sham stimulation. All evidence was of moderate quality. Electrical stimulation (pulsed electromagnetic fields, direct current, and capacitive coupling) increased the odds of a successful fusion by 2.5-fold relative to control. A test for subgroup interaction by stimulation type, smoking status, and number of levels fused was not significant. The investigators concluded that this systematic review and meta-analysis found moderate-level evidence supporting the use of postoperative electrical stimulation as an adjunct to spinal fusion surgery. When compared to sham, placebo-controlled, or no stimulation, patients treated with postoperative electrical stimulation have significantly greater rates of successful radiographically defined fusions. According to the investigators, these results are supported by a notably high statistically significant effect, a narrow confidence interval, and the inclusion of only high-quality randomized trials with human subjects.
+
+Aleem et al. (2016) conducted a meta-analysis of randomized sham-controlled trials to assess the efficacy of electrical stimulation for bone healing. Outcomes were pain relief, functional improvement, and radiographic nonunion. Fifteen trials
+
+Electrical and Ultrasound Bone Growth Stimulators UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 4 of 9 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+met the inclusion criteria. Four trials included patients undergoing spinal fusion, five trials evaluated fresh fracture treatment, five trials examined treatment of delayed or nonunion, and one study included patients undergoing surgical osteotomy. According to the investigators, this systematic review and meta-analysis showed that patients treated with electrical stimulation as an adjunct for bone healing experience lower rates of radiographic nonunion or persistent nonunion and have significantly less pain. The results related to pain reduction were mainly due to one trial that evaluated electrical stimulation for spinal fusion surgery. The trials that evaluated electrical stimulation for nonunion or delayed union of long bones did not show statistically significant pain reduction nor a statistically significant difference at the level of meta-analysis between treatment and control groups for the radiographic union outcome (risk ratio for persistent nonunion compared to sham: 0.55, 95%CI: 0.29 to 1.12). The investigators also indicated that no difference was seen in functional outcomes in a limited number of trials. According to the investigators, future trials focusing on functional outcomes are needed.
+
+Ebrahim et al. (2014) performed a meta-analysis comparing low intensity pulsed ultrasonography (LIPUS) or electrical stimulation (ESTIM) to control fracture healing as well as a network meta-analysis to compare the two approaches indirectly. The investigators searched the reference lists of recent reviews evaluating LIPUS and ESTIM that included studies published up to 2011 from 4 electronic databases. Eligible trials were those that included patients with a fresh fracture or an existing delayed union or nonunion who were randomized to LIPUS or ESTIM. Standard and network meta- analytic techniques were used to synthesize the data. Seven trials evaluating ESTIM (3 fresh fracture and 5 nonunion populations) which reported union rates as one of their outcomes were included in the meta-analyses. The investigators found that in patients with a delayed union or nonunion, very low-quality evidence showed that ESTIM, when compared with standard care, had a suggested non statistically significant benefit on union rates at 3 months but no significant effect at 6 months or at 12 months. Further studies are needed to support the use of ESTIM for improving union rates of fractures.
+
+Shi et al. (2013) reported a randomized sham-controlled trial that included 58 patients with delayed union of surgically reduced long-bone fractures (femur, tibia, humerus, radius, or ulna). Delayed union was defined as a failure to heal after at least 16 weeks and not more than 9 months following surgical reduction and fixation of the fracture. Patients with fracture nonunion, defined as failure to heal after more than 9 months, were excluded from the study. Treatment with 8 hours of pulsed electromagnetic field therapy (PEMF) per day was stopped when no radiographic progression was observed over 3 months or when union was achieved, with union defined as no pain during joint stressing or during motion at the fracture site and callus bridging for 3 out of 4 cortices on blinded assessment. Three months of treatment resulted in a slight, but not statistically significant, improvement in the rate of union between PEMF-treated patients and controls (38.7% vs. 22.2%). The success rate was significantly greater with PEMF (77.4% vs. 48.1%) after an average of 4.8 months of treatment. The time to union was not significantly different between PEMF (4.8 months; range, 2-12) and sham controls (4.4 months; range, 2-7).
+
+A systematic review of electrical stimulation to enhance bone healing by Griffin and Bayat identified 105 clinical studies and 35 in vitro studies of the technology. Direct current was found to be effective in enhancing bone healing in spinal fusion, as supported by four studies at level of evidence 1 (randomized control trial). The authors found support for its use for nonunion fractures, but only based on level of evidence 4 (case series). Eleven studies were retrieved for capacitive coupling suggesting its effectiveness for spinal fusion but, for treating nonunions, the findings were conflicting. Studies of inductive coupling for long bones had conflicting findings. Overall, the studies, although in favor of electrical stimulation application in bone repair, displayed variability in treatment regime, primary outcome measures, follow-up times, and study design, making critical evaluation and assessment difficult (Griffin and Bayat, 2011).
+
+A randomized controlled trial by Foley et al. (2008) tested the efficacy of PEMF stimulation to support cervical fusion in 323 participants with compressed cervical nerve root and symptomatic radiculopathy appropriate to the compressed root that had failed to respond to nonoperative management. While the group randomized to PEMF showed a significantly higher fusion rate than the control group (83.6% vs. 68.6%, p = 0.0065) at six months, the group difference disappeared at 12 months post-surgery (92.8% vs. 86.7%, p = 0.1129). Additionally, the study failed to show any group difference in patient-centered outcome such as pain scores, neck disability index, or functional status at 6 or 12 months. The authors concluded that although PEMF stimulation appeared to hasten bone healing in this randomized trial, it did not result in a significant advantage in terms of ultimate fusion rates or clinical outcomes for cervical fusion.
+
+Clinical Practice Guidelines Current specialty society guidelines support the use of noninvasive electrical bone growth stimulators following spinal fusion. They suggest that when choosing a device (capacitive coupling stimulation (CCS) versus pulsed electromagnetic field stimulation (PEMFS), the surgical approach and procedure should be taken into consideration.
+
+Electrical and Ultrasound Bone Growth Stimulators UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 5 of 9 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+American Association of Neurological Surgeons (AANS) and Congress of Neurological Surgeons (CNS) A 2014 update to the (AANS) and (CNS) guidelines for bone growth stimulators as an adjunct for lumbar spinal fusion found no new evidence that conflicted with their original 2005 recommendations supporting the use of CCS to enhance fusion rates in patients at high risk of nonunion undergoing posterior lumbar fusion and PEMFS in high-risk patients following interbody fusion (Kaiser et al., 2014).
+
+North American Spine Society (NASS) NASS coverage policy recommendations agree with AANS recommendations for spinal indications. According to this document, the current evidence is insufficient to support a coverage recommendation for the use of low intensity pulsed ultrasound or combined magnetic field technology for spinal use, in their opinion, electrical stimulation for augmentation of spinal fusion is indicated for all regions of the spine in individuals at high risk for pseudoarthrosis with specific criteria (i.e., fusion of 3 or more vertebrae, revision spinal fusion, smokers who cannot stop smoking prior to fusion [e.g., trauma], and in the presence of comorbidities). Electrical stimulation is not indicated for a primary spinal fusion without risk factors, spinal fusion of two vertebral levels without risk factors, presence of malignancy, as an adjunct for primary bone healing of a spinal fracture, and as nonsurgical treatment of an established pseudarthrosis (NASS, 2016).
+
+Ultrasonic Bone-Growth Stimulators (UBGS) The evidence in peer-reviewed literature for UBGS is insufficient to evaluate health outcomes as a treatment for all other indications except for the treatment of nonunion of long bone fractures. Further evidence from large, controlled trials is needed to demonstrate that the results have significant impact on clinical care and are superior to currently available alternatives.
+
+Hayes published an Evidence Analysis Research Brief (EARB) on ultrasound bone growth stimulation (UBGS) for foot and ankle nonunion or delayed union fractures and determined that there is adequate published peer-reviewed literature available for evaluation of low-intensity pulsed ultrasound (LIPUS) bone growth stimulation; however, the report did not contain any conclusions about the safety and effectiveness of this technology as they did not perform a full appraisal of the 3 abstracts they identified, which consisted of one propensity-matched cohort study and two single-arm studies. Their last Health Technology Assessment (HTA) on UGBS was archived in October 2020 (2022).
+
+Another EARB published by Hayes in 2022 focused on UBGS for non-spinal arthrodesis found that there was not enough published, peer-reviewed literature to evaluate the evidence. The report did not identify any new studies that evaluated UBGS as an adjunct to arthrodesis in non-spinal indications and only two single-arm abstracts that evaluated the effectiveness of UBGS in post-surgical nonunion.
+
+The 2018 NICE guideline that address low-intensity pulsed ultrasound for treatment of delayed-union and non-union fractures states, “the evidence for low-intensity pulsed ultrasound to promote healing of delayed-union and non-union fractures raises no major safety concerns. The current evidence does not show efficacy. Therefore, this procedure should only be used with special arrangements for clinical governance, consent and audit or research.”
+
+NICE also published a guideline on the use of low-intensity pulsed ultrasound to promote healing of fresh fractures at low risk of non-healing (2018). In this guideline, NICE recommendations state that this procedure should not be used for this indication due to lack of efficacy.
+
+Leighton et al. (2017) reported the results of a systematic review (SR) and meta-analysis of published literature that explored the use of low-intensity pulsed ultrasound (LIPUS) as a treatment of nonunions. A total of 13 eligible papers, including one RCT, reporting the results of LIPUS for the treatment of 1441 nonunions of the tibia, humerus, radius, ulna, and femur were evaluated. The quality of the studies was scored using the Methodological Index for Non-Randomized Studies. Quality scores ranged from 5 to 12, with an “ideal” score for a nonrandomized trial being 16. The pooled estimate of effect size for heal rate was 82% for any anatomical site and fracture age of at least 3 months, although statistical heterogeneity was identified across all primary studies. With a stricter definition of nonunion as fracture age of at least eight months duration, the pooled estimate of effect size rose to 84%. No statistically significant difference was detected between upper and lower extremity long bone nonunions in heal rate. Favorable results of LIPUS intervention were obtained when LIPUS was used as an alternative rather than as an adjuvant to surgery. An interval without surgery of less than 6 months prior to LIPUS was associated with a more favorable result. This systematic review and meta-analysis support the use of LIPUS in patients with a nonunion. Schofer et al. (2010) which was previously cited in this policy is included in the Leighton et al. (2017) systematic review and meta-analysis.
+
+Electrical and Ultrasound Bone Growth Stimulators UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 6 of 9 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Biglari et al. (2016) reported results of a case-controlled study comparing participant with successful and unsuccessful fusion after use of LIPUS for long bone fractures, Data from October 2010 to October 2013 from nonunions in 60 patients treated with EXOGEN® LIPUS therapy were analyzed. Treatment was primarily done on long bones of the lower extremity. All 61 nonunions were examined after treatment, and the rate of healing as well as functional and subjective results were evaluated. Based on clinical and radiological findings, patients were divided into two groups: G1—successful treatment; and G2—unsuccessful treatment. Groups were compared to one another to identify possible factors influencing treatment. Nonunions were classified according to the non-union scoring system (NUSS). Bone quality was evaluated according to the classification from Weber and Čech. The gap size, the Paley classification, bone quality, and the bone position were also evaluated. The average gap size was 0.67 ±0.55 (0–3) cm. In this study, patients with small gap sizes and a low NUSS score benefited most from LIPUS treatment. The strength of this study is the low dropout rate and the regular follow-up scheme. This allowed one to observe the course of the healing process in all patients over an entire year. The authors concluded that “a gap larger than 1 cm was associated with an increased risk of treatment failure.”
+
+Hannemann et al. (2014) published a systematic review with meta-analysis of 13 RCTs comparing pulsed electromagnetic fields (PEMF) or low-intensity pulsed ultrasound (LIPUS) bone growth stimulation with placebo for fresh fractures. Three hundred and fifty-five participants were treated with LIPUS or PEMF, and 382 participants were treated with a placebo device. No significant differences were found in time to radiological union between PEMF or LIPUS and placebo (mean difference = -13.32, 95% CI = -32.71 to 6.06, p = 0.18), however, in pooled data analyses, heterogenous results that significantly favored PEMF or LIPUS treatment specifically in non-operatively managed fractures were identified (mean difference = -26.65, 95% CI = -50.35 to -2.91, p = 0.03). In addition, pooled analysis of the three studies comparing PEMF or LIPUS with placebo of the upper limb found heterogenous results of significantly reduced time to radiological union in this group compared to control (mean difference = -20.23, 95% CI -32.68 to -7.77, p = 0.001). There was considerable heterogeneity in the outcome parameter of time to radiological union, which is considered a limitation of the study. The authors concluded that bone growth stimulation with LIPUS or PEMF decreases healing time to radiological union for fresh fractures undergoing non-operative treatment and fractures of the upper limb. The clinical significance of these findings is however unclear and the inconsistency of the findings across outcomes limits the clinical implication of the data for acute fracture.
+
+Another systematic review and network meta-analysis of 27 eligible trials that included patients with a fresh fracture suggested benefit of LIPUS at six months, but the findings were not statistically significant. In patients with an existing nonunion or delayed union, electrical stimulation had a possible benefit over standard care on union rates at three months, but, again, the findings were not statistically significant. The study concluded that there is only very low-quality evidence suggesting a potential benefit of low-intensity versus electrical stimulation in improving union rates at six months in fresh-fracture populations (Ebrahim et al., 2014). The findings are limited by the inherently indirect nature of network meta-analyses.
+
+U.S. Food and Drug Administration (FDA)
+
+This section is to be used for informational purposes only. FDA approval alone is not a basis for coverage.
+
+The FDA regards bone growth stimulators as significant-risk (Class III) devices. Because the list of products used for bone growth stimulation is extensive, refer to the following website for more information and search by product name in the Device Name field on either the 510(k) page or on the Premarket Approvals page using Product Codes LOE (for stimulator, invasive bone growth), LOF (for stimulator, bone growth, non-invasive), or LPQ (for ultrasound bone growth stimulators): http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPMN/pmn.cfm. (Accessed August 6, 2024)
+
+References
+
+Agency for Healthcare Research and Quality (AHRQ). The role of bone growth stimulating devices and orthobiologics in healing nonunion fractures. Technology assessment program. Prepared by ECRI Evidence-based Practice Center (EPC) (Schoelles et al.). September 21, 2005.
+
+Akhter S, Qureshi AR, Aleem I, et al. Efficacy of electrical stimulation for spinal fusion: A systematic review and meta- analysis of randomized controlled trials. Sci Rep. 2020 Mar 12;10(1):4568.
+
+Aleem IS, Aleem I, Evaniew N, et al. Efficacy of electrical stimulators for bone healing: a meta-analysis of randomized sham-controlled trials. Sci Rep. 2016 Aug 19;6:31724.
+
+Biglari B, Yildirim TM, Swing T, et al. Failed treatment of long bone nonunions with low intensity pulsed ultrasound. Arch Orthop Trauma Surg. 2016 Aug;136(8):1121-34.
+
+Electrical and Ultrasound Bone Growth Stimulators UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 7 of 9 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Caliogna L, Medetti M, Bina V, et al. Pulsed electromagnetic fields in bone healing: molecular pathways and clinical applications. Int J Mol Sci. 2021 Jul 9;22(14):7403.
+
+Ebrahim S, Mollon B, Bance S, et al. Low-intensity pulsed ultrasonography versus electrical stimulation for fracture healing: a systematic review and network meta-analysis. Canadian Journal of Surgery. 2014 Oct;57(5):297.
+
+ECRI. Cervical-Stim electrical bone growth stimulation (Orthofix Medical, Inc.) for facilitating healing after cervical fusion. Plymouth Meeting (PA): ECRI; 2021 Feb 23. (Clinical Evidence Assessment).
+
+ECRI. Noninvasive electric bone growth stimulators for treating nonunion fractures. Plymouth Meeting (PA): ECRI; 2024 Apr 4. Clinical Evidence Assessment.
+
+Foley KT, Mroz TE, Arnold PM, et al. Randomized, prospective, and controlled clinical trial of pulsed electromagnetic field stimulation for cervical fusion. Spine J. 2008 May-Jun;8(3):436-42.
+
+Griffin M, Bayat A. Electrical stimulation in bone healing: critical analysis by evaluating levels of evidence. Eplasty. 2011;11: e34. Epub 2011 Jul 26.
+
+Haglin JM, Jain S, Eltorai AEM, Daniels AH. Bone growth stimulation: A critical analysis review. JBJS Rev. 2017 Aug;5(8):e8.
+
+Hannemann PF, Mommers EH, Schots, et al. The effects of low-intensity pulsed ultrasound and pulsed electromagnetic fields bone growth stimulation in acute fractures: a systematic review and meta-analysis of randomized controlled trials. Archives of orthopaedic and trauma surgery. 2014 Aug;134(8):1093-106.
+
+Hayes Inc. Directory Report. Noninvasive electrical bone growth stimulators for spinal fusion or foot and ankle indications. Lansdale, PA: Hayes Inc.; September 2016. Updated January 2021. Archived October 2021.
+
+Hayes Inc. Evidence Analysis Research Brief. Noninvasive electrical bone growth stimulation for cervical spinal fusion. Lansdale, PA: Hayes Inc.; January 2022.
+
+Hayes Inc. Evidence Analysis Research Brief. Noninvasive electrical bone growth stimulation for non-spinal arthrodesis. Lansdale, PA: Hayes Inc.; January 2022.
+
+Hayes Inc. Evidence Analysis Research Brief. Ultrasound bone growth stimulation for foot and ankle nonunion or delayed union fractures. Lansdale, PA: Hayes Inc.; February 2022.
+
+Hayes Inc. Evidence Analysis Research Brief. Ultrasound bone growth stimulation for non-spinal arthrodesis. Lansdale, PA: Hayes Inc.; January 2022.
+
+Kaiser MG, Eck JC, Groff MW, et al. Guideline update for the performance of fusion procedures for degenerative disease of the lumbar spine. Part 17: Bone growth stimulators as an adjunct for lumbar fusion. J Neurosurg Spine. 2014 Jul;21(1):133-9.
+
+Leighton R, Watson JT, Giannoudis P, et al. Healing of fracture nonunions treated with low-intensity pulsed ultrasound (LIPUS): A systematic review and meta-analysis. Injury. 2017 Jul;48(7):1339-1347.
+
+Mehmood M, Deshpande S, Khan SM, et al. Epidemiology of delayed union of long bones. J Trauma Treat. 2017 April; 6(2): 370.
+
+Morshed S. Current options for determining fracture union. Adv Med. 2014;2014:708574.
+
+National Institute for Health and Care Excellence (NICE). Low-intensity pulsed ultrasound to promote healing of fresh fractures at low risk of non-healing [IPG621]. 2018.
+
+National Institute for Health and Care Excellence (NICE). Low-intensity pulsed ultrasound to promote healing of delayed- union and non-union fractures [IPG623]. 2018.
+
+North American Spine Society. Electrical Stimulation for Bone Healing. Coverage Policy Recommendations. August 2016.
+
+Peng L, Fu C, Xiong F, et al. Effectiveness of pulsed electromagnetic fields on bone healing: a systematic review and meta-analysis of randomized controlled trials. Bioelectromagnetics. 2020 Jul;41(5):323-337.
+
+Schofer MD, Block JE, Aigner J, et al. Improved healing response in delayed unions of the tibia with low-intensity pulsed ultrasound: results of a randomized sham-controlled trial. BMC Musculoskelet Disord. 2010 Oct 8; 11:229.
+
+Shi HF, Xiong J, Chen YX, et al. Early application of pulsed electromagnetic field in the treatment of postoperative delayed union of long-bone fractures: a prospective randomized controlled study. BMC Musculoskelet Disord. 2013 Jan 19; 14:35.
+
+Thomas JD, Kehoe JL. Bone nonunion. 2022 May 8. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2022 Jan–. PMID: 32119272.
+
+Electrical and Ultrasound Bone Growth Stimulators UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 8 of 9 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Policy History/Revision Information
+
+Date 05/01/2025
+
+Summary of Changes
+
+Template Update • Created shared policy version to support application to Rocky Mountain Health Plans
+
+membership
+
+Application Individual Exchange • Removed language indicating this Medical Policy does not apply to the state of Colorado Supporting Information • Archived previous policy version 2025T0561U
+
+Instructions for Use
+
+This Medical Policy provides assistance in interpreting UnitedHealthcare standard benefit plans. When deciding coverage, the member specific benefit plan document must be referenced as the terms of the member specific benefit plan may differ from the standard plan. In the event of a conflict, the member specific benefit plan document governs. Before using this policy, please check the member specific benefit plan document and any applicable federal or state mandates. UnitedHealthcare reserves the right to modify its Policies and Guidelines as necessary. This Medical Policy is provided for informational purposes. It does not constitute medical advice.
+
+This Medical Policy may also be applied to Medicare Advantage plans in certain instances. In the absence of a Medicare National Coverage Determination (NCD), Local Coverage Determination (LCD), or other Medicare coverage guidance, CMS allows a Medicare Advantage Organization (MAO) to create its own coverage determinations, using objective evidence-based rationale relying on authoritative evidence (Medicare IOM Pub. No. 100-16, Ch. 4, §90.5).
+
+UnitedHealthcare may also use tools developed by third parties, such as the InterQual® criteria, to assist us in administering health benefits. UnitedHealthcare Medical Policies are intended to be used in connection with the independent professional medical judgment of a qualified health care provider and do not constitute the practice of medicine or medical advice.
+
+Electrical and Ultrasound Bone Growth Stimulators UnitedHealthcare Commercial and Individual Exchange Medical Policy
+
+Page 9 of 9 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.

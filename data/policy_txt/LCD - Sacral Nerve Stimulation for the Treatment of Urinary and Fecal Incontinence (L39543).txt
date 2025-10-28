@@ -1,0 +1,797 @@
+10/10/25, 5:27 PM
+
+LCD - Sacral Nerve Stimulation for the Treatment of Urinary and Fecal Incontinence (L39543)
+
+Local Coverage Determination (LCD)
+
+Sacral Nerve Stimulation for the Treatment of Urinary and Fecal Incontinence
+
+L39543
+
+Links in PDF documents are not guaranteed to work. To follow a web link, please use the MCD
+
+Website.
+
+Contractor Information
+
+Contractor Name
+
+Contract Number
+
+Contract Type
+
+Jurisdiction
+
+States
+
+Palmetto GBA
+
+A and B MAC
+
+10111 - MAC A
+
+J - J
+
+Alabama
+
+Palmetto GBA
+
+A and B MAC
+
+10112 - MAC B
+
+J - J
+
+Alabama
+
+Palmetto GBA
+
+A and B MAC
+
+10211 - MAC A
+
+J - J
+
+Georgia
+
+Palmetto GBA
+
+A and B MAC
+
+10212 - MAC B
+
+J - J
+
+Georgia
+
+Palmetto GBA
+
+A and B MAC
+
+10311 - MAC A
+
+J - J
+
+Tennessee
+
+Palmetto GBA
+
+A and B MAC
+
+10312 - MAC B
+
+J - J
+
+Tennessee
+
+Palmetto GBA
+
+A and B and HHH MAC
+
+11201 - MAC A
+
+J - M
+
+South Carolina
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39543&ver=5
+
+1/14
+
+10/10/25, 5:27 PM
+
+LCD - Sacral Nerve Stimulation for the Treatment of Urinary and Fecal Incontinence (L39543)
+
+Contractor
+
+Contract
+
+Name
+
+Contract Type
+
+Number
+
+Jurisdiction
+
+States
+
+Palmetto GBA
+
+A and B and
+
+11202 - MAC
+
+J - M
+
+South
+
+HHH MAC
+
+B
+
+Carolina
+
+Palmetto GBA
+
+A and B and
+
+11301 - MAC
+
+J - M
+
+Virginia
+
+HHH MAC
+
+A
+
+Palmetto GBA
+
+A and B and
+
+11302 - MAC
+
+J - M
+
+Virginia
+
+HHH MAC
+
+B
+
+Palmetto GBA
+
+A and B and HHH MAC
+
+11401 - MAC A
+
+J - M
+
+West Virginia
+
+Palmetto GBA
+
+A and B and
+
+11402 - MAC
+
+J - M
+
+West
+
+HHH MAC
+
+B
+
+Virginia
+
+Palmetto GBA
+
+A and B and
+
+11501 - MAC
+
+J - M
+
+North
+
+HHH MAC
+
+A
+
+Carolina
+
+Palmetto GBA
+
+A and B and HHH MAC
+
+11502 - MAC B
+
+J - M
+
+North Carolina
+
+LCD Information
+
+Document Information
+
+LCD ID
+
+L39543
+
+LCD Title
+
+Sacral Nerve Stimulation for the Treatment of Urinary and Fecal Incontinence
+
+Proposed LCD in Comment Period
+
+N/A
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39543&ver=5
+
+2/14
+
+10/10/25, 5:27 PM
+
+LCD - Sacral Nerve Stimulation for the Treatment of Urinary and Fecal Incontinence (L39543)
+
+Source Proposed LCD
+
+DL39543
+
+Original Effective Date
+
+For services performed on or after 11/05/2023
+
+Revision Effective Date
+
+N/A
+
+Revision Ending Date
+
+N/A
+
+Retirement Date
+
+N/A
+
+Notice Period Start Date
+
+09/21/2023
+
+Notice Period End Date
+
+11/04/2023
+
+CPT codes, descriptions, and other data only are copyright 2024 American Medical Association. All Rights Reserved. Applicable FARS/HHSARS apply.
+
+Fee schedules, relative value units, conversion factors and/or related components are not assigned by the AMA, are not
+
+part of CPT, and the AMA is not recommending their use. The AMA does not directly or indirectly practice medicine or dispense medical services. The AMA assumes no liability for data contained or not contained herein.
+
+Current Dental Terminology © 2024 American Dental Association. All rights reserved.
+
+Copyright © 2025, the American Hospital Association, Chicago, Illinois. Reproduced with permission. No portion of the AHA
+
+copyrighted materials contained within this publication may be copied without the express written consent of the AHA. AHA copyrighted materials including the UB‐04 codes and descriptions may not be removed, copied, or utilized within any software, product, service, solution, or derivative work without the written consent of the AHA. If an entity wishes to utilize
+
+any AHA materials, please contact the AHA at 312‐893‐6816.
+
+Making copies or utilizing the content of the UB‐04 Manual, including the codes and/or descriptions, for internal purposes, resale and/or to be used in any product or publication; creating any modiﬁed or derivative work of the UB‐04 Manual and/or
+
+codes and descriptions; and/or making any commercial use of UB‐04 Manual or any portion thereof, including the codes and/or descriptions, is only authorized with an express license from the American Hospital Association. The American Hospital Association (the "AHA") has not reviewed, and is not responsible for, the completeness or accuracy of any
+
+information contained in this material, nor was the AHA or any of its afﬁliates, involved in the preparation of this material,
+
+or the analysis of information provided in the material. The views and/or positions presented in the material do not necessarily represent the views of the AHA. CMS and its products and services are not endorsed by the AHA or any of its
+
+afﬁliates.
+
+Issue
+
+Issue Description
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39543&ver=5
+
+3/14
+
+10/10/25, 5:27 PM
+
+LCD - Sacral Nerve Stimulation for the Treatment of Urinary and Fecal Incontinence (L39543)
+
+This LCD outlines limited coverage for this service with speciﬁc details under Coverage Indications, Limitations and/or Medical Necessity.
+
+Issue - Explanation of Change Between Proposed LCD and Final LCD
+
+The LCD language regarding length of time for basic testing has been changed to be
+
+consistent with FDA language and other payor policies.
+
+CMS National Coverage Policy
+
+Title XVIII of the Social Security Act, §1862(a)(1)(A) allows coverage and payment for only
+
+those services that are considered to be reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member
+
+Title XVIII of the Social Security Act, §1862(a)(7) states Medicare will not cover any services or procedures associated with routine physical checkups
+
+CMS Internet-Only Manual, Pub. 100-03, Medicare National Coverage Determinations (NCD)
+
+Manual, Chapter 1, Part 4, §230.18 Sacral Nerve Stimulation for Urinary Incontinence
+
+CMS Internet-Only Manual, Pub. 100-08, Medicare Program Integrity Manual, Chapter 13, §13.5.4 Reasonable and Necessary Provision in an LCD
+
+Coverage Guidance
+
+Coverage Indications, Limitations, and/or Medical Necessity
+
+Urinary incontinence refers to the involuntary loss of urine.
+
+The overall prevalence of overactive bladder (OAB) in the total United States (U.S.) population was 23.3%, with women reporting OAB almost twice as frequently as men
+
+19
+
+(30.0% vs. 16.4%, respectively). of incontinence. For noninstitutionalized persons older than 60 years of age, prevalence ranges from 15-35%, with women having twice the prevalence of men.
+
+Nearly half of nursing home residents have some degree
+
+17
+
+Sacral nerve stimulation (SNS) delivers nonpainful, electrical pulses to the sacral nerves to
+
+modulate reﬂexes that inﬂuence the bladder, sphincter, and pelvic ﬂoor to improve or restore function. SNS has been approved for use in treating urinary incontinence in the U.S. since 1997.
+
+4
+
+2
+
+In 2011, SNS was U.S. Food and Drug Administration (FDA) approved for the indication of
+
+4
+
+fecal incontinence (FI). The chronic involuntary loss of stool is a life altering circumstance. In the older population, this represents 1 of the single most frequent precipitating factors for entrance into a nursing home. FI is a common symptom, with a prevalence that ranges from
+
+2
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39543&ver=5
+
+4/14
+
+10/10/25, 5:27 PM
+
+LCD - Sacral Nerve Stimulation for the Treatment of Urinary and Fecal Incontinence (L39543)
+
+7-15% in community dwelling men and women, but it is often underreported, as providers seldom screen for FI and patients do not volunteer the symptom, even though the symptoms can have a devastating impact on quality of life (QOL).The strongest independent risk factors for FI in the community are bowel disturbances, especially diarrhea, the symptom of 3
+
+rectal urgency, and burden of chronic illness.
+
+Sacral neuromodulation (SNM) is a guideline recommended treatment for voiding dysfunction including urgency, urge incontinence, and nonobstructive retention as well as FI.
+
+SNS is covered for the treatment of urinary urge incontinence, urgency-frequency syndrome,
+
+and urinary retention by the Centers for Medicare and Medicaid Services (CMS) National Coverage Determination (NCD) §230.18 Sacral Nerve Stimulation for Urinary Incontinence. Direct stimulation of the sacral nerve(s) via an electrode array implanted at the level of the 1 sacrum is the only treatment modality covered by the NCD.
+
+Covered Indications
+
+Urinary Incontinence
+
+SNS is covered for the treatment of urinary urge incontinence, urgency-frequency syndrome, and nonobstructive urinary retention. SNS involves both a temporary test stimulation to determine if an implantable stimulator would be effective and a permanent implantation in
+
+1
+
+appropriate candidates. Both the test and the permanent implantation are covered.
+
+Limitations
+
+NCD §230.18 Sacral Nerve Stimulation for Urinary Incontinence describes the following limitations for coverage to apply to all 3 indications:
+
+Patient must be refractory to conventional therapy (documented behavioral (such as
+
+bladder training, or pelvic muscle exercise training), pharmacologic and /or surgical corrective therapy) and be an appropriate surgical candidate such that implantation with anesthesia can occur. Patients with stress incontinence, urinary obstruction, and speciﬁc neurologic disease
+
+(e.g., diabetes with peripheral nerve involvement, multiple sclerosis, spinal cord injury) which are associated with secondary manifestations of the above 3 indications are excluded. Patient must have had a successful test stimulation in order to support subsequent
+
+implantation. Before a patient is eligible for permanent implantation, he/she must demonstrate a 50% or greater improvement through test stimulation. Improvement is measured through voiding diaries.
+
+Patient must be able to demonstrate adequate ability to record voiding diary data such that clinical results of the implant procedure can be properly evaluated.
+
+1
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39543&ver=5
+
+5/14
+
+10/10/25, 5:27 PM
+
+LCD - Sacral Nerve Stimulation for the Treatment of Urinary and Fecal Incontinence (L39543)
+
+Covered Indications /Limitations
+
+Fecal Incontinence (FI)
+
+This A/B Medicare Administrative Contractor (MAC) will cover SNS for FI, when all of the following criteria are met:
+
+Chronic FI with greater than 2 incontinent episodes on average per week and duration of incontinence greater than 6 months or for more than 12 months after vaginal childbirth; AND Documented failure or intolerance to conventional therapy (e.g., dietary modiﬁcation,
+
+the addition of bulking and pharmacologic treatment); AND A successful percutaneous test stimulation, deﬁned as at least 50% sustained (more than 48 hours) improvement in symptoms; AND Condition is not related to anorectal malformation (e.g., congenital malformation,
+
+defects of the external anal sphincter over 60 degrees, visible sequelae of pelvic radiation, active anal abscesses and ﬁstulae) and /or chronic inﬂammatory bowel disease; AND
+
+Incontinence is not related to another neurologic condition such as peripheral neuropathy or complete spinal cord injury.
+
+SNS is considered experimental, investigational for the treatment of chronic constipation or chronic pelvic pain (CPP).
+
+Summary of Evidence
+
+2
+
+Wexner, et al. conducted a multicentered prospective trial to determine the safety and efﬁcacy of SNS in a large population under the rigors of FDA approved investigational protocol. Patients showing ≥50% improvement during test stimulation received chronic implantation of the InterStim Therapy (Medtronic; Minneapolis MN). The primary efﬁcacy objective was to demonstrate that ≥50% of subjects would achieve therapeutic success, deﬁned as ≥50% reduction of incontinent episodes per week at 12 months compared with baseline. At 12 months, 83% of subjects achieved therapeutic success (95% conﬁdence interval: 74%-90%; P<0.0001), and 41% achieved 100% continence. Therapeutic success was 85% at 24 months. Incontinent episodes decreased from a mean of 9.4 per week at baseline to 1.9 at 12 months and 2.9 at 2 years. There were no reported unanticipated adverse device effects associated with InterStim Therapy. They concluded that SNS using
+
+TM
+
+TM
+
+TM
+
+InterStim Therapy is a safe and effective treatment for patients with FI.
+
+4
+
+Noblett, et al. reviewed the history, mechanism of action, evolution, and landmark literature for this treatment modality. They concluded that the treatment of neuromodulation for the treatment of refractory voiding and bowel dysfunction has provided an effective alternative
+
+therapy for patients who have failed more conservative treatments. Data supports the long- term efﬁcacy and safety of SNS for the treatment of bladder and bowel dysfunction.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39543&ver=5
+
+6/14
+
+10/10/25, 5:27 PM
+
+LCD - Sacral Nerve Stimulation for the Treatment of Urinary and Fecal Incontinence (L39543)
+
+7
+
+Siegel, et al. conducted a multicenter clinical trial to measure the effectiveness of SNS in 10 patients with chronic intractable pelvic pain. They performed a prospective nonrandomized study to characterize the safety and efﬁcacy of SNS for chronic intractable pelvic and /or urogenital pain in 10 patients with a history of pelvic pain that persisted for at least 6 months and was refractory to conventional treatment. Due to their small sample size they did not anticipate that the data from this study would be suitable for statistical analysis. They concluded that the data in their feasibility study implied that transforaminal SNS
+
+decreases the severity, number of hours, and rate of pain in patients with chronic intractable pelvic pain. From a clinical viewpoint, 6 of 10 patients reported substantial beneﬁt from treatment. A multicenter, statistically powered study should be performed to evaluate the validity of these trends.
+
+8
+
+Paquette, et al. conducted an organized search of Medline, PubMed, Embase, and the
+
+Cochrane Database of Collected Reviews. The scope of this updated practice parameter was to address the evaluation and management of patients with FI based on a thorough review of the published literature. SNM is thought to modulate rectal sensation by activating or deactivating chemical mediating receptors, stimulating the afferent pathway, and changing brain activity relevant to the continence mechanism. SNM has been consistently shown to result in a reduction in frequency of FI episodes. Pooled analysis of all studies to date indicates that 79% (69-83%) of patients experience ≥50% improvements in weekly FI episodes in the short term (0-12 months) and 84% of patients experience ≥50% improvement at long-term (>36 month) follow-up when a per protocol analysis is followed (only patients who received a full system implant are analyzed). SNM may be considered as a ﬁrst line surgical option for incontinent patients. Grade of Recommendation: Strong recommendation based on moderate quality evidence, 1B.
+
+9
+
+Mahran, et al. performed a systematic review study that comprised a systematic search and summary of the literature related to the use of SNM in improving the symptoms of CPP. The search was conducted using online databases: Medline, Embase, Cochrane, Web of Science, and Scopus for articles that studied the efﬁcacy of SNM in treating CPP. The primary outcome was pain improvement on a 10-point visual analog scale (VAS) in patients with CPP. Fourteen of 2175 studies, evaluating 210 patients were eligible for further
+
+analysis. The main ﬁnding of this systematic review is that SNM is an acceptable treatment option for CPP in selected patients. While the implantation rate is lower than it is for other indications, based on their analysis, the improvement in VAS pain score obtained by using SNM ranges between 35-52%. Pain improvement was better in patients with CPP due to etiologies other than interstitial cystitis/bladder pain syndrome (IC/BPS). They concluded, SNM is a promising treatment option for refractory CPP. Randomized prospective studies are warranted to compare SNM versus other modalities for CPP treatment.
+
+12
+
+Dinning, et al. efﬁcacy of permanent SNS in patients with slow transit constipation. Using the speciﬁc
+
+conducted the ﬁrst randomized, dual center, controlled trial to evaluate the
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39543&ver=5
+
+7/14
+
+10/10/25, 5:27 PM
+
+LCD - Sacral Nerve Stimulation for the Treatment of Urinary and Fecal Incontinence (L39543)
+
+primary outcome of the proportion of patients who, on more than 2 days/week for at least 2 of 3 weeks, report a bowel movement associated with a feeling of complete evacuation during suprasensory stimulation, they found no signiﬁcant difference in the response rate between permanent suprasensory SNS (30%) and sham stimulation (21%). They found no signiﬁcant difference in response rate between subsensory permanent SNS (25%) and sham (25%). When compared with sham, active stimulation had no signiﬁcant impact on any of the tertiary outcome measures (QOL, stool frequency, global satisfaction and bothersome
+
+scores, days/week laxative use, number of defecating episodes associated with straining, and /or a feeling of complete evacuation). They found a response rate of 21-30% in each treatment arm whether it be subsensory, suprasensory, or sham, which are rates that are traditionally expected from a placebo response. They concluded in patients with refractory slow transit constipation SNS did not improve the frequency of complete bowel movements over the 3-week active period.
+
+13
+
+Amundsen, et al. refractory episodes of urgency urinary incontinence. They conducted a multicenter open- label randomized trial (February 2012 - January 2015) at 9 U.S. medical centers involving 381 women with refractory urgency urinary incontinence. In this comparative effectiveness trial, onabotulinumtoxinA had a greater mean daily urgency urinary incontinence episode
+
+assessed whether onabotulinumtoxinA is superior to SNM in controlling
+
+reduction over 6 months than did the SNM group, -3.9 vs. -3.3 episodes per day, a statistically signiﬁcant but small difference. Urinary tract infections and need for self- catheterization were more frequent among women who received onabotulinumtoxinA. They concluded among women with refractory urgency urinary incontinence, treatment with onabotulinumtoxinA compared with SNM resulted in a small daily improvement in episodes that although statistically signiﬁcant is of uncertain clinical importance. In addition, it resulted in a higher risk of urinary tract infections and need for transient self-
+
+catheterizations.
+
+14
+
+Hull, et al. term durability of the therapy. Five-year data were analyzed. This prospective, nonrandomized, U.S. FDA - regulated study was conducted in 14 centers in the US, 1 in
+
+conducted a study to assess the outcome of SNS, or SNM, focusing on the long-
+
+Canada, and 1 in Australia from 2002 through 2012. Patients with chronic FI in whom conservative treatments had failed or who were not candidates for more conservative treatments received SNS with the use of InterStim Therapy (FDA-approved in March 2011, Medtronic, Minneapolis, MN) and were thereafter followed at predetermined intervals to evaluate the efﬁcacy and safety of the therapy. Patients were assessed with a 14-day bowel diary and Fecal Incontinence Quality of Life and Fecal Incontinence Severity Index questionnaires. Therapeutic success was deﬁned as ≥50% improvement over baseline in FI episodes per week. At 5 years post implantation, 89% (64/72) of patients contributing bowel
+
+TM
+
+diary data had at least a 50% improvement from baseline in weekly incontinent episodes (p<0.0001). In addition, 35% (26/72) of patients at 5 years post implantation had achieved
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39543&ver=5
+
+8/14
+
+10/10/25, 5:27 PM
+
+LCD - Sacral Nerve Stimulation for the Treatment of Urinary and Fecal Incontinence (L39543)
+
+total continence. The average number of weekly incontinent episodes decreased from 9.1 at baseline to 1.7 at 5 years (p<0.0001). This improvement from baseline was observed past 5 years. This study has multiple strengths including its long-term follow-up, the number of patients, the quality of the data, and the use of accepted tools to objectively study the patients before and after therapy. A limitation of this study is that it was not a randomized study with a control arm. Although that would have added to the credibility of the data, the
+
+present FDA-sanctioned study still used a rigorous design with strict collection of data at baseline and then regularly through and past 5 years. Another limitation of this study is that there were no prescribed program settings for the device. Patients were able to adjust the stimulation as they needed with portable programmers between visits. They concluded that this prospective study looking at the durability of SNS therapy has shown that the therapeutic effect and improvements in QOL are maintained through 5 years post implantation.
+
+16
+
+Siegel, et al. subjects using SNM (InterStim System) at 36 months. The InSite trial was designed to be implemented in 2 phases. Phase 1 was a prospective, multicenter, randomized trial comparing SNM to standard medical therapy with a 6-month follow-up period. It provided
+
+evaluated the therapeutic success rate, and changes in the QOL and safety in
+
+TM
+
+level 1 evidence for the objective and subjective superiority of SNM over standard medical therapy among OAB refractory patients and conﬁrmed the safety of currently used devices and techniques for SNM. The second phase of the InSite trial is a prospective evaluation of the safety and efﬁcacy of SNM in 5 years. They concluded the 36-month follow-up data from the multicenter study demonstrate sustained safety, effectiveness and improved QOL in subjects implanted with InterStim , without requiring failure of all medications. They reported results for all implanted subjects up to 3 years. Subjects will continue to be
+
+TM
+
+followed for 5 years to collect additional long-term data. The InSite trial is an ongoing, large, prospective multicenter study designed to evaluate the long-term safety and efﬁcacy of SNM for subjects with refractory symptoms of OAB. They reported the results after 3 years of therapy demonstrating that implanted subjects maintained improvements in OAB symptoms with QOL. The strength of the InSite study include the large number of subjects with protocol mandated follow-up, and the rigorous modiﬁed completer analysis with ongoing inclusion of subjects withdrawn for lack of beneﬁt or device related complications as failures. The weaknesses of this InSite study include the homogeneous population, with a
+
+minority of male subjects, which could detract from generalizability. Furthermore, centers were allowed to follow individual protocols regarding perioperative antibiotics, lead choice, and procedure techniques.
+
+18
+
+Benson, et al.
+
+conducted the ARTISAN-SNM study a single-arm, prospective, multi-center,
+
+®
+
+pivotal study that was designed to evaluate the safety and efﬁcacy of the Axonics System for the treatment of urinary urgency incontinence (UUI). The Axonics System provides SNM therapy for the treatment of OAB, nonobstructive urinary retention, and FI. With an
+
+®
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39543&ver=5
+
+9/14
+
+10/10/25, 5:27 PM
+
+LCD - Sacral Nerve Stimulation for the Treatment of Urinary and Fecal Incontinence (L39543)
+
+®
+
+approved functional life of at least 15 years, the Axonics System is the ﬁrst rechargeable SNM system available for use in the U.S. The Axonics System is approved for full body magnetic resonance imaging (MRI) scans. A total of 129 eligible participants were implanted with a quadripolar tined-lead and neurostimulator in a single procedure. Efﬁcacy data were collected using a 3-day bladder diary, a validated QOL questionnaire (ICIQ-OABqol), and a
+
+®
+
+participant satisfaction questionnaire. At 1 year, 89% of the participants were therapy responders. The average UUI episodes per day reduced from 5.6 ± 0.3 at baseline to 1.4 ± 0.2. Participants experienced an overall clinically meaningful improvement of 34 points on the ICIQ-OABqol questionnaire. All study participants (100%) were able to recharge their device at 1 year, and 96% of participants reported that the frequency and duration of recharging was acceptable. The strengths of this study include the conservative data analysis methods. In addition, the collection of recharging usability data provides insight into
+
+the patient charging experience, showing high patient satisfaction. Study limitations include that this was a nonrandomized study, with no comparator or placebo arm. However, given that SNM is a widely accepted treatment with well-known efﬁcacy, the use of a placebo was considered unnecessary.
+
+20
+
+Siegel, et al. years after InterStim™ implantation. This prospective study demonstrated the sustained efﬁcacy and safety of SNM in subjects with OAB after 5 years of treatment. The therapeutic success rate was 82% at 5 years and 85% at 1 year, which strongly demonstrates long- term durability in patients with SNM in clinical practice. Limitations include the homogeneous population with a minority of male subjects. Centers could follow individual protocols regarding perioperative antibiotics, lead choice, and procedure techniques. Although this approximates what is occurring in general practice with SNM therapy, this lack
+
+evaluated the therapeutic success rate, changes in QOL, and safety of SNM 5
+
+of standardization along with the potential impact on infection rates, device related complications, and ultimate therapy success or failure rates may have impacted the overall study results. They concluded statistically signiﬁcant treatment effects from baseline to 5 years were found in the cardinal symptoms of OAB (leaks and/or voids) and in QOL. In addition, the InSite for OAB study showed an InterStim therapy safety proﬁle that indicates a low rate of serious device related AEs (adverse events) and types of devices related AEs that are consistent with product labeling and the published literature.
+
+TM
+
+Analysis of Evidence (Rationale for Determination)
+
+The analysis of evidence reviewed for the SNS for the treatment of urinary and FI included a multicentered prospective nonrandomized trial, a systematic review study that comprised a systematic search and summary of the literature, randomized dual center-controlled trial, multicenter open-label randomized trial, and single-arm prospective multi-center pivotal study.
+
+The literature supports the long-term efﬁcacy and safety of SNS for the treatment of bladder and bowel dysfunction. The InSite trial for OAB success rate was 82% at 5 years and 85%
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39543&ver=5
+
+10/14
+
+10/10/25, 5:27 PM
+
+LCD - Sacral Nerve Stimulation for the Treatment of Urinary and Fecal Incontinence (L39543)
+
+at 1 year, which strongly demonstrates long-term durability in patients with SNM in clinical practice.
+
+The literature reviewed concluded that SNS is a safe and effective treatment for patients with FI. A Grade 1B recommendation.
+
+The literature did not support the use of SNM for chronic intractable pelvic pain. Further
+
+studies are warranted to compare SNM versus other modalities for CPP treatment.
+
+The literature reviewed did not support the use of sacral neurostimulation for chronic constipation.
+
+General Information
+
+Associated Information
+
+The patient’s medical record must contain documentation that fully supports the medical necessity for services included within this Local Coverage Determination (LCD) (see Coverage Indications, Limitations and/or Medical Necessity).
+
+The documentation must include the following:
+
+1. All documentation must be maintained in the patient's medical record and made
+
+available to the A/B MAC upon request.
+
+2. Complete history and physical examination (including voiding diaries, urodynamic
+
+studies for urinary incontinence).
+
+3. Patient must be refractory to conventional therapy. 4. Patient must have had a successful test stimulation in order to support subsequent
+
+implantation.
+
+Sources of Information
+
+N/A
+
+Bibliography
+
+1. CMS Internet-Only, Pub. 100-03, Medicare National Coverage Determinations (NCD)
+
+Manual, Chapter 1, Part 4, §230.18 Sacral Nerve Stimulation for Urinary Incontinence Accessed 8/10/23.
+
+.
+
+2. Wexner SD, Coller JA, Devroede G, et al. Sacral nerve stimulation for fecal incontinence: Results of a 120-patient prospective multicenter study. Ann Surg. 2010;251(3):441-449.
+
+3. Bharucha AE, Dunivan G, Goode PS, et al. Epidemiology, pathophysiology, and
+
+classiﬁcation of fecal incontinence: State of the science summary for the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) workshop. Am J Gastroenterol. 2015;110:127-136.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39543&ver=5
+
+11/14
+
+10/10/25, 5:27 PM
+
+LCD - Sacral Nerve Stimulation for the Treatment of Urinary and Fecal Incontinence (L39543)
+
+4. Noblett KL, Cadish LA. Sacral nerve stimulation for the treatment of refractory voiding
+
+and bowel dysfunction. Am J Obstet Gynecol. 2014;210:99-106.
+
+5. Balk EM, Rofeberg VN, Adam GP, et al. Pharmacologic and nonpharmacologic
+
+treatments for urinary incontinence in women: A systematic review and network meta- analysis of clinical outcomes. Ann Intern Med. 2019;170:465-479.
+
+6. Das AK, White MD, Longhurst PA. Sacral nerve stimulation for the management of
+
+voiding dysfunction. Rev Urol. 2000;2(1):43-52.
+
+7. Siegel S, Paszkiewicz E, Kirkpatrick C, Hinkel B, Oleson K. Sacral nerve stimulation in
+
+patients with chronic intractable pelvic pain. J Urol. 2001;166:1742-1745.
+
+8. Paquette IM, Varma MG, Kaiser AM, Steele SR, Rafferty JF. The American Society of
+
+Colon and Rectal Surgeons’ Clinical Practice Guideline for the treatment of fecal incontinence. Dis Colon Rectum. 2015;58:623-636.
+
+9. Mahran A, Baaklini G, Hassani D, et al. Sacral neuromodulation treating chronic pelvic
+
+pain: A meta-analysis and systemic review of literature. Int Urogynecol Journal.
+
+2019;30(7):1023-1035.
+
+10. Skull A, Hull TL. Sacral nerve stimulation for fecal incontinence. Expert Rev Med Devices.
+
+2012;9(5):477-482.
+
+11. Rao SS. Diagnosis and management of fecal incontinence. Am J Gastroenterol.
+
+2004;99(8):1585-1604.
+
+12. Dinning PG, Hunt L, Patton V, et al. Treatment efﬁcacy of sacral nerve stimulation in
+
+slow transit constipation: A two-phase, double-blind randomized controlled crossover
+
+study. Am J Gastroenterol. 2015;110:733-740.
+
+13. Amundsen CL, Richter HE, Menefee SA, et al. OnabotulinumtoxinA vs sacral
+
+neuromodulation on refractory urgency urinary incontinence in women: A randomized
+
+clinical trial. JAMA. 2016;316(13):1366-1374.
+
+14. Hull T, Giese C, Wexner SD, et al. Long-term durability of sacral nerve stimulation
+
+therapy for chronic fecal incontinence. Dis Colon Rectum. 2013;56(2):234-245.
+
+15. Lightner D, Gomelsky A, Souter L, Vasavada SP. Diagnosis and treatment of overactive
+
+bladder (non-neurogenic) in adults: AUA/SUFU guideline amendment 2019. J Urol.
+
+2019;202(3):558-563.
+
+16. Siegel S, Noblett K, Mangel J, et al. Three-year follow-up results of a prospective,
+
+multicenter study in overactive bladder subjects treated with sacral neuromodulation. Urology. 2016;94:57-63.
+
+17. National Coverage Analysis (NCA) Decision Memo - Sacral Nerve Stimulation for Urge
+
+Urinary Incontinence (CAG-00058N)
+
+. Accessed 8/10/23.
+
+18. Benson K, McCrery R, Taylor C, et al. One-year outcomes of the ARTISAN-SNM study
+
+with the Axonics system for the treatment of urinary urgency incontinence. Neurourol Urodyn. 2020;39(5):1482-1488.
+
+19. Reynolds WS, Fowke J, Dmochowski R. The burden of overactive bladder on US public
+
+health. Curr Bladder Dysfunct Rep. 2016;11(1):8-13.
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39543&ver=5
+
+12/14
+
+10/10/25, 5:27 PM
+
+LCD - Sacral Nerve Stimulation for the Treatment of Urinary and Fecal Incontinence (L39543)
+
+20. Siegel S, Noblett K, Mangel J, et al. Five-year followup results of a prospective
+
+multicenter study of patients with overactive bladder treated with sacral neuromodulation. J Urol. 2018;199(1):229-236.
+
+Revision History Information
+
+N/A
+
+Associated Documents
+
+Attachments
+
+N/A
+
+Related Local Coverage Documents
+
+Articles
+
+A59332 - Billing and Coding: Sacral Nerve Stimulation for the Treatment of Urinary and
+
+Fecal Incontinence
+
+A59520 - Response to Comments: Sacral Nerve Stimulation for the Treatment of Urinary and Fecal Incontinence LCDs
+
+DL39543 - Sacral Nerve Stimulation for the Treatment of Urinary and Fecal Incontinence
+
+(MCD Archive Site)
+
+Related National Coverage Documents NCDs
+
+230.18 - Sacral Nerve Stimulation For Urinary Incontinence
+
+Public Versions
+
+Updated On
+
+Effective Dates
+
+Status
+
+09/12/2023
+
+11/05/2023 - N/A
+
+Currently in Effect
+
+You are here
+
+Keywords
+
+Sacral Nerve Stimulation
+
+Urinary Incontinence
+
+Fecal Incontinence
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39543&ver=5
+
+13/14
+
+10/10/25, 5:27 PM
+
+LCD - Sacral Nerve Stimulation for the Treatment of Urinary and Fecal Incontinence (L39543)
+
+https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39543&ver=5
+
+14/14

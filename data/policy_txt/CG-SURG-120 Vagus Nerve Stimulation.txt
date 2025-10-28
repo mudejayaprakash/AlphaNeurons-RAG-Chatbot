@@ -1,0 +1,787 @@
+10/25/25, 12:12 PM
+
+CG-SURG-120 Vagus Nerve Stimulation
+
+Clinical UM Guideline
+
+Subject: Vagus Nerve Stimulation
+
+Guideline #: CG-SURG-120
+
+Publish Date: 03/06/2025
+
+Status: Reviewed
+
+Last Review Date: 02/20/2025
+
+Description
+
+This document addresses the indications for use of an implantable vagus nerve stimulation (VNS) device, the electronic analysis of the implanted neurostimulator pulse generator system, and non-implantable (transcutaneous) VNS devices. These devices are used as a treatment of medically and surgically refractory seizures associated with intractable epilepsy. Implantable devices may deliver stimulation in an open-loop fashion with continuous but intermittent (‘ON’ and ‘OFF’ cycles) stimulation of the vagus nerve (a hand-held magnet allows on-demand stimulation to interrupt seizure activity), or may utilize detection of extra-cerebral indicators, for example, cardiac-based seizure detection (also known as “responsive devices”, “devices with an automatic stimulation mode”, or “closed loop devices”) that specifically use tachycardia as a surrogate marker for seizure prediction.
+
+Note: The use of non-implantable VNS devices to treat migraines is addressed in the following document:
+
+CG-MED-100 Surface Electrical Stimulation Devices for Headache and Migraine
+
+F e e d b a c k
+
+Note: The use of vagal nerve blocking for the treatment of morbid obesity is addressed in the following document:
+
+CG-SURG-83 Bariatric Surgery and Other Treatments for Clinically Severe Obesity
+
+Note: Please see the following related documents for other treatments of epilepsy:
+
+CG-MED-05 Ketogenic Diet for Treatment of Intractable Seizures CG-SURG-91 Minimally Invasive Ablative Procedures for Epilepsy MED.00057 MRI Guided High Intensity Focused Ultrasound Ablation for Non-Oncologic Indications SURG.00026 Deep Brain, Cortical, and Cerebellar Stimulation
+
+Clinical Indications
+
+Medically Necessary:
+
+A. Implantation of a vagus nerve stimulation device is considered medically necessary in an individual with medically
+
+and surgically refractory seizures as evidenced by:
+
+1. Failure of more than one trial of single or combination antiepileptic medications, as evidenced by persistent
+
+seizures or intolerable side effects of drug therapy; and
+
+2. Individual has failed or is not a candidate for resective epilepsy surgery.
+
+B. Electronic analysis of an implanted neurostimulator pulse generator system for vagus nerve stimulation is considered medically necessary when the implantation occurred because the above criteria were met.
+
+C. Replacement or revision of an implanted neurostimulator pulse generator system (with or without lead changes) for
+
+vagus nerve stimulation is considered medically necessary when:
+
+1. The implantation occurred because the above criteria were met; and 2. The current implanted device is no longer functioning appropriately.
+
+Not Medically Necessary:
+
+A. Implantation of a vagus nerve stimulation device is considered not medically necessary when criteria are not met
+
+and for all other conditions.
+
+B. Electronic analysis of an implanted neurostimulator pulse generator system for vagus nerve stimulation is
+
+considered not medically necessary when the medically necessary criteria for device implantation are not met.
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_e002906.html
+
+1/15
+
+10/25/25, 12:12 PM
+
+CG-SURG-120 Vagus Nerve Stimulation
+
+C. Replacement or revision of an implanted neurostimulator pulse generator system for vagus nerve stimulation (with or without lead changes) is considered not medically necessary when the medically necessary criteria for device implantation are not met or the current implanted device is functioning appropriately.
+
+D. Non-implantable vagus nerve stimulation devices are considered not medically necessary for all conditions.
+
+Coding
+
+The following codes for treatments and procedures applicable to this guideline are included below for informational purposes. Inclusion or exclusion of a procedure, diagnosis or device code(s) does not constitute or imply member coverage or provider reimbursement policy. Please refer to the member's contract benefits in effect at the time of service to determine coverage or non-coverage of these services as it applies to an individual member.
+
+When services may be Medically Necessary when specified as vagus nerve stimulator and criteria are met:
+
+CPT 61885
+
+Insertion or replacement of cranial neurostimulator pulse generator or receiver, direct or inductive coupling; with connection to a single electrode array Percutaneous implantation of neurostimulator electrode array; cranial nerve Open implantation of cranial nerve (eg, vagus nerve) neurostimulator electrode array and pulse generator Revision or replacement of cranial nerve (eg, vagus nerve) neurostimulator electrode array, including connection to existing pulse generator Electronic analysis of implanted neurostimulator pulse generator/transmitter (eg, contact group[s], interleaving, amplitude, pulse width, frequency [Hz], on/off cycling, burst, magnet mode, dose lockout, patient selectable parameters, responsive neurostimulation, detection algorithms, closed loop parameters, and passive parameters) by physician or other qualified health care professional; with simple cranial nerve neurostimulator pulse generator/transmitter programming by physician or other qualified health care professional Electronic analysis of implanted neurostimulator pulse generator/transmitter (eg, contact group[s], interleaving, amplitude, pulse width, frequency [Hz], on/off cycling, burst, magnet mode, dose lockout, patient selectable parameters, responsive neurostimulation, detection algorithms, closed loop parameters, and passive parameters) by physician or other qualified health care professional; with complex cranial nerve neurostimulator pulse generator/transmitter programming by physician or other qualified health care professional
+
+64553 64568
+
+64569
+
+95976
+
+95977
+
+HCPCS C1767 C1778 L8679 L8680 L8685 L8686
+
+Generator, neurostimulator (implantable), nonrechargeable Lead, neurostimulator (implantable) Implantable neurostimulator, pulse generator, any type Implantable neurostimulator electrode, each Implantable neurostimulator pulse generator, single array, rechargeable, includes extension Implantable neurostimulator pulse generator, single array, nonrechargeable, includes extension
+
+ICD-10 Procedure 00HE0MZ 00HE3MZ 00HE4MZ
+
+Insertion of neurostimulator lead into cranial nerve, open approach Insertion of neurostimulator lead into cranial nerve, percutaneous approach Insertion of neurostimulator lead into cranial nerve, percutaneous endoscopic approach
+
+ICD-10 Diagnosis G40.001-G40.919
+
+Epilepsy and recurrent seizures
+
+When services are Not Medically Necessary: For the procedure codes listed above when specified as vagus nerve stimulator when criteria are not met or for all other diagnoses not listed.
+
+When services are also Not Medically Necessary:
+
+CPT
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_e002906.html
+
+2/15
+
+10/25/25, 12:12 PM
+
+CG-SURG-120 Vagus Nerve Stimulation
+
+0908T
+
+Open implantation of integrated neurostimulation system, vagus nerve, including analysis and programming, when performed Replacement of integrated neurostimulation system, vagus nerve, including analysis and programming, when performed Removal of integrated neurostimulation system, vagus nerve Electronic analysis of implanted integrated neurostimulation system, vagus nerve; without programming by physician or other qualified health care professional Electronic analysis of implanted integrated neurostimulation system, vagus nerve; with simple programming by physician or other qualified health care professional
+
+0909T
+
+0910T 0911T
+
+0912T
+
+HCPCS E1399
+
+Durable medical equipment, miscellaneous [when specified as a transcutaneous (non- implantable) VNS device]
+
+ICD-10 Diagnosis
+
+All diagnoses
+
+Discussion/General Information
+
+Medically and Surgically Refractory Seizures and VNS therapy
+
+Pharmacotherapy is considered the first-line therapy in the treatment of seizures. Pharmacotherapy can result in seizure remission, reduced morbidity and decreased risk of premature mortality associated with sudden unexpected death in epilepsy (SUDEP) and other seizure-related complications related to seizures. Drug therapy is effective in approximately 66% of individuals with epilepsy. Surgery, consisting of a removal or disconnection of brain regions is the only epilepsy treatment considered curative. However, a significant number of individuals are not surgical candidates (Thijs, 2019). Greater than 50% of individuals with epilepsy are reported to have additional medical conditions some of which may preclude the individual from surgical treatment (Sinha, 2022).
+
+Neurosurgery is associated with surgical risks such as hemorrhage and infection. Post-surgical deficits, including but not limited to memory, vision, mood and language may be temporary or permanent (Sinha, 2022). VNS surgery is considered a low surgical risk procedure in which complications are generally limited to superficial infection (3%-6%). Other risks, such as vocal cord paralysis and bradycardia/asystole are reported as rare (Simpson, 2022).
+
+Surgery has been significantly and consistently underutilized by individuals with medication refractory seizures. Approximately 3000-4000 surgeries are done each year on an estimated 100,000-200,000 surgical candidates (Samanta, 2021). The surgical rate has remained static or decreased, despite high-level evidence and clinical practice guidelines supporting the efficacy of surgery (Englot, 2012; Samanta, 2021). This underutilization is attributed to multiple factors present in both affected individuals, their families, treating or referring physicians and healthcare systems (Dewar, 2021; Samanta, 2021). Sinha and associates (2021) published the results of a survey assessing individual acceptability of benefit-risk trade-offs when evaluating epilepsy treatment options. The authors noted:
+
+Many patients express the belief that brain surgery is a last resort and only for those with the most severe disease. Our results are generally in line with commonly held beliefs/-experience that many patients are willing to consider presurgical evaluation due to the availability of less invasive or lower risk options, such as LITT versus open brain surgery, but also neuromodulation versus surgical resection or ablation, and stereo electroencephalography (EEG) versus subdural electrodes for intracranial EEG evaluations.
+
+For many patients in this study, the lower potential benefit of a procedure is an acceptable trade-off to reduce the invasiveness and perhaps inconvenience of the procedure when offered as the initial surgical option. Interestingly, our results suggest that this may be independent of the potential for reduced risks of mortality and long-term neurological deficits.
+
+Surgery is considered the most effective and long-lasting option for individuals with medically refractory seizures when the seizures emanate from a region that can be removed with minimal risk of disabling neurologic or cognitive dysfunction. However, for individuals who have been educated on the risks and benefits associated with surgery and who decline surgery, VNS therapy may be an acceptable option.
+
+Implanted VNS
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_e002906.html
+
+3/15
+
+10/25/25, 12:12 PM
+
+CG-SURG-120 Vagus Nerve Stimulation
+
+An implantable VNS device is similar to a cardiac pacemaker and includes a generator device surgically placed under the skin in the left chest area, typically below the collarbone. A nerve stimulation electrode is tunneled under the skin to the lower neck where it is placed around the left cervical vagus nerve. Using an external programmer, the stimulation parameters of the device are set (or reset) to deliver preprogrammed intermittent electrical pulses to the vagus nerve, which then transmits the stimulation to the brain to create widespread antiepileptic effects. Additionally, an individual can activate the system when sensing the onset of a seizure to deliver an additional dose of stimulation by passing a magnet over the area of the chest where the device is implanted. The device is powered by a lithium thionyl chloride battery that must be replaced every 1.5-5 years depending on the stimulation parameters.
+
+Reports of adverse effects of implantable VNS therapy have included voice alteration, headache, neck pain, cough, and obstructive or central sleep apnea (CSA)/sleep breathing disorders; however, “the mechanism for CSA seen in patients with a vagus nerve stimulator is not fully known” (Forde, 2017). In a review article, Giordano and colleagues (2017) report on surgical techniques for VNS implantation and related acute and delayed morbidity. Late complications of VNS therapy, related to the device and to stimulation of the vagus nerve include, but are not limited to delayed arrhythmias, laryngopharyngeal dysfunction (hoarseness, dyspnea, and coughing), obstructive sleep apnea, stimulation of the phrenic nerve, and tonsillar pain mimicking glossopharyngeal neuralgia. Complete surgical removal or revision and replacement of the device is considered in cases of device malfunction (4%-16.8%), failure of VNS therapy, intolerable side effects, or resulting from the individual’s specific request. Sleep breathing disorders and laryngeal motility alterations are reported in numerous single and small case series of individuals implanted with VNS for drug-resistant epilepsy. In a retrospective case series, Zambrelli and colleagues (2016) evaluated 23 individuals with medically refractory epilepsy who underwent sleep testing before and after VNS implantation. A total of 18 individuals underwent endoscopic laryngeal examination post-VNS implantation. Statistical analysis was carried out to assess an association between laryngeal motility alterations and the onset/worsening of sleep breathing disorders. After VNS implantation, 11 individuals showed new-onset of mild/moderate sleep breathing disorders. Individuals already affected by obstructive sleep apnea showed worsening of sleep breathing disorders, and those with new-onset obstructive sleep apnea had a laryngeal pattern with left vocal cord adduction (LVCA) during VNS stimulation. The authors suggest there is an association between VNS and sleep breathing disorders that should be investigated in individuals before and after VNS implantation.
+
+Medically and Surgically Refractory Seizures
+
+In 1997, the U.S. Food and Drug Administration (FDA) approved a VNS device called the NeuroCybernetic Prosthesis (NCP®) system (Cyberonics, Inc. [now LivaNova USA, Inc., Houston, TX) through the premarket approval (PMA) process. The device was approved for use in conjunction with drugs or surgery “…as an adjunctive treatment of adults and adolescents over 12 years of age with medically refractory partial onset seizures.” The company markets the system as VNS Therapy®.
+
+The long-term efficacy and safety of VNS therapy in children with medically refractory seizures, including those with Lennox-Gastaut Syndrome (LGS), has been reported in numerous retrospective case series, multicenter and observational studies, and randomized controlled trials (RCTs) (Alexopoulos, 2006; Benifla, 2006; De Herdt, 2007; Elliott, 2011c; Healy, 2013; Klinkenberg, 2012; Kostov, 2009; Orosz, 2014; Tecoma, 2006; You, 2007; You, 2008). Additional retrospective case series measuring the long-term effects of VNS for medically and surgically refractory seizures in adults and the pediatric population have been published in the peer-reviewed medical literature. Significant reductions in seizure frequency with possible cumulative effect are reported along with a reduction in surgical complications and untoward side effects with chronic VNS therapy (Coykendall, 2010; Elliott, 2011a; Elliott, 2011b; Ghaemi, 2010; Kabir, 2009; Morris, 1999; Murphy, 1999; Siddiqui, 2010; Vale, 2011; Yu, 2014). Englot and colleagues (2011) performed the first meta-analysis of VNS efficacy in epilepsy, identifying 74 clinical studies with 3321 participants with intractable epilepsy. These studies included three blinded RCTs (Class I evidence); two nonblinded RCTs (Class II evidence); ten prospective studies (Class III evidence); and numerous retrospective studies. After VNS implantation, seizure frequency was reduced by an average of 45%, with a 36% reduction in seizures at 3-12 months after surgery and a 51% reduction after greater than 1 year of therapy. At the last follow-up, seizures were reduced by 50% or more in approximately 50% of the individuals, and VNS therapy reported a ≥ 50% reduction in seizures (main effects, odds ratio of 1.83; 95% confidence interval [CI], 1.80-1.86). Individuals with generalized epilepsy and children benefited significantly from VNS despite their exclusion from initial approval of the device. Ryvlin and colleagues (2014) published a RCT reporting long-term quality of life outcomes for 112 individuals with drug-resistant focal seizures, which supports the beneficial effects of VNS for these groups.
+
+In a Cochrane review, Panebianco and colleagues (2015) systematically reviewed the available evidence in the peer- reviewed medical literature for the efficacy and tolerability of VNS when used as an adjunctive treatment for individuals with drug-resistant partial epilepsy. In five trials which included 439 participants, VNS appeared to be effective and well tolerated for the treatment of partial seizures. Results showed a positive dose-response relationship regarding stimulation
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_e002906.html
+
+4/15
+
+10/25/25, 12:12 PM
+
+CG-SURG-120 Vagus Nerve Stimulation
+
+level and seizure frequency. An evaluation of outcomes related to "withdrawal of allocated treatment" suggested that VNS was well tolerated as withdrawals were rare. Adverse effects associated with implantation and stimulation included hoarseness, cough, dyspnea, pain, paresthesia, nausea and headache, with hoarseness and dyspnea more likely to occur on high stimulation than low stimulation.
+
+In 2013, the American Academy of Neurology (AAN) (Morris) released an updated guideline evaluating the evidence regarding the efficacy and safety of VNS for epilepsy. This document was reaffirmed in 2022. The guideline states that VNS may be considered for seizures (both partial and generalized) in children, for LGS-associated seizures. VNS may also improve mood when used in the treatment of adults with epilepsy although this should be considered a secondary reason for VNS.
+
+Harden and colleagues (2017) reported on the incidence rates and risk factors for SUDEP in different epilepsy populations in a 2017 practice guideline from the AAN and American Epilepsy Society. Considering a systematic review of the literature, the guideline states:
+
+The evidence is very low or conflicting that the following factors are associated with altering SUDEP risk:
+
+Vagus nerve stimulator use for more than 2 years (however, current research does not rule out the possibility of a beneficial effect and, further, the potential effect of epilepsy surgery on reducing GTCS frequency and epilepsy severity on reducing the risk of SUDEP).
+
+Closed Loop Systems
+
+The automated stimulation function of a closed loop VNS model detects heart rate changes and automatically responds by sending a programmed stimulation to the vagus nerve. Cardiac signal changes may be used as a potential biomarker to indicate the ictal onset of epileptic seizures. Approximately 82% of individuals with epilepsy had at least one seizure associated with significant heart rate increases, which occur in the pre-ictal phase (Eggleston, 2014). The AspireSR or SenTiva devices were developed to take advantage of this extra-cerebral indicator of ictal onset and preemptively prevent seizures.
+
+In 2015, the FDA approved the AspireSR generator, the first VNS Therapy System that provides responsive stimulation when tachycardia is detected. The AspireSR includes an autostimulation mode that utilizes a customizable cardiac algorithm to detect relative heart rate increases to predict ictal onset and deliver automatic vagus nerve stimulation to prevent seizures before they occur or more quickly end them when they do occur (closed loop system). The FDA approved the most recent implantable VNS therapy system, the SenTiva in October 2017. Like the AspireSR, the SenTiva device includes an autostimulation mode. The Sentiva also includes additional features such as small size, data gathering and a tablet-based interface. In addition to the autostimulation mode, both devices have a manual mode. Both devices are approved for use in individuals with drug-resistant epilepsy aged 4 years and older.
+
+While RCTs directly comparing conventional (“open loop”) devices to devices with an automatic stimulation mode” (“closed loop”) have not been conducted, available evidence suggests that both devices are likely to produce at least equivalent therapeutic results (Boon, 2015; Hamilton, 2018; Tzadok, 2019). It is important to recognize that complete seizure freedom is rarely achieved using VNS therapy and that approximately 25% of individuals do not receive any benefit from therapy.
+
+Refractory Depression
+
+In July 2005, Cyberonics, Inc. (now known as LivaNova USA, Inc, Houston, TX, USA) received FDA premarket approval for the VNS Therapy™ System “…for the adjunctive long-term treatment of chronic or recurrent depression for patients 18 years of age or older who are experiencing a major depressive episode and have not had an adequate response to four or more adequate antidepressant treatments.” The data presented to the FDA consisted of a case series of 60 individuals receiving VNS (Study D-01), a short-term (3-month) randomized sham-controlled clinical trial of 221 individuals (Study D- 02), and an observational study comparing 205 individuals on VNS therapy to 124 individuals receiving ongoing treatment for depression (Study D-04) (George, 2005; Rush, 2000). Individuals who responded to sham treatment in the short-term RCT (approximately 10%) were excluded from the long-term observational study.
+
+The primary efficacy outcome was the relief of depression symptoms, assessed by any one of many different depression symptom rating scales. A 50% reduction from baseline score was considered to be a reasonable measure of treatment response. In the studies evaluating VNS therapy, the four most common instruments used were the Hamilton Rating Scale for Depression (HAMD), Clinical Global Impression, Montgomery and Asberg Depression Rating Scale (MADRS), and the Inventory of Depressive Symptomatology Self-Related (IDS-SR). The case series data reported rates of improvement, as
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_e002906.html
+
+5/15
+
+10/25/25, 12:12 PM
+
+CG-SURG-120 Vagus Nerve Stimulation
+
+measured by a 50% improvement in depression score of 31% at 10 weeks to greater than 40% at 1 to 2 years. This appeared to stabilize out to 2 years, but there were substantial losses to follow-up (n=42 at 2 years versus original sample of 59) (Marangell, 2002; Rush, 2000; Sackeim, 2001). Natural history, placebo effects, and the expectations of the individual and their medical practitioner make it difficult to infer efficacy from this case series data.
+
+The D-02 randomized trial (Rush, 2000; Rush, 2005a) compared VNS therapy to a sham control, (implanted but inactivated VNS), reporting a non-statistically significant result for the principal outcome at 3 months. A total of 15% of VNS participants responded versus 10% of control participants (p=0.31). The IDS-SR was considered a secondary outcome, showing a difference that was statistically significant in favor of VNS (17.4% versus 7.5%; p=0.04). All other outcomes assessed in the trial did not show statistically significant differences between groups.
+
+The observational study comparing individuals participating in the RCT and a separately recruited control group (D-04 versus D-02) evaluated VNS therapy out to 1 year, showing a statistically significant difference in the rate of change of depression score (George, 2005; Rush, 2000). This study was conceived after the results of the RCT were known. The outcomes of this study, however, may have been confounded by issues such as unmeasured differences between individuals, nonconcurrent controls, differences in sites of care between individuals with VNS therapy and controls, and differences with regard to concomitant therapy changes. Analyses performed on subsets of individuals cared for in the same sites and censoring observations after treatment changes, generally showed diminished differences in apparent treatment effectiveness of VNS with almost no statistically significant differences.
+
+Aaronson and colleagues (2013) performed a multi-center double-blind study comparing the clinical outcomes of VNS therapy applied at different stimulation levels. VNS therapy was used as adjuvant treatment in 331 individuals with a history of chronic or recurrent bipolar disorder or a current episode of major depressive disorder. The intent of the trial was to show that “high” and “medium” electrical “doses” (charge) would produce superior clinical outcomes relative to a “low” electrical dose. Participants with a history of failure to respond to at least four adequate dose/duration antidepressant treatment trials from at least two different treatment categories were randomized to one of three dose groups. After 22 weeks, the current stimulation dose could be adjusted in any of the groups. At follow-up visits at weeks 10, 14, 18, and 22 after enrollment, there was no statistically significant difference between treatment groups in comparison of the primary outcome measure, a change in IDS-Clinician Administered (IDS-C) score from baseline. The mean IDS-C score improved significantly for each of the groups from baseline to 22-week follow-up. At 50 weeks of follow-up, the proportion of the small number of 22-week responders with a durable outcome was greater in the “high” and “medium” electrical “dose” groups than in the “low” dose group. Most participants completed the study; however, there was a high rate of reported adverse events, including voice alteration in 72.2%, dyspnea in 32.3%, and pain in 31.7%. Limitations of this study include the interpretation of improvement in IDS-C scores over time due to the lack of a controlled (no treatment) comparator group and, that approximately 20% of the participants had a history of bipolar disorder. Therefore, the results may not be representative of a homogeneous group of individuals with treatment-resistant unipolar depression.
+
+Aaronson and colleagues (2017) evaluated long-term outcomes from the 5-year post-marketing surveillance study of individuals with treatment-resistant depression (TRD) treated with VNS or “treatment as usual.” This multicenter, prospective, open-label, non-randomized, longitudinal, observational registry study conducted at 61 United States sites included 795 individuals who experienced a major depressive episode (unipolar or bipolar depression) of at least 2 years duration or had three or more depressive episodes (including the current episode), and who had failed four or more depression treatments (including ECT). Prior to enrollment, registry participants (except for those enrolled in the VNS dose-finding study, referred to as the D-21 study; NCT00305565) were allowed to select the treatment arm of their choice; however, some individuals were assigned by study site to receive the alternate treatment (n=301, number of participants in the treatment-as-usual arm). Participants in the VNS arm (n=494) underwent implantation surgery before visit 2 (baseline). Post-baseline follow-up visits for all participants were scheduled at 3, 6, 9, 12, 18, 24, 30, 36, 42, 48, 54, and 60 months. Data was collected on medical status, adjustment of mood disorder therapy, and concomitant treatments (with no restrictions). The primary efficacy measure was response rate, defined as a decrease of ≥ 50% in baseline MADRS score at any post-baseline visit during the 5-year study. Secondary efficacy measures included remission. Safety analysis included participants in the treatment-as-usual arm who completed the visit 2 requirements and those in the VNS arm who had undergone device implantation before visit 2. At baseline, the mean MADRS score was 29.3 (standard deviation [SD] equals 6.9) for the treatment-as-usual group and 33.1 (SD equals 7.0) for the VNS arm. The registry results indicated that participants in the VNS arm had better clinical outcomes than the treatment-as-usual group, including a significantly higher 5-year cumulative response rate (67.6% compared with 40.9%, respectively; p<0.001) and a significantly higher remission rate (cumulative first-time remitters, 43.3% compared with 25.7%, respectively; p<0.001). A subanalysis demonstrated that among participants who had previously responded to ECT, those in the VNS arm had a significantly higher 5-year cumulative response rate than those in the treatment-as-usual group (71.3% compared with 56.9%, respectively; p=0.006). For ECT nonresponders in the VNS arm, the response rate was 59.6% (95% CI, 50.2, 68.4), compared with 34.1% (95%
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_e002906.html
+
+6/15
+
+10/25/25, 12:12 PM
+
+CG-SURG-120 Vagus Nerve Stimulation
+
+CI, 21.8, 48.9) for ECT nonresponders in the treatment-as-usual arm (p<0.001), with statistically significant separation beginning after 2 years of treatment and continuing until completion of registry participation. Several limitations to this study exist, including those previously cited in the original study, and the long-term evaluation of data from a participant registry. The naturalistic, observational study design did not allow for random assignment of participants to treatment groups; thus, participants were not blinded to treatment. A significant number of participants in both groups withdrew early from the study. Of the 494 participants in the VNS arm, 461 (93%), 289 (59%), 313 (63%), 334 (68%), and 300 (61%), respectively, completed all 5 years of the registry (the variable numbers in the VNS arm are due to D-21 study participants who rolled over into the registry at various time points after implantation). Of the 301 participants in the treatment-as-usual arm, 224 (74%), 185 (62%), 168 (56%), 149 (50%), and 138 (46%), respectively, completed all 5 years of the registry. Of the 358 participants (45%) who withdrew early, 195 were from the VNS arm (40%) and 163 were from the treatment-as- usual arm (54%). The reasons for early withdrawal were similar between the treatment arms. Finally, the significantly higher treatment response rate observed in the VNS arm may represent a treatment effect, as participants with an implanted device may have had a higher expectation of therapeutic improvement; in addition, inclusion of D-21 study rollover participants in the VNS arm who may have previously experienced a positive response with VNS may have been more likely to participate in the registry.
+
+A 2022 clinical practice guideline on the management of major depressive disorder (Department of Veterans Affairs/Department of Defense [VA/DOD]) notes that although the FDA has approved VNS therapy as a treat of TRD, the guideline recommends against using VNS for this condition, citing evidence showing no difference between VNS and sham placebo. The guideline notes that the potential harms and burden outweigh the benefits and individuals “may try other non-pharmacological treatments for major depressive disorder over the use of VNS”.
+
+The American Psychological Association (APA) clinical practice guideline addressing the treatment of depressive disorders in children, adolescents, adults and older adults (2022) examined the efficacy of psychological treatments, pharmacotherapy and complementary and alternative medicine treatments. While there was a conditional recommendation for use for complementary and alternative treatments in adults, VNS was not listed as a specific modality in the recommended list.
+
+Summary
+
+While some studies results have suggested that VNS therapy may be effective at managing TRD, these studies have a number of limitations, namely a lack of a comparison group (Bajbouj, 2010; Cristancho, 2011; Nahas, 2005; Schlaepfer, 2008). Controlled studies have not provided clear evidence that VNS therapy is an effective non-pharmacological treatment of TRD (Aaronson, 2013; Rush, 2005). While there might be some evidence suggesting potential benefits, the therapy is yet to be recognized as a standard of care in medical practice in the treatment of TRD. A prospective, multi- center, randomized, controlled, blinded trial is underway to evaluate whether active VNS therapy is superior to no stimulation in reducing the depressive symptoms severity following 12 months of treatment (NCT03887715). The estimated primary completion date is February 2028.
+
+VNS Paired with Rehabilitation Following Stroke
+
+Dawson and colleagues (2016) conducted a small, randomized pilot study of implantable VNS in individuals with upper limb dysfunction after ischemic stroke. A total of 21 individuals were randomized to VNS plus rehabilitation or rehabilitation alone. The mean change in the outcome as assessed by a functional assessment score was +8.7 in the VNS group versus +3.0 in the control group (p=0.064). Only 6 individuals in the VNS group achieved clinically meaningful response versus 4 individuals in the control group. Limitations of this study include the small sample size, lack of blinding to either the physiotherapist delivering the therapy or the subject, and no sham stimulation group.
+
+The safety and feasibility of an implanted VNS as a potential therapeutic rehabilitative modality was investigated in a multisite, double-blinded, sham-controlled pilot study (Kimberley, 2018). Individuals with arm weakness following unilateral supratentorial ischemic stroke were randomized to receive rehabilitation with active VNS (n=8) or rehabilitation with control VNS (n=9). Participants received in-clinic therapy 3 times a week for 6 weeks followed by prescribed daily home exercises. Individuals in the control group were crossed over to active in-clinic treatment following the 90-day assessment. The FMA- UE tool was used to quantify improvement, with a clinically meaningful improvement defined as a 6 or more-point improvement over baseline. Following in-clinic therapy, there was no significant differences between the groups. At 90 days, the mean FMA-UE scores improved by 9.5 points in the active VNS group and 3.8 points in the control VNS group. The difference was attributed to maintained benefit in the active VNS group and a decline in the control VNS group and a higher percentage of participants who achieved a clinically meaningful response in the active VNS group. Individuals who crossed over to active treatment achieved results similar to the active VNS group. While the results of this pilot study with limited participants are promising, there were some limitations. At baseline, the mean FMA-UE was 29.5 with a SD of 6.4 in
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_e002906.html
+
+7/15
+
+10/25/25, 12:12 PM
+
+CG-SURG-120 Vagus Nerve Stimulation
+
+the active VNS group and 36 with a SD of 9.4 in the control VNS group. While compliance with home therapy was measured by downloading device information and self-report, compliance outcomes were not reported within the study.
+
+Dawson and colleagues (2020) reported on the 1-year outcomes of the individuals from Kimberley (2018) pilot study. Outcomes were available for 15 of the 17 original participants. Adherence data was gathered using the number of magnetic swipes performed and correlating that to potential number of home exercise sessions performed. On average, participants performed home exercise 57.4% of the time (200±63 sessions). At 1 year, the pooled FMA-UE scores improved 9.2 ± 8.2 points (CI = 4.7 to 13.7, p=0.001) over baseline. A clinically meaningful response at one year was reported by 73% (11/15) of participants. This study reported long-term gains associated with active VNS and a home exercise therapy. With the cross-over of the control group to active VNS treatment, the comparator exercise only group data was lost. While these results are promising, post-stroke deficits affect a significant number of individuals, this study included only 17 participants.
+
+In a pivotal, randomized, triple-blind, sham-controlled study VNS paired with rehabilitation was compared to the rehabilitation alone (Dawson, 2021). Participants met criteria if they had a history of unilateral supratentorial ischemic stroke that occurred 9 months to 10 years prior to enrollment, and a moderate to severe arm impairment defined as a Fugl- Meyer Assessment-Upper Extremity (FMA-UE) score of 20 to 50. The study involved 106 participants randomly assigned to receive either rehabilitation paired with active implanted VNS using the Vivistim® System (MicroTransponder, Austin, TX) or rehabilitation paired with implanted sham stimulation. Participants received 6 weeks of in-clinic therapy, 3 times per week for a total of 18 sessions followed by a home exercise program. The primary outcome was the change in impairment measured by an FMA-UE score measured on the first day after completion of in-clinic therapy. On the first day following completion of in-clinic therapy, the mean FMA-UE score increased by 5 points in the VNS group and 2.4 points in the control group (between group difference, 2.6; 95% CI, 1 to 4.2; p=0.0014). At 90 days after in-clinic therapy, a clinically meaningful response on the FMA-UE score was achieved in 23 (47%) of 53 participants in the VNS group compared to 13 (24%) of 55 participants in the control group (between group difference, 24%; p=0.0098). There was one serious adverse event related to surgery in the control group. It remains unclear if the outcomes of VNS paired with rehabilitation are maintained beyond 90 days.
+
+Based on the results of the pivotal trial, the FDA approved the Vivistim System a paired implantable VNS system to treat moderate to severe upper extremity motor deficits and improve motor function in individuals with chronic ischemic stroke in August 2021. The system is intended to be used concurrently with post-stroke rehabilitation therapy. The system consists of the implanted device, clinician software and a wireless transmitter and is intended to be used in a clinical or home setting. The software and transmitter are to be set only by a healthcare provider. In the home setting, the individual is provided with a magnet which is used to activate the system.
+
+Summary
+
+The use of VNS therapy as an adjunctive therapy during stroke rehabilitation has shown some potential benefits. The goal of rehabilitation following a stroke is to regain the ability to perform everyday activities and maximize function. Rehabilitation may include exercises, stretching, and training on assistive devices (Shahid, 2023). The use of VNS paired therapy is not considered a part of the standard of care in this population.
+
+Other Conditions:
+
+Numerous small case series and retrospective studies of short duration have investigated implantable VNS therapy as treatment for essential tremor (Handforth, 2003), enhancing cognitive deficits in Alzheimer’s disease (Merrill, 2006), anxiety disorders (George, 2008), and bulimia. Other review articles and studies explore the potential use of VNS in the treatment of acute asthma exacerbation (Miner, 2012; Yuan, 2016), autism (Danielsson, 2008), addictions, coma, intractable hiccups (Payne, 2005; Tariq, 2021), pain syndromes (such as fibromyalgia) (Lange, 2011), obesity-related food cravings in individuals with chronic TRD (Bodenlos, 2007), sleep disorders (such as narcolepsy), memory and learning deficits (Ansari, 2007), severe refractory cluster or migraine headaches (Cecchini, 2009; Mauskop, 2005) or chronic heart failure (De Ferrari, 2011; Gold, 2016; Hauptman, 2012; Nearing, 2021; Premchand, 2014; Zannad, 2014). To date, the FDA has not cleared the use of any type of implantable VNS device for these indications. VNS has been evaluated to treat a number of medical conditions beyond medically refractory seizures; however, such use is not considered in accordance with generally accepted standards of medical practice.
+
+Non-Implantable Transcutaneous VNS (t-VNS or n-VNS)
+
+A non-implantable VNS device requires no surgical procedure. Auricular t-VNS devices combine a stimulation unit and ear electrode to stimulate the auricular branch of the vagus nerve via skin over the concha of the ear. Another t-VNS device
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_e002906.html
+
+8/15
+
+10/25/25, 12:12 PM
+
+CG-SURG-120 Vagus Nerve Stimulation
+
+stimulates the cervical branch of the vagus nerve with a handheld device. Device users self-administer electric stimulation using prespecified device parameters agreed upon by the prescribing physician. Side effects of t-VNS are similar to those reported with an implantable VNS device, in addition to local skin irritation at the site of application.
+
+Pharmacoresistant Epilepsy
+
+The safety and effectiveness of non-implantable, t-VNS therapy has been investigated for the treatment of individuals with chronic, drug-resistant epilepsy. He and colleagues (2013) conducted a small pilot study of 14 children with intractable epilepsy using an auricular t-VNS device (TENS-200) for 24 weeks as an adjunct to their current medication regimen. The mean reduction in seizure frequency from baseline through week 8, weeks 9 through 16, and weeks 17 through 24 was 31.8%, 54.13%, and 54.2%, respectively. The investigators found no correlation between the therapeutic efficacy of t-VNS and baseline seizure frequency reduction. In addition, neither age, gender, nor seizure syndrome predicted response to the device. In terms of reported side effects, t-VNS was well tolerated and only 2 participants reported mild ulceration of the skin at the stimulation area. Limitations of this study include the small sample size and lack of a control group.
+
+Stefan and colleagues (2012) evaluated t-VNS therapy (using an unspecified CerboMed device) in a small case series of 10 adults with drug-resistant epilepsy. Stimulation via the auricular branch of the vagus nerve of the left tragus was delivered 3 times per day for 9 months. Subjective documentation of stimulation effects was obtained from self-reported seizure diaries. An assessment of seizure frequency was evaluated with prolonged outpatient video electroencephalography (EEG) monitoring. Other evaluations included computerized testing of cognitive, affective, and emotional functions. Three participants withdrew from the study with 5 of the remaining 7 participants reporting an overall reduction of seizure frequency after 9 months of t-VNS. A major discrepancy was noted, however, between subjective reports of seizure activity and quantified video-EEG in 2 participants. One participant reported a 37% reduction of seizure frequency (baseline: 21 seizures per week; average of months 7 to 9: 13.3 seizures per week) but an increase in seizures was recorded during outpatient video-EEG monitoring. A second participant reported a significant increase in simple partial seizures with subjective signs (baseline: 1.6 seizures per week; average of months 7 to 9: 4.2 per week), but no changes were seen on EEG recording. Non-implantable t-VNS was well-tolerated with side effects limited to hoarseness, headache or obstipation. Limitations of this study include the small sample size and lack of a randomized control group.
+
+Aihua and colleagues (2014) reported results from a case series of 60 individuals with pharmacoresistant epilepsy treated with a t-VNS device (TENS-200). A total of 60 participants were equally randomized to receive either stimulation over the earlobe (control group) or the Ramsay-Hunt zone, which includes the external auditory canal and the conchal cavity and is considered to be the somatic sensory territory of the vagus nerve. Four participants from the treatment group and 9 participants from the control group were excluded from analysis due to loss to follow-up (n=3, treatment group; n=2, control group); adverse effects (n=1, treatment group), or increase or lack of decrease in seizures or other reasons (n=7, control group). Compared with baseline, the median monthly seizure frequency in the treatment group was significantly reduced after 6 months (5.5 versus 6.0; p<0.001) and 12 months (4.0 versus 6.0; p<0.001) of t-VNS therapy. However, the median seizure frequency in the treatment group was not significantly lower than that in the control group until 12 months of treatment (4.0 versus 8.0; p<0.001). Limitations of this study include the small sample size, potential for unblinding in the control group as participants brought the instruments home for daily use and may have realized that they were in sham stimulation, and the study focused on seizure frequency with no comparison of different seizure syndromes.
+
+Shiozawa and colleagues (2015) published the results of a systematic review of the peer-reviewed medical literature through 2013 evaluating the clinical utility of t-VNS and trigeminal nerve stimulation. Three t-VNS clinical trials assessed physiological features (that is, brain activation patterns and pain thresholds) in healthy volunteers, and one trial evaluated use in individuals with pharmacoresistant epilepsy. One study was a crossover design and the remaining trials were open- label studies. This analysis was limited in drawing conclusions due to lack of standardization of study design and small study populations (n=84).
+
+Bauer and colleagues (2016) performed a randomized, two-arm, parallel group, prospective, double-blind, controlled clinical trial (cMPsE02) at nine sites in Germany and one site in Austria to assess the efficacy and safety of t-VNS (using the NEMOS device) compared with control stimulation in individuals with drug-resistant epilepsy. Individuals were eligible for study participation if they had a history of greater than or equal to three focal and/or generalized seizures per month, not more than 21 consecutive seizure-free days, and on a stable regimen of less than or equal to three antiepileptic drugs for at least 5 weeks prior to study enrollment and maintained this drug regimen throughout the study. Following an 8-week baseline period during which seizure rate was self-documented in a diary, 76 participants were randomized in a 1:1 ratio to treatment with either active t-VNS (that is, 25 Hz stimulation frequency, 250 μs pulse width, 30 s on/30 s off) or low level (active control, 1 Hz stimulation frequency, 250 μs pulse width, 30 s on/30 s off) t-VNS for 4 hours daily for 20 weeks. Two baseline visits (weeks 0 and 4) and 7 treatment visits (weeks 8, 9, 12, 16, 20, 24, 28) were performed. The primary objective was to demonstrate superiority of add-on therapy with t-VNS (stimulation frequency 25 Hz, n=39) versus active
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_e002906.html
+
+9/15
+
+10/25/25, 12:12 PM
+
+CG-SURG-120 Vagus Nerve Stimulation
+
+control (1 Hz, n=37) in reducing seizure frequency over 20 weeks. The investigators reported that treatment adherence was 84% in the 1 Hz group and 88% in the 25 Hz group, respectively. A total of 58 participants (76%) completed the study; 8 participants in the 1 Hz group and 10 participants in the 25 Hz group prematurely discontinued the study. The mean seizure reduction per 28 days at end of treatment as compared to baseline was -2.9% in the 1 Hz group and 23.4% in the 25 Hz group (p=0.146). For those individuals in the 25 Hz group who completed the full treatment period, a significant reduction in seizure frequency occurred in comparison to the control group (20 weeks; n=26, 34.2%; p=0.034). Responder rates (25%, 50%) were similar in both groups. On subgroup analyses, no significant differences were reported for seizure type and baseline seizure frequency. Any self-reported adverse events were mild or moderate and consisted of headache, ear pain, application site erythema, vertigo, fatigue, and nausea. Four serious adverse events were reported, including one sudden unexplained death in the 1 Hz group which was assessed as not treatment related. According to the investigators, the most relevant limitation of this study is that stimulation intensity was significantly higher in the 1 Hz group as compared to the 25 Hz group, “which may have reduced the difference in treatment efficacy between both groups.” Approximately one-third of study participants were not on any anticonvulsant medication, which is an unusually high rate and may limit generalizability of the results. Finally, the collection of data in self-maintained participant diaries may limit the accuracy of seizure quantification by some participants.
+
+Non-implantable VNS devices have been developed to transcutaneously stimulate the vagus nerve for the treatment of conditions including epilepsy, depression, irritable bowel syndrome, impaired glucose tolerance, schizophrenia, and tinnitus. One device, the transcutaneous VNS System (t-VNS®) with NEMOS® (CerboMed GmbH, Erlangen, Germany) received European clearance (CE mark) in 2011 for treatment of drug-resistant epilepsy. This device uses a combined stimulation unit and ear electrode to stimulate the auricular branch of the vagus nerve, which supplies the skin over the concha of the ear. Device users self-administer electrical stimulation for several hours a day; no surgical procedure is required. The device has not received FDA 510(k) clearance for use in the United States. Other studied transcutaneously applied auricular VNS devices include, but are not limited to, the TENS-200 and TENS-220 (Hua Tuo, Suzhou, China) and the Tinnoff Profiler (Tinnoff, Inc., Helsinki, Finland). To date, the FDA has not cleared or approved any non-implantable t- VNS device for use in the treatment of any conditions other than headaches or migraines.
+
+Summary
+
+In addition to pharmacoresistant epilepsy, t-VNS therapy has been evaluated for a number of conditions including schizophrenia, tinnitus, impaired glucose tolerance and heart failure (Hasan, 2015; Huang, 2014; Kreuzer, 2014; Lehtimaki, 2014; Li, 2022; Stavrakis, 2020). The results of these limited studies have not the impacted standard of care for these conditions, which does not currently include t-VNS as an appropriate therapy for any of these conditions.
+
+Definitions
+
+Focal seizure: A seizure that begins with an electrical discharge in a relatively small area (called the focus) of the brain; previously referred to as a partial or localization-related seizure. In most cases, the cause is unknown, but may be related to a brain infection, head injury, stroke, or a brain tumor.
+
+International Classification of Headache Disorders (ICHD): Classification and diagnostic criteria of headache disorders published by the International Headache Society (IHS) and incorporated into the 10th edition of the International Classification of Diseases (ICD-10).
+
+Medically refractory seizures: Seizures that occur despite treatment with therapeutic levels of antiepileptic drugs or seizures that cannot be treated with therapeutic levels of antiepileptic drugs because of intolerable adverse side effects.
+
+Migraine headache: A vascular headache believed to be caused by blood flow changes and certain chemical changes in the brain leading to a cascade of events that include constriction of arteries supplying blood to the brain that result in severe head pain, stomach upset, and visual disturbances.
+
+Refractory depression: A major depressive disorder that fails to demonstrate an adequate response to an adequate treatment trial of antidepressant medications (for example, sufficient intensity of treatment for sufficient duration); also referred to as treatment-resistant depression (TRD). Potential factors contributing to apparent non-response include trial adequacy, individual compliance, differential diagnosis, and treatable comorbid conditions.
+
+Vagus nerve: A nerve that controls both motor and sensory functions of the gastrointestinal tract, heart and larynx; also referred to as the 10th cranial nerve.
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_e002906.html
+
+10/15
+
+10/25/25, 12:12 PM
+
+CG-SURG-120 Vagus Nerve Stimulation
+
+References
+
+Peer Reviewed Publications:
+
+1. Aaronson ST, Carpenter LL, Conway CR, et al. Vagus nerve stimulation therapy randomized to different amounts of electrical charge for treatment-resistant depression: acute and chronic effects. Brain Stimul. 2013; 6(4):631-640. 2. Aaronson ST, Sears P, Ruvuna F, et al. A 5-year observational study of patients with treatment-resistant depression treated with vagus nerve stimulation or treatment as usual: comparison of response, remission, and suicidality. Am J Psychiatry. 2017; 174(7):640-648.
+
+3. Alexopoulos AV, Kotagal P, Loddenkemper T, et al. Long-term results with vagus nerve stimulation in children with
+
+pharmacoresistant epilepsy. Seizure. 2006; 15(7):491-503.
+
+4. Ansari S, Chaudhri K, Al Moutaery K. Vagus nerve stimulation: indications and limitations. Acta Neurochir Supp.
+
+2007; 97(2):281-286.
+
+5. Bajbouj M, Merkl A, Schlaepfer TE, et al. Two-year outcome of vagus nerve stimulation in treatment-resistant
+
+depression. J Clin Psychopharmacol. 2010; 30(3):273-281.
+
+6. Benifla M, Rutka JT, Logan W, Donner EJ. Vagal nerve stimulation for refractory epilepsy in children: indications
+
+and experience at The Hospital for Sick Children. Childs Nerv Syst. 2006; 22(8):1018-1026.
+
+7. Bodenlos JS, Kose S, Borckardt JJ, et al. Vagus nerve stimulation acutely alters food craving in adults with
+
+depression. Appetite. 2007; 48(2):145-153.
+
+8. Boon P, Vonck K, van Rijckevorsel K, et al. A prospective, multicenter study of cardiac-based seizure detection to
+
+activate vagus nerve stimulation. Seizure. 2015; 32:52-61.
+
+9. Cecchini AP, Mea E, Tullo V, et al. Vagus nerve stimulation in drug-resistant daily chronic migraine with depression:
+
+preliminary data. Neurol Sci. 2009; 30(Suppl 1):S101-S104.
+
+10. Coykendall DS, Gauderer MW, Blouin RR, Morales A. Vagus nerve stimulation for the management of seizures in
+
+children: an 8-year experience. J Pediatr Surg. 2010; 45(7):1479-1483.
+
+11. Cramer SW, McGovern RA, Chen CC, Park MC. Clinical benefit of vagus nerve stimulation for epilepsy:
+
+assessment of randomized controlled trials and prospective non-randomized studies. J Cent Nerv Syst Dis. 2023;1 5:11795735231151830.
+
+12. Cristancho P, Cristancho MA, Baltuch GH, et al. Effectiveness and safety of vagus nerve stimulation for severe
+
+treatment-resistant major depression in clinical practice after FDA approval: outcomes at 1 year. J Clin Psychiatry. 2011; 72(10):1376-1382.
+
+13. Danielsson S, Viggedal G, Gillberg C, Olsson I. Lack of effects of vagus nerve stimulation on drug-resistant
+
+epilepsy in eight pediatric patients with autism spectrum disorders: a prospective 2-year follow-up study. Epilepsy Behav. 2008; 12(2):298-304.
+
+14. Dawson J, Engineer ND, Prudente CN, et al. Vagus nerve stimulation paired with upper-limb rehabilitation after
+
+stroke: one-year follow-up. Neurorehabil Neural Repair. 2020; 34(7):609-615.
+
+15. Dawson J, Liu CY, Francisco GE, et al. Vagus nerve stimulation paired with rehabilitation for upper limb motor function after ischaemic stroke (VNS-REHAB): a randomised, blinded, pivotal, device trial. Lancet. 2021; 397(10284):1545-1553.
+
+16. Dawson J, Pierce D, Dixit A, et al. Safety, feasibility, and efficacy of vagus nerve stimulation paired with upper-limb
+
+rehabilitation after ischemic stroke. Stroke. 2016; 47(1):143-150.
+
+17. De Ferrari GM, Crijns HJ, Borggrefe M, et al. Chronic vagus nerve stimulation: a new and promising therapeutic
+
+approach for chronic heart failure. Eur Heart J. 2011; 32(7):847-855.
+
+18. De Herdt V, Boon P, Ceulemans B, et al. Vagus nerve stimulation for refractory epilepsy: a Belgian multicenter
+
+study. Eur J Paediatr Neurol. 2007; 11(5):261-269.
+
+19. Dewar SR, Pieters HC. Perceptions of epilepsy surgery: a systematic review and an explanatory model of decision-
+
+making. Epilepsy Behav. 2015; 44:171-178.
+
+20. Dewar SR, Pieters HC, Fried I. Surgical decision-making for temporal lobe epilepsy: patient experiences of the
+
+informed consent process. Front Neurol. 2021; 12:780306.
+
+21. Eggleston KS, Olin BD, Fisher RS. Ictal tachycardia: the head-heart connection. Seizure. 2014; 23(7):496-505. 22. Elliott RE, Morsi A, Geller EB, et al. Impact of failed intracranial epilepsy surgery on the effectiveness of
+
+subsequent vagus nerve stimulation. Neurosurgery. 2011a; 69(6):1210-1217.
+
+23. Elliott RE, Morsi A, Kalhorn SP, et al. Vagus nerve stimulation in 436 consecutive patients with treatment-resistant
+
+epilepsy: long-term outcomes and predictors of response. Epilepsy Behav. 2011b; 20(1):57-63.
+
+24. Elliott RE, Rodgers, SD, Bassani, L, et al. Vagus nerve stimulation for children with treatment-resistant epilepsy: a
+
+consecutive series of 141 cases. J Neurosurg Pediatr. 2011c; 7(5):491-450.
+
+25. Englot DJ, Chang EF, Auguste KI. Vagus nerve stimulation for epilepsy: a meta-analysis of efficacy and predictors
+
+of response. J Neurosurg. 2011; 115(6):1248-1255.
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_e002906.html
+
+11/15
+
+10/25/25, 12:12 PM
+
+CG-SURG-120 Vagus Nerve Stimulation
+
+26. Fisher RS, Afra P, Macken M, et al. Automatic vagus nerve stimulation triggered by ictal tachycardia: clinical
+
+outcomes and device performance--The U.S. E-37 Trial. Neuromodulation. 2016; 19(2):188-195.
+
+27. Forde IC, Mansukhani MP, Kolla BP, Kotagal S. A potential novel mechanism for vagus nerve stimulator-related
+
+central sleep apnea. Children (Basel). 2017; 4(10).
+
+28. Fugl-Meyer AR, Jääskö L, Leyman I, et al. The post-stroke hemiplegic Patient. 1. a method for evaluation of
+
+physical performance. Scand J Rehabil Med. 1975;7(1):13-31.
+
+29. George MS, Nahas Z, Borckardt JJ, et al. Vagus nerve stimulation for the treatment of depression and other
+
+neuropsychiatric disorders. Expert Rev Neurotherapeutics. 2007; 7(1):63-74.
+
+30. George MS, Rush AJ, Marangell LB, et al. A one-year comparison of vagus nerve stimulation with treatment as
+
+usual for treatment-resistant depression. Biol Psychiatry. 2005; 58(5):364-375.
+
+31. Ghaemi K, Elsharkawy AE, Schulz R, et al. Vagus nerve stimulation: outcome and predictors of seizure freedom in
+
+long-term follow-up. Seizure. 2010; 19(5):264-268.
+
+32. Giordano F, Zicca A, Barba C, et al. Vagus nerve stimulation: surgical technique of implantation and revision and
+
+related morbidity. Epilepsia. 2017; 58 Suppl 1:85-90.
+
+33. Gold MR, Van Veldhuisen DJ, Hauptman PJ, et al. Vagus nerve stimulation for the treatment of heart failure: the
+
+INOVATE-HF trial. J Am Coll Cardiol. 2016; 68(2):149-158.
+
+34. Hamilton P, Soryal I, Dhahri P, et al. Clinical outcomes of VNS therapy with AspireSR(®) (including cardiac-based
+
+seizure detection) at a large complex epilepsy and surgery centre. Seizure. 2018; 58:120-126.
+
+35. Hampel KG, Vatter H, Elger CE, Surges R. Cardiac-based vagus nerve stimulation reduced seizure duration in a
+
+patient with refractory epilepsy. Seizure. 2015; 26:81-85.
+
+36. Handforth A, Ondo WG, Tatter S, et al. Vagus nerve stimulation for essential tremor: a pilot efficacy and safety trial.
+
+Neurology. 2003; 61(10):1401-1405.
+
+37. Hauptman PJ, Schwartz PJ, Gold MR, et al. Rationale and study design of the increase of vagal tone in heart
+
+failure study: INOVATE-HF. Am Heart J. 2012; 163(6):954-962.
+
+38. Healy S, Lang J, Te Water Naude J, et al. Vagal nerve stimulation in children under 12 years old with medically
+
+intractable epilepsy. Childs Nerv Syst. 2013; 29(11):2095-2099.
+
+39. Hsueh IP, Hsu MJ, Sheu CF, et al. Psychometric comparisons of 2 versions of the Fugl-Meyer Motor Scale and 2
+
+versions of the Stroke Rehabilitation Assessment of Movement. Neurorehabil Neural Repair. 2008; 22(6):737-744.
+
+40. Jaseja H. Vagal nerve stimulation: exploring its efficacy and success for an improved prognosis and quality of life in
+
+cerebral palsy patients. Clin Neurol Neurosurg. 2008; 110(8):755-762.
+
+41. Kabir SM, Rajaraman C, Rittey C, et al. Vagus nerve stimulation in children with intractable epilepsy: indications,
+
+complications and outcome. Childs Nerv Syst. 2009; 25(9):1097-1100.
+
+42. Kimberley TJ, Pierce D, Prudente CN, et al. Vagus nerve stimulation paired with upper limb rehabilitation after
+
+chronic stroke. Stroke. 2018; 49(11):2789-2792.
+
+43. Klinkenberg S, Aalbers MW, Vles JS, et al. Vagus nerve stimulation in children with intractable epilepsy: a
+
+randomized controlled trial. Dev Med Child Neurol. 2012; 54(9):855-861.
+
+44. Kostov H, Larsson PG, Roste GK. Is vagus nerve stimulation a treatment option for patients with drug-resistant
+
+idiopathic generalized epilepsy? Acta Neurol Scand Suppl. 2007; 187:55-58.
+
+45. Kostov K, Kostov H, Taubøll E. Long-term vagus nerve stimulation in the treatment of Lennox-Gastaut syndrome.
+
+Epilepsy Behav. 2009; 16(2):321-324.
+
+46. Lange G, Janal MN, Maniker A, et al. Safety and efficacy of vagus nerve stimulation in fibromyalgia: a phase I/II
+
+proof of concept trial. Pain Med. 2011; 12(9):1406-1413.
+
+47. Marangell LB, Rush AJ, George MS, et al. Vagus nerve stimulation (VNS) for major depressive episodes: one-year
+
+outcomes. Biol Psychiatry. 2002; 51(4):280-287.
+
+48. Mauskop A. Vagus nerve stimulation relieves chronic refractory migraine and cluster headaches. Cephalgia. 2005;
+
+25(2):82-86.
+
+49. Merrill CA, Jonsson MAG, Minthon L, et al. Vagus nerve stimulation in patients with Alzheimer’s disease: additional
+
+follow-up results of a pilot study through one year. J Clin Psychiatry. 2006; 67(1):1171-1178.
+
+50. Miner JR, Lewis LM, Mosnaim GS, et al. Feasibility of percutaneous vagus nerve stimulation for the treatment of
+
+acute asthma exacerbations. Acad Emerg Med. 2012; 19(4):421-429.
+
+51. Morris GL, Meuller WM. Long term treatment with vagus nerve stimulation in patients with refractory epilepsy.
+
+Neurology. 1999; 53(8):1731-1735.
+
+52. Murphy JV. Left vagal nerve stimulation in children with medically refractory epilepsy. J Pediat. 1999; (5)134:563-
+
+566.
+
+53. Nahas Z, Marangell LB, Hussain MM, et al. Two year outcome of VNS for treatment of major depressive episodes.
+
+J Clin Psychiatry. 2005; 66(9):1097-1104.
+
+54. Nearing BD, Libbus I, Carlson GM, et al. Chronic vagus nerve stimulation is associated with multi-year
+
+improvement in intrinsic heart rate recovery and left ventricular ejection fraction in ANTHEM-HF. Clin Auton Res.
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_e002906.html
+
+12/15
+
+10/25/25, 12:12 PM
+
+CG-SURG-120 Vagus Nerve Stimulation
+
+2021; 31(3):453-462.
+
+55. Orosz I, McCormick D, Zamponi N, et al. Vagus nerve stimulation for drug-resistant epilepsy: a European longterm
+
+study up to 24 months in 347 children. Epilepsia. 2014; 55(10):1576-1584.
+
+56. Payne BR, Tiel RL, Payne MS, Fisch B. Vagus nerve stimulation for chronic intractable hiccups. Case report. J
+
+Neurosurg. 2005; 102(5):935-937.
+
+57. Premchand RK, Sharma K, Mittal S, et al. Autonomic regulation therapy via left or right cervical vagus nerve
+
+stimulation in patients with chronic heart failure: results of the ANTHEM-HF trial. J Card Fail. 2014; 20(11):808-816.
+
+58. Rush AJ, George MS, Sackeim HA, et al. Vagus nerve stimulation (VNS) for treatment-resistant depression: a
+
+multicenter study. Biol Psychiatry. 2000; 47(4):276-286.
+
+59. Rush AJ, Marangell LB, Sackeim HA, et al. Vagus nerve stimulation for treatment-resistant depression: a
+
+randomized controlled acute phase trial. Biol Psychiatry. 2005a; 58(5):347-354.
+
+60. Rush AJ, Sackeim HA, Marangell LB, et al. Effects of 12 months of vagus nerve stimulation in treatment-resistant
+
+depression: a naturalistic study. Biol Psychiatry. 2005b; 58(5):355-363.
+
+61. Rush AJ, Siefert SE. Clinical issues in considering vagus nerve stimulation for treatment-resistant depression. Exp
+
+Neurol. 2009; 219(1):36-43.
+
+62. Rush AJ, Trivedi MH, Wisniewski SR, et al. Acute and longer-term outcomes in depressed outpatients requiring one
+
+or several treatment steps: a STAR*D Report. Am J Psychiatry. 2006; 163(11):1905-1917.
+
+63. Ryvlin P, Gilliam FG, Nguyen DK, et al. The long-term effect of vagus nerve stimulation on quality of life in patients
+
+with pharmacoresistant focal epilepsy: the PuLsE (Open Prospective Randomized Long-term Effectiveness) trial. Epilepsia. 2014; 55(6):893-900.
+
+64. Sackeim HA, Brannan SK, Rush J, et al. Durability of antidepressant response to vagus nerve stimulation (VNS™).
+
+Int J Neuropsychopharmacology. 2007; 10(6):817-826.
+
+65. Sackeim HA, Rush AJ, George MS, et al. Vagus nerve stimulation (VNS) for treatment-resistant depression;
+
+efficacy, side effects and predictors of outcome. Neuropsychopharmacology. 2001; 25(5):713-728.
+
+66. Samanta D, Ostendorf AP, Willis E, et al. Underutilization of epilepsy surgery: Part I: A scoping review of barriers.
+
+Epilepsy Behav. 2021; 117:107837.
+
+67. Schlaepfer TE, Frick C, Zobel A, et al. Vagus nerve stimulation for depression: efficacy and safety in a European
+
+study. Psychol Med. 2008; 38(5):651-661.
+
+68. Shahid J, Kashif A, Shahid MK. A comprehensive review of physical therapy interventions for stroke rehabilitation:
+
+impairment-based approaches and functional goals. Brain Sci. 2023; 13(5):717.
+
+69. Shi C, Flanagan SR, Samadani U. Vagus nerve stimulation to augment recovery from severe traumatic brain injury
+
+impeding consciousness: a prospective pilot clinical trial. Neurol Res. 2013; 35(3):263-276.
+
+70. Siddiqui F, Herial NA, Ali II. Cumulative effect of vagus nerve stimulators on intractable seizures observed over a
+
+period of 3 years. Epilepsy Behav. 2010; 18(3):299-302.
+
+71. Simpson HD, Schulze-Bonhage A, Cascino GD, et al. Practical considerations in epilepsy neurostimulation.
+
+Epilepsia. 2022; 63(10):2445-2460.
+
+72. Sinha SR, Yang JC, Wallace MJ, et al. Patient preferences pertaining to treatment options for drug-resistant focal
+
+epilepsy. Epilepsy Behav. 2022; 127:108529.
+
+73. Stavrakis S, Elkholey K, Morris L, et al. Neuromodulation of inflammation to treat heart failure with preserved
+
+ejection fraction: a pilot randomized clinical trial. J Am Heart Assoc. 2022; 11(3):e023582.
+
+74. Tariq K, Das JM, Monaghan S, et al. A case report of vagus nerve stimulation for intractable hiccups. Int J Surg
+
+Case Rep. 2021; 78:219-222.
+
+75. Tassorelli C, Grazzi L, de Tommaso M, et al. Noninvasive vagus nerve stimulation as acute therapy for migraine:
+
+the randomized PRESTO study. Neurology. 2018; 91(4):e364-e373.
+
+76. Tecoma ES, Iragui VJ. Vagus nerve stimulation use and effect in epilepsy: what have we learned? Epilepsy Behav.
+
+2006; 8(1):127-136.
+
+77. Thijs RD, Surges R, O'Brien TJ, Sander JW. Epilepsy in adults. Lancet. 2019; 393(10172):689-701. 78. Tzadok M, Harush A, Nissenkorn A, et al. Clinical outcomes of closed-loop vagal nerve stimulation in patients with
+
+refractory epilepsy. Seizure. 2019; 71:140-144.
+
+79. Vale FL, Ahmadian A, Youssef AS, et al. Long-term outcome of vagus nerve stimulation therapy after failed epilepsy
+
+surgery. Seizure. 2011; 20(3):244-248.
+
+80. You SJ, Kang HC, Kim HD, et al. Vagus nerve stimulation in intractable childhood epilepsy: a Korean multicenter
+
+experience. J Korean Med Sci. 2007; 22(3):442-445.
+
+81. You SJ, Kang HC, Ko TS, et al. Comparison of corpus callosotomy and vagus nerve stimulation in children with
+
+Lennox-Gastaut syndrome. Brain Dev. 2008; 30(3):195-199.
+
+82. Yu C, Ramgopal S, Libenson M, et al. Outcomes of vagal nerve stimulation in a pediatric population: a single
+
+center experience. Seizure. 2014; 23(2):105-111.
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_e002906.html
+
+13/15
+
+10/25/25, 12:12 PM
+
+CG-SURG-120 Vagus Nerve Stimulation
+
+83. Yuan H, Silberstein SD. Vagus nerve and vagus nerve stimulation, a comprehensive review: part III. Headache.
+
+2016; 56(3):479-490.
+
+84. Zambrelli E, Saibene AM, Furia F, et al. Laryngeal motility alteration: a missing link between sleep apnea and
+
+vagus nerve stimulation for epilepsy. Epilepsia. 2016; 57(1):e24-e27.
+
+85. Zannad F, De Ferrari GM, Tuinenburg AE, et al. Chronic vagal stimulation for the treatment of low ejection fraction heart failure: results of the NEural Cardiac TherApy foR Heart Failure (NECTAR-HF) randomized controlled trial. Eur Heart J. 2015; 36(7):425-433.
+
+Government Agency, Medical Society, and Other Authoritative Publications:
+
+1. American Psychological Association (APA). APA Clinical Practice Guideline for the treatment of depression across three age cohorts. Approved February 2019. Available at: https://www.apa.org/depression-guideline/guideline.pdf. Accessed on February 2, 2025.
+
+2. Centers for Medicare and Medicaid Services (CMS). National Coverage Determinations. Vagus nerve stimulation.
+
+NCD #160.18. Effective February 15, 2019. Available at: https://www.cms.gov/medicare-coverage- database/view/ncd.aspx?ncdid=230&ncdver=3&bc=0. Accessed on January 17, 2025.
+
+3. Department of Veterans Affairs (VA) / Department of Defense (DoD). VA/DoD Clinical practice guideline for the
+
+management of major depressive disorder V4.0. 2022, Available at: https://www.healthquality.va.gov/guidelines/MH/mdd/VADODMDDCPGFinal508.pdf. Accessed on February 20, 2025.
+
+4. Harden C, Tomson T, Gloss D, et al. Practice guideline summary. Sudden unexpected death in epilepsy incidence rates and risk factors: report of the Guideline Development, Dissemination, and Implementation Subcommittee of the American Academy of Neurology and the American Epilepsy Society. Epilepsy Curr. 2017; 17(3):180-187.
+
+5. Headache Classification Committee of the International Headache Society (IHS). The International Classification of
+
+Headache Disorders, 3rd edition (beta version). Cephalalgia. 2013; 33(9):629-808.
+
+6. LivaNova. A prospective, multi-center, randomized controlled blinded trial demonstrating the safety and
+
+effectiveness of VNS Therapy® System as adjunctive therapy versus a no stimulation control in subjects with treatment-resistant depression. NLM Identifier: NCT03887715. Last updated on December 10, 2024. Available at: https://clinicaltrials.gov/study/NCT03887715#study-overview. Accessed on February 3, 2025.
+
+7. Morris GL III, Gloss D, Buchhalter J, et al. Evidence-based guideline update: vagus nerve stimulation for the
+
+treatment of epilepsy: report of the Guideline Development Subcommittee of the American Academy of Neurology. Neurology. 2013; 81(16):1453-1459. Reaffirmed July 16, 2022.
+
+8. Panebianco M, Rigby A, Weston J, Marson AG. Vagus nerve stimulation for partial seizures. Cochrane Database
+
+Syst Rev. 2015;(2):CD002896.
+
+9. Robbins MS, Starling AJ, Pringsheim TM, et al. Treatment of cluster headache: the American Headache Society
+
+evidence-based guidelines. Headache. 2016; 56(7):1093-1106.
+
+10. U.S. Food and Drug Administration (FDA). Accessed on January 17, 2025.
+
+Summary of Safety and Effectiveness Data. Vivistim System. Available at: https://www.accessdata.fda.gov/cdrh_docs/pdf21/P210007B.pdf Summary of Safety and Effectiveness Data. VNS Therapy System. Available at: https://www.accessdata.fda.gov/cdrh_docs/pdf/p970003s207b.pdf.
+
+Websites for Additional Information
+
+1. American Academy of Neurology (AAN). Available at: http://www.aan.com/. Accessed on January 17, 2025. 2. American Association of Neurological Surgeons (AANS). Vagus Nerve Stimulation. April 9, 2024. Available at: https://www.aans.org/patients/conditions-treatments/vagus-nerve-stimulation/. Accessed on January 17, 2025.
+
+3. American Psychiatric Association (APA). What is depression? Reviewed April 2024. Available at:
+
+https://www.psychiatry.org/patients-families/depression/what-is-depression. Accessed on January 3, 2025.
+
+4. Centers for Disease Control and Prevention (CDC). Diseases and conditions. Available at:
+
+http://www.cdc.gov/DiseasesConditions/. Accessed on January 17, 2025.
+
+5. Epilepsy Foundation. Treatment. Available at: https://www.epilepsy.com/treatment. Accessed on January 17, 2025. 6. National Institute of Neurological Disorders and Stroke (NINDS). Disorder index. NINDS information pages.
+
+Available at: https://www.ninds.nih.gov/Disorders/All-Disorders. Accessed on January 17, 2025.
+
+Epilepsy and Seizures. Last reviewed on January 23, 2025. Lennox-Gastaut Syndrome. Last reviewed on July 19, 2024
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_e002906.html
+
+14/15
+
+10/25/25, 12:12 PM
+
+CG-SURG-120 Vagus Nerve Stimulation
+
+Index
+
+AspireSR Model 106 CardioFit Sentiva Model 100 Vivistim VNS Therapy
+
+The use of specific product names is illustrative only. It is not intended to be a recommendation of one product over another, and is not intended to represent a complete listing of all products available.
+
+History
+
+Status Reviewed
+
+Date 02/20/2025
+
+Action Medical Policy & Technology Assessment Committee (MPTAC) review. Revised Description, Discussion, References, Websites for Additional Information and Index sections. Revised Coding section to remove code E0735 now addressed in CG-MED- 100. Updated Coding section with 01/01/2025 CPT changes, added 0908T, 0909T, 0910T, 0911T, 0912T. MPTAC review. Moved content of SURG.00007 to clinical utilization management guideline document with the same title.
+
+01/30/2025
+
+New
+
+02/15/2024
+
+Federal and State law, as well as contract language, and Medical Policy take precedence over Clinical UM Guidelines. We reserve the right to review and update Clinical UM Guidelines periodically. Clinical guidelines approved by the Medical Policy & Technology Assessment Committee are available for general adoption by plans or lines of business for consistent review of the medical necessity of services related to the clinical guideline when the plan performs utilization review for the subject. Due to variances in utilization patterns, each plan may choose whether to adopt a particular Clinical UM Guideline. To determine if review is required for this Clinical UM Guideline, please contact the customer service number on the member's card.
+
+Alternatively, commercial or FEP plans or lines of business which determine there is not a need to adopt the guideline to review services generally across all providers delivering services to Plan’s or line of business’s members may instead use the clinical guideline for provider education and/or to review the medical necessity of services for any provider who has been notified that his/her/its claims will be reviewed for medical necessity due to billing practices or claims that are not consistent with other providers, in terms of frequency or in some other manner.
+
+No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without permission from the health plan.
+
+© CPT Only - American Medical Association
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_e002906.html
+
+15/15

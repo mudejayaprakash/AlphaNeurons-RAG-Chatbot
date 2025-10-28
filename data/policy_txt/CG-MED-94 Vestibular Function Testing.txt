@@ -1,0 +1,235 @@
+10/25/25, 12:06 PM
+
+CG-MED-94 Vestibular Function Testing
+
+Clinical UM Guideline
+
+Subject: Vestibular Function Testing
+
+Guideline #: CG-MED-94
+
+Publish Date: 04/16/2025
+
+Status: Reviewed
+
+Last Review Date: 02/20/2025
+
+Description
+
+This document addresses the use of selected tests of vestibular function. Specifically, this document addresses the use of electronystagmography (ENG) and videonystagmography (VNG), caloric testing, rotational chair testing, and vestibular- evoked myogenic potential tests (VEMP).
+
+Clinical Indications
+
+Medically Necessary:
+
+Vestibular function testing (that is, electronystagmography, videonystagmography, caloric testing, or rotational chair testing) is considered medically necessary under the following circumstances:
+
+1. There are symptoms of a vestibular disorder (for example, dizziness, vertigo, imbalance); and 2. Diagnosis by clinical exam could not be established.
+
+Vestibular-evoked myogenic potential (VEMP) testing is considered medically necessary for the evaluation of individuals with suspected superior canal dehiscence syndrome (SCDS) when neuroimaging is inconclusive for that diagnosis.
+
+Not Medically Necessary:
+
+Vestibular function testing is considered not medically necessary when the above criteria have not been met.
+
+F e e d b a c k
+
+Vestibular-evoked myogenic potential (VEMP) testing is considered not medically necessary when the above criteria are not met, including, but not limited to, for the evaluation of suspected benign positional vertigo, Meniere disease, or labyrinthitis.
+
+Coding
+
+The following codes for treatments and procedures applicable to this guideline are included below for informational purposes. Inclusion or exclusion of a procedure, diagnosis or device code(s) does not constitute or imply member coverage or provider reimbursement policy. Please refer to the member's contract benefits in effect at the time of service to determine coverage or non-coverage of these services as it applies to an individual member.
+
+Electronystagmography, videonystagmography, caloric testing, rotational chair testing When services may be Medically Necessary when criteria are met:
+
+CPT 92537
+
+Caloric vestibular test with recording, bilateral; bithermal (ie, one warm and one cool irrigation in each ear for a total of four irrigations) Caloric vestibular test with recording, bilateral; monothermal (ie, one irrigation in each ear for a total of two irrigations) Basic vestibular evaluation, includes spontaneous nystagmus test with eccentric gaze fixation nystagmus, with recording, positional nystagmus test, minimum of 4 positions, with recording, optokinetic nystagmus test, bidirectional foveal and peripheral stimulation, with recording, and oscillating tracking test, with recording Spontaneous nystagmus test, including gaze and fixation nystagmus, with recording Positional nystagmus test, minimum of 4 positions, with recording
+
+92538
+
+92540
+
+92541 92542
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002727.html
+
+1/5
+
+10/25/25, 12:06 PM
+
+CG-MED-94 Vestibular Function Testing
+
+92544 92545 92546
+
+Optokinetic nystagmus test, bidirectional, foveal or peripheral stimulation, with recording Oscillating tracking test, with recording Sinusoidal vertical axis rotational testing
+
+ICD-10 Diagnosis H81.01-H81.93 H82.1-H82.9 H83.01-H83.09 H83.2X1-H83.2X9 R11.0-R11.2 R26.81-R26.89 R27.0-R27.9 R42 R55
+
+Disorders of vestibular function Vertiginous syndromes in diseases classified elsewhere Labyrinthitis Labyrinthine dysfunction Nausea and vomiting Other abnormalities of gait and mobility Other lack of coordination Dizziness and giddiness Syncope and collapse
+
+When services are Not Medically Necessary: For the procedure codes listed above when criteria are not met or for all other diagnoses not listed.
+
+Vestibular evoked myogenic potential (VEMP) testing When services may be Medically Necessary when criteria are met:
+
+CPT 92517
+
+Vestibular evoked myogenic potential (VEMP) testing, with interpretation and report; cervical (cVEMP) Vestibular evoked myogenic potential (VEMP) testing, with interpretation and report; ocular (oVEMP) Vestibular evoked myogenic potential (VEMP) testing, with interpretation and report; cervical (cVEMP) and ocular (oVEMP)
+
+92518
+
+92519
+
+ICD-10 Diagnosis H83.8X1-H83.8X9
+
+Other specified diseases of inner ear [includes superior semi-circular canal dehiscence syndrome]
+
+When services are Not Medically Necessary: For the procedure codes listed above when criteria are not met or for all other diagnoses not listed.
+
+Discussion/General Information
+
+The vestibular system creates our senses of balance and equilibrium. This system works with other sensorimotor systems in the body, such as the visual system and skeletal system, to monitor and maintain the position of the body at rest or in motion. The vestibular system includes peripheral and central components. Peripherally, semicircular canals in the inner ears sense rotational movement of the head. Two otolith organs (the utricles and saccules), also in the inner ears, provide us with sensation of linear acceleration. Central components of the vestibular system include the cochlear nerve, brainstem, cerebellum, and several cerebral areas.
+
+A common symptom of vestibular system dysfunction is vertigo – a sensation of movement often associated with dizziness, nausea, and vomiting. The sensation is classically described as spinning, but may also be a sense of swaying, tilting, or unsteadiness. Vertigo should be distinguished from the broader symptom category of dizziness. The term dizziness includes vertigo, but also is used to describe disequilibrium, lightheadedness, or presyncopal faintness. Many people have difficulty describing the symptoms of vertigo, and the lack of a reported spinning sensation does not exclude vertigo as a possible cause of dizziness.
+
+The cause of vertigo can usually be determined by history and physical examination. The medical history can often distinguish vertigo from syncope, pre-syncope, orthostasis, or simple disequilibrium which does not have a spinning component. Important historical information includes the time course, provoking and palliative factors, and associated symptoms. The physical examination should include standard evaluations of the head and neck, office hearing and balance tests, and bedside tests. Benign paroxysmal positional vertigo (BPPV) is common and causes about 50% of peripheral vertigo. A cross-sectional, nationally representative neurotological survey of the general adult population in Germany estimated a lifetime BPPV prevalence of 2.4% (von Brevern, 2007). Incidence rates increase with age. Vertigo in BPPV is caused by movement of small calcium carbonate crystals (otoconia) in the semicircular canals. Although often idiopathic, BPPV can be a sequella of trauma, Meniere disease, or infectious or inflammatory conditions affecting the inner
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002727.html
+
+2/5
+
+10/25/25, 12:06 PM
+
+CG-MED-94 Vestibular Function Testing
+
+ear. BPPV can be diagnosed and treated with maneuvers that reposition the inner ear particles such as the Dix-Hallpike maneuver or supine head roll maneuver (see definitions).
+
+If the cause of vertigo cannot be attributed to BPPV based on history, symptoms, or response to standard maneuvers such as the Dix-Hallpike maneuver or supine head roll maneuver, vestibular function tests can be performed to determine if the vertigo is due to loss of vestibular function. Vestibular function tests evaluate the vestibular part of the brainstem and inner ear. These tests evaluate whether an asymmetry exists between the function of the right and left inner ears. If there are problems with the inner ear or other parts of the balance system, symptoms can include dizziness, vertigo, and imbalance. Vestibular tests can help to distinguish peripheral vertigo caused by pathology in the inner ear from central vertigo caused by pathology in the brainstem or cerebellum. Vestibular tests can include ENG, VNG test batteries, caloric testing, and rotational chair testing.
+
+The ENG test evaluates eye movements to determine how well nerves in the brain are working. Electrodes are placed near the eyes then cold and warm water or air is sprayed into each ear canal. The electrodes record the eye movements that occur when the nerves are stimulated by the water or air. Similar to ENG, VNG measures a type of eye movement using video cameras instead of electrodes. These tests record and quantify spontaneous and induced nystagmus.
+
+A battery of tests along with ENG and VNG can differentiate central and peripheral etiologies. Another test, the caloric stimulation test, is done by injecting cold or warm water or air into the ear canal and tracking eye movements to look for damage to the acoustic nerve. A similar nystagmus-based assessment is rotational chair testing. This involves tracking eye movements in response to movements of a rotating chair and moving lights projected on a wall.
+
+A 2023 study by Saha and colleagues reported on the applicability of ENG to assist in the diagnosis of vertigo of either central or peripheral etiology. Included were 84 participants with an initial complaint of vertigo. Vertiginous symptoms varied among participants: 75% complained of instability, 50% complained of rotatory objective vertigo, 29.76% complained of a tendency to fall, 22.62% complained of blackout, and 2.38% complained of a sinking sensation. Two or more symptoms were reported by 63% of the participants. Evaluation without ENG allowed categorization of vertigo for 68 participants (80.95%) with 46 (54.76%) diagnosed with peripheral vertigo and 22 (26.19%) diagnosed with central vertigo. Vertigo for 16 participants (19.05%) could not be categorized without an ENG. A subsequent ENG distinguished between central and peripheral vertigo for all participants, finding that that 48 (57.14%) had peripheral, 27 (32.14%) had central, and 9 (10.71%) had mixed peripheral and central vertigo.
+
+Vestibular evoked myogenic potential (VEMP) tests are used to determine function of the otolithic organs (utricle and saccule) of the inner ear. These two organs are sensitive to sound, vibration, and movement. Testing is performed by stimulating one ear with repetitive sound stimulation and then measuring surface EMG responses over selected muscles. The test can be done using sound or bone vibration to assess otolith function.
+
+Superior canal dehiscence syndrome (SCDS) is a rare condition caused by a deficiency of bone overlying the one of the bony canals in the inner ear. SCDS results in vertigo and oscillopsia caused by loud sounds or changes in the pressure of the external auditory canal middle ear. The abnormal opening (dehiscence) in the temporal bone forms the roof of the superior semicircular canal. The etiology is unknown, however, in most cases the cause of SCDS is thought to be a developmental anomaly of the temporal bone. Diagnosis can be made by history of symptoms consistent with SCDS, lab and physiologic testing, and detection of the bone defect on neuroimaging such as high-resolution computed tomography (CT) scan. Clinical exam may show eye movements induced by Valsalva maneuvers either by pressure in the external auditory canal or by sounds. Examples of physiologic testing suggestive of SCDS can include supranormal hearing thresholds on audiometry, abnormal Valsalva testing, reduced threshold or increased magnitude of response on VEMP testing, or vibration induced torsional nystagmus.
+
+A 2017 Practice Guideline on cervical and ocular vestibular evoked myogenic potential testing published by the American Academy of Neurology (AAN) (Fife, 2017) issued a level C recommendation for cervical VEMP used to distinguish SCDS and notes a sensitivity of 86%–91% and a specificity of 90%–96% for this condition. AAN’s 2017 definition of a level C recommendation was that it “represents a recommendation that may be done [and that in] some circumstances, adherence to the recommendation might improve health related outcomes”. This guideline also includes the following statements:
+
+cVEMP and oVEMP have unknown efficacy in accurately identifying vestibular function specifically related to the saccule/utricle (Level U). cVEMP may be used as an ancillary test in Ménière disease for vestibular dysfunction (Level C). There is insufficient evidence that either cVEMP or oVEMP may be used to diagnose Ménière disease (Level U). cVEMP was not demonstrated to aid in establishing a BPPV diagnosis. cVEMP may not be used to make a BPPV diagnosis (Level C).
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002727.html
+
+3/5
+
+10/25/25, 12:06 PM
+
+CG-MED-94 Vestibular Function Testing
+
+In no study was VEMP useful in establishing a vestibular migraine diagnosis. Recommendation. Although an absent VEMP response in one or both ears appears to occur more often in patients with VM than in normal controls, VEMP may not be used to assist in VM diagnosis or management (Level C).
+
+The guideline panel found insufficient data to determine the usefulness of VEMP in diagnosing other vestibular disorders.
+
+A 2014 position statement by the American Academy of Otolaryngology Head and Neck Surgery (AAO-HNS) position statement on vestibular myogenic potential (VEMP) testing states “Vestibular Evoked Myogenic Potential (VEMP) testing is a useful neurophysiologic test and is medically indicated and appropriate in the evaluation of certain persons with suspected auditory and balance or dizziness disorders.”
+
+Definitions
+
+Dizziness: The sensation of weakness or unsteadiness often described as feeling “woozy”, unsteady, or faint.
+
+Disequilibrium: A sensation of imbalance, loss of equilibrium, or unsteadiness.
+
+Dix-Hallpike maneuver (also known as the Baranay test): a test of vestibular function in which a seated individual is rapidly placed in a supine position with the head turned to one side and the neck is extended 30 degrees below the horizontal plane. The test is repeated with the head turned to each side. In a positive test, the individual will be seen to have nystagmus in the supine position or on returning to the seated position.
+
+Labyrinthitis: An inflammation of the inner ear with symptoms including vertigo, tinnitus, and/or hearing loss.
+
+Meniere disease: A disorder of the inner ear which causes vertigo, tinnitus, hearing loss, and a feeling of fullness of congestion in the ear.
+
+Nystagmus: Involuntary rhythmic, repetitive eye movements. Nystagmus has a fast component in which the eyes quickly deviate to one side. This is followed by a slow component in which the eyes return to the neutral position. Nystagmus can also involve rotational movement of the eyes. The direction of these nystagmus components has diagnostic significance.
+
+Orthostasis: A fall in blood pressure due to changes in position.
+
+Oscillopsia: An illusion of an unstable visual world sometimes described as a sensation that objects in the surrounding environment are constantly moving. This movement may be described as a jumping, jiggling, or vibrating sensation.
+
+Supine roll test: A test of vestibular function in which the individual is placed supine with the neck flexed to 30 degrees in order to bring the lateral semicircular canals into the horizontal position. The examiner turns the head quickly 90 degrees to one side and observes for nystagmus.
+
+Vertigo: A sensation of rotation or spinning either of the self or the surrounding environment. This may be accompanied by nausea or vomiting.
+
+References
+
+Peer Reviewed Publications:
+
+1. Diaz MP, Lesser J, AlarcónV. Superior semicircular canal dehiscence syndrome – diagnosis and surgical
+
+management. Int Arch Otorhinolaryngol. 2017: 21(2):195-198.
+
+2. Moideen A, Konkimalla A, Tyagi AK, et al. Cross-sectional analysis of videonystagmography (VNG) findings in
+
+balance disorders. Cureus. 2023; 15(2):e34795.
+
+3. Saha S, Haldar A, Mondal H. Evaluation of types of vertigo with electronystagmography: an experience from a
+
+tertiary care hospital in West Bengal, India. Cureus. 2023; 15(2):e35496.
+
+4. von Brevern M, Radtke A, Lezius F, et al. Epidemiology of benign paroxysmal positional vertigo: a population based
+
+study. J Neurol Neurosurg Psychiatry. 2007; 78(7):710-715.
+
+Government Agency, Medical Society, and Other Authoritative Publications:
+
+1. American Academy of Neurology. Clinical practice guideline process manual. 2017. Available at:
+
+https://www.aan.com/siteassets/home-page/policy-and-guidelines/guidelines/about- guidelines/17guidelineprocman_pg.pdf. Accessed on December 23, 2024.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002727.html
+
+4/5
+
+10/25/25, 12:06 PM
+
+CG-MED-94 Vestibular Function Testing
+
+2. American Academy of Otolaryngology-Head and Neck Surgery. Position statement: vestibular myogenic potential
+
+(VEMP) testing. 2014. Available at: https://www.entnet.org/resource/position-statement-vestibular-myogenic- potential-vemp-testing/. Accessed on November 11, 2024.
+
+3. Fife TD, Colebatch JG, Kerber KA, et al. Practice guideline: Cervical and ocular vestibular evoked myogenic
+
+potential testing: Report of the Guideline Development, Dissemination, and Implementation Subcommittee of the American Academy of Neurology. Neurology. 2017 Nov 28;89(22):2288-2296.
+
+Websites for Additional Information
+
+1. National Organization for Rare Disorders (NORD). Superior Semicircular Canal Dehiscence. March 23, 2023. Available at: https://rarediseases.org/rare-diseases/superior-semicircular-canal-dehiscence/. Accessed on November 11, 2024.
+
+Index
+
+Vestibular function tests
+
+History
+
+Status Reviewed
+
+Date 02/20/2025
+
+Action Medical Policy & Technology Assessment Committee (MPTAC) review. Revised Discussion/General Information, Definitions, References and Websites for Additional Information sections. MPTAC review. Revised MN and NMN statements to include vestibular-evoked myogenic potential tests. Revised Description, Discussion/General Information, Definitions, and References sections. Added Websites for Additional Information section. Updated Coding section, added CPT 92517, 92518, 92519. MPTAC review. Initial document development.
+
+Revised
+
+02/15/2024
+
+New
+
+11/09/2023
+
+Federal and State law, as well as contract language, and Medical Policy take precedence over Clinical UM Guidelines. We reserve the right to review and update Clinical UM Guidelines periodically. Clinical guidelines approved by the Medical Policy & Technology Assessment Committee are available for general adoption by plans or lines of business for consistent review of the medical necessity of services related to the clinical guideline when the plan performs utilization review for the subject. Due to variances in utilization patterns, each plan may choose whether to adopt a particular Clinical UM Guideline. To determine if review is required for this Clinical UM Guideline, please contact the customer service number on the member's card.
+
+Alternatively, commercial or FEP plans or lines of business which determine there is not a need to adopt the guideline to review services generally across all providers delivering services to Plan’s or line of business’s members may instead use the clinical guideline for provider education and/or to review the medical necessity of services for any provider who has been notified that his/her/its claims will be reviewed for medical necessity due to billing practices or claims that are not consistent with other providers, in terms of frequency or in some other manner.
+
+No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without permission from the health plan.
+
+© CPT Only - American Medical Association
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_e002727.html
+
+5/5

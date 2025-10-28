@@ -1,0 +1,2417 @@
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+-->
+
+(https://www.aetna.com/)
+
+Vasectomy Procedures
+
+Medical Clinical Policy Bulletins
+
+Clinical Policy Bulletins
+
+Number: 0027
+
+Table Of Contents
+
+Policy History
+
+Policy
+
+Applicable CPT / HCPCS / ICD-10 Codes
+
+Last Review
+
+Background
+
+02/18/2025
+
+References
+
+Effective: 12/07/2004
+
+Next Review: 01/08/2026
+
+Review History
+
+Deﬁnitions
+
+Policy
+
+Additional Information
+
+Scope of Policy
+
+Clinical Policy Bulletin
+
+This Clinical Policy Bulletin addresses vasectomy procedures.
+
+Notes
+
+I. Medical Necessity
+
+Aetna considers vasectomy reversal medically necessary for the
+
+treatment of post-vasectomy pain syndrome if member has failed
+
+non-steroidal anti-inﬂammatory medications and local nerve
+
+blocks/steroid injections.
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+1/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+II. Experimental, Investigational, or Unproven
+
+The following procedures are considered experimental,
+
+investigational, or unproven because there is inadequate evidence
+
+in the peer-reviewed published literature regarding their
+
+eﬀectiveness (not an all-inclusive list):
+
+A. Vasectomy Procedures
+
+1. Endoscopic vasectomy
+
+2. Implantable vas deferens ligation clip (Vasclip, VMBC, LLC,
+
+Roseville, MN)
+
+3. Pro-Vas occlusion method
+
+4. Vasal injection (e.g., reversible inhibition of sperm under
+
+guidance (RISUG)
+
+5. Vasal occlusion (e.g., Intra Vas Plug, and LigaSure);
+
+B. Procedures for Treatment of Post-Vasectomy Pain Syndrome
+
+1. Epididymectomy
+
+2. Micro-denervation of the spermatic cord.
+
+CPT Codes / HCPCS Codes / ICD-10 Codes
+
+CPT codes not covered for indications listed in the CPB:
+
+Code
+
+Code Description
+
+Implantable clip:(Vasclip, VMBC, LLC, Roseville, MN), Vessel Sealing Device (LigaSure) - no speciﬁc code:
+
+Endoscopic vasectomy - no speciﬁc code:
+
+ICD-10 codes not covered for indications listed in the CPB (not all-inclusive):
+
+N50.811,
+
+Testicular pain
+
+N50.812,
+
+N50.819
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+2/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+Code
+
+Code Description
+
+Encounter for sterilization
+
+Z30.2
+
+Vasectomy status
+
+Z98.52
+
+Vasectomy reversal procedures:
+
+CPT codes covered if selection criteria are met:
+
+Epididymectomy; unilateral
+
+54860
+
+bilateral
+
+54861
+
+Vasovasostomy, vasovasorrhaphy
+
+55400
+
+Other CPT codes related to the CPB:
+
+Cystourethroscopy with transurethral resection or incision of
+
+52402
+
+ejaculatory ducts
+
+Vasectomy, unilateral or bilateral (separate procedure),
+
+55250
+
+including postoperative semen examination(s)
+
+Semen analysis; motility and count (not including Huhner test)
+
+89310
+
+ICD-10 codes covered if selection criteria are met:
+
+Other chronic postprocedural pain [post-vasectomy]
+
+G89.28
+
+Background
+
+According to a guideline on sterilization by the American College of
+
+Obstetricians and Gynecologists (ACOG, 2003), approximately 500,000
+
+vasectomies are performed annually in the United States by urologists,
+
+general surgeons, and family physicians.
+
+During vasectomy, an incision or puncture (no-scalpel technique) is made
+
+in the scrotum and the vas deferens is then cut to disconnect it, thereby
+
+interrupting the sperm's route from the testicles to the penis. A piece of
+
+the vas is removed (to reduce the chances of the 2 ends of the vas
+
+rejoining) and the 2 ends are then clipped, tied, or cauterized. Fascial
+
+interposition, in which one end of the vas is covered by either the sheath
+
+tissues of the vas itself or with adjacent connective tissue, is also widely
+
+used in conjunction with occlusion techniques to reduce the risk of re-
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+3/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+canalization. A controversial and less widespread practice involves
+
+leaving the testicular end of the vas unsealed to allow sperm to flow out
+
+of the vas in order to minimize pressure on and damage to the epididymis
+
+(Errey et al, 1986). Once the vasectomy is performed, the testicles still
+
+generate sperm, but their movement is blocked.
+
+The rate of vasectomy failure, defined as lack of azoospermia on follow-
+
+up semen analysis (SA) or presence of pregnancy, has generally been
+
+reported to be between 0 % to 2 % (Cook et al, 2004; ACOG, 2003).
+
+The 3 main causes of vasectomy failure are operative failure, unprotected
+
+intercourse before the semen is cleared of sperm, and spontaneous early
+
+or late recanalization of the vas (Cook et al, 2004). Failure rates are
+
+reportedly lower when traditional vasectomy is performed by more
+
+experienced surgeons (Schwingl et al, 2000). Vasectomy is considered a
+
+low-risk procedure with fewer than 3 % of cases resulting in
+
+complications; complications include: infection, bleeding, hematoma,
+
+acute and chronic pain and congestive epididymitis.
+
+Since the late 1960s, attempts have been made to develop an alternative
+
+method of vasectomy that would be more easily reversible than a
+
+standard vasectomy. Most of these efforts focused on the use of
+
+mechanical valves that could be opened and closed. The Vasclip, a
+
+locking ligation clip the size of a grain of rice, was cleared for marketing
+
+by the Food and Drug Administration (FDA) based on a 510(k)
+
+application. Thus, the manufacturer was not required to supply the
+
+evidence of effectiveness that would be required to support a pre-market
+
+approval application (PMA). The FDA 510(k) summary of substantial
+
+equivalence stated the Vasclip is identical in use to the Hem-o-lok, a
+
+polymer ligating clip that is used to close off vessels that supply blood to
+
+organs.
+
+An unpublished prospective clinical study available through VMBC, LLC,
+
+the VASCLIP Company and on their website, reported the results of 124
+
+men who had the Vasclip procedure. Three of the men (2.5 %) did not
+
+become infertile due to improper placement of the Vasclip, 0.8 %
+
+developed a hematoma and 0.8 % developed a sperm granuloma. Sixty-
+
+eight of the patients who returned for a SA all tested as infertile (no live
+
+sperm) at an average of 373 days after the Vasclip procedure and all of
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+4/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+the 78 patients who returned for a SA tested as infertile at an average of
+
+853 days after. Reported range of significant pain was 5 %. Statistics on
+
+reversal are not yet available.
+
+The potential for enhancing reversal is one main rationale for the use of
+
+vas occlusion with clips (Schwingl et al, 2000). In addition, the
+
+manufacturer states that the Vasclip results in lower complication rates
+
+than conventional male sterilization procedures. However, it is not known
+
+whether the Vasclip compresses the vas so tightly that the blood supply
+
+to the underlying portion of vas is permanently damaged. There is no
+
+adequate evidence in the peer-reviewed published medical literature that
+
+the Vasclip has a reduced late failure rate, lower complication rate or
+
+improved reversal rate then traditional vasectomy.
+
+There is inconsistent evidence regarding the effectiveness of the Vasclip
+
+implant compared to standard vasectomy procedures. Kirby et al (2006)
+
+examined if the Vasclip implant procedure would (i) be equivalent to
+
+vasectomy in producing azoospermia, (ii) produce greater patient
+
+satisfaction post-operatively, and (iii) result in lower complication
+
+rates, post-operative pain, hematoma formation, spermatic
+
+granuloma, and surgical site infection when compared with historical
+
+controls. Successful sterilization, defined by azoospermia at 10 to 14
+
+months, was observed in 116 of 119 subjects. The authors stated that
+
+effectiveness seemed to be equivalent to that of vasectomy, although the
+
+study did not include an internal control group of subjects receiving
+
+vasectomy. The authors observed that the incidence of post-operative
+
+pain and hematoma formation was similar to that which had been
+
+reported for standard vasectomy. The Vasclip procedure also had similar
+
+infection rates. The authors reported that the Vasclip procedure seemed
+
+to have lower rates of sperm granuloma formation compared to standard
+
+vasectomy. In 3 subjects with persistent presence of sperm, histological
+
+examination after traditional vasectomy indicated that misalignment of the
+
+device led to partial vas incision with recanalization. The authors reported
+
+that 99 % of survey respondents would recommend that other men
+
+considering a vasectomy have the Vasclip procedure.
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+5/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+On the other hand, Levine et al (2006) found persistent motile sperm after
+
+the Vasclip procedure. The authors assessed the effectiveness and
+
+mechanism of failure in a small case series of Vasclip vasectomies.
+
+Microscopic semen analysis was done a minimum of 4 weeks post-
+
+operatively and after at least 15 ejaculations. The number of sperm and
+
+motility were quantified in 15 or more high power fields. Successful
+
+vasectomy was defined as 2 consecutive post-operative unspun semen
+
+analyses containing no sperm. Patients with failed vasectomy underwent
+
+bilateral surgical removal of the vas deferens segments containing the
+
+ligation band for gross and histological analysis. Six of 8 patients (75 %)
+
+were deemed azoospermic after 2 semen analyses at a mean follow-up
+
+of 7 and 11 weeks post-operatively, respectively. Two of 8 patients (25
+
+%) had semen analyses containing multiple motile sperm after
+
+vasectomy. In the 2 failed cases 1 side was patent, as demonstrated by
+
+vasal cannulation and irrigation with dilute methylene blue despite a well-
+
+positioned, intact and secure ligation band. Histological analysis showed
+
+extravasation and sperm granuloma on the patent side. The authors
+
+concluded that the Vasclip was found to fail at an unexpectedly high rate.
+
+Pathological analysis suggests sperm extravasation and fistula tract
+
+formation as the mechanism. One failure resulted in an unwanted
+
+pregnancy, which demonstrates the need for patient counseling regarding
+
+post-operative follow-up.
+
+Cook et al (2004) systematically reviewed the evidence comparing male
+
+sterilization techniques. They identified 2 controlled clinical trials (Gupta
+
+et al, 1997 [n = 110]; Clausen et al, 1983 [n = 79]) comparing vas
+
+occlusion with clips (no transection of the vas) versus a conventional
+
+vasectomy technique (transaction of the vas with both ends of the vas
+
+ligated and looped back). Neither trial found a significant difference
+
+between the 2 groups with regard to the primary outcome of failure to
+
+reach azoospermia. However, Cook et al (2004) stated that no firm
+
+conclusions can be made about the comparative effectiveness, safety,
+
+and acceptability of these vas occlusion techniques due to the poor
+
+quality of the studies.
+
+In a Cochrane review on vasectomy occlusion techniques for male
+
+sterilization that include excision and ligation, thermal or electrocautery,
+
+mechanical/chemical occlusion, as well as vasectomy with vas irrigation
+
+or with fascial inter-position (Cook et al, 2007), the authors concluded that
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+6/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+for vas occlusion with clips or vasectomy with vas irrigation, no
+
+conclusions can be made as those studies were of low quality and under-
+
+powered. Fascial inter-position reduced vasectomy failure. An intra-vas
+
+device was less effective in reducing sperm count than was no-scalpel
+
+vasectomy. They noted that randomized controlled studies evaluating
+
+other vasectomy techniques were not available; more and better quality
+
+research is needed to examine vasectomy techniques.
+
+The Pro-Vas occlusion technique utilizes a titanium spring ligation clip
+
+that stops the flow of sperm without the need to cut or burn the sperm
+
+ducts. Pro-Vas has also been reported to result in less post-procedure
+
+pain and quicker return to normal activities compared with traditional
+
+vasectomy. Additionally, there were no complications following Pro-Vas
+
+occlusions, however, it is acknowledged the number of patients is not
+
+sufficient to provide statistically significant results. According to Dr.
+
+Swartz, the Pro-Vas occlusion technique has the potential to simplify and
+
+standardize the vasectomy technique. It may provide less experienced
+
+vasectomy surgeons a means for achieving clinical results similar to
+
+those of experienced surgeons. The Pro-Vas technique also spares
+
+sacrificing the vasal artery. Dr. Swartz added that there should be a lower
+
+re-canalization rate with the Pro-Vas method because the spring ligation
+
+clip cannot dislodge or ever lose its constant low-pressure occlusion
+
+force. Additionally, the clip is designed not to apply so much pressure
+
+that may result in necrosis – a situation that sometimes occurs with other
+
+types of ligatures. Should the patient ever change his mind with regard to
+
+his vasectomy, reversal of the Pro-Vas procedure should be much easier
+
+as the clip is very easy to identify and dissection to find the two occluded
+
+ends of the vas will be much simpler. Patient acceptance may be higher
+
+with the Pro-Vas occlusion technique than traditional vasectomy because
+
+overall quality of the outcomes may be improved. However, these
+
+hypotheses need to be confirmed by additional clinical studies.
+
+Michielsen and Beerthuizen (2010) performed a systematic
+
+Medline/PubMed and Cochrane Library review of the literature with
+
+regard to technique, effectiveness, safety and complications of male
+
+sterilization. Vasectomy is an outpatient procedure which can be
+
+performed under local anesthesia. The vas deferens is accessed by
+
+means of either a conventional incision with a scalpel or by using the "no-
+
+scalpel technique". A closed-ended vasectomy (by means of suture
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+7/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+ligature, surgical clips or electro-cautery) or the open-ended alternative is
+
+then carried out. Each of these techniques has both advantages and
+
+drawbacks. Fascial interposition has been shown to reduce the risk of
+
+failure. A promising alternative for occluding the vas consists of placing
+
+an intra-vas device. Hematoma and pain are the most common
+
+complications. Non-steroidal anti-inflammatory drugs, narcotic analgesics
+
+and neuroleptic drugs are effective for treatment of pain. The success of
+
+vasectomy reversal ranges from 30 to 60 %. The data on record
+
+convincingly demonstrate that vasectomy is a safe and cost-effective
+
+intervention for permanent male contraception. The no-scalpel
+
+vasectomy under local anesthesia is recommended. Occlusion of the vas
+
+is most successful when performed by means of an electrocautery;
+
+fascial interposition should complete the procedure.
+
+The American Urological Association’s guideline on "Vasectomy" (Sharlip
+
+et al, 2012) provided guidance to clinicians who offer vasectomy
+
+services. This guideline was peer-reviewed by 55 independent experts
+
+during the guideline development process. The guideline stated that vas
+
+isolation should be performed using a minimally-invasive vasectomy
+
+technique such as the no-scalpel vasectomy technique. Vas occlusion
+
+should be performed by any 1 of 4 techniques that are associated with
+
+occlusive failure rates consistently below 1 %. These are mucosal
+
+cautery of both ends of the divided vas without ligation or clips
+
+(1) with or (2) without fascial interposition; (3) open testicular end of
+
+the divided vas with mucosal cautery of abdominal end with fascial
+
+interposition and without ligation or clips; and (4) non-divisional
+
+extended electrocautery. Patients may stop using other methods of
+
+contraception when 1 un-centrifuged fresh semen specimen shows
+
+azoospermia or less than or equal to 100,000 non-motile sperm/ml. The
+
+authors concluded that vasectomy should be considered for permanent
+
+contraception much more frequently than is the current practice in the
+
+U.S. and many other nations.
+
+The European Association of Urology’s guidelines on "Male infertility"
+
+(Jungwirth et al, 2013) stated that fascial interposition and cauterization
+
+appears to be the most effective vasectomy technique. Furthermore,
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+8/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+methods of male contraception other than vasectomy are associated with
+
+high failure rates or are still experimental (e.g., hormonal approach).
+
+In a Cochrane review, Cook et al (2014) compared the effectiveness,
+
+safety, acceptability and costs of vasectomy techniques for male
+
+sterilization. In February 2014, these investigators updated the searches
+
+of CENTRAL, MEDLINE, POPLINE and LILACS. They looked for recent
+
+clinical trials in ClinicalTrials.gov and the International Clinical Trials
+
+Registry Platform. Previous searches also included EMBASE. For the
+
+initial review, the authors searched the reference lists of relevant articles
+
+and book chapters. They included randomized controlled trials (RCTs)
+
+comparing vasectomy techniques, which could include suture ligature,
+
+surgical clips, thermal or electrocautery, chemical occlusion, vas plugs,
+
+vas excision, open-ended vas, fascial interposition, or vas irrigation.
+
+These researchers assessed all titles and abstracts located in the
+
+literature searches; 2 reviewers independently extracted data from
+
+articles identified for inclusion. Outcome measures include contraceptive
+
+efficacy, safety, discontinuation, and acceptability. Peto odds ratios (OR)
+
+with 95 % confidence intervals (CI) were used for dichotomous outcomes,
+
+such as azoospermia. The mean difference (MD) was used for the
+
+continuous variable of operating time. A total of 6 studies met the
+
+inclusion criteria; 1 trial compared vas occlusion with clips versus a
+
+conventional vasectomy technique. No difference was found in failure to
+
+reach azoospermia (no sperm detected). Three trials examined
+
+vasectomy with vas irrigation; 2 studies looked at irrigation with water
+
+versus no irrigation, while 1 examined irrigation with water versus the
+
+spermicide euflavine. None found a difference between the groups for
+
+time to azoospermia. However, 1 trial reported that the median number
+
+of ejaculations to azoospermia was lower in the euflavine group
+
+compared to the water irrigation group. One high-quality trial compared
+
+vasectomy with fascial interposition versus vasectomy without fascial
+
+interposition. The fascial interposition group was less likely to have
+
+vasectomy failure. Fascial interposition had more surgical difficulties, but
+
+the groups were similar in side effects. Lastly, 1 trial found that an intra-
+
+vas was less likely to produce azoospermia than was no-scalpel
+
+vasectomy. More men were satisfied with the intra-vas device, however.
+
+The authors concluded that for vas occlusion with clips or vasectomy with
+
+vas irrigation, no conclusions can be made as those studies were of low
+
+quality and under-powered. Fascial interposition reduced vasectomy
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+9/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+failure. An intra-vas device was less effective in reducing sperm count
+
+than was no-scalpel vasectomy. Moreover, they stated that RCTs
+
+examining other vasectomy techniques were not available. More and
+
+better quality research is needed to examine vasectomy techniques.
+
+Tan and Levine (2016) stated that post-vasectomy pain syndrome (PVPS)
+
+remains one of the more challenging urological problems to manage.
+
+This can be a frustrating process for both the patient and clinician as
+
+there is no well-recognized diagnostic regimen or reliable effective
+
+treatment. The authors noted that while excision of sperm granuloma,
+
+micro-denervation of the spermatic cord (MDSC), epididymectomy,
+
+vasectomy reversal or orchiectomy has been used in refractory cases of
+
+PVPS, the success rates of these procedures remain unclear due to the
+
+availability of only small case series of men undergoing surgical treatment
+
+for this condition.
+
+Smith and colleagues (2016) noted that variations in vasectomy
+
+techniques have failed to define a means of preventing PVPS. In
+
+addition, studies examining the pathophysiology of this condition have
+
+failed to elucidate a reproducible cause. Prevailing assumptions are
+
+focused upon epididymal congestion and obstruction. Potentially, up-
+
+and-coming techniques such as vasal occlusive gels, currently under
+
+development, offer novel alternatives to traditional vasectomy. Such an
+
+intra-vasal approach could involve the percutaneous puncture of the
+
+vasal lumen and instillation of a reversible, semi-permeable polymer gel.
+
+This intra-vasal option could theoretically decrease the negative side
+
+effects that result from direct scrotal manipulation. However, if the
+
+assumption of epididymal congestion holds true, it would stand to reason
+
+that any mechanism that retards the flow of sperm from the epididymis
+
+has the potential to result in post-vasectomy pain. Thus, potentially the
+
+best correction for post-vasectomy pain rests with the generation of a
+
+hypothetical male oral conceptive. Such a medication, by avoiding the
+
+need to have an occlusive process for vasectomy, could eliminate post-
+
+vasectomy pain and its related sequelae.
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+10/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+Vasal Injection and Vasal Occlusion
+
+Kanakis and Goulis (2015) stated that despite the variety of available
+
+female contraceptive methods, many pregnancies are still undesired.
+
+Many men want to participate equally with their partner in family planning;
+
+however, male contraceptive methods (MCMs) account for only 14 % of
+
+those used worldwide and no pharmaceutical MCM is available so far.
+
+The only 2 MCMs currently available are condoms, which despite
+
+protecting against sexually transmitted diseases have high failure rates,
+
+and vasectomy, which though very efficient (99 %) is poorly reversible.
+
+Among MCMs under investigation, male hormonal contraceptives (MHCs)
+
+are those that have come closest to commercialization. The action of
+
+MHCs relies on the disruption of spermatogenesis that exogenous
+
+androgen administration evokes by suppressing the hypophyseal-gonadal
+
+axis. Various regimens of androgens as monotherapy or in combination
+
+with progestins have been tested in clinical trials achieving a Pearl Index
+
+that is equal to that of the female oral contraceptive pill; however,
+
+concerns regarding the variable response rates observed (non-
+
+responders: 5 to 20 %), the impracticality of parenteral administration and
+
+long-term prostate-associated or cardiovascular morbidity have deflected
+
+the interest of the pharmaceutical industry from further research. Non-
+
+hormonal contraception methods may be, at least theoretically, more
+
+specific by selectively disrupting spermatogenesis and sperm transport or
+
+fertilizing ability. The authors noted that only a few have been tested in
+
+clinical trials (Intra Vas Plugs ,and reversible inhibition of sperm under
+
+guidance [RISUG]); most of them are still in pre-clinical development or
+
+have been abandoned due to toxicity (gossypol).
+
+Ansari and colleagues (2016) stated that among the vas-based methods
+
+on trial, RISUG, a co-polymer of styrene and maleic anhydride is being
+
+projected as an effective alternative to no scalpel vasectomy (NSV).
+
+Reversible inhibition of sperm under guidance offers long-term
+
+contraception with safety, effectiveness in human trials and can be
+
+delivered by no-scalpel injection. Currently, the procedure is under
+
+phase-III clinical trial. However, reversal of this vas-based drug-induced
+
+contraception needs to be established in animal models prior to clinical
+
+trials to ensure its claim as an effective alternative for vasectomy. In the
+
+present investigation, the relative suitability of dimethyl sulphoxide
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+11/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+(DMSO) and sodium bicarbonate (NaHCO3) for RISUG induced long-
+
+term vas occlusion reversal was carried out in albino rats. Animals were
+
+allocated into 4 groups:
+
+(i) sham-operated control (group-I), (ii) vas occlusion with RISUG for
+
+360 days (group-II), (iii) vas occlusion with RISUG for 360 days and
+
+reversal with DMSO (group-III) and (iv) vas occlusion with RISUG for
+
+360 days and reversal with NaHCO3 (group-IV); n = 10 for each group.
+
+A variable response in fertility was observed in different groups. Absolute
+
+sterility in group III at all mating intervals, while, 0 % fertility in groups II
+
+and IV following 90 days of occlusion was observed. Following reversal
+
+restoration of fertility with DMSO at 45 days, whereas, reversal by
+
+NaHCO3 at 30 days was noticed. Ejaculated spermatozoa of RISUG
+
+injected and initial intervals of reversed animals exhibited various degrees
+
+of abnormalities. The testes exhibited focal degeneration in vas-occluded
+
+animals. The occluded lumen of the vas deferens contained an
+
+eosinated polymer with exfoliated epithelium. Following vas occlusion
+
+reversal, a complete regeneration in the vas epithelium was seen. All
+
+other parameters remained unaltered. The authors concluded that the
+
+reversal with NaHCO3 resulted in an early resumption of fertility when
+
+compared with DMSO and the procedure was found to be successful,
+
+feasible and safe up to F1 generation. They state that RISUG provides a
+
+hope for reversible male contraceptives.
+
+Ansari and associates (2017) evaluated reversal of short- and long-term
+
+vas occlusion with RISUG using DMSO and NaHCO3 in male rabbits;
+
+animals were divided into 7 groups (n= 5 for each group). Fortnightly,
+
+semen analysis revealed that sperm concentration and output steadily
+
+declined after vas occlusion and complete azoospermia was attained at
+
+30 to 60 days post-injection. Spermatozoa re-appeared at 60 to 75 days
+
+of reversal and normal zoospermia was noticed between 135 days and
+
+150 days in the reversal groups. All spermatozoa were found non-motile
+
+before azoospermia and a gradual recovery in sperm motility was
+
+observed between 105 days and 135 days of reversal. A significant
+
+decline in viability of sperms was noticed during vas occlusion up to 30 to
+
+60 days, which recovered at 60 to 75 days post-reversal and normalized
+
+by 75 to 105 days in the reversal groups. A significant enhancement in
+
+the sperm abnormalities was recorded in all vas-occluded animals as well
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+12/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+as those in initial periods of reversal. Other parameters, namely, semen
+
+volume, ejaculation time, pH, color, and consistency, remained unaltered
+
+during all phases of the study. Fertility test, at the intervals of 15 days,
+
+demonstrated that animals exhibited complete sterility during the entire
+
+period of vas occlusion. A gradual recovery in fertility was observed with
+
+the appearance of spermatozoa following vas occlusion reversal and 100
+
+% fertility was observed following 135 to 150 days of reversal; F1 progeny
+
+of reversed animals was found normal. The authors concluded that these
+
+findings suggested that reversal with DMSO or NaHCO3 is feasible, with
+
+normal progeny, following short- and long-term contraception.
+
+An UpToDate review on "Vasectomy and other vasal occlusion
+
+techniques for male contraception" (Viera, 2016) states that "Vasal
+
+occlusion with a plug (e.g., "Shug" or medical grade silicone rubber),
+
+requires microsurgery for implantation and later removal. Either a
+
+conventional open or no-scalpel technique may be used to isolate the vas
+
+deferens for the implantation of these devices. Surgical vasal occlusion
+
+procedures claim to produce reversible azoospermia without affecting
+
+spermatogenesis, but there are no human data on success rates. Vasal
+
+injection – Percutaneous methods can be used for injecting chemicals
+
+directly into the vas deferens to effect temporary (polymer) or permanent
+
+(sclerosing agents) occlusion. One technique intended for permanent
+
+sterilization involves first injecting 2 dyes into the vas, using a different
+
+color for the left and right vas. Then, a sclerosing agent is then injected
+
+into the vas lumen distal to the previously injected dye. Successful
+
+occlusion is determined by having the patient void to see which, if any,
+
+dye is excreted in the urine. The chemicals required for this procedure
+
+are not available for use in the US. Another technique, reversible
+
+inhibition of sperm under guidance (RISUG) involves injection the non-
+
+sclerotic polymer, styrene maleic anhydride (SMA). It is claimed to offer
+
+long-term contraception without adverse side effects. The purported
+
+advantages of this method are that it provides long-term contraception
+
+without the side effects associated with male hormonal contraception,
+
+and in contrast to the other techniques listed above, is reversible without
+
+surgery. Clinical trials are ongoing".
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+13/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+Endoscopic Vasectomy
+
+Schlager and colleagues (2017) noted that surgical vasectomy remains
+
+the gold standard for fertility control in men. Endoluminal occlusion of the
+
+seminal ducts, thus avoiding an external incision, may become an
+
+appealing alternative to this approach. These researchers had shown
+
+that non-traumatic endoscopic inspection of the seminal ducts is feasible
+
+in the human cadaver. They examined the feasibility and reliability of
+
+occlusion using several commercially available medical sealing agents in
+
+the porcine vas deferens (VD). Tests were conducted using 25 porcine
+
+spermatic ducts (10 cm in length) ex-vivo. The explanted specimens
+
+were fixed and cannulated using the Seldinger technique. These
+
+investigators administered 5 different occluding agents:
+
+(i) n-butyle-2-cyanoacrylate, (ii) n-butyle-2-cyanoacrylate in
+
+combination with a platinum vascular coil, (iii) Tissucol Duo S, (iv)
+
+Gelita Spon, and (v) AFP Plug endoluminally. Tightness was evaluated
+
+after 5, 15, 60, 360, 720, and 1,440 minutes for each of the 5 grades,
+
+respectively, using a solution of methylene blue and saline injected under
+
+controlled pressure of 300 mm Hg followed by histological examination.
+
+All agents were administered into the porcine seminal ducts (4 out of 5
+
+via a ureteric catheter). Gelita Spon and Tissucol Duo S did not occlude
+
+the lumen sufficiently, whereas n-butyle-2-cyanoacrylate, n-butyle-2-
+
+cyanoacrylate in combination with coil, Tissucol Duo and AFP Plug
+
+performed satisfactorily. In particular, cyanoacrylate combined with a coil
+
+was able to close the seminal duct tightly and for a long time. Histological
+
+findings confirmed this sealant's gapless adhesion. AFP Plug application
+
+revealed similarly good results. However, its form needs to be optimized
+
+to ensure its suitability for endoscopic use. The authors concluded that
+
+various developments regarding minimally invasive fertility control
+
+methods have been underway for decades. Further miniaturization of
+
+endoscopy and novel materials may pave the way for endoscopic fertility
+
+control in males in the future. These researchers demonstrated the
+
+potential of commercially available medical sealing agents to reliably
+
+occlude the porcine VD.
+
+Furthermore, an UpToDate review on "Vasectomy" (Viera, 2017) does not
+
+mention endoscopic vasectomy as a vasectomy option.
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+14/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+Vessel Sealing Device (e.g., LigaSure) for Vasectomy
+
+Guzelburc and associates (2019) stated that vasectomy is a popular and
+
+effective male surgical contraceptive method. Different techniques have
+
+been proposed to reduce failure rates and complications. In this study,
+
+these researchers compared vas deferens occlusion rates using both
+
+standard occlusion techniques and LigaSure (LSVS) for vasectomy. A
+
+total of 9 patients underwent open radical retropubic prostatectomy at the
+
+authors’ institution. During the procedure, a total of 125 fresh vas
+
+deferens samples were obtained and divided into 4 groups as follows:
+
+Group 1: ligation (n = 22), Group 2; ligation and electro-cauterization (n =
+
+18), Group 3; 5 mm LSVS (n = 44), and Group 4; 10 mm LSVS (n = 41).
+
+All specimens were harvested during surgery and subsequent
+
+histopathological assessments were performed to assess the luminal
+
+status of the vas deferens. Histopathological evaluation revealed that the
+
+majority of vas lumens with LSVS (79.5 % of Group 3 and 89.4 % of
+
+Group 4) were totally occluded. With standard techniques, however, the
+
+majority of vas lumens (86.4 % and 77.8 % of Groups 1 and 2,
+
+respectively) maintained a tiny patency. The authors concluded that on
+
+histopathological review, the application of LSVS resulted in better
+
+occlusion rates, compared to standard ligation methods. Moreover, they
+
+stated that these findings suggested a higher occlusive role for LSVS for
+
+vasectomy; further clinical studies are needed to confirm the safety and
+
+efficacy of this technique.
+
+Micro-Denervation of the Spermatic Cord for Post-Vasectomy Pain
+
+Syndrome
+
+In a retrospective study, Tan and colleagues (2018) evaluated the
+
+outcomes of patients who underwent MDSC for PVPS. All patients who
+
+underwent MDSC for PVPS by a single surgeon between March 2002
+
+and October 2016 were included in this study. Pain was documented
+
+using the numerical rating scale (NRS); spermatic cord block (SCB) was
+
+performed on all patients, and success was defined as NRS score of less
+
+than or equal to 1 for more than 4 hours. All patients had failed medical
+
+therapy prior to MDSC; and all previous procedures for PVPS had been
+
+performed elsewhere. Surgical success was defined as a post-operative
+
+NRS score of less than or equal to 1. A total of 27 patients with 28 scrotal
+
+units underwent MDSC for PVPS. The median (first quartile; third
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+15/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+quartile) follow-up was 10 (2; 16.5) months. The median (range) duration
+
+of pain prior to surgery was 57 (8 to 468) months. Pain was bilateral in
+
+14 (52 %), left-sided in 8 (30 %) and right-sided in 5 patients (19 %).
+
+Data on SCB were available for 23 patients, with a success rate of 96 %.
+
+The median (range) pre-operative pain NRS score was 7 (2 to 10). The
+
+median (range) pain score after SCB on the NRS scale was 0 (0 to 5).
+
+The median (range) post-operative pain score on the NRS was 0 (0 to 9).
+
+Overall success was achieved in 20 of 28 testicular units (71 %).
+
+Patients with involvement of multiple structures in the scrotum (i.e., testis,
+
+epididymis, spermatic cord) had a success rate of 81 % and were more
+
+likely to have a successful surgery (p < 0.001); 5 patients had failed a
+
+prior epididymectomy and 3 had failed a vaso-vasostomy for PVPS; this
+
+had no correlation with the success of MDSC (p = 0.89). The authors
+
+concluded that MDSC was a reasonably successful, durable and valuable
+
+approach for PVPS, especially when pain involves multiple structures in
+
+the scrotum (testis, epididymis, spermatic cord). They stated that MDSC
+
+was equally effective in patients who had previously failed a procedure for
+
+PVPS. No patient had a worsening NRS score after MDSC. This was
+
+the largest study to-date evaluating MDSC for the treatment of PVPS.
+
+Furthermore, an UpToDate review on "Vasectomy" (Viera, 2018) does not
+
+mention micro-denervation of the spermatic cord as a therapeutic option
+
+for post-vasectomy pain syndrome.
+
+Opioids for Post-Vasectomy Pain Control
+
+Barham and colleagues (2019) noted that the American Urological
+
+Association (AUA) Position Statement on opioid use recommends using
+
+opioids only when necessary. These investigators examined if routine
+
+prescribing of opioids is necessary for pain control following vasectomy,
+
+and if an association exists with persistent use. They retrospectively
+
+reviewed the charts of patients who underwent vasectomy in clinic
+
+between April 2017 and March 2018. Patients were stratified into 2
+
+groups, including those initially prescribed opioids and those not receiving
+
+opioid prescriptions at the time of vasectomy. The initial pain medication
+
+regimen depended on the standard prescription practice of each
+
+provider. Encounters with a medical provider for scrotal pain within 30
+
+days, subsequent opioid prescriptions and new persistent opioid
+
+prescriptions between 90 and 180 days were compared between the 2
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+16/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+groups using the Fisher exact test. Between April 2017 and March 2018,
+
+a total of 228 patients underwent clinic vasectomy as performed by 8
+
+urologists. At the time of vasectomy 102 patients received opioid
+
+prescriptions and 126 received no opioid prescriptions. There was no
+
+statistically significant difference between the opioid and non-opioid
+
+groups in encounters for scrotal pain (12.7 % versus 18.4 %, p = 0.279).
+
+The incidence of new persistent opioid use was 7.8 % in the opioid cohort
+
+compared to 1.5 % in the nonopioid cohort (p = 0.046). The authors
+
+concluded that opioids, which did not appear to be necessary in men who
+
+undergo vasectomy, were associated with persistent use in 7.8 % of
+
+patients at 3 to 6 months. These researchers stated that in the face of an
+
+opioid epidemic urologists should limit over prescription of opioids
+
+following vasectomy.
+
+In a retrospective, cohort study, Welk and associates (2020) examined if
+
+filling a post-operative opioid prescription following low acuity urologic
+
+surgery is associated with new persistent opioid use. This trial was
+
+conducted using linked administrative data from Ontario, Canada.
+
+Participants were adults who underwent their first vasectomy,
+
+transurethral prostatectomy, urethrotomy, circumcision,
+
+spermatocelectomy, or hydrocelectomy between 2013 and 2016. These
+
+researchers excluded men with prior opioid use, confounding concurrent
+
+procedures, prolonged hospitalization, or cancer. They determined
+
+whether the patient filled a prescription for an opioid within 5 days of their
+
+surgery. The primary outcome was evidence of at least 2 opioid
+
+prescriptions filled 9 to 15 months following urologic surgery. The
+
+secondary outcome was admission for opioid over-dose. Primary
+
+analysis was adjusted logistic regression analysis. These investigators
+
+identified 91,083 men, most of whom underwent vasectomy (78 %). A
+
+total of 32,174 (35 %) men filled a prescription for an opioid after their
+
+procedure. The most common opioid prescribed was codeine (70 %),
+
+and urologists were the primary prescribers (81 %). Men who filled a
+
+post-procedure opioid prescription did not differ, for most of the 57
+
+medical co-morbidities or markers of healthcare utilization that we
+
+measured, from those who did not fill an opioid prescription. There was
+
+long-term opioid use in 1,447 (1.6 %); men who had filled a post-
+
+operative opioid prescription had a significantly higher risk of long-term
+
+opioid use (OR 1.4, 95 % CI: 1.3 to 1.6) and opioid over-dose (OR 3.0, 95
+
+% CI: 1.5 to 5.9). The authors concluded that prescription of opioids
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+17/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+following low acuity urology procedures was significantly associated with
+
+increased opioid use at 1 year after surgery. These researchers stated
+
+that efforts should be made to reduce post-operative opioids, especially
+
+for urologic procedures that do not typically require opioids. Moreover,
+
+they noted that a limitation of this study was that they could not determine
+
+the indication for long-term opioid prescriptions.
+
+Vasectomy Reversal for Post-Vasectomy Pain Syndrome
+
+Myers et al (1997) noted that the post-vasectomy pain syndrome (PVPS)
+
+is a rare but troublesome complication of vasectomy. These investigators
+
+reported their experience with 32 patients who underwent vasectomy
+
+reversal (VR) for relief of the PVPS. The records of 32 patients
+
+undergoing vasovasostomy (VV) or epididymovasostomy (EV) for the
+
+PVPV were evaluated for characteristics of symptoms, previous therapy,
+
+interval from vasectomy, success of surgery and duration of relief. Of 32
+
+men who underwent VR for the PVPS between 1980 and 1994, 24 (75 %)
+
+had relief of symptoms following the initial procedure. Of the 8 men with
+
+recurrent pain, 6 underwent a 2nd VR procedure, and 3 of them
+
+subsequently had relief of symptoms. Overall, 84.4 % (27 of 32) had
+
+resolution of pain. The authors concluded that in their experience, VR
+
+had a high rate of success for relief of the PVPS. It did not preclude other
+
+forms of surgical therapy and it should be considered in the treatment of
+
+the PVPS.
+
+Nangia et al (2000) stated that the cause of the PVPS is unclear. Some
+
+postulated etiologies include epididymal congestion, tender sperm
+
+granuloma and/or nerve entrapment at the vasectomy site. To the
+
+authors’ knowledge, nerve proliferation has not been evaluated previously
+
+as a cause of pain. VR is reportedly successful for relieving pain in some
+
+patients. These investigators reported their experience and correlated
+
+histological findings in resected vasal segments with outcome to explain
+
+the mechanism of pain in these patients. These researchers
+
+retrospectively reviewed the records of 13 men who underwent VR for the
+
+PVPS. They compared blinded histological evaluations of the vasal ends
+
+excised at VR in these patients with those of pain-free controls who
+
+underwent VR to reestablish fertility. Controls were matched to patients
+
+for the interval since vasectomy. Histological features were graded
+
+according to the degree of severity of vasitis nodosum, chronic
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+18/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+inflammation and nerve proliferation. Mean time to pain onset after
+
+vasectomy was 2 years. Presenting symptoms included testicular pain in
+
+9 cases, epididymal pain in 2, pain at ejaculation in 4 and pain during
+
+intercourse in 8. Physical examination demonstrated tender
+
+epididymides in 6 men, full epididymides in 6, a tender vasectomy site in
+
+4 and a palpable nodule in 4. No patient had testicular tenderness on
+
+palpation. Unilateral and bilateral VV was carried out in 3 and 10 of the
+
+13 patients, respectively. Post-operatively 9 of the 13 men (69 %)
+
+became completely pain-free. Mean follow-up was 1.5 years. These
+
+investigators observed no differences in vasectomy site histological
+
+features in patients with PVPS and matched controls, and no difference in
+
+histological findings in patients with PVPS who did and did not become
+
+pain-free post-operatively. The authors concluded that no histological
+
+features aided in identifying a cause of pain or provided prognostic value
+
+for subsequent pain relief; and VR appeared to be beneficial for relieving
+
+pain in the majority of select patients with PVPS.
+
+Huang et al (2002) carried out a retrospective review of patients who
+
+received VR from 1989 to 1998 at Chang Gung Memorial Hospital
+
+(CGMH) in Linkou, Taiwan. The patency rate and partner pregnancy
+
+rates were also analyzed. A total of 70 patients underwent a VV at
+
+CGMH from 1989 to 1998. Post-operative semen analysis and
+
+achievement of pregnancy in a partner were examined. Various pre-
+
+operative factors were also examined and analyzed. Patients ranged
+
+from 30 to 58 (average of 40.8 +/- 6.5) years of age. The most common
+
+reason for requesting a VV was divorce (42.3 %). The patency rate was
+
+85.7 % (36/42), and the pregnancy rate was 40.6 % (13/32). However, if
+
+patients receiving a VV for reasons other than to achieve pregnancy (i.e.,
+
+pain, erectile dysfunction [ED], or infertility of the wife) were excluded, the
+
+pregnancy rate reached 50.0 % (13/26); 3 patients received a 2nd VV;
+
+patency was noted in 2, and pregnancy was achieved in the partner of 1.
+
+Of the 5 patients receiving a VV due to PVPS, 3 felt that their condition
+
+had improved. The authors concluded that the patency and pregnancy
+
+rates of VVs in CGMH were 85.7 % and 50.0 %, respectively. Repeat
+
+surgery could be considered an effective means of restoring fertility if an
+
+initial VV failed. Moreover, a VV appeared to be an effective means of
+
+treating PVPS.
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+19/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+Horovitz et al (2012) stated that PVPS is a rare but serious and
+
+debilitating complication of vasectomy. For men with PVPS, VR is a
+
+surgical option after medical management has failed; however, there is a
+
+paucity of data in the literature defining its therapeutic efficacy. These
+
+researchers examined the role and effect of vasectomy reversal in the
+
+treatment of men with PVPS. Three urologists in Toronto, Ontario carried
+
+out 149 publicly funded VRs between January 2000 and September
+
+2010. The electronic health records were reviewed and 23 of the 149 (15
+
+%) procedures were performed for PVPS. Of these men who underwent
+
+14 VVs, 13 completed a telephone conducted questionnaire (response
+
+rate 56 %). Patient demographics, pre-operative and post-operative pain
+
+scores, and quality of life (QOL) were retrospectively evaluated.
+
+Orchialgia occurred at a mean ± SD of 19 ± 42.5 months following
+
+vasectomy and subjects (mean age of 43.8 ± 5.2 years) experienced pain
+
+for 50.3 ± 34.9 months before VV. After VV, improvement of pain
+
+occurred in 93 % (13 of 14) and 50 % were rendered pain-free with an
+
+average improvement in pain intensity scores of 65 % (p < 0.005). Of the
+
+men 15 % (2 of 13) had a recurrence of pain to baseline; however, 79 %
+
+(11 of 14) had a durable positive response. QOL was significantly
+
+improved after VV (p < 0.005) and 93 % (13 of 14) of the patients said
+
+they would undergo the same operation again. The authors concluded
+
+that VV was an effective treatment for the treatment of PVPS, and it could
+
+achieve robust and durable long-term improvement in pain intensity and
+
+QOL.
+
+In a retrospective study, Lee et al (2012) examined outcomes (according
+
+to patency) of VR in qualified patients with PVPS. A total of 32 patients
+
+with PVPS undergoing VR between January 2000 and May 2010 were
+
+examined. Of these, 68.8 % (22/32) completed a study questionnaire,
+
+either onsite at the out-patient clinic or via telephone interview. Pre-
+
+operative clinical findings, pre-operative and post-operative visual analog
+
+scale (VAS) pain scores, patency and pregnancy rate and overall patient
+
+satisfaction were analyzed. For the latter, a 4-point rating of cure,
+
+improvement, no change or recurrence was used. The mean age was
+
+45.09 ± 4.42 years; and the mean period of follow-up was 3.22 years
+
+(0.74 to 7.41). Patency rates were 68.2 % (15/22) and pregnancy rates
+
+were 36.4 % (8/22). The mean VAS was 6.64 ± 1.00 pre-operatively and
+
+1.14 ± 0.71 post-operatively (p < 0.001). The difference in the mean pre-
+
+operative and post-operative VAS was 6.00 ± 1.25 (4 to 8) in the patency
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+20/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+group and 4.43 ± 0.98 (3 to 6) in the no patency group (p = 0.011). A
+
+significant difference in procedural satisfaction with surgical outcome was
+
+observed between patency and no patency groups (p = 0.014). The
+
+authors concluded that in PVPS patients requiring VR, a significant
+
+difference was observed between the patency and no patency groups in
+
+terms of pain reduction and the degree of patient procedural satisfaction.
+
+In a retrospective study, Lee et al (2014) compared the outcome of
+
+epididymectomy and VR in patients with PVPS who required surgical
+
+treatment. A total of 50 patients with PVPS who underwent
+
+epididymectomy or VR between January 2000 and January 2010 were
+
+included. Of these, 36 (72.0 %) patients completed the study
+
+questionnaire. These 36 patients completed the questionnaire either
+
+during attendance at the out-patient clinic or during a telephone interview;
+
+20 patients (22 cases) underwent epididymectomy, and 16 patients (17
+
+cases) underwent VR. Analyses were carried out for pre-operative
+
+clinical findings, pre-operative and post-operative VAS pain scores,
+
+patency and pregnancy rate in VR group, and patient satisfaction with
+
+surgical treatment. The mean age was 48.28 ± 11.27 years, and the
+
+mean period of follow-up was 3.58 years (0.15 to 10.03). The mean VAS
+
+pain score was 6.78 ± 0.93 pre-operatively and 1.13 ± 0.72 post-
+
+operatively (p < 0.001). The difference in the mean pre-operative and
+
+post-operative VAS pain scores was 6.00 ± 1.34 (3 to 8) in the
+
+epididymectomy group and 5.50 ± 1.03 (4 to 8) in the VR group.
+
+However, this difference was not statistically significant (p = 0.227). No
+
+significant difference in satisfaction with surgical outcome was observed
+
+between the epididymectomy and the VR groups (p = 0.124). The
+
+authors concluded that in PVPS patients requiring surgical treatment, no
+
+significant difference was observed between the epididymectomy and VR
+
+groups in either the reduction in pain or the degree of patient satisfaction
+
+with surgical outcome. Selection of the optimal surgical procedure may
+
+be dependent on specific patient characteristics.
+
+Polackwich et al (2015) reviewed their institution's experience and
+
+success with VR for the treatment of PVPS over the last 20 years. A
+
+single surgeon carried out all the VRs. These investigators identified 123
+
+procedures performed for PVPS treatment and were able to contact 76
+
+patients. They sent surveys or conducted phone interviews inquiring
+
+about satisfaction, levels of pain pre-operatively and post-operatively, and
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+21/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+the need for additional procedures for pain. A total of 31 (40.8 %)
+
+patients completed phone or written surveys. Furthermore, these
+
+researchers compared the location of vasectomy among patients
+
+presenting for pain to that of fertile patients. Thirty-one men had VR for
+
+post-vasectomy pain, with median age of 38 years (range of 31 to 55
+
+years), of which 26 underwent VV; 7 patients required EV on at least 1
+
+side based on intra-operative findings; 82 % of patients reported
+
+improvement in their pain at 3.2 months (± 3.4 months) after VR; 34 %
+
+patients had complete resolution of all pain. Mean pain score before
+
+procedure was 6.4 (± 2.4), decreasing to a median of 2.7 (± 2.7)
+
+afterward. There was a 59 % improvement in pain scores (p < 0.001); 2
+
+patients needed additional procedures for continued pain, 1 orchiectomy
+
+and 1 epididymectomy; 4 patients required an additional VR, 1 repeat VV
+
+at 1 year and 3 EVs at 1, 5, and 9 years, respectively. Follow-up ranged
+
+from 1 to 19 years, with a mean follow-up of 8.4 years. These
+
+investigators found no relationship between vasectomy location and
+
+pain. The authors concluded that VR, via the use of both VV and EV,
+
+could provide long-term relief from PVPS.
+
+Smith-Harrison et al (2017) noted that PVPS is a rare, but devastating
+
+outcome following vasectomy. Given the widespread use of vasectomy
+
+for permanent contraception, with more than 500,000 procedures
+
+performed annually in the U.S., it can be a significant challenge for both
+
+patients and providers. VR is a surgical option for men with PVPS who
+
+fail conservative or medical management. Despite improvements in
+
+technique, vasectomy carries some inherent risks making pre-procedure
+
+counseling regarding the risks of PVPS paramount. Chronic post-
+
+operative pain, or PVPS, occurs in 1 % to 2 % of men undergoing the
+
+procedure. These researchers examined the use of VR as a means of
+
+addressing PVPS. These researchers stated that men with post-
+
+vasectomy pain should be evaluated to rule out other sources of
+
+discomfort. Conservative therapy with or without medical management is
+
+the appropriate initial treatment for most. How long to continue
+
+conservative treatment before proceeding to surgery is unclear. There
+
+are currently no guidelines or standardized protocols for which patients
+
+should proceed to surgical intervention. In the U.S., VR generally
+
+remains an out-of-pocket expense and can carry significant financial
+
+burden which may delay or prevent its use entirely. Following failure of
+
+more conservative therapies for PVPS, however, VR remains a
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+22/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+reasonable therapeutic option. In the end, choice of surgery should be
+
+made after engaging in an in-depth discussion and using a patient-
+
+centered approach. Better studies are needed to characterize the
+
+incidence of PVPS according to standardized measures beginning shortly
+
+after the procedure and continued for long-term follow-up. In a similar
+
+fashion, larger studies equipped to evaluate the incidence of chronic pain
+
+and its varying severities and those patients reporting impaired QOL,
+
+seeking medical help and receiving surgical procedures need to be better
+
+captured. Without better data, improvements in the diagnosis and
+
+treatment of PVPS will remain elusive.
+
+Auyeung et al (2020) stated that chronic pain following vasectomy is very
+
+challenging to diagnose and treat. Being a diagnosis of exclusion, it
+
+exposes the patient to a series of investigations and treatment regimens
+
+over months. Once a diagnosis is made, the treatment starts with non-
+
+invasive behavioral or pharmacotherapies. If these treatments fail,
+
+patients might require invasive surgical interventions, such as repeating
+
+the vasectomy with wide excision of the severed ends, micro-denervation
+
+of the spermatic cord, epididymectomy, VR or orchiectomy. The last
+
+resort for patients with debilitating chronic pain is orchiectomy, despite
+
+one study by Sweeney et al [2008] stating that 80 % of patients who
+
+underwent orchiectomy continued to experience pain”.
+
+Furthermore, an UpToDate review on “Vasectomy” (Viera, 2022) states
+
+that “Post-vasectomy pain syndrome is distinct from post procedure pain;
+
+however, there is some controversy regarding its definition and therefore
+
+prevalence. Historically, rates for post-vasectomy pain syndrome have
+
+been reported as very low (< 1 %). However, surveys have found that the
+
+incidence of "troublesome" post-vasectomy pain is reported by
+
+approximately 15 % of men, with pain severe enough to impact quality of
+
+life in 2 %; survey respondents, however, may not have been
+
+representative of all post-vasectomy men. The cause of most post-
+
+vasectomy pain syndromes is chronic congestive epididymitis. Testicular
+
+fluid and sperm production remain constant following vasectomy. The
+
+majority of this fluid accumulates in the epididymis, which then swells.
+
+While asymptomatic in most men, some will develop a chronic dull ache
+
+in the testes, which is made worse by ejaculation. Other causes or
+
+contributors to pain syndromes include the formation of sperm granuloma
+
+or nerve entrapment at the vasectomy site. First-line therapy for post-
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+23/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+vasectomy pain is the administration of nonsteroidal anti-inflammatory
+
+medications and warm baths. If unsuccessful, local nerve blocks or
+
+steroid injections may be performed by a pain specialist. If the post-
+
+vasectomy patient's discomfort is localized to a tender, palpable
+
+granuloma, this may be excised, followed by fulguration of the leaking
+
+end of the vas. Refractory cases may require surgery, including either
+
+vasectomy reversal (vasovasostomy) or complete epididymectomy.
+
+Vasovasostomy successfully relieves pain in up to 70 to 82 % of well-
+
+selected patients. These patients, however, will almost always require
+
+the use of another form of contraception as a result”.
+
+Vasectomy and Risk of Prostate Cancer
+
+Xu et al (2021) noted that the debate over the association between
+
+vasectomy and prostate cancer (PCa) has lasted about 40 years and
+
+there is no sign of stopping. In a meta-analysis, these investigators
+
+examined if vasectomy is associated with PCa based on the most
+
+comprehensive and up-to-date evidence available. PubMed, Cochrane
+
+Library, and Embase databases were searched from inception to March
+
+14, 2021 without year or language restriction. Multi-variable adjusted risk
+
+ratios (RRs) were used to assess each endpoint. Risk of bias was
+
+assessed using the Newcastle-Ottawa scale. A total of 58 studies
+
+involving 16,989,237 subjects met inclusion criteria. There was
+
+significant association of vasectomy with risk of any PCa (RR, 1.18, 95 %
+
+CI: 1.07 to 1.31). Association between vasectomy and advanced PCa
+
+(RR, 1.06, 95 % CI: 1.01 to 1.12), low-grade PCa (RR, 1.06, 95 % CI:
+
+1.02 to 1.10), and intermediate-grade PCa (RR, 1.12, 95 % CI: 1.03 to
+
+1.22) were significant. There was no significant association between
+
+vasectomy and PCa-specific mortality (RR, 1.01, 95 % CI: 0.93 to 1.10).
+
+The authors concluded that this study found that vasectomy was
+
+associated with the risk of any PCa and advanced PCa. From the current
+
+evidence, patients should be fully informed of the risk of PCa before
+
+vasectomy.
+
+The authors stated that this study had several drawbacks. First, some
+
+included studies did not report baseline, such as age vasectomy, follow-
+
+up duration. The subgroup results might have been different if all
+
+individuals were reported. Second, some case-control studies and cross-
+
+sectional studies were of poor quality (e.g., used unclear ascertainment of
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+24/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+exposure). Third, this meta-analysis was based on observational studies
+
+because RCTs concerning this topic were neither available nor likely to be
+
+conducted in the future. Fourth, publication bias between included
+
+studies could not be completely eliminated. Subgroup analyses and
+
+sensitivity analyses have been carried out to reduce the heterogeneity.
+
+Fifth, follow-up duration and age at vasectomy, it was difficult to obtain
+
+complete data, which may be confounding factors of the association
+
+between vasectomy and PCa.
+
+Baboudjian et al (2022) stated that previous reports have demonstrated
+
+an association between vasectomy and PCa. However, there exist
+
+significant discrepancies between studies and systematic reviews due to
+
+a lack of strong causal association and residual confounding factors such
+
+as prostate-specific antigen (PSA) screening. On behalf of the Prostate
+
+Cancer Committee of the Association Française d'Urologie (CC-AFU),
+
+these researchers examined the association between vasectomy and
+
+PCa, in both unadjusted and PSA screen-adjusted studies. They carried
+
+out a systematic review according to the Preferred Reporting Items for
+
+Systematic Reviews and Meta-analyses (PRISMA) statement. PubMed,
+
+Scopus, and Web of Science databases were searched in January 2022
+
+for studies that examined the association between vasectomy and PCa.
+
+A total of 37 studies including 16,931,805 patients met inclusion criteria.
+
+A pooled analysis from all studies showed a significant association
+
+between vasectomy and any-grade PCa (OR 1.23; 95 % CI: 1.10 to 1.37;
+
+p < 0.001; I2 = 96 %), localized PCa (OR 1.08; 95 % CI: 1.06 to 1.11; p <
+
+0.00001; I2 = 31 %), or advanced PCa (OR 1.07; 95 % CI: 1.02 to 1.13; p
+
+= 0.006; I2 = 0 %). The association with PCa remained significant when
+
+the analyses were restricted to studies with a low risk of bias (OR 1.06;
+
+95 % CI: 1.02 to 1.10; p = 0.02; I2 = 48 %) or cohort studies (OR 1.09; 95
+
+% CI: 1.04 to 1.13; p < 0.0001; I2 = 64 %). Among studies adjusted for
+
+PSA screening, the association with localized PCa (OR 1.06; 95 % CI:
+
+1.03 to 1.09; p < 0.001; I2 = 0 %) remained significant. Conversely,
+
+vasectomy was no longer associated with localized high-grade (p = 0.19),
+
+advanced (p = 0.22), and lethal (p = 0.42) PCa. The authors concluded
+
+that this meta-analysis found a significant association between
+
+vasectomy and the risk of any, mainly localized, PCa. However, the effect
+
+estimates for the association between vasectomy and PCa were
+
+increasingly close to null when examining studies of robust design and
+
+quality. When these investigators limited the analysis to studies adjusted
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+25/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+for PSA screening, the association remained significant only for localized
+
+disease, but not for aggressive and/or advanced PCa. These
+
+researchers stated that future studies are needed to prospectively
+
+evaluate the possible causality between vasectomy and PCa, with
+
+attention to potential residual confounders that were not taken into
+
+account in large cohort studies.
+
+The authors stated that the findings of this study need to be interpreted
+
+with caution. Translating these findings into clinical practice is likely to
+
+dissuade patients from undergoing vasectomy, whereas the absolute risk
+
+may be close to zero. Clear, fair, and understandable information should
+
+be provided regarding a possible association between vasectomy and
+
+PCa, without being able to examine if there is any causality. To
+
+definitively address this question, future collaborative, well-designed,
+
+international studies are needed to prospectively assess this risk of PCa
+
+among vasectomized patients with particular attention to potential
+
+confounders such as well-established risk factors for developing PCa.
+
+Robotic-Assisted Microsurgical Vasovasostomy for Reversal of
+
+Vasectomy
+
+Seth et al (2024) noted that vasovasostomy is a cost-effective procedure
+
+for the reversal of vasectomy. A water-tight adequately blood-supplied
+
+mucosal anastomosis is needed for better outcomes. In a systematic
+
+review and meta-analysis, these investigators compared the outcome of
+
+vasovasostomy carried out by 3 different techniques: macroscopic, pure
+
+microsurgical, and robotic-assisted microsurgical techniques. Scopus,
+
+Web of Science, PubMed, Embase, and Cochrane library databases
+
+were searched for relevant studies from January 1901 to June 2023.
+
+These researchers performed quantitative syntheses using the inverse
+
+variance method in OpenMeta software. This review involved 95 studies
+
+of different designs, with a total sample size of 48,132. The majority of
+
+operations were carried out bilaterally, and subjects were monitored for
+
+up to 10 years. The pooled patency rate was the highest following
+
+robotic-assisted vasovasostomy (94.4 %), followed by pure microsurgical
+
+vasovasostomy (87.5 %), and macroscopic vasovasostomy (83.7 %).
+
+The pooled pregnancy rate following purely microsurgical vasovasostomy
+
+was higher than that of macroscopic vasovasostomy (47.4 % versus 43.7
+
+%). Definitive pregnancy rates in robotic-assisted vasovasostomy are yet
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+26/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+to be determined. The authors concluded that patency outcomes for
+
+vasovasostomy were best with robotic-assisted microsurgical technique,
+
+followed by pure microsurgical technique, and conventional macroscopic
+
+technique. Moreover, these researchers stated that further investigations
+
+of robotic-assisted microsurgical vasovasostomy outcomes and RCTs are
+
+needed to support this evidence.
+
+References
+
+The above policy is based on the following references:
+
+1. American College of Obstetricians and Gynecologists (ACOG).
+
+Beneﬁts and risks of sterilization. ACOG Practice Bulletin No. 46.
+
+Washington, DC: ACOG; September 2003.
+
+2. Ansari AS, Badar A, Balasubramanian K, Lohiya NK.
+
+Contraception with RISUG® and functional reversal through
+
+DMSO and NaHCO3 in male rabbits. Asian J Androl.
+
+2017;19(4):389-395.
+
+3. Ansari AS, Hussain M, Khan SR, Lohiya NK. Relative suitability of
+
+DMSO and NaHCO3 for reversal of RISUG® induced long-term
+
+contraception. Andrology. 2016;4(2):306-313.
+
+4. Auyeung AB, Almejally A, Alsaggar F, Doyle F. Incidence of post-
+
+vasectomy pain: Systematic review and meta-analysis. Int J
+
+Environ Res Public Health. 2020;17(5):1788.
+
+5. Baboudjian M, Rajwa P, Barret E, et al; Prostate Cancer
+
+Committee of the Association Française d'Urologie CC-AFU.
+
+Vasectomy and risk of prostate cancer: A systematic review and
+
+meta-analysis. Eur Urol Open Sci. 2022;41:35-44.
+
+6. Barham DW, McMann LP, Musser JE, et al. Routine prescription of
+
+opioids for post-vasectomy pain control associated with
+
+persistent use. J Urol. 2019;202(4):806-810.
+
+7. Belker AM. Vasectomy and its reversal. Prim Care.
+
+1985;12(4):703-717.
+
+8. Brueschke EE, Zaneveld LJ, Rodzen R, et al. Development of
+
+reversible vas deferens occlusive device: V. Flexible prosthetic
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+27/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+devices. Fertil Steril. 1975;26(1):40-52.
+
+9. Clausen S, Lindenberg S, Nielsen ML, et al. A randomized trial of
+
+vas occlusion versus vasectomy for male contraception. Scand J
+
+Urol Nephrol. 1983;17(1):45-46.
+
+10. Cook LA, Van Vliet H, Lopez LM, et al. Vasectomy occlusion
+
+techniques for male sterilization. Cochrane Database Syst Rev.
+
+2007;(2):CD003991.
+
+11. Cook LA, Van Vliet HA, Lopez LM, et al. Vasectomy occlusion
+
+techniques for male sterilization. Cochrane Database Syst Rev.
+
+2014;3:CD003991.
+
+12. Cook LA, Van Vliet HA, Pun A, Gallo MF. Vasectomy techniques for
+
+male sterilization: Systematic Cochrane review of randomized
+
+controlled trials and controlled clinical trials. Hum Reprod.
+
+2004;19(11):2431-2438.
+
+13. Errey BB, Edwards IS. Open-ended vasectomy: An assessment.
+
+Fertil Steril. 1986;45(6):843-846.
+
+14. Goldstein M. Surgical management of male infertility and other
+
+scrotal disorders. In: Campbell's Urology. 8th ed. Ch. 44. PC
+
+Walsh, AB Retnik, ED Vaughan, AJ Wein, eds. Philadelphia, PA: WB
+
+Saunders Co; 2002:1541-1547.
+
+15. Gupta AS, Kothari LK, Devpura TP. Vas occlusion by tantalum
+
+clips and its comparison with conventional vasectomy in man:
+
+Reliability, reversibility, and complications. Fertil Steril.
+
+1977;28(10):1086-1089.
+
+16. Guzelburc V, Baran C, Yaﬁ FA, et al. Vasectomy with vessel sealing
+
+device: Comparison of diﬀerent diameters. Int J Impot Res.
+
+2019;31(1):20-24.
+
+17. Horovitz D, Tjong V, Domes T, et al. Vasectomy reversal provides
+
+long-term pain relief for men with the post-vasectomy pain
+
+syndrome. J Urol. 2012;187(2):613-617.
+
+18. Huang HC, Hsieh ML, Huang ST, et al. Microsurgical vasectomy
+
+reversal: ten-years' experience in a single institute. Chang Gung
+
+Med J. 2002;25(7):453-457.
+
+19. Jungwirth A, Diemer T, Dohle GR, et al. Guidelines on male
+
+infertility. Arnhem, The Netherlands: European Association of
+
+Urology (EAU); March 2013.
+
+20. Kanakis GA, Goulis DG. Male contraception: A clinically-oriented
+
+review. Hormones (Athens). 2015;14(4):598-614.
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+28/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+21. Kirby D, Utz WJ, Parks PJ. An implantable ligation device that
+
+achieves male sterilization without cutting the vas deferens.
+
+Urology. 2006;67(4):807-811.
+
+22. Labrecque M, Dufresne C, Barone MA, et al. Vasectomy surgical
+
+techniques: A systematic review. BMC Medicine. 2004; 2:21.
+
+23. Lee JY, Chang JS, Lee SH, et al. Eﬃcacy of vasectomy reversal
+
+according to patency for the surgical treatment of
+
+postvasectomy pain syndrome. Int J Impot Res. 2012;24(5):202-
+
+205.
+
+24. Lee JY, Cho KS, Lee SH, et al. A comparison of epididymectomy
+
+with vasectomy reversal for the surgical treatment of
+
+postvasectomy pain syndrome. Int Urol Nephrol. 2014;46(3):531-
+
+537.
+
+25. Levine LA, Abern MR, Lux MM. Persistent motile sperm after
+
+ligation band vasectomy. J Urol. 2006;176(5):2146-2148.
+
+26. Michielsen D, Beerthuizen R. State-of-the art of non-hormonal
+
+methods of contraception: VI. Male sterilization. Eur J Contracept
+
+Reprod Health Care. 2010;15(2):136-149.
+
+27. Myers SA, Mershon CE, Fuchs EF. Vasectomy reversal for
+
+treatment of the post-vasectomy pain syndrome. J Urol.
+
+1997;157(2):518-520.
+
+28. Nangia AK, Myles JL, Thomas AJ JR. Vasectomy reversal for the
+
+post-vasectomy pain syndrome: A clinical and histological
+
+evaluation. J Urol. 2000;164(6):1939-1942.
+
+29. Nazerali H, Thapa S, Hays M, et al. Vasectomy eﬀectiveness in
+
+Nepal: A retrospective study. Contraception. 2003;67(5):397-401.
+
+30. Polackwich AS, Tadros NN, Ostrowski KA, et al. Vasectomy
+
+reversal for postvasectomy pain syndrome: A study and
+
+literature review. Urology. 2015;86(2):269-272.
+
+31. Schlager D, Maas M, Hein S, et al. Is endoscopic vasectomy just a
+
+dream?: An ex vivo study on feasibility and reliability of
+
+endoluminal occlusion of porcine vas deferens. Urol Int.
+
+2017;99(4):467-475.
+
+32. Schwingl PJ, Guess HA. Safety and eﬀectiveness of vasectomy.
+
+Fertil Steril. 2000;73(5):923-936.
+
+33. Scovell JM, Mata DA, Ramasamy R, et al. Association between the
+
+presence of sperm in the vasal ﬂuid during vasectomy reversal
+
+and postoperative patency: A systematic review and meta-
+
+analysis. Urology. 2015;85(4):809-813.
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+29/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+34. Seth I, Gibson D, Bulloch G, et al. Vasovasostomy: A systematic
+
+review and meta-analysis comparing macroscopic, microsurgical,
+
+and robot-assisted microsurgical techniques. Andrology.
+
+2024;12(4):740-767.
+
+35. Sharlip ID, Belker AM, Honig S, et al; American Urological
+
+Association. Vasectomy: AUA guideline. J Urol. 2012;188(6
+
+Suppl):2482-2491.
+
+36. Smith RP, Lipshultz LI, Kova JR. Vasectomy reversal and other
+
+strategies to mitigate postvasectomy pain syndrome. Asian J
+
+Androl. 2016;18(3):338.
+
+37. Smith-Harrison LI, Smith RP. Vasectomy reversal for post-
+
+vasectomy pain syndrome. Transl Androl Urol. 2017;6(Suppl
+
+1):S10-S13.
+
+38. Sokal DC, Labrecque M. Eﬀectiveness of vasectomy techniques.
+
+Urol Clin North Am. 2009;36(3):317-329.
+
+39. Sokal DC. Vasectomy techniques -- need for better occlusion
+
+methods. Asian J Androl. 2010;12(3):442-443.
+
+40. Tan WP, Levine LA. An overview of the management of post-
+
+vasectomy pain syndrome. Asian J Androl. 2016;18(3):332-337.
+
+41. Tan WP, Tsambarlis PN, Levine LA. Microdenervation of the
+
+spermatic cord for post-vasectomy pain syndrome. BJU Int.
+
+2018;121(4):667-673.
+
+42. U.S. Food and Drug Administration (FDA). VasClip. 510(k)
+
+Summary. K021745. VBMC, LLC, White Bear Lake, MN. Rockville,
+
+MD: FDA; August 20, 2002.
+
+43. VBMC, LLC. Vasclip clinical study results. VMBC, LLC, The VASCLIP
+
+Company. Roseville, MN: VBMC; 2004. Available
+
+at: http://www.vasclip.com/Webpage.asp?MID=818885. Accessed
+
+October 22, 2004.
+
+44. Viera A. Vasectomy and other vasal occlusion techniques for
+
+male contraception. UpToDate [online serial]. Waltham, MA:
+
+UpToDate; reviewed September 2016.
+
+45. Viera AJ. Vasectomy. UpToDate [online serial]. Waltham, MA:
+
+UpToDate; reviewed September 2017; August 2018; February
+
+2022.
+
+46. Welk B, McClure JA, Clarke C, et al. An opioid prescription for men
+
+undergoing minor urologic surgery is associated with an
+
+increased risk of new persistent opioid use. Eur
+
+Urol. 2020;77(1):68-75.
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+30/31
+
+10/25/25, 12:13 PM
+
+Vasectomy Procedures - Medical Clinical Policy Bulletins | Aetna
+
+47. Xu Y, Li L, Yang W, et al. Association between vasectomy and risk
+
+of prostate cancer: A meta-analysis. Prostate Cancer Prostatic
+
+Dis. 2021;24(4):962-975.
+
+Copyright Aetna Inc. All rights reserved. Clinical Policy Bulletins are developed by Aetna to assist in administering plan benefits and
+
+constitute neither offers of coverage nor medical advice. This Clinical Policy Bulletin contains only a partial, general description of plan or
+
+program benefits and does not constitute a contract. Aetna does not provide health care services and, therefore, cannot guarantee any
+
+results or outcomes. Participating providers are independent contractors in private practice and are neither employees nor agents of Aetna
+
+or its affiliates. Treating providers are solely responsible for medical advice and treatment of members. This Clinical Policy Bulletin may be
+
+updated and therefore is subject to change.
+
+Copyright © 2001-2025 Aetna Inc.
+
+Language services can be provided by calling the number on your member ID card. For additional language assistance: Español Tiếng Việt 한국어 Tagalog Pусский ةيبرعلا Kreyòl Français Polski Português Italiano Deutsch ⽇本語 یسراف Other
+
+Languages…
+
+(http://www.aetna.com/individuals-families/contact-aetna/information-in-other-languages.html)
+
+https://www.aetna.com/cpb/medical/data/1_99/0027.html
+
+31/31

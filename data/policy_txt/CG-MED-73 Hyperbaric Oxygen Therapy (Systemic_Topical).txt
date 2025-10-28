@@ -1,0 +1,843 @@
+10/25/25, 12:06 PM
+
+CG-MED-73 Hyperbaric Oxygen Therapy (Systemic/Topical)
+
+Clinical UM Guideline
+
+Subject: Hyperbaric Oxygen Therapy (Systemic/Topical)
+
+Guideline #: CG-MED-73
+
+Publish Date: 10/01/2025
+
+Status: Reviewed
+
+Last Review Date: 05/08/2025
+
+Description
+
+This document addresses the use of hyperbaric oxygen therapy (HBOT), which can be applied systemically, topically, or to one or more limbs alone. HBOT involves the use of pressurized room air, 100% oxygen, or room air enriched with a specific concentration of oxygen. The premise of HBOT is that the increased pressure results in increased oxygen levels in systemic circulation and the body’s tissues with the goal of improving healing of wounds, injuries or to support oxygen transport in acutely anemic or hypoxic individuals.
+
+Clinical Indications
+
+Medically Necessary:
+
+Systemic hyperbaric oxygen pressurization is considered medically necessary in the treatment of any of the following conditions when performed in accordance with Undersea and Hyperbaric Medical Society (UHMS) guidelines:
+
+A. Acute peripheral arterial insufficiency; or B. Acute thermal burns: deep second degree or third degree in nature; or C. Acute traumatic ischemia; or D. Carbon monoxide poisoning; or E. Central retinal artery occlusion (CRAO); or F. Chronic non-healing wounds in the following situations:
+
+F e e d b a c k
+
+1. Diabetic lower extremity wounds, when the following criteria are met:
+
+a. As a component of diabetic ulcer management (for example, careful attention to infection control, aggressive surgical debridement, evaluation and correction of vascular insufficiency, extremity offloading, improving glycemic control, and when applicable, encouraging smoking cessation); and
+
+b. Wagner grade III or higher wound severity; and c. Wound has not responded to 30 days of appropriate conservative treatment; and d. For continued hyperbaric oxygen therapy, wound shows measurable signs of healing, defined as at
+
+least 20% reduction in wound surface area, when evaluated at 30 day intervals; or
+
+2. Arterial insufficiency ulcers in the following situations:
+
+a. At least one of the following:
+
+i. Persistent hypoxia despite attempts at increasing blood flow; or ii. When wound failure continues despite maximum revascularization; and
+
+b. For continued hyperbaric oxygen therapy, wound shows measurable signs of healing, defined as at
+
+least 20% reduction in wound surface area, when evaluated at 30 day intervals; or
+
+3. Pressure ulcers in the following situations: a. At least one of the following:
+
+i. Postoperative support of skin graft or flaps showing evidence of ischemic failure; or ii. In the field of previous irradiated area for pelvic or perineal malignancies; or iii. When progressive necrotizing soft tissue infection or refractory osteomyelitis is present; and b. For continued hyperbaric oxygen therapy, wound shows measurable signs of healing, defined as at
+
+least 20% reduction in wound surface area, when evaluated at 30 day intervals; or
+
+4. Venous stasis ulcers in the following situations:
+
+a. When supporting skin grafting or flap reconstruction in individuals with concomitant peripheral
+
+arterial occlusive disease; and
+
+b. hypoxia not corrected by control of disease; and
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_d083866.html
+
+1/16
+
+10/25/25, 12:06 PM
+
+CG-MED-73 Hyperbaric Oxygen Therapy (Systemic/Topical)
+
+c. For continued hyperbaric oxygen therapy, wound shows measurable signs of healing, defined as at
+
+least 20% reduction in wound surface area, when evaluated at 30 day intervals; or
+
+G. Chronic refractory osteomyelitis; or H. Compartment syndrome; or I. Compromised skin graft or flaps (enhancement of healing in selected wounds); or J. Crush injuries; or K. Cyanide poisoning; or L. Decompression sickness; or M. Delayed radiation injury, including osteoradionecrosis, soft tissue radiation necrosis, and radiation cystitis; or N. Gas or air embolism; or O. Gas gangrene (for example, clostridial myositis and myonecrosis); or P. Idiopathic Sudden Sensorineural Hearing Loss (ISSHL) in individuals with a magnitude of hearing loss of at least
+
+70 decibels, after inadequate response to glucocorticoid treatment; or
+
+Q. Intracranial abscess; or R. Necrotizing soft-tissue infections; or S. Prophylactic pre and post treatment for individuals undergoing dental surgery of a radiated jaw; or T. Severe anemia with exceptional blood loss, when transfusion is impossible or delayed.
+
+Not Medically Necessary:
+
+Topical hyperbaric oxygen is considered not medically necessary in all cases.
+
+Limb specific hyperbaric oxygen pressurization is considered not medically necessary in all cases.
+
+Systemic hyperbaric oxygen pressurization is considered not medically necessary for all other conditions not previously listed, including but not limited to the following:
+
+A. Osteonecrosis of the jaw when the cause is not radiation necrosis (osteoradionecrosis); B. Preoperative treatment for jaw osteomyelitis; C. Stroke D. Tinnitus; E. Traumatic brain injury; F. Venous stasis ulcers, pressure ulcers and non-pressure ulcers except in the subset of individuals noted above.
+
+Coding
+
+The following codes for treatments and procedures applicable to this document are included below for informational purposes. Inclusion or exclusion of a procedure, diagnosis or device code(s) does not constitute or imply member coverage or provider reimbursement policy. Please refer to the member's contract benefits in effect at the time of service to determine coverage or non-coverage of these services as it applies to an individual member.
+
+Systemic HBOT: When services are Medically Necessary:
+
+CPT 99183
+
+Physician or other qualified health care professional attendance and supervision of hyperbaric oxygen therapy, per session
+
+HCPCS G0277
+
+Hyperbaric oxygen under pressure, full body chamber, per 30 minute interval
+
+ICD-10 Procedure 5A05121 5A05221
+
+Extracorporeal hyperbaric oxygenation, intermittent Extracorporeal hyperbaric oxygenation, continuous
+
+ICD-10 Diagnosis A42.0-A42.9 A48.0 B36.0-B36.9 B37.0-B37.9
+
+Actinomycosis Gas gangrene Other superficial mycoses Candidiasis
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_d083866.html
+
+2/16
+
+10/25/25, 12:06 PM
+
+CG-MED-73 Hyperbaric Oxygen Therapy (Systemic/Topical)
+
+B46.0-B46.9 B48.0-B48.8 B49 D62 G06.0 H34.10-H34.13 H70.201-H70.229 I74.2-I74.9 I96 I99.9 K62.7 L08.0-L08.9 L59.8-L59.9 M27.2 M72.6 M79.9 M79.A11-M79.A9 M86.30-M86.69 M86.8X0-M86.8X9 M86.9 N30.40-N30.41 S07.0XXA-S07.9XXS S17.0XXA-S17.9XXS S28.0XXA-S28.0XXS S38.001A-S38.1XXS S45.001A-S45.099S S45.801A-S45.999S S47.1XXA-S47.9XXS T20.20XA-T20.29XS T20.30XA-T20.39XS T21.20XA-T21.29XS T21.30XA-T21.39XS T22.20XA-T22.299S T22.30XA-T22.399S T23.201A-T23.299S T23.301A-T23.399S T24.201A-T24.299S T24.301A-T24.399S T25.211A-T25.299S T25.311A-T25.399S T31.0-T31.99 T57.3X1A-T57.3X4S T58.01XA-T58.94XS T65.0X1A-T65.0X4S T66.XXXA-T66.XXXS T70.3XXA-T70.3XXS T79.0XXA-T79.0XXS T79.A0XA-T79.A0XS T79.A11A-T79.A9XS T86.820-T86.829
+
+Zygomycosis Other mycoses, not elsewhere classified Unspecified mycosis Acute posthemorrhagic anemia Intracranial abscess and granuloma Central retinal artery occlusion Petrositis Embolism and thrombosis of arteries (upper/lower extremities, iliac artery) Gangrene, not elsewhere classified Unspecified disorder of circulatory system Radiation proctitis Other local infections of skin and subcutaneous tissue Other disorders of the skin and subcutaneous tissue related to radiation Inflammatory conditions of jaws Necrotizing fasciitis Soft tissue disorder, unspecified Nontraumatic compartment syndrome Chronic osteomyelitis Other osteomyelitis Osteomyelitis, unspecified Irradiation cystitis Crushing injury of head Crushing injury of neck Crushed chest Crushing injury of abdomen, lower back, pelvis and external genitals Injury of axillary artery Unspecified injury of other blood vessels at shoulder and upper arm level Crushing injury of shoulder and upper arm Burn of second degree of head, face, and neck Burn of third degree of head, face, and neck Burn of second degree of trunk Burn of third degree of trunk Burn of second degree of shoulder and upper limb, except wrist and hand Burn of third degree of shoulder and upper limb, expect wrist and hand Burn of second degree of wrist and hand Burn of third degree of wrist and hand Burn of second degree of lower limb, except ankle and foot Burn of third degree of lower limb, except ankle and foot Burn of second degree of ankle and foot Burn of third degree of ankle and foot Burns classified according to extent of body surface involved Toxic effect of hydrogen cyanide Toxic effect of carbon monoxide Toxic effect of cyanides Radiation sickness, unspecified Caisson disease [decompression sickness] Air embolism (traumatic) Compartment syndrome, unspecified Traumatic compartment syndrome Complications of skin graft (allograft)(autograft)
+
+When services may be Medically Necessary when criteria are met: For the procedure codes listed above for the following diagnoses
+
+ICD-10 Diagnosis E08.00-E11.A E13.00-E13.9 H90.3-H90.A32 I73.89
+
+Diabetes mellitus Other specified diabetes mellitus Sensorineural hearing loss Other specified peripheral vascular diseases
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_d083866.html
+
+3/16
+
+10/25/25, 12:06 PM
+
+CG-MED-73 Hyperbaric Oxygen Therapy (Systemic/Topical)
+
+I73.9 L89.000-L89.95 L97.101-L97.929 L98.411-L98.499 L98.A111-L98.A399 S01.00XS-S01.95XS
+
+Peripheral vascular disease, unspecified Pressure ulcer Non-pressure chronic ulcer of lower limb, not elsewhere classified Non-pressure chronic ulcer of skin, not elsewhere classified Non-pressure chronic ulcer of upper limb, not elsewhere classified Open wound of head [range with 7th character S] Open wound of neck [range with 7th character S] Open wound of thorax [range with 7th character S] Open wound of abdomen, lower back, pelvis and external genitals [range with 7th character S] Open wound of shoulder and upper arm [range with 7th character S] Open wound of elbow and forearm [range with 7th character S]
+
+S11.011S-S11.95XS
+
+S21.001S-S21.95XS
+
+S31.000S-S31.839S
+
+S41.001S-S41.159S
+
+S51.001S-S51.859S
+
+When services are Not Medically Necessary: For the procedure codes listed above when criteria are not met or for all other diagnoses not listed, or when the code describes a procedure or situation designated in the Clinical Indications section as not medically necessary.
+
+Topical HBOT: When services are Not Medically Necessary:
+
+HCPCS A4575
+
+Topical hyperbaric oxygen chamber, disposable Note: topical HBOT is considered not medically necessary
+
+ICD-10 Diagnosis
+
+All diagnoses
+
+Discussion/General Information
+
+Systemic Hyperbaric Oxygen Therapy
+
+Systemic hyperbaric oxygen therapy (HBOT) involves the inhalation of pure oxygen gas while enclosed in a high-pressure chamber (defined as pressure greater than standard atmospheric pressure). The pressures used are usually between 1.4 to 3.0 atmospheres absolute (atm abs or ATA). The therapy works by supersaturating the blood tissues with oxygen via increased atmospheric pressure as well as increased oxygen concentrations. Studies have demonstrated that this therapy increases the available oxygen to the body by 10 to 20 times normal levels. Treatment may be carried out in either a monoplace chamber pressurized with pure oxygen or in a larger, multiplace chamber pressurized with compressed air, in which case the individual receives pure oxygen by mask, head tent, or endotracheal tube. The number and duration of treatment sessions and the atmospheric pressure during treatment varies depending on the specific condition being treated, the severity of the condition, and the procedures developed by individual hospitals and clinics. These individual procedures vary widely and have made the evaluation of the efficacy of hyperbaric oxygen therapy difficult.
+
+The position regarding systemic hyperbaric oxygen is based on guidelines published by the Undersea and Hyperbaric Medical Society (UHMS) (2019). These guidelines provide recommendations for indications where hyperbaric oxygen therapy has been demonstrated to provide clinical benefits. For the majority of these indications, there are adequate data to provide guidance regarding treatment duration, frequency and depth of pressurization. One exception is idiopathic sudden sensorineural hearing loss, which is discussed separately below.
+
+Undersea and Hyperbaric Medical Society Guidelines:
+
+The UHMS Hyperbaric Oxygen Therapy Committee (15th edition, 2023) recommended indications, along with the recommended treatment dose and number of treatment sessions is as follows:
+
+Air or gas embolism - Recommend using U.S. Navy Table 6 or equivalent. Treat 1 session to clinical plateau. Usual treatment involves 1-2 sessions, but may require 5-10. Acute peripheral arterial insufficiency - Recommend 2 to 3 treatments in the first 24 hours and then twice daily treatments until the tissue at risk subsides. Acute thermal burns - Recommend 2 to 2.4 ATA twice daily for up to 30 sessions.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_d083866.html
+
+4/16
+
+10/25/25, 12:06 PM
+
+CG-MED-73 Hyperbaric Oxygen Therapy (Systemic/Topical)
+
+Acute traumatic ischemia - Use 2 to 2.4 ATA twice a day for 2 to 7 days. Carbon monoxide poisoning - Use up to 3 ATA for 1 to 3 sessions or to clinical plateau. Central Retinal Artery Occlusion (CRAO) - Recommend 2 to 2.8 ATA or U.S. Navy Table 6 or equivalent. Treat twice daily to clinical plateau, which typically occurs in less than a week, plus 3 days. Clostridial myositis, Clostridial myonecrosis (Gas gangrene)- Use 2.4 to 3 ATA 3 times in the first 24 hours and then use twice daily for the next 2 to 5 days. Chronic refractory osteomyelitis - Patients with refractory stage 3 or 4 osteomyelitis are most likely to benefit from adjunctive hyperbaric oxygen therapy, especially when complicated by adverse local or systemic factors. Use 2 to 3 ATA for 20 to 40 sessions. Compartment syndrome - Use 2 to 2.4 ATA twice a day for 2 to 7 days. Compromised skin grafts and flaps - Use 2 to 2.5 ATA twice daily for up to 20 sessions. Crush injury - Use 2 to 2.4 ATA twice a day for 2 to 7 days. The UHMS notes that HBOT should be started as close as possible to the time of injury; 3 or more treatments during the first 24 to 72 hours are recommended. Cyanide poisoning - Patients with cyanide poisoning frequently present with simultaneous carbon monoxide poisoning. Please see “Carbon Monoxide Poisoning” above for treatment recommendations. Decompression sickness - Use U.S. Navy Treatment Table 6 or equivalent for 1 session up to a clinical plateau. Typically no more than 1 to 2 treatment sessions are needed. Diabetic lower extremity wounds, selected individuals and healing of other problem wounds - Use 2 to 2.5 ATA daily for 3 to 4 weeks. For HBOT to continue, reevaluation at 30-day intervals must show continued progress in healing. Intracranial abscess (includes cerebral abscess, subdural empyema, and epidural empyema) - Treatment should be administered at 2.0-2.5 ATA of oxygen 1 to 2 times a day for up to 3 weeks. Necrotizing soft-tissue infections - Use 2 to 2.5 ATA twice daily until stabilization occurs. Radiation Necrosis -
+
+1. Mandibular osteoradionecrosis, laryngeal necrosis, other soft tissue head and neck, chest wall
+
+necrosis, radiation cystitis, radiation proctitis, miscellaneous abdominal pelvic injuries, cutaneous necrosis - 2 to 2.4 ATA daily for 90 minutes.
+
+2. Neoadjuvant hyperbaric oxygen therapy before dental extractions - 2 to 2.4 ATA, typically 20
+
+treatments before extraction and 10 treatments after.
+
+Sudden sensorineural heating loss - Recommend 2 to 2.4 ATA for 10 to 20 sessions. Severe Anemia - Use 2 to 3 ATA for 3 or 4 times a day until there is replacement of red blood cells by regeneration or transfusion. Avascular Necrosis- Treatment schemes vary according to disease stage per the Ficat classification for the Femoral Head:
+
+1. Ficat stage 1 (goal: full healing): 30-40 tx (1 per day at 2.0 to 2.5 ATA for 60-70 minutes). 2. Ficat stage II (goal: lesional resolution): 30-40 tx (1 per day at 2.0 to 2.5 ATA for 60-70 minutes), followed by a 20-30 day pause and then another 20 treatments, followed by MRI and orthopedic evaluation at one month.
+
+3. Ficat stage IIIA or worse (goal: “cost/benefit of HBO2 in delaying the need for surgery must be weighed against the urgency and feasibility of prosthesis placement.”): Same regimen as for Ficat stage II, above, repeatable (once or twice) at four to six months from the MRI/orthopedic assessment.
+
+In 2012, the American Academy of Neurology and the American Headache Society released guidelines regarding the use of complementary treatments for episodic migraine prevention in adults (Holland, 2012). These guidelines concluded that the data are conflicting or inadequate to support or refute hyperbaric oxygen for migraine prevention.
+
+Several systematic reviews and meta-analyses on HBOT for diabetic-related lower limb ulcers have been published (Brouwer, 2019; Golledge, 2019; Lalieu, 2020; Sharma, 2021; Zhang, 2022). The 2021 systematic review by Sharma and colleagues included 12 randomized controlled trials (RCTs) and 2 controlled non-randomized trials comparing HBOT and standard treatment for treatment of diabetic foot ulcers. In a pooled analysis of 11 studies reporting complete ulcer healing, the number of completely healed ulcers was significantly higher after HBOT than after standard treatment (odds ratio [OR], 0.29; 95% confidence interval [CI], 0.14 to 0.61; p<0.001). Similarly, a pooled analysis of 7 trials found a significantly lower rate of major amputation in individuals treated with HBOT compared with standard therapy (relative risk [RR], 0.60; 95% CI, 0.39 to 0.92; p=0.02). There was not a statistically significant rate of minor amputation in the HBOT and standard therapy groups in a pooled analysis of 8 trials (RR, 0.82; 95% CI, 0.93 to 1.90; p=012).
+
+As stated above for diabetic lower extremity wounds, for continued treatment of wounds with HBOT, the UHMC recommends re-evaluation at 30-day intervals to show continued progress in healing. In an analysis of data from two trials with individuals who had diabetic foot ulcers or venous leg ulcers, Cardinal and colleagues (2008) found that wound
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_d083866.html
+
+5/16
+
+10/25/25, 12:06 PM
+
+CG-MED-73 Hyperbaric Oxygen Therapy (Systemic/Topical)
+
+surface area significantly predicted the rate of wound healing at 12 weeks. A 20% to 40% reduction of wound area in 2 and 4 weeks is often cited as a likely and reliable predictive indicator of healing (Flanagan, 2003).
+
+A 2021 systematic review and meta-analysis on HBOT for necrotizing soft-tissue infections (Hedetoft, 2021) identified 31 comparative studies, 10 of which were judged to be at high risk of bias and were excluded from the quantitative analysis. There was a total of 48,744 participants in the 21 included studies, 1237 of which (2.5%) received HBOT. A pooled analysis of the 21 studies found a significantly lower odds of in-hospital mortality in individuals who received HBOT compared to those who did not receive HBOT (OR, 0.44; 95% CI, 0.33 to 0.58).
+
+A double-blind RCT evaluated early treatment with HBOT for crush injuries in individuals with acute limb injury (Bouachour, 1996). Individuals were treated with HBOT or placebo within 24 hours of surgery; surgery occurred within 6 hours after the injury. The active HBOT treatment was 100% oxygen at 2.5 ATA, twice a day, for 6 days. The placebo treatment was normal air at 1.1 ATA, for the same number of sessions. A total of 36 individuals were enrolled; 18 were assigned to active treatment and 18 to placebo. The proportion of individuals with complete wound healing without tissue necrosis was significantly higher in the HBOT group (n=17) than the placebo group (n=10), p<0.01. A significantly higher proportion of individuals in the placebo group (33.3%) than the HBOT group (5.6%) had repeat surgical procedures (p<0.05). No significant difference was found between groups in healing time.
+
+Tinnitus and Idiopathic Sudden Sensorineural Hearing Loss
+
+In October of 2011, the UHMS added ISSHL to their list of indications. The UHMS Hyperbaric Oxygen Indications 14th edition (2019) stated that ISSHL is “the abrupt onset of hearing loss, usually unilaterally and upon wakening, that involves a hearing loss of at least 30 decibels (dB) occurring within three days over at least three contiguous frequencies.” The document also stated, “there is a scarcity of literature regarding the use of HBO2 therapy as a primary treatment for ISSHL. HBO2 is usually an adjunctive therapy with medical therapies or as salvage therapy following failure of medical therapy.”
+
+The rationale for the UHMS recommendation on ISSHL was based upon the findings of a 2012 Cochrane Review by Bennett and colleagues. The Cochrane review identified seven small RCTs, which were generally considered to be of low quality. Although the Cochrane review stated that, “for people with acute ISSHL, the application of HBOT significantly improved hearing”, as noted by the UHMS, the Cochrane review’s conclusions went on to state that the clinical significance of HBOT for treatment of ISSHL “remains unclear”. The 2019 UHMS guidelines also cited the Cvorovic (2013) RCT in the section on salvage therapy for ISSHL. The Cvorovic (2013) study involved 50 individuals who had failed primary therapy for SSHL. Participants were assigned to either HBOT (n=25) or intratympanic steroid treatment. There were significant differences between hearing thresholds at all frequencies before and after the HBOT. Similarly, there were significant differences between hearing thresholds at most frequencies (except 2 kHz) before and after the treatment in the intratympanic treatment group. There were no significant differences between HBOT and steroid treatment at 4 of the 5 frequencies. At 2 kHz, HBOT was found to be superior to steroid treatment.
+
+The 2012 Cochrane review, discussed above, also addressed HBOT for treatment of tinnitus. Only two trials reported mean improvement in tinnitus or the proportion of individuals with tinnitus and findings were mixed. Data were not suitable for pooling. The review concluded that no beneficial effect of HBOT on tinnitus was found.
+
+In 2019, the American Academy of Otolaryngology-Head and Neck Surgery (AAO-HNS) published an updated clinical practice guideline on sudden hearing loss. The following definition of sudden hearing loss was used:
+
+Sudden hearing loss is defined as a rapid onset, occurring over a 72-hour period, of a subjective sensation of hearing impairment in one or both ears. Sudden sensorineural hearing loss (SNHL) is a sub-set of SHL that (a) is sensorineural in nature and (b) meets certain audiometric criteria. (a) Sensorineural hearing loss indicates an abnormality of the cochlea, auditory nerve, or higher aspects of central auditory perception or processing. (b) The most frequently used audiometric criterion is a decrease in hearing of ≥30 decibels (dB), affecting at least 3 consecutive frequencies. Because premorbid audiometry is generally unavailable, hearing loss is defined as related to the opposite ear’s thresholds. Idiopathic sudden sensorineural hearing loss (ISSNHL) is defined as SSNHL with no identifiable cause despite adequate investigation
+
+The guideline group supported hyperbaric oxygen therapy combined with steroid therapy for treatment of sudden sensorineural hearing loss. For initial treatment, they recommend initiating hyperbaric oxygen therapy within 2 weeks of
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_d083866.html
+
+6/16
+
+10/25/25, 12:06 PM
+
+CG-MED-73 Hyperbaric Oxygen Therapy (Systemic/Topical)
+
+the condition’s onset and, for salvage therapy, within 1 month of onset. The recommendation on hyperbaric oxygen therapy was rated “Grade B, systematic review of RCTs with methodological limitations” and was based primarily on the 2012 Cochrane review by Bennett and colleagues, discussed above.
+
+Several RCTs have compared HBOT and medical therapy for the treatment of severe to profound ISSHL, with mixed results. Cho and colleagues (2018) randomized 60 individuals with severe to profound ISSHL to medical therapy (oral steroids plus intratympanic steroids) alone or medical therapy plus HBOT. Hearing improvement was assessed 3 months after treatment using the AAO-HNS criteria to determine treatment success. Using these criteria, no significant differences in hearing improvement were found between groups. In addition, there were no significant differences between groups in percent word discrimination score (WDS) gain at 1 month and 2 months, but WDS improvement was significantly higher in the study group at 3 months (p=0.035).
+
+Tong and colleagues (2020) randomly assigned 136 individuals with unilateral ISSHL to medical therapy alone (oral prednisone, vitamins and traditional Chinese drugs) or medical therapy plus HBOT. Treatment success was defined as complete recovery, marked improvement or slight improvement in hearing, an improvement of at least 15 dB. Using this definition, the success rate was 60.6% (40 of 66) in the group receiving HBOT and 42.9% (30 of 70) in the group receiving medical treatment only (p<0.05).
+
+A 2018 systematic review and meta-analysis (Rhee 2018) addressed HBOT versus medical therapy alone for treatment of ISSHL. The authors identified 3 RCTs and 16 non-randomized comparative studies, published through February 2018, that compared HBOT plus medical therapy versus medical therapy alone. Medical therapies used in the studies included betamethasone, prednisone, and dexamethasone. Fourteen of the 16 non-randomized studies were retrospective. In a pooled analysis, the rate of complete hearing recovery was 264 of 897 cases (29.4%) in the HBOT plus medical therapy group and 241 of 1167 (20.7%) in the medical therapy alone group. A meta-analysis significantly favored the HBOT plus medical therapy group for this outcome (pooled OR, 1.61; 95% CI: 1.05 to 2.44). The outcome variable assessing any hearing recovery also significantly favored the HBOT plus medical therapy group (pooled OR, 1.43, 95% CI, 1.20 to 1.66). The authors conducted analyses separately for individuals with severe to profound hearing loss (≥ 70 decibels [dB]) and those with mild to moderate hearing loss (< 70 dB). A pooled analysis of the outcome ‘any hearing recovery’ significantly favored HBOT plus medical therapy in the individuals with severe to profound hearing loss (OR, 1.92; 95% CI, 1.25 to 2.94), but there was not a statistically significant difference between groups in individuals with mild to moderate hearing loss (OR, 1.08; 95% CI, 0.81 to 1.43).
+
+A meta-analysis by Lei and colleagues (2021) focused on studies comparing HBOT and intratympanic steroids for treatment of sudden sensorineural hearing loss (SSNHL). The author noted the definition of SSNHL is, “abrupt hearing loss of more than 30 dB over three consecutive frequencies in less than 3 days.” The meta-analysis included six studies, three RCTs and three retrospective cohort studies. In a pooled analysis, the authors did not find a statistically significant difference between HBOT versus intratympanic steroid treatment in the proportion of individuals with hearing improvement (RR, 1.09; 95% CI, 0.83 to 1.42; p=0.55).
+
+Joshua and colleagues (2022) published a meta-analysis of three RCTs evaluating HBOT in adults at least 18 years old with SSNHL. The reviewers used the AAO-HNS definition of sudden hearing loss, discussed above. A pooled analysis of data from the three studies showed a significantly absolute hearing gain after HBOT compared to a control condition (mean difference [MD], 10.3 dB; 95% CI, 6.5 to 14.1 dB). A pooled analysis of two studies found a significantly higher proportion of individuals experienced hearing recovery (defined as a hearing gain of at least 10 dB) after HBOT than control (OR, 4.3; 95% CI, 1.60 to 11.68).
+
+Liu and colleagues (2024) conducted a review of systematic reviews and meta-analyses evaluating HBOT for SSNHL. Nine studies were included in the review. There was some variation in the intervention (HBOT alone or HBOT plus systemic steroids or oral medications) and in the control group (n=5 used oral medications and n=4 used steroids). Six of the 9 studies had positive reviews, finding that HBOT provided significantly more benefit than the control intervention. In a pooled analysis of overall efficacy of HBOT versus control, the authors found an OR of 1.37 (95% CI, 1.17-1.61; P = 0.04). The authors found high heterogeneity among studies due to differences in study characteristics.
+
+In summary, current evidence supports use of HBOT for ISSHL after inadequate response to glucocorticoid treatment, when the magnitude of hearing loss is of at least 70 decibels.
+
+Avasular necrosis (Aseptic osteonecrosis)
+
+Treatment of nontraumatic osteonecrosis is a controversial subject; optimal treatment is unknown. The goal of treatment is joint preservation. Three main therapeutic options for management of osteonecrosis include nonsurgical management, procedures to prevent or limit joint collapse (joint preservation), and joint replacement when advanced collapse has
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_d083866.html
+
+7/16
+
+10/25/25, 12:06 PM
+
+CG-MED-73 Hyperbaric Oxygen Therapy (Systemic/Topical)
+
+occurred. The role of nonsurgical management is limited, given that lesions frequently progress quickly. HBOT has been investigated as a treatment for osteonecrosis.
+
+The 15th Edition of the UHMS guideline (2023) includes an indication for HBOT for the treatment of avascular necrosis. The guideline states:
+
+Hyperbaric oxygen may provide a beneficial effect without the invasiveness of surgery. Hyperbaric oxygen increases extracellular oxygen concentration and reduces cellular ischemia and edema by inducing vasoconstriction…the effects of HBO2 include reduced bone-marrow pressure and increased oxygen delivery to ischemic cells, thus relieving compartment syndrome and preventing further necrosis. Moreover, the decrease in bone marrow pressure leads to significant pain relief.
+
+The guideline cites an unblinded, uncontrolled prospective study by Vezzani and colleagues (2017) in which 23 individuals with unilateral femoral head necrosis were treated with HBOT. The study included individuals with post-traumatic and post- steroid therapy femoral head necrosis, femoral condyles necrosis and other aseptic bone necrosis. Treatment involved breathing 100% oxygen at 2.4 ATA absolute. Study participants were assessed at baseline (T0), after 15 HBOT sessions (T1), after 30 HBOT sessions (T2), at the beginning of a second cycle of HBOT following a 30-day break (T3), and at the end of the second treatment cycle (T4). The primary endpoint of the study was a normal MRI one year after the second cycle. All 8 individuals with stage I and II femoral head necrosis (according to the Ficat classification) returned to a normal MRI at follow-up compared with pre-treatment. Among the 11 individuals with stage III femoral head necrosis, only 2 returned to a normal MRI. Visual analogue scale (VAS) pain scores improved in all stage I and II individuals, and in 3 of 11 stage III individuals. This study followed individuals prospectively, but it did not include a control or comparison group. The small sample size limits generalizability.
+
+The guideline also references meta-analyses of studies on HBOT for femoral head necrosis (Li, 2017; Paderno, 2021). In the more recent study (Paderno, 2021), the authors included 10 observational studies that met their eligibility criteria, which were the inclusion of adult participants and containing clear definitions of femoral head necrosis and HBOT therapy. Combined, the studies included 368 treated individuals and 353 controls. A meta-analysis of the studies found that clinical efficacy in the HBOT group was 3.84 times higher than in the control group and that this difference was statistically significant (OR, 3.84, 95% CI, 2.10 to 7.02, p<0.00001). The heterogenous study methodologies of the included studies and differing participant characteristics complicates interpretation of this analysis.
+
+Avascular necrosis can affect sites other than the femoral neck. It has been evaluated in other sites in small studies due to the infrequency of these conditions. For example, Bosco and colleagues (2018) reported on an uncontrolled retrospective chart review of 37 individuals with osteonecrosis of the knee, a form of aseptic necrosis, who were treated with HBOT. Osteoarthritis severity was measured with the Oxford Knee Score (OKS), an OKS score of 0-19 indicates severe knee arthritis, 20-29 indicates moderate to severe knee arthritis, 30-39 indicates mild-to-moderate knee arthritis and 40-60 indicates normal joint function. The mean OKS was 13.9 (Standard Deviation [SD], 10.0) at baseline and 30.2 (SD, 6.3) after 30 treatments (p<0.01). After 50 treatments, the mean OKS was 59.8 (SD, 0.8), p<0.001 compared with baseline.
+
+While the UHMS guidelines advocate use of hyperbaric oxygen to improve osteonecrosis, supporting evidence is limited. The available published literature on HBOT for treating avascular necrosis includes a small number of treated individuals, many evaluated without an adequate control group. Moreover, the mechanism of action of HBOT for treating avascular necrosis is unclear. Identification of patient characteristics for whom HBOT is most likely to improve osteonecrosis is also not well defined. At this time HBOT for the treatment of avascular necrosis is not widely endorsed or recommended by relevant specialty societies, and this indication does not appear in accordance with generally accepted standards of medical practice. For example, the American Academy of Orthopaedic Surgeons (AAOS, 2023) does not include HBOT in its discussion of treatment options for osteonecrosis of the hip. Further investigation of hyperbaric oxygen as a treatment for osteonecrosis is warranted.
+
+Other conditions
+
+The use of HBOT has been proposed for a wide range of conditions in addition to those addressed by the UHMS. There are little clinical data to support HBOT for these other indications, which include cerebral edema and heat trauma. Several potential indications for which there are published RCTs are discussed below.
+
+Inflammatory Bowel Disease
+
+A 2021 systematic review of studies on HBOT for treating inflammatory bowel disease (IBD) by McCurdy and colleagues included a total of 19 studies. Of these, 3 were RCTs (Dulai 2018; Dulai 2020; Pagoldh, 2016) and the remaining 16 were
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_d083866.html
+
+8/16
+
+10/25/25, 12:06 PM
+
+CG-MED-73 Hyperbaric Oxygen Therapy (Systemic/Topical)
+
+case series. All 3 of the RCTs included individuals with ulcerative colitis. The RCTs had sample sizes between 10 and 20 individuals. The authors did not report a pooled analysis of RCT data.
+
+The two studies by Dulai and colleagues both included individuals with ulcerative colitis who were hospitalized with acute flares. Dulai (2018) compared 3 days of HBOT to sham treatment and found a significantly higher rate of clinical remission, the primary outcome, at day 5 in the actively treated group (5 of 10 [50%] vs. 0 of 8 [0%], p=0.08). Dulai (2020) treated all of the 20 enrolled individuals with 3 days of HBOT and the 11 individuals who responded at 3 days were randomized to an additional 2 days of HBOT or no further HBOT treatment. At day 10, compared with the 5 individuals treated for 3 days, the 6 individuals treated for 5 days had significantly lower mean partial Mayo scores (1.3 vs. 4.2 points, p=0.011) and stool frequency scores (SFS) (0.7 vs. 2.6 points, p=0.001), with no significant difference in rectal bleeding scores (RBS) (0.7 vs. 1.6 points, p=0.188). Both studies had small sample sizes and short-term follow-up. The 2018 study was described as a pilot study and the study was terminated early due to the difficulty recruiting participants; the 2020 study was described as an exploratory study for a larger RCT.
+
+In 2016, Glover and colleagues published an RCT on HBOT for individuals with chronic bowel dysfunction following pelvic radiotherapy. This study was not included in the McCurdy systematic review. The study randomized 55 individuals to HBOT and 29 to a sham control treatment. Active treatment included 40 90-minute sessions. The co-primary endpoints of the study were 12-month change in gastrointestinal symptoms using the inflammatory bowel disease questionnaire (IBDQ) and change in rectal bleeding score. There were no statistically significant differences between groups for either primary outcome. Median change from baseline to 12 months on the IBDQ scores was 3.5 in the HBOT group and 4 in the sham group, p=0.50. Median change in the rectal bleeding score was 3 in the HBOT group and 1 in the sham group (p=0.092).
+
+Spinal Cord Injury
+
+In 2021, Huang and colleagues published a systematic review and meta-analysis of RCTs evaluating HBOT for individuals with spinal cord injury. The review included 11 RCTs, 2 of which were published in English and 9 in Chinese. The primary outcomes were the American Spinal Injury Association (ASIA) motor and sensory scores. There was a high degree of heterogeneity among studies. Control groups included drug therapy, surgical treatment, rehabilitation therapy or a combination of the above. A pooled analysis of 10 trials found that motor function scores improved significantly more with HBOT compared to control interventions (MD, 15.84; 95% CI, 9.04 to 22.64). Similarly, a pooled analysis of 6 trials found that sensory scores improved significantly more with HBOT compared with control interventions (MD, 66.30; 95% CI, 53.44 to 79.16). Limitations of the analysis include the small number of participants in individual trials (ranging from n=40 to n=164) and heterogeneity among studies, such as different control interventions and variability in the HBOT protocols.
+
+Traumatic Brain Injury
+
+There is also insufficient evidence on traumatic brain injury. A 2012 Cochrane review included seven RCTs evaluating HBOT as an adjunctive treatment of traumatic brain injury. The review concluded that although HBOT may reduce the risk of death and result in statistically significant improvement in scores on the Glasgow Outcome Scale, there is a lack of evidence that the degree of improvement is clinically significant.
+
+Several RCTs on HBOT for post-concussion symptoms due to traumatic brain injury were published after the Cochrane review. Miller and colleagues (2015) randomized 72 individuals to 40 HBOT sessions at 1.5 ATA, 40 sham treatments with room air at 1.2 ATA, or no supplemental treatments. While a significant difference was reported between both supplemental groups and the no-supplemental group (p=0.008), no differences were reported between the hyperbaric and the sham treatment groups. A 2020 crossover trial by Harch and colleagues included 63 individuals who received 40 HBOT sessions over 2 months or no treatment, in random order. Eight of 14 outcome variables improved significantly more in the treatment group than the control group. These included depression and post-traumatic anxiety symptoms.
+
+Two 2022 systematic reviews (Alashram, 2022; Harch, 2022) each identified 6 RCTs on HBOT for treating traumatic brain injury. Nnone of the RCTs was more recent than Hatch (2020), described above and neither of the systematic reviews pooled study findings.
+
+Stroke
+
+There is also insufficient evidence on the use of HBOT for individuals undergoing treatment for stroke. A 2014 Cochrane review included 11 RCTs involving 705 participants (Bennett 2014). The authors reported significant variation in the methodological quality of the available trials. They were only able to pool data for case fatalities, and no significant differences were reported for case fatality rates at six months between HBOT vs. standard of care (risk ratio [RR], 0.97; p=0.96). A total of 4 of 14 scale measures of disability and functional performance were found to be improved after HBOT,
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_d083866.html
+
+9/16
+
+10/25/25, 12:06 PM
+
+CG-MED-73 Hyperbaric Oxygen Therapy (Systemic/Topical)
+
+including mean Trouillas Disability Scale score (mean difference, 2.2; p=0.04) and mean Orgogozo Scale score (mean difference, 27.9 points, p=0.02). The review concluded;
+
+We found no good evidence to show that HBOT improves clinical outcomes when applied during acute presentation of ischaemic stroke. Although evidence from the 11 RCTs is insufficient to provide clear guidelines for practice, the possibility of clinical benefit has not been excluded. Further research is required to better define the role of HBOT in this condition.
+
+Two of the studies included in the Cochrane report include Efrati (2013) and Rusyniak (2003). The former included 59 individuals who were 6-36 months post-stroke. Treatment group participants (n=30) were evaluated at baseline and after 40 HBOT sessions. The control/crossover group (n=29) were evaluated at baseline, after a 2-month control period of no treatment, and then again after subsequent 2-months of 40 HBOT sessions. The treatment protocol included two months of 40 sessions (5 days/ week), 90 minutes each, 100% oxygen at 2 ATA. The authors reported statistically significant improvements in NIHSS scores in the treatment group (p=0.004) and in the crossover group (p<0.0001) post-HBOT compared to baseline. Significant improvements in ADLs were also reported in the Treatment and crossover groups post HBOT (p<0.001 and p<0.0001, respectively) vs. baseline. The latter study involved 33 individuals who did not receive thrombolytics over a 24-month period and then underwent HBOT for 60 minutes with 100% O2 to 2.5 ATA or sham treatment at 1.14 ATA. The authors reported no differences between the groups at 24 hours (p=0.44). However, at 3 months a larger percentage of individuals in the control group had a good outcome defined by their stroke scores compared to the HBOT group (NIHSS, 80% vs. 31.3%; p=0.04; Barthel Index, 81.8% vs. 50%; p=0.12; modified Rankin Scale, 81.8% vs. 31.3%; p=0.02; Glasgow Outcome Scale, 90.9% vs. 37.5%; p=0.01). All statistical significance was lost in the intent-to-treat analysis.
+
+In 2024, Li and colleagues published a meta-analysis of 8 RCTs with a total of 493 participants comparing HBO and a control condition for treatment of acute stroke. In a pooled analysis of 4 RCTs, the authors did not find a statistically significant difference in the mean NIHSS on severity of symptoms between the intervention and control groups (MD [mean difference] = -1.41, 95% CI = -7.41 to 4.58, p=0.64). Other pooled analyses included fewer studies reporting a particular outcome. Pooled analyses of 2 RCTs each did not find statistically significant differences between groups in the outcomes Barthel index, tumor necrosis factor-alpha, soluble intercellular adhesion molecule, soluble vascular cell adhesion molecule, soluble e-selectin or C-reactive protein. Among the primary outcomes, most described above, only the pooled analysis of 2 RCTs evaluating the modified Rankin score found a statistically better outcome in the HBO group compared with the control group (mean difference [MD], 0.10, 95%, CI=0.03 to 0.17, p=0.004).
+
+Overall, the quality of the available data addressing HBOT for stoke is poor and provides inconsistent results. Well- designed long-term studies are needed to better understand the benefits of this treatment method for this population.
+
+Topical and Limb Specific Hyperbaric Oxygen Therapy
+
+Topical HBOT involves the delivery of pure oxygen directly to an open, moist wound at a pressure slightly higher than atmospheric pressure. Limb-specific HBOT involves the use of a plastic container into which the limb to be treated is inserted and then sealed with pliable gaskets. The limb is then subjected to increased pressure and oxygen concentrations. The rest of the body is not exposed to this treatment. Topical and systemic HBOT are distinctly different technologies and are applied by different methods. As such, the outcomes associated with systemic HBOT cannot be extrapolated to topical therapy. Topical HBOT has been primarily evaluated as a treatment of chronic wounds, but other conditions have also been investigated as possible indications. There is currently insufficient published data from controlled trials to permit conclusions regarding topical HBOT. Additionally, evidence in the form of data from in vitro studies of limb specific HBOT have failed to demonstrate that this treatment method increases tissue oxygen tension beyond the superficial dermis, a key factor in the efficacy of HBOT.
+
+Definitions
+
+Anemia: A reduction in the number of circulating red blood cells or in the total hemoglobin content of the cells.
+
+Atmospheres absolute (ATA): The combination (or the sum) of the atmospheric pressure and the hydrostatic pressure is called atmospheres absolute (ATA). In other words, the ATA or atmospheres absolute is the total weight of the water and air above us.
+
+Carbon monoxide poisoning: Toxicity that results from inhalation of small amounts of carbon monoxide (a poisonous gas) over a long period of time or from large amounts inhaled for a short time, which leads to decreased oxygen delivery to the body and cerebral toxicity.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_d083866.html
+
+10/16
+
+10/25/25, 12:06 PM
+
+CG-MED-73 Hyperbaric Oxygen Therapy (Systemic/Topical)
+
+Chronic: Of a long duration; a disease that persists or progresses over time.
+
+Cierny-Mader system for osteomyelitis:
+
+Anatomic type:
+
+Stage 1: medullary osteomyelitis Stage 2: superficial osteomyelitis Stage 3: localized osteomyelitis Stage 4: diffuse osteomyelitis Physiologic class: A host: healthy B host:
+
+Bs: systemic compromise Bl: local compromise Bls: local and systemic compromise
+
+C host: treatment worse than the disease
+
+Compartmental syndrome: Any condition in which a structure, such as a nerve or tendon, is being constricted in a space and is no longer able to move freely in the compartment.
+
+Decompression sickness: A condition that develops in divers subjected to rapid reduction of air pressure after coming to the surface following exposure to compressed air.
+
+Ficat classification for staging avascular necrosis of the femoral head (UHMS, 2023):
+
+Stage I: Pain but no radiographic abnormalities. Stage II: Increased density, cystic changes, or porosity Stage III: Flattening of the femoral head and crescent sign Stage IV: Full collapse of the femoral head with decrease in joint space.
+
+Gangrene: The death of tissue or bone, usually resulting from a deficient or absent blood supply.
+
+Gas embolism: Obstruction of a blood vessel by a gas bubble.
+
+Idiopathic Sudden Sensorineural Hearing Loss: hearing loss (with no identifiable cause despite adequate investigation) occurring over a 72-hour period that is sensorineural in nature, affecting at least 3 consecutive frequencies.
+
+Ischemia: A local and temporary deficiency of blood supply due to an obstruction of the circulation.
+
+Limb specific hyperbaric oxygen: A therapy that involves sealing an individual’s leg or arm into an airtight container and exposing that limb to pure oxygen greater than one atmosphere of pressure.
+
+Mycosis: Any condition caused by a fungus.
+
+Necrosis: A condition where cells or tissues are dead or dying.
+
+Osteomyelitis: Inflammation of the bone due to infection.
+
+Osteoradionecrosis: Death of bone following irradiation.
+
+Prophylactic: Any agent or treatment that contributes to the prevention of infection or disease.
+
+Systemic hyperbaric oxygen: A therapy that involves sealing an individual inside a room or container, then exposing the individual to pure oxygen at greater than one atmosphere of pressure.
+
+Thermal: Related to heat.
+
+Tinnitus: A condition where an individual has the perception of sound in their head when no outside sound is present. It is typically referred to as “ringing in the ears” or “head noise,” but other forms of sound have been described such as hissing, roaring, pulsing, whooshing, chirping, whistling and clicking.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_d083866.html
+
+11/16
+
+10/25/25, 12:06 PM
+
+CG-MED-73 Hyperbaric Oxygen Therapy (Systemic/Topical)
+
+Topical hyperbaric oxygen: A therapy that involves sealing skin wounds under a plastic cover and then exposing the wound to pure oxygen at greater than one atmosphere of pressure; an alternate form of this therapy involves the application of a mist of water droplets to the wound that are saturated with dissolved oxygen.
+
+References
+
+Peer Reviewed Publications:
+
+1. Alashram AR, Padua E, Romagnoli C, et al. Hyperbaric oxygen therapy for cognitive impairments in patients with
+
+traumatic brain injury: a systematic review. Appl Neuropsychol Adult. 2022:1-12.
+
+2. Bosco G, Vezzani G, Enten G, et al. Femoral condylar necrosis: treatment with hyperbaric oxygen therapy.
+
+Arthroplast Today. 2018;4(4):510-515.
+
+3. Bouachour G, Cronier P, Gouello JP, et al. Hyperbaric oxygen therapy in the management of crush injuries: a
+
+randomized double-blind placebo-controlled clinical trial. J Trauma. 1996;41(2):333-9.
+
+4. Brouwer RJ, Lalieu RC, Hoencamp R, et al. A systematic review and meta-analysis of hyperbaric oxygen therapy
+
+for diabetic foot ulcers with arterial insufficiency. J Vasc Surg. 2020;71(2):682-692.
+
+5. Cardinal M, Eisenbud DE, Phillips T, et al. Early healing rates and wound area measurements are reliable
+
+predictors of later complete wound closure. Wound Repair Regen. 2008; 16(1):19-22.
+
+6. Cho I, Lee HM, Choi SW, et al. Comparison of two different treatment protocols using systemic and intratympanic
+
+steroids with and without hyperbaric oxygen therapy in patients with severe to profound idiopathic sudden sensorineural hearing loss: a randomized controlled trial. Audio Neurootol. 2018;23(4):199-207.
+
+7. Chong KT, Hampson NB, Corman JM. Early hyperbaric oxygen therapy improves outcome for radiation-induced
+
+hemorrhagic cystitis. Urology. 2005; 65(4):649-653.
+
+8. Cierny G 3rd, Mader JT, Penninck JJ. A clinical staging system for adult osteomyelitis. Clin Orthop Relat Res. 2003;
+
+(414):7-24.
+
+9. Clarke RE, Tenorio LM, Hussey JR, et al. Hyperbaric oxygen treatment of chronic refractory radiation proctitis: a
+
+randomized and controlled double-blind crossover trial with long-term follow-up. Int J Radiat Oncol Biol Phys. 2008; 72(1):134-143.
+
+10. Cvorovic L, Jovanovic MB, Milutinovic Z, et al. Randomized prospective trial of hyperbaric oxygen therapy and intratympanic steroid injection as salvage treatment of sudden sensorineural hearing loss. Otol Neurotol. 2013; 34(6):1021-1026.
+
+11. Dulai PS, Buckey JC Jr, Raffals LE, et al. Hyperbaric oxygen therapy is well tolerated and effective for ulcerative colitis patients hospitalized for moderate-severe flares: a phase 2A pilot multi-center, randomized, double-blind, sham-controlled trial. Am J Gastroenterol. 2018 Oct; 113(10):1516-1523.
+
+12. Dulai PS, Raffals LE, Hudesman D, et al. A phase 2B randomized trial of hyperbaric oxygen therapy for ulcerative
+
+colitis patients hospitalized for moderate to severe flares. Aliment Pharmacol Ther. 2020; 52(6):955-963. 13. Efrati S, Fishlev G, Bechor Y, et al. Hyperbaric oxygen induces late neuroplasticity in post stroke patients--
+
+randomized, prospective trial. PLoS One. 2013; 8(1):e53716.
+
+14. Faunø Thrane J, Ovesen T. Scarce evidence of efficacy of hyperbaric oxygen therapy in necrotizing soft tissue
+
+infection: a systematic review. Infect Dis (Lond). 2019; 51(7):485-492.
+
+15. Fife CE, Buyukcakir C, Otto G, et al. Factors influencing the outcome of lower-extremity diabetic ulcers treated with
+
+hyperbaric oxygen therapy. Wound Repair Regen. 2007; 15(3):322-331.
+
+16. Flanagan, M. Improving accuracy of wound measurement in clinical practice. Ostomy/Wound Management. 2003;
+
+49(10):28-40.
+
+17. Freiberger JJ, Padilla-Burgos R, McGraw T, et al. What is the role of hyperbaric oxygen in the management of
+
+bisphosphonate-related osteonecrosis of the jaw: a randomized controlled trial of hyperbaric oxygen as an adjunct to surgery and antibiotics. J Oral Maxillofac Surg. 2012; 70(7):1573-1583.
+
+18. Glover M, Smerdon GR, Andreyev HJ, et al. Hyperbaric oxygen for patients with chronic bowel dysfunction after pelvic radiotherapy (HOT2): a randomised, double-blind, sham-controlled phase 3 trial. Lancet Oncol. 2016; 17(2):224-233.
+
+19. Golledge J, Singh TP. Systematic review and meta-analysis of clinical trials examining the effect of hyperbaric
+
+oxygen therapy in people with diabetes-related lower limb ulcers. Diabet Med. 2019; 36(7):813-826.
+
+20. Harch PG. Systematic review and dosage analysis: hyperbaric oxygen therapy efficacy in mild traumatic brain
+
+injury persistent postconcussion syndrome. Front Neurol. 2022; 13:815056.
+
+21. Harch PG, Andrews SR, Rowe CJ, et al. Hyperbaric oxygen therapy for mild traumatic brain injury persistent
+
+postconcussion syndrome: a randomized controlled trial. Med Gas Res. 2020;10(1):8-20.
+
+22. Hedetoft M, Bennett MH, Hyldegaard O. Adjunctive hyperbaric oxygen treatment for necrotising soft-tissue
+
+infections: a systematic review and meta-analysis. Diving Hyperb Med. 2021; 51(1):34-43.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_d083866.html
+
+12/16
+
+10/25/25, 12:06 PM
+
+CG-MED-73 Hyperbaric Oxygen Therapy (Systemic/Topical)
+
+23. Huang L, Zhang Q, Fu C, et al. Effects of hyperbaric oxygen therapy on patients with spinal cord injury: a
+
+systematic review and meta-analysis of randomized controlled trials. J Back Musculoskelet Rehabil. 2021; 34(6): 905-913.
+
+24. Igor S, Mirko T, Dalibor P, et al. Hyperbaric oxygenation accelerates prosthetic rehabilitation of lower limb
+
+amputees. Undersea Hyperb Med. 2013; 40(3):289-297.
+
+25. Joshua TG, Ayub A, Wijesinghe P, et al. Hyperbaric oxygen therapy for patients with sudden sensorineural hearing
+
+loss: a systematic review and meta-analysis. JAMA Otolaryngol Head Neck Surg. 2022;148(1):5-11.
+
+26. Lacey DJ, Stolfi A, Pilati LE. Effects of hyperbaric oxygen on motor function in children with cerebral palsy. Ann
+
+Neurol. 2012; 72(5):695-703.
+
+27. Lalieu RC, Brouwer RJ, Ubbink DT, et al. Hyperbaric oxygen therapy for nonischemic diabetic ulcers: a systematic
+
+review. Wound Repair Regen. 2020; 28(2):266-275.
+
+28. Landau Z, Schattner A. Topical hyperbaric oxygen and low energy laser therapy for chronic diabetic foot ulcers
+
+resistant to conventional treatment. Yale J Biol Med. 2001; 74(2):95-100.
+
+29. Lei X, Feng Y, Xia L, Sun C. Hyperbaric oxygen therapy versus intratympanic steroid for salvage treatment of
+
+sudden sensorineural hearing loss: a systematic review and meta-analysis. Otol Neurotol. 2021; 42(8):e980-e986.
+
+30. Li X, Lu L, Min Y, et al. Efficacy and safety of hyperbaric oxygen therapy in acute ischaemic stroke: a systematic
+
+review and meta-analysis. BMC Neurol. 2024; 24(1):55.
+
+31. Li W, Ye Z, Wang W, et al. Clinical effect of hyperbaric oxygen therapy in the treatment of femoral head necrosis:
+
+a systematic review and meta-analysis. Orthopade. 2017;46(5):440-446.
+
+32. Liu X, Xu X, Lei Q, et al. Efficacy of hyperbaric oxygen therapy in treating sudden sensorineural hearing loss: an
+
+umbrella review. Front Neurol. 2024; 15:1453055.
+
+33. Löndahl M, Katzman P, Nilsson A, Hammarlund C. Hyperbaric oxygen therapy facilitates healing of chronic foot
+
+ulcers in patients with diabetes. Diabetes Care. 2010; 33(5):998-1003.
+
+34. McCurdy J, Siw KCK, Kandel R, et al. The effectiveness and safety of hyperbaric oxygen therapy in various phenotypes of inflammatory bowel disease: systematic review with meta-analysis. Inflamm Bowel Dis. 2021; 30;28(4):611-621.
+
+35. Miller RS, Weaver LK, Bahraini N, et al. Effects of hyperbaric oxygen on symptoms and quality of life among
+
+service members with persistent postconcussion symptoms: a randomized clinical trial. JAMA Intern Med. 2015; 175(1):43-52.
+
+36. Oscarsson N, Müller B, Rosén A, et al. Radiation-induced cystitis treated with hyperbaric oxygen therapy (RICH-
+
+ART): a randomised, controlled, phase 2-3 trial. Lancet Oncol. 2019; 20(11):1602-1614.
+
+37. Paderno E, Zanon V, Vezzani G, et al. Evidence-supported HBO therapy in femoral head necrosis: a systematic
+
+review and meta-analysis. Int J Environ Res Public Health. 2021; 18(6):2888.
+
+38. Pagoldh M, Hultgren E, Arnell P, et al. Hyperbaric oxygen therapy does not improve the effects of standardized treatment in a severe attack of ulcerative colitis: a prospective randomized study. Scand J Gastroenterol. 2013; 48(9):1033-1040.
+
+39. Peng Z, Wang S, Huang X, Xiao P. Effect of hyperbaric oxygen therapy on patients with herpes zoster. Undersea
+
+Hyperb Med. 2012; 39(6):1083-1087.
+
+40. Rhee TM, Hwang D, Lee JS, et al. Addition of hyperbaric oxygen therapy vs medical therapy alone for idiopathic sudden sensorineural hearing loss: a systematic review and meta-analysis. JAMA Otolaryngol Head Neck Surg. 2018; 144(12):1153-1161.
+
+41. Rusyniak DE, Kirk MA, May JD, et al. Hyperbaric oxygen therapy in acute ischemic stroke: results of the
+
+Hyperbaric Oxygen in Acute Ischemia Stroke Trial Pilot Study. Stroke. 2003; 34(2):571-574.
+
+42. Sampanthavivat M, Singkhwa W, Chaiyakul T, et al. Hyperbaric oxygen in the treatment of childhood autism: a
+
+randomised controlled trial. Diving Hyperb Med. 2012; 42(3):128-133.
+
+43. Schoen PJ, Raghoebar GM, Bouma J, et al. Rehabilitation of oral function in head and neck cancer patients after radiotherapy with implant-retained dentures: effects of hyperbaric oxygen therapy. Oral Oncol. 2007; 43(4):379- 388.
+
+44. Sharma R, Sharma SK, Mudgal SK, et al. Efficacy of hyperbaric oxygen therapy for diabetic foot ulcer, a systematic
+
+review and meta-analysis of controlled clinical trials. Sci Rep. 2021; 11(1):2189.
+
+45. Steele J, Zutshi D, Bradley WG. Negative results of a phase II study of hyperbaric oxygen therapy for amyotrophic
+
+lateral sclerosis. Amyotroph Lateral Scler. 2007; 8(5):274-275.
+
+46. Tong B, Niu K, Ku W, et al. Comparison of therapeutic results with/without additional hyperbaric oxygen therapy in
+
+idiopathic sudden sensorineural hearing loss: a randomized prospective study. Audiol Neurootol. 2021; 26(1):11-16.
+
+47. Van Meter KW. A systematic review of the application of hyperbaric oxygen in the treatment of severe anemia: an
+
+evidence-based approach. Undersea Hyperb Med. 2005; 32(1):61-83.
+
+48. Vezzani G, Quartesan S, Cancellara P, et al. Hyperbaric oxygen therapy modulates serum OPG/RANKL in femoral
+
+head necrosis patients. J Enzyme Inhib Med Chem. 2017; 32(1):707-711.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_d083866.html
+
+13/16
+
+10/25/25, 12:06 PM
+
+CG-MED-73 Hyperbaric Oxygen Therapy (Systemic/Topical)
+
+49. Weaver LK, Hopkins RO, Chan K, et al. Hyperbaric oxygen for acute carbon monoxide poisoning. N Engl J Med.
+
+2002; 347(14):1057-1067.
+
+50. Wolf G, Cifu D, Baugh L, et al. The effect of hyperbaric oxygen on symptoms after mild traumatic brain injury. J
+
+Neurotrauma. 2012; 29(17):2606-2612.
+
+51. Yogaratnam JZ, Laden G, Guvendik L, et al. Hyperbaric oxygen preconditioning improves myocardial function,
+
+reduces length of intensive care stay, and limits complications post coronary artery bypass graft surgery. Cardiovasc Revasc Med. 2010; 11(1):8-19.
+
+Government Agency, Medical Society, and Other Authoritative Publications:
+
+1. Agency for Healthcare Research and Quality. Hyperbaric oxygen therapy in the treatment of hypoxic wounds and
+
+diabetic wounds of the lower extremities. Technology Assessment 2001.
+
+2. American College of Emergency Physicians Clinical Policies Subcommittee (Writing Committee) on Carbon
+
+Monoxide Poisoning, Wolf SJ, Maloney GE, Shih RD, et al. Clinical Policy: critical issues in the evaluation and management of adult patients presenting to the emergency department with acute carbon monoxide poisoning. Ann Emerg Med. 2017; 69(1):98-107.e6.
+
+3. Bennett MH, Feldmeier J, Smee R, Milross C. Hyperbaric oxygenation for tumour sensitisation to radiotherapy.
+
+Cochrane Database Syst Rev. 2018;(4):CD005007.
+
+4. Bennett MH, French C, Schnabel A, et al. Normobaric and hyperbaric oxygen therapy for the treatment and
+
+prevention of migraine and cluster headache. Cochrane Database Syst Rev. 2015;(12):CD005219.
+
+5. Bennett MH, Heard R. Hyperbaric oxygen therapy for multiple sclerosis. Cochrane Database Syst Rev. 2004;
+
+(1):CD003057.
+
+6. Bennett MH, Kertesz T, Perleth M, et al. Hyperbaric oxygen for idiopathic sudden sensorineural hearing loss and
+
+tinnitus. Cochrane Database Syst Rev. 2012;(10):CD004739.
+
+7. Bennett MH, Lehm JP, Mitchell SJ, Wasiak J. Recompression and adjunctive therapy for decompression illness.
+
+Cochrane Database Syst Rev. 2012;(5):CD005277.
+
+8. Bennett MH, Stanford RE, Turner R. Hyperbaric oxygen therapy for promoting fracture healing and treating fracture
+
+non-union. Cochrane Database Syst Rev. 2012;(11):CD004712.
+
+9. Bennett MH, Trytko B, Jonker B. Hyperbaric oxygen therapy for the adjunctive treatment of traumatic brain injury.
+
+Cochrane Database Syst Rev. 2012;(12):CD004609.
+
+10. Bennett MH, Weibel S, Wasiak J, et al. Hyperbaric oxygen therapy for acute ischaemic stroke. Cochrane Database
+
+Syst Rev. 2014; 11:CD004954.
+
+11. Beth-Tasdogan NH1, Mayer B, Hussein H, Zolk O. Interventions for managing medication-related osteonecrosis of
+
+the jaw. Cochrane Database Syst Rev. 2017;(10):CD012432.
+
+12. Buckley NA, Juurlink DN, Isbister G, et al. Hyperbaric oxygen for carbon monoxide poisoning. Cochrane Database
+
+Syst Rev. 2011;(4):CD002041.
+
+13. Centers for Medicare and Medicaid Services. National Coverage Determinations. Available at:
+
+https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?ncdid=12. Accessed on February 21, 2025.
+
+Hyperbaric Oxygen Therapy. NCD #20.29. Effective April 3, 2017.
+
+14. Chandrasekhar SS, Tsai BS, Schwartz SR. Clinical practice guideline: sudden hearing loss. Otolaryngol Head Neck
+
+Surg. 2019; 161(IS):S1-45.
+
+15. Eskes A, Vermeulen H, Lucas C, Ubbink DT. Hyperbaric oxygen therapy for treating acute surgical and traumatic
+
+wounds. Cochrane Database Syst Rev. 2013;(12):CD008059.
+
+16. Esposito M, Worthington HV. Interventions for replacing missing teeth: hyperbaric oxygen therapy for irradiated
+
+patients who require dental implants. Cochrane Database Syst Rev. 2013;(9):CD003603.
+
+17. Holland NJ, Bernstein JM, Hamilton JW. Hyperbaric oxygen therapy for Bell's palsy. Cochrane Database Syst Rev.
+
+2012;(2):CD007288.
+
+18. Holland S, Silberstein SD, Freitag F, et al.; Quality Standards Subcommittee of the American Academy of Neurology and the American Headache Society. Evidence-based guideline update: NSAIDs and other complementary treatments for episodic migraine prevention in adults: report of the Quality Standards Subcommittee of the American Academy of Neurology and the American Headache Society. Neurology. 2012; 78(17):1346-353.
+
+19. Kranke P, Bennett MH, Martyn-St James M, et al. Hyperbaric oxygen therapy for chronic wounds. Cochrane
+
+Database Syst Rev. 2015;(6):CD004123.
+
+20. Levett D, Bennett MH, Millar I. Adjunctive hyperbaric oxygen for necrotizing fasciitis. Cochrane Database Syst Rev.
+
+2015;(1):CD007937.
+
+21. National Institutes of Health Consensus Development Conference Statement: oral complications of cancer
+
+therapies: diagnosis, prevention, and treatment. 1989; 7(7):1-11.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_d083866.html
+
+14/16
+
+10/25/25, 12:06 PM
+
+CG-MED-73 Hyperbaric Oxygen Therapy (Systemic/Topical)
+
+22. Phillips JS, Jones SE. Hyperbaric oxygen as an adjuvant treatment for malignant otitis externa. Cochrane
+
+Database Syst Rev. 2013;(5):CD004617.
+
+23. Stachler RJ, Chandrasekhar SS, Archer SM, et al.; American Academy of Otolaryngology-Head and Neck Surgery.
+
+Clinical practice guideline: sudden hearing loss. Otolaryngol Head Neck Surg. 2012; 146(3 Suppl):S1-35.
+
+24. Undersea and Hyperbaric Medical Society. Bennett M, Heard R. UHMS position statement: treatment of multiple
+
+sclerosis with hyperbaric oxygen therapy. Undersea Hyperb Med. 2001; 28(3):117-122.
+
+25. Undersea and Hyperbaric Medical Society. Feldmeier JJ, Hopf HW, Warriner RA 3rd, et al. UHMS position
+
+statement: topical oxygen for chronic wounds. Undersea Hyperb Med. 2005; 32(3):157-168.
+
+26. Undersea and Hyperbaric Medical Society. Hyperbaric Oxygen Therapy Indications, 15th Edition. Best Publishing
+
+Company (North Palm Beach, FL). 2023.
+
+27. Undersea and Hyperbaric Medical Society. Idiopathic Sudden Sensorineural Hearing Loss (2011). Available at:
+
+https://www.uhms.org/14-idiopathic-sudden-sensorineural-hearing-loss-new-approved-on-october-8-2011-by-the- uhms-board-of-directors.html. Accessed on February 21, 2025.
+
+28. United States Navy Dive Manual, Revision 7. 2016. Available at:
+
+https://www.navsea.navy.mil/Portals/103/Documents/SUPSALV/Diving/US%20DIVING%20MANUAL_REV7.pdf? ver=2017-01-11-102354-393. Accessed on February 21, 2025.
+
+29. Yang Z, Hu J, Qu Y, Sun F, et al. Interventions for treating gas gangrene. Cochrane Database Syst Rev. 2015;
+
+(12):CD010577.
+
+30. Xiao Y, Wang J, Jiang S, Luo H. Hyperbaric oxygen therapy for vascular dementia. Cochrane Database Syst Rev.
+
+2012;(7):CD009425.
+
+31. Zhang Y, Wu J, Xiao N et al. Hyperbaric oxygen therapy is beneficial for the improvement of clinical symptoms of
+
+cerebral palsy: a systematic review and meta-Analysis. Complement Med Res. 2021:1-14.
+
+32. Zhang Z, Zhang W, Xu Y et al. Efficacy of hyperbaric oxygen therapy for diabetic foot ulcers: an updated systematic
+
+review and meta-analysis. Asian J Surg. 2022; 45(1):68-78.
+
+Websites for Additional Information
+
+1. National Library of Medicine. Medical Encyclopedia. Hyperbaric oxygen therapy. Review Date July 31, 2022. Available at: http://www.nlm.nih.gov/medlineplus/ency/article/002375.htm. Accessed on February 21, 2025.
+
+Index
+
+Air embolism Extreme chamber therapy Extremity oxygen therapy Osteomyelitis, acute and chronic Osteoradionecrosis Tinnitus
+
+The use of specific product names is illustrative only. It is not intended to be a recommendation of one product over another, and is not intended to represent a complete listing of all products available.
+
+History
+
+Status
+
+Date 10/01/2025
+
+Action Updated Coding section with 10/01/2025 ICD-10-CM changes, added L98.A111- L98.A399 and E11.A to end of range. Medical Policy & Technology Assessment Committee (MPTAC) review. Updated Discussion/General Information, Definitions References, and Websites sections. Updated Coding section to remove diagnosis code L88 not applicable. Updated Definitions section. MPTAC review. Updated Discussion/General Information, Definitions and References sections. MPTAC review. Added continuation criteria to each section on chronic non-healing wounds in MN statement and revised hierarchy in these sections. Removed first NMN statement. Updated Discussion/General Information and References sections. MPTAC review. Updated Discussion/General Information and References sections.
+
+Reviewed
+
+05/08/2025
+
+09/17/2024
+
+Reviewed
+
+05/09/2024
+
+Revised
+
+05/11/2023
+
+Reviewed
+
+02/16/2023
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_d083866.html
+
+15/16
+
+10/25/25, 12:06 PM
+
+CG-MED-73 Hyperbaric Oxygen Therapy (Systemic/Topical)
+
+Revised
+
+02/17/2022
+
+MPTAC review. Added bullet point on ISSHL with criteria to MN statement and deleted bullet point from NMN statement. Updated Discussion/General Information and References sections. Updated coding section with diagnosis code range H90.3- H90.A32. MPTAC review. In section of medically necessary statement on chronic non-healing wounds, added bullet point on criteria for continued treatment beyond 30 days. Updated Discussion/General Information and References sections. MPTAC review. Updated Discussion/General Information and References sections. Reformatted Coding section. In Discussion section, added note to the section on Undersea and Hyperbaric Medicine society guidelines that Idiopathic Sudden Sensorineural Hearing Loss (ISSHL) is considered ‘not medically necessary’. MPTAC review. Updated Discussion/General Information and References sections. MPTAC review. Updated Clinical Indications with additional details on treatment of wounds and jaw conditions consistent with Undersea and Hyperbaric Medicine Society recommendations. Parentheses with refractory osteomyelitis removed from chronic refractory osteomyelitis in medically necessary statement. Added to not medically necessary statement: Idiopathic Sudden Sensorineural Hearing Loss (ISSHL), osteonecrosis of the jaw when the cause is not radiation necrosis (osteoradionecrosis), preoperative treatment for jaw osteomyelitis, traumatic brain injury and venous stasis ulcers, pressure ulcers and non-pressure ulcers except in the subset of individuals noted in the medically necessary statement. Discussion/General Information and References updated. MPTAC review. Initial document development. Moved content of MED.00005 Hyperbaric Oxygen Therapy (Systemic/Topical) to new clinical utilization management guideline document with the same title.
+
+Revised
+
+11/11/2021
+
+Reviewed
+
+11/05/2020
+
+05/19/2020
+
+Reviewed Revised
+
+11/07/2019 01/24/2019
+
+New
+
+07/26/2018
+
+Federal and State law, as well as contract language, and Medical Policy take precedence over Clinical UM Guidelines. We reserve the right to review and update Clinical UM Guidelines periodically. Clinical guidelines approved by the Medical Policy & Technology Assessment Committee are available for general adoption by plans or lines of business for consistent review of the medical necessity of services related to the clinical guideline when the plan performs utilization review for the subject. Due to variances in utilization patterns, each plan may choose whether to adopt a particular Clinical UM Guideline. To determine if review is required for this Clinical UM Guideline, please contact the customer service number on the member's card.
+
+Alternatively, commercial or FEP plans or lines of business which determine there is not a need to adopt the guideline to review services generally across all providers delivering services to Plan’s or line of business’s members may instead use the clinical guideline for provider education and/or to review the medical necessity of services for any provider who has been notified that his/her/its claims will be reviewed for medical necessity due to billing practices or claims that are not consistent with other providers, in terms of frequency or in some other manner.
+
+No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without permission from the health plan.
+
+© CPT Only - American Medical Association
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_d083866.html
+
+16/16

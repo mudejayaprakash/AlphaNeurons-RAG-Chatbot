@@ -1,0 +1,219 @@
+10/25/25, 12:10 PM
+
+CG-DME-36 Pediatric Gait Trainers
+
+Clinical UM Guideline
+
+Subject: Pediatric Gait Trainers
+
+Guideline #: CG-DME-36
+
+Publish Date: 07/01/2025
+
+Status: Reviewed
+
+Last Review Date: 05/08/2025
+
+Description
+
+This document addresses the indications for a pediatric gait trainer with trunk support, a device similar to a walker that is intended to provide balance stability and postural control in children who require moderate to maximum support for walking. This policy does not address electromechanical or robotic-assisted devices.
+
+Note: For information regarding powered gait training devices, please see the following:
+
+OR-PR.00006 Powered Robotic Lower Body Exoskeleton Devices
+
+Clinical Indications
+
+Medically Necessary:
+
+A pediatric gait trainer with trunk support is considered medically necessary for an individual who meets all of the following criteria:
+
+A. Is 18 years of age or younger; and B. Requires moderate to maximum support for ambulation (for example, because of an injury such as spinal cord or
+
+traumatic brain injury or chronic illness: cerebral palsy, neuromuscular disease, or spina bifida); and
+
+C. Demonstrates the ability to ambulate with the device.
+
+Not Medically Necessary:
+
+A pediatric gait trainer with trunk support is considered not medically necessary when the criteria are not met.
+
+Coding
+
+The following codes for treatments and procedures applicable to this guideline are included below for informational purposes. Inclusion or exclusion of a procedure, diagnosis or device code(s) does not constitute or imply member coverage or provider reimbursement policy. Please refer to the member's contract benefits in effect at the time of service to determine coverage or non-coverage of these services as it applies to an individual member.
+
+When services may be Medically Necessary when criteria are met:
+
+HCPCS
+
+E8000 E8001
+
+Gait trainer, pediatric size, posterior support, includes all accessories and components Gait trainer, pediatric size, upright support, includes all accessories and components
+
+E8002
+
+Gait trainer, pediatric size, anterior support, includes all accessories and components
+
+ICD-10 Diagnosis
+
+All diagnoses
+
+When services are Not Medically Necessary: For the procedure codes listed above when criteria are not met.
+
+Discussion/General Information
+
+https://provider.healthybluela.com/medpolicies/healthybluela/active/gl_pw_c174202.html
+
+1/5
+
+10/25/25, 12:10 PM
+
+CG-DME-36 Pediatric Gait Trainers
+
+A pediatric gait trainer is a medically-related mobility device similar to a standard walker. Pediatric gait trainers are proposed to improve musculoskeletal strength and promote balance stability and postural control for children who require moderate to maximum support for walking. Various movement disorders may affect balance and result in the inability to walk, necessitating the use of a gait trainer. Motor limitations may occur after an event to the brain or spinal column (prior to or after birth), resulting in conditions such as cerebral palsy, spina bifida, or other developmental disabilities. Walking impairment may also occur as a result of an acquired injury, such as a traumatic brain injury or spinal cord injury.
+
+Peredo and colleagues (2010) surveyed caregivers of children and adolescents (n=108) with motor disabilities to investigate the type and reasons for use of specific medical equipment. The most common diagnoses for children using medical equipment were cerebral palsy (45%), intellectual disability (19%), genetic abnormality (13%), spina bifida (13%) and neuromuscular diseases (7%). The average child’s age was 7.1 years (± 5.0 years). Gait trainers were reported as used by 10 of 52 children (19%) with cerebral palsy and 1 of 14 children (7%) with a genetic abnormality, with daily use by 5 of 11 children (46%).
+
+Two randomized controlled trials (RCTs) have demonstrated the benefits of gait trainer-assisted exercises for selected groups.
+
+Garib and colleagues (2011) conducted an RCT to assess the effect of gait trainer-assisted exercises on walking performance in children with hemiparetic cerebral palsy. A total of 30 children from a single outpatient pediatric clinic were randomized to two equal groups: traditional physical therapy only (control group) and traditional physical therapy combined with gait trainer- assisted walking exercise (experimental group). Participants in both groups received a 30-minute treatment session 3 times per week for 3 successive months. All participants underwent baseline and post-treatment evaluations which assessed average step length, walking speed, time on each foot and ambulation index, which is a composite score relative to 100 and is based on foot-to-foot time distribution and average step cycle. At baseline, there were no significant differences in demographic and clinical characteristics between the groups. Participants in the experimental group had significantly changed scores in the ambulation index and time of support for the affected side compared to the control group (11.93 ± 2.89 vs. 2.13 ± 4.43; p=0.0001 and 7 ± 2.20 vs. 3.33 ± 6.25; p=0.007, respectively). Within the groups, there were significant improvements in step length and walking speed between baseline and post treatment. Based on this study’s findings, the use of gait trainers with traditional physical therapy improved functional walking parameters as compared to traditional physical therapy only.
+
+Willoughby and colleagues (2010) conducted a single-blind RCT to evaluate the efficacy of partial body weight-supported treadmill training (PBWSTT) vs. overground walking in children diagnosed with cerebral palsy. A power analysis indicated that at least 30 participants (15 per group) would be needed to obtain statistical significance (power of 80%, α=0.05). The study enrolled 34 children from a single metropolitan specialist school who were diagnosed with cerebral palsy and had Gross Motor Function Classification System (GMFCS; Palisano, 1997) levels of III or IV. The children were randomized to two equal groups of 17: treadmill training (experimental group) and overground walking (control group). Both groups completed 9 weeks of twice weekly training. Outcomes included changes in walking performance measured by the 10-meter walk test (walking speed), 10-minute walk (walking endurance) and the School Functional Assessment (walking function in the school environment; Davies, 2004). Assessments were conducted at baseline and weeks 10 and 24. Two physiotherapists who were blinded to the randomization scheme completed the assessments. Of the 34 participants, 1 in the control group withdrew prior to completion of the baseline assessments. After the baseline assessments, 5 participants in the experimental group (4 had lower limb surgery and 1 had brain cysts) and 2 participants in the control group withdrew from the study (1 had lower limb surgery and 1 had back pain). Due to the withdrawals, the study was no longer powered to show a significant difference. At baseline, there was a significant difference in the 10-meter walk test results with the control group walking at slower speeds. There was no difference in training schedule adherence between the groups, and no adverse events or safety issues reported. At 10 and 24 weeks, there was a nonsignificant but small trend toward an increase in the distance walked between the groups in the 10-minute walk test. This favored the control group. There was no difference between the groups in the 10- meter walk test or School Functional Assessment (p=0.194 and p=0.133, respectively). This trial showed that PBWSTT is safe and feasible to implement in a special school setting however, it may be as effective as practicing overground walking.
+
+Pediatric gait trainers are available from various medical equipment manufacturers in multiple sizes and models. One such device is the Rifton Pacer Gait Trainer (Community Products, LLC dba Rifton Equipment, Rifton, NY), a type of walker proposed for use by infants 9 months of age and older. The basic unit is described as a lightweight aluminum frame with a stable U-shaped base with four large-diameter caster wheels. The casters have separate control features for brake, swivel lock, variable drag, and one-way ratchet control, to use in any combination to control movement. The frame with prompts can be used in an anterior or posterior position. The frame telescopes for height adjustment to accommodate growth and is available in three sizes from 44.5 cm to 119.5 cm (user elbow heights).
+
+Other models of pediatric gait trainers include, but are not limited to:
+
+The Walkabout Gait Trainer (Meylan-Smith A/S, Denmark), a posterior support, weight-relieving gait trainer, which gives dynamic support throughout the rise and fall of the pelvis during ambulation and is hands-free and open in the
+
+https://provider.healthybluela.com/medpolicies/healthybluela/active/gl_pw_c174202.html
+
+2/5
+
+10/25/25, 12:10 PM
+
+CG-DME-36 Pediatric Gait Trainers
+
+front; The KidWalk® Gait Mobility System (Prime Engineering, Fresno, CA), an open front, hands-free gait trainer with a swivel seat and support systems that track the child's up and down and side-to-side motion to assist in achieving a natural walking pattern; and, The Therapeutic Ambulatory Orthotic System (TAOS) (Sky Medical, Inc., Sunrise, FL), an orthotic and walker-based device whose components work together to provide a child with cerebral palsy an “upright, hands-free environment.”
+
+The U.S. Food and Drug Administration (FDA, 2023) categorizes gait trainers as Class I devices under the product codes: ITJ (walker, mechanical) or NXE (walker, mechanical, poly vinyl chloride), and exempt from premarket approval (PMA) notification and the 510(k) clearance process.
+
+Definitions
+
+Cerebral palsy (CP): A group of disorders that can involve brain and nervous system functions, such as movement, learning, hearing, seeing, and thinking, the result of an event to the immature, developing brain, most often before birth. Signs and symptoms appear during infancy or preschool years. In general, cerebral palsy causes impaired movement associated with exaggerated reflexes, floppiness or rigidity of the limbs and trunk, abnormal posture, involuntary movements, unsteadiness of walking, or some combination of these. Some individuals may have difficulty with swallowing, eye muscle imbalance, and/or reduced range of motion at various joints of their bodies due to muscle stiffness. Some individuals are able to walk while others aren't able to walk. Others show normal to near normal intellectual function, while others may have intellectual disabilities due to underlying developmental brain abnormalities. Epilepsy, blindness or deafness also may be present.
+
+Gross Motor Function Classification System (GMFCS): A five-level classification system (Levels I-V) for cerebral palsy based on self-initiated movement with particular emphasis on sitting (truncal control) and walking. Distinctions between levels of motor function are based on functional limitations, the need for assistive technology, including mobility devices (such as walkers, crutches, and canes) and wheeled mobility, and to much lesser extent quality of movement. Children in Level II do not require assistive mobility devices after age 4, while children in Level III will need assistive mobility devices to walk (Palisano, 1997).
+
+Spina bifida: Part of a group of birth defects called neural tube defects that include spinal cord malformation presenting in varying degrees of severity and impairment. Functional deficits include, but are not limited to, lower limb paralysis, sensory loss, and cognitive dysfunction.
+
+Traumatic brain injury (TBI): Occurs when an external mechanical force causes brain dysfunction, often associated with a diminished or altered state of consciousness, and potentially leads to permanent or temporary impairment of cognitive, physical, and psychosocial functions. TBI usually results from a violent blow or jolt to the head or body, but can also be caused by an object penetrating the skull.
+
+References
+
+Peer Reviewed Publications:
+
+1. Davies PL, Soon PL, Young M, Clausen-Yamaki A. Validity and reliability of the school function assessment in
+
+elementary school students with disabilities. Phys Occup Ther Pediatr. 2004; 24(3):23-43.
+
+2. Gharib NM, El-Maksoud GM, Rezk-Allah SS. Efficacy of gait trainer as an adjunct to traditional physical therapy on walking performance in hemiparetic cerebral palsied children: a randomized controlled trial. Clin Rehabil. 2011; 25(10):924-934.
+
+3. Henderson S, Skelton H, Rosenbaum P. Assistive devices for children with functional impairments: impact on child and
+
+caregiver function. Dev Med Child Neurol. 2008; 50(2):89-98.
+
+4. Johnson KL, Dudgeon B, Kuehn C, Walker W. Assistive technology use among adolescents and young adults with
+
+spina bifida. Am J Public Health. 2007; 97(2):330-336.
+
+5. Peredo DE, Davis BE, Norvell DC, Kelly PC. Medical equipment use in children with disabilities: a descriptive survey. J
+
+Pediatr Rehabil Med. 2010; 3(4):259-267.
+
+6. Willoughby KL, Dodd KJ, Shields N, Foley S. Efficacy of partial body weight-supported treadmill training compared with overground walking practice for children with cerebral palsy: a randomized controlled trial. Arch Phys Med Rehabil. 2010; 91(3):333-339.
+
+Government Agency, Medical Society, and Other Authoritative Publications:
+
+1. Michaud LJ. American Academy of Pediatrics Committee on Children With Disabilities. Prescribing therapy services for
+
+children with motor disabilities. Pediatrics. 2004; 113(6):1836-1838.
+
+https://provider.healthybluela.com/medpolicies/healthybluela/active/gl_pw_c174202.html
+
+3/5
+
+10/25/25, 12:10 PM
+
+CG-DME-36 Pediatric Gait Trainers
+
+2. U.S. Food and Drug Administration Product Classification Database. Walker, Mechanical. Product code ITJ. Rockville, MD: FDA. April 10, 2024. Available at: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/classification.cfm? id=5445. Accessed on April 03, 2025.
+
+3. U.S. Food and Drug Administration Product Classification Database. Walker, Mechanical, Poly Vinyl Chloride (PVC).
+
+Product code NXE. Rockville, MD: FDA. March 6, 2023. Available at: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/classification.cfm?id=5487. Accessed on April 03, 2025.
+
+Websites for Additional Information
+
+1. American Academy of Physical Medicine and Rehabilitation (AAPMR). Available at:
+
+http://www.aapmr.org/Pages/default.aspx. Accessed on April 03, 2025.
+
+2. U.S. National Library of Medicine. National Institutes of Health. MedlinePlus. Cerebral palsy. Updated October 20,
+
+2024. Available at: http://www.nlm.nih.gov/medlineplus/cerebralpalsy.html. Accessed on April 03, 2025.
+
+Index
+
+KidWalk Gait Mobility System Rifton Pacer Gait Trainer Therapeutic Ambulatory Orthotic System (TAOS) Walkabout Gait Trainer
+
+The use of specific product names is illustrative only. It is not intended to be a recommendation of one product over another, and is not intended to represent a complete listing of all products available.
+
+History
+
+Status Reviewed
+
+Date 05/08/2025
+
+Action Medical Policy & Technology Assessment Committee (MPTAC) review. Revised Background/Overview, Definitions, References, and Websites sections. MPTAC review. Updated References and Websites sections. MPTAC review. Revised MN statement to change documentation requirements. Revised hierarchy formatting. Updated Description, Discussion/General Information, References and Websites sections. MPTAC review. Updated References and Websites sections. MPTAC review. Updated Websites section. Reformatted Coding section. MPTAC review. Updated Discussion and Websites sections. MPTAC review. Updated Websites section. MPTAC review. The document header wording updated from “Current Effective Date” to “Publish Date.” Updated Discussion/General Information, Websites for Additional Information, and Index sections. MPTAC review. Updated formatting in Clinical Indications section. Removed abbreviations from Clinical Indications. Updated Websites for Additional Information section. MPTAC review. Updated References and Websites for Additional Information sections. Removed ICD-9 codes from Coding section. MPTAC review. Removed “independently” from the medically necessary statement, criteria 2. and 4. Minor clarification to the not medically necessary statement. Updated Discussion and References sections. MPTAC review. Initial document development.
+
+Reviewed Revised
+
+05/09/2024 05/11/2023
+
+Reviewed Reviewed Reviewed Reviewed Reviewed
+
+05/12/2022 05/13/2021 05/14/2020 06/06/2019 07/26/2018
+
+Revised
+
+08/03/2017
+
+Reviewed
+
+08/04/2016
+
+Revised
+
+08/06/2015
+
+New
+
+08/14/2014
+
+This Clinical UM Guideline is intended to provide assistance in interpreting Healthy Blue’s standard Medicaid benefit plan. When evaluating insurance coverage for the provision of medical care, federal, state and/or contractual requirements must be referenced, since these may limit or differ from the standard benefit plan. In the event of a conflict, the federal, state and/or contractual requirements for the applicable benefit plan coverage will govern. Healthy Blue reserves the right to modify its Policies and Guidelines as necessary and in accordance with legal and contractual requirements. This Clinical UM Guideline is provided for informational purposes. It does not constitute medical advice. Healthy Blue may also use tools and criteria developed by third parties, to assist us in administering health benefits. Healthy Blue’s Policies and Guidelines are intended to be used in accordance with the independent professional medical judgment of a qualified health care provider and do not constitute the practice of medicine or medical advice.
+
+https://provider.healthybluela.com/medpolicies/healthybluela/active/gl_pw_c174202.html
+
+4/5
+
+10/25/25, 12:10 PM
+
+CG-DME-36 Pediatric Gait Trainers
+
+No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without permission from the health plan.
+
+© CPT Only – American Medical Association
+
+https://provider.healthybluela.com/medpolicies/healthybluela/active/gl_pw_c174202.html
+
+5/5

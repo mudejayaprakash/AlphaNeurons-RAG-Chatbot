@@ -1,0 +1,245 @@
+10/15/25, 7:02 PM
+
+NCD - Sacral Nerve Stimulation For Urinary Incontinence (230.18)
+
+National Coverage Determination (NCD)
+
+Sacral Nerve Stimulation For Urinary Incontinence
+
+230.18
+
+Links in PDF documents are not guaranteed to work. To follow a web link, please use the MCD
+
+Website.
+
+Tracking Information
+
+Publication Number
+
+100-3
+
+Manual Section Number
+
+230.18
+
+Manual Section Title
+
+Sacral Nerve Stimulation For Urinary Incontinence
+
+Version Number
+
+1
+
+Effective Date of this Version
+
+01/01/2002
+
+Implementation Date
+
+01/01/2002
+
+Description Information
+
+Beneﬁt Category
+
+Prosthetic Devices
+
+Please Note: This may not be an exhaustive list of all applicable Medicare beneﬁt categories for this item or service.
+
+Indications and Limitations of Coverage
+
+Effective January 1, 2002, sacral nerve stimulation is covered for the treatment of urinary urge incontinence, urgency-frequency syndrome, and urinary retention. Sacral nerve
+
+https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?NCDId=249
+
+1/5
+
+10/15/25, 7:02 PM
+
+NCD - Sacral Nerve Stimulation For Urinary Incontinence (230.18)
+
+stimulation involves both a temporary test stimulation to determine if an implantable
+
+stimulator would be effective and a permanent implantation in appropriate candidates. Both
+
+the test and the permanent implantation are covered.
+
+The following limitations for coverage apply to all three indications:
+
+Patient must be refractory to conventional therapy (documented behavioral,
+
+pharmacologic and/or surgical corrective therapy) and be an appropriate surgical
+
+candidate such that implantation with anesthesia can occur.
+
+Patients with stress incontinence, urinary obstruction, and speciﬁc neurologic diseases
+
+(e.g., diabetes with peripheral nerve involvement) which are associated with secondary
+
+manifestations of the above three indications are excluded.
+
+Patient must have had a successful test stimulation in order to support subsequent
+
+implantation. Before a patient is eligible for permanent implantation, he/she must
+
+demonstrate a 50% or greater improvement through test stimulation. Improvement is measured through voiding diaries. Patient must be able to demonstrate adequate ability to record voiding diary data such
+
+that clinical results of the implant procedure can be properly evaluated.
+
+Claims Processing Instructions
+
+TN AB-03-028 (Program Memorandum Intermediaries/Carriers)
+
+TN A-02-020 (Program Memorandum Intermediaries)
+
+TN AB-01-166 (Program Memorandum Intermediaries/Carriers)
+
+TN AB-01-143 (Program Memorandum Intermediaries/Carriers)
+
+TN AB-03-028 (Program Memorandum Intermediaries/Carriers)
+
+TN 125 (Medicare Claims Processing)
+
+Transmittal Information
+
+Transmittal Number
+
+144
+
+Coverage Transmittal Link
+
+https://www.cms.gov/Regulations-and-
+
+Guidance/Guidance/Transmittals/Downloads/R144CIM.pdf
+
+Revision History
+
+10/2024 - The purpose of the Change Request (CR) is to provide a quarterly maintenance update of ICD-10 coding conversions and other coding updates speciﬁc to National
+
+https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?NCDId=249
+
+2/5
+
+10/15/25, 7:02 PM
+
+NCD - Sacral Nerve Stimulation For Urinary Incontinence (230.18)
+
+Coverage Determinations(NCDs). No policy is being changed as a result of these updates.
+
+(TN 12904
+
+) (CR13828)
+
+02/2024 - The purpose of this Change Request (CR) is to provide a maintenance update of
+
+ICD-10 conversions and other coding updates speciﬁc to NCDs. (TN 12493
+
+) (CR13507)
+
+02/2020 - This Change Request (CR) constitutes a maintenance update of ICD-10
+
+conversions and other coding updates speciﬁc to NCDs. These NCD coding changes are the result of newly available codes, coding revisions to NCDs released separately, or coding
+
+feedback received. Previous NCD coding changes appear in ICD-10 quarterly updates that can be found at:
+
+https://www.cms.gov/Medicare/Coverage/CoverageGenInfo/ICD10.html CRs implementing new policy NCDs. Edits to ICD-10 and other coding updates speciﬁc to
+
+, along with other
+
+NCDs will be included in subsequent quarterly releases and individual CRs as appropriate. No policy-related changes are included with the ICD-10 quarterly updates. Any policy-
+
+related changes to NCDs continue to be implemented via the current, longstanding NCD process. (TN 2439
+
+) (CR11655)
+
+11/2018 - This Change Request (CR) constitutes a maintenance update of ICD-10 conversions and other coding updates speciﬁc to NCDs. These NCD coding changes are the
+
+result of newly available codes, coding revisions to NCDs released separately, or coding feedback received.
+
+Previous NCD coding changes appear in ICD-10 quarterly updates that can be found at:
+
+https://www.cms.gov/Medicare/Coverage/CoverageGenInfo/ICD10.html CRs implementing new policy NCDs. Edits to ICD-10 and other coding updates speciﬁc to
+
+, along with other
+
+NCDs will be included in subsequent quarterly releases and individual CRs as appropriate. No policy-related changes are included with the ICD-10 quarterly updates. Any policy-
+
+related changes to NCDs continue to be implemented via the current, long-standing NCD process.(TN 2202
+
+) (CR11005)
+
+11/2016 - This change request (CR) is the 9th maintenance update of ICD-10 conversions and other coding updates speciﬁc to national coverage determinations (NCDs). The majority
+
+of the NCDs included are a result of feedback received from previous ICD-10 NCD CR7818,
+
+CR8109, CR8197, CR8691, CR9087, CR9252, CR9540, and CR9631. Some are the result of revisions required to other NCD-related CRs released separately. Edits to ICD-10 and other coding updates speciﬁc to NCDs will be included in subsequent, quarterly releases as needed. No policy-related changes are included with these updates.
+
+Any policy-related changes to NCDs continue to be implemented via the current, long- standing NCD process. (TN 1753
+
+) (CR9751)
+
+08/2016 - This change request (CR) is the 9th maintenance update of ICD-10 conversions and other coding updates speciﬁc to national coverage determinations (NCDs). The majority
+
+https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?NCDId=249
+
+3/5
+
+10/15/25, 7:02 PM
+
+NCD - Sacral Nerve Stimulation For Urinary Incontinence (230.18)
+
+of the NCDs included are a result of feedback received from previous ICD-10 NCD CR7818,
+
+CR8109, CR8197, CR8691, CR9087, CR9252, CR9540, and CR9631. Some are the result of revisions required to other NCD-related CRs released separately. Edits to ICD-10 and other coding updates speciﬁc to NCDs will be included in subsequent,
+
+quarterly releases as needed. No policy-related changes are included with these updates. Any policy-related changes to NCDs continue to be implemented via the current, long- standing NCD process. (TN 1708
+
+) (CR9751)
+
+04/2016 - Transmittal 1630, dated February 26, 2016, is being rescinded and replaced by Transmittal 1658 to (1) remove duplicate spreadsheet NCD210.3, (2) add missing
+
+spreadsheet NCD20.33, (3) add B/MAC to requirement 3 at request of WPS/B, (4) rename the spreadsheet titles, and, (5) provide a link to the attached spreadsheets for more efﬁcient ease of reference and accessibility. All other information remains the same. (TN 1658
+
+)
+
+(CR9540)
+
+10/2001 - Added section as result of a national coverage decision. Effective and implementation dates 01/01/2002. (TN 144
+
+) (CR 1881)
+
+National Coverage Analyses (NCAs)
+
+This NCD has been or is currently being reviewed under the National Coverage Determination process. The following are existing associations with NCAs, from the National Coverage Analyses database.
+
+Original Consideration for Sacral Nerve Stimulation for Urge Urinary Incontinence (CAG- 00058N)
+
+Additional Information
+
+Other Versions
+
+Effective Between
+
+Title
+
+Version
+
+Sacral Nerve Stimulation For Urinary Incontinence
+
+01/01/2002 - N/A
+
+You are here
+
+1
+
+https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?NCDId=249
+
+4/5
+
+10/15/25, 7:02 PM
+
+NCD - Sacral Nerve Stimulation For Urinary Incontinence (230.18)
+
+https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?NCDId=249
+
+5/5

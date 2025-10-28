@@ -1,0 +1,277 @@
+UnitedHealthcare® Medicare Advantage Medical Policy
+
+Gastroesophageal and Gastrointestinal (GI) Services and Procedures
+
+Policy Number: MMP039.16 Last Committee Approval Date: September 10, 2025 Effective Date: October 1, 2025
+
+ Instructions for Use
+
+Page Table of Contents Coverage Rationale ........................................................ 1 Applicable Codes ............................................................ 2 CMS Related Documents ................................................ 3 Policy History/Revision Information ................................ 4 Instructions for Use ......................................................... 4
+
+Related Medicare Advantage Medical Policies • Electrical Stimulators • Urinary and Fecal Incontinence: Diagnosis and
+
+Treatment
+
+Related Commercial Policies • Gastrointestinal Motility Disorders, Diagnosis and
+
+Treatment
+
+Minimally Invasive Procedures for Gastric and
+
+Esophageal Diseases
+
+Virtual Upper Gastrointestinal Endoscopy
+
+Coverage Rationale
+
+Electrogastrography or Electroenterography Medicare does not have a National Coverage Determination (NCD) for electrogastrography or electroenterography. Local Coverage Determinations (LCDs)/Local Coverage Articles (LCAs) do not exist.
+
+For coverage guidelines, refer to the UnitedHealthcare Commercial Medical Policy titled Gastrointestinal Motility Disorders, Diagnosis and Treatment.
+
+Gastric Electrical Stimulation Therapy (e.g., Enterra®) Medicare does not have an NCD for gastric electrical stimulation therapy (e.g., Enterra®). LCDs/LCAs do not exist.
+
+For coverage guidelines, refer to the UnitedHealthcare Commercial Medical Policy titled Gastrointestinal Motility Disorders, Diagnosis and Treatment.
+
+Notes: For peripheral nerve stimulation, refer to the Medicare Advantage Medical Policy titled Electrical Stimulators. For sacral nerve stimulation for incontinence, refer to the Medicare Advantage Medical Policy titled Urinary and Fecal
+
+Incontinence: Diagnosis and Treatment.
+
+Per Oral Endoscopic Myotomy (POEM) Gastric Per Oral Endoscopic Myotomy (G-POEM) Medicare does not have an NCD for gastric per oral endoscopic myotomy. LCDs/LCAs do not exist.
+
+For coverage guidelines, refer to the UnitedHealthcare Commercial Medical Policy titled Minimally Invasive Procedures for Gastric and Esophageal Diseases.
+
+Gastroesophageal and Gastrointestinal (GI)Services and Procedures UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 1 of 5 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Per Oral Endoscopic Myotomy (POEM) Medicare does not have an NCD for per oral endoscopic myotomy. LCDs/LCAs exist and compliance with these policies is required where applicable. For specific LCDs/LCAs, refer to the table for Per Oral Endoscopic Myotomy (POEM).
+
+For states/territories with no LCDs/LCAs, refer to the UnitedHealthcare Commercial Medical Policy titled Minimally Invasive Procedures for Gastric and Esophageal Diseases.
+
+Zenker's Per Oral Endoscopic Myotomy (Z-POEM) Medicare does not have an NCD for Zenker’s per oral endoscopic myotomy. LCDs/LCAs do not exist.
+
+For coverage guidelines, refer to the UnitedHealthcare Commercial Medical Policy titled Minimally Invasive Procedures for Gastric and Esophageal Diseases.
+
+Virtual Colonoscopy, Also Known as Computed Tomographic Colonography (CTC) Medicare does not have an NCD for virtual colonoscopy. LCDs/LCAs do not exist.
+
+Diagnostic CTC For non-screening/diagnostic CTC coverage guidelines, refer to the InterQual® CP: Imaging, Imaging, Abdomen and Pelvis.
+
+Click here to view the InterQual® criteria.
+
+Screening CTC for Colorectal Cancer Effective May 12, 2009, CMS has determined that the current evidence is inadequate to conclude that CTC is an appropriate colorectal cancer screening test, therefore, CTC for colorectal cancer screening remains nationally non- covered. Refer to the NCD for Colorectal Cancer Screening Tests (210.3).
+
+Virtual Upper Gastrointestinal Endoscopy Medicare does not have an NCD for virtual upper gastrointestinal endoscopy. LCDs/LCAs do not exist.
+
+For coverage guidelines, refer to the UnitedHealthcare Commercial Medical Policy titled Virtual Upper Gastrointestinal Endoscopy.
+
+Applicable Codes
+
+The following list(s) of procedure and/or diagnosis codes is provided for reference purposes only and may not be all inclusive. Listing of a code in this policy does not imply that the service described by the code is a covered or non-covered health service; however, language may be included in the listing below to indicate if a code is non-covered. Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service. The inclusion of a code does not imply any right to reimbursement or guarantee claim payment. Other Policies and Guidelines may apply.
+
+CPT Code
+
+Description
+
+Electrogastrography or Electroenterography
+
+Electrogastrography, diagnostic, transcutaneous [Refer to the UnitedHealthcare Commercial Medical Policy titled Gastrointestinal Motility Disorders, Diagnosis and Treatment.] Electrogastrography, diagnostic, transcutaneous; with provocative testing [Refer to the UnitedHealthcare Commercial Medical Policy titled Gastrointestinal Motility Disorders, Diagnosis and Treatment.] Gastric Electrical Stimulation Therapy (e.g., Enterra®)
+
+91132
+
+91133
+
+43647
+
+Laparoscopy, surgical; implantation or replacement of gastric neurostimulator electrodes, antrum
+
+43648
+
+Laparoscopy, surgical; revision or removal of gastric neurostimulator electrodes, antrum
+
+43881
+
+Implantation or replacement of gastric neurostimulator electrodes, antrum, open
+
+43882
+
+Revision or removal of gastric neurostimulator electrodes, antrum, open
+
+Gastroesophageal and Gastrointestinal (GI)Services and Procedures UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 2 of 5 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+CPT Code
+
+Description
+
+Gastric Electrical Stimulation Therapy (e.g., Enterra®)
+
+Insertion or replacement of peripheral, sacral, or gastric neurostimulator pulse generator or receiver, requiring pocket creation and connection between electrode array and pulse generator or receiver
+
+64590
+
+Gastric Per Oral Endoscopic Myotomy (G-POEM)
+
+43499
+
+Unlisted procedure, esophagus
+
+43999
+
+Unlisted procedure, stomach
+
+Per Oral Endoscopic Myotomy (POEM)
+
+43497
+
+Lower esophageal myotomy, transoral (i.e., peroral endoscopic myotomy [POEM])
+
+43499
+
+Unlisted procedure, esophagus
+
+43999
+
+Unlisted procedure, stomach
+
+Virtual Colonoscopy, Also Known as Computed Tomographic Colonography (CTC)
+
+Computed tomographic (CT) colonography, diagnostic, including image postprocessing; without contrast material
+
+74261
+
+Computed tomographic (CT) colonography, diagnostic, including image postprocessing; with contrast material(s) including non-contrast images, if performed
+
+74262
+
+Virtual Upper Gastrointestinal Endoscopy
+
+76497
+
+Unlisted computed tomography procedure (e.g., diagnostic, interventional)
+
+76498
+
+Unlisted magnetic resonance procedure (e.g., diagnostic, interventional)
+
+Zenker’s Per Oral Endoscopic Myotomy (Z-POEM)
+
+43497 43499
+
+Lower esophageal myotomy, transoral (i.e., peroral endoscopic myotomy [POEM]) Unlisted procedure, esophagus
+
+43999
+
+Unlisted procedure, stomach
+
+CPT® is a registered trademark of the American Medical Association
+
+Centers for Medicare and Medicaid Services (CMS) Related Documents
+
+After checking the table below and searching the Medicare Coverage Database, if no NCD, LCD, or LCA is found, refer to the criteria as noted in the Coverage Rationale section above.
+
+NCD
+
+LCD
+
+LCA
+
+Contractor Type Contractor Name
+
+Per Oral Endoscopic Myotomy (POEM) N/A
+
+L38747 Peroral Endoscopic Myotomy (POEM)
+
+A58287 Billing and Coding: Peroral Endoscopic Myotomy (POEM)
+
+Part A and B MAC Palmetto**
+
+Medicare Administrative Contractor (MAC) With Corresponding States/Territories
+
+MAC Name (Abbreviation) CGS Administrators, LLC (CGS)
+
+States/Territories KY, OH
+
+First Coast Service Options, Inc. (First Coast)
+
+FL, PR, VI
+
+National Government Services, Inc. (NGS)
+
+CT, IL, ME, MA, MN, NH, NY, RI, VT, WI AS, AK, AZ, CA, GU, HI, ID, MT, NV, ND, Northern Mariana Islands, OR, SD, UT, WA, WY
+
+Noridian Healthcare Solutions, LLC (Noridian)
+
+Novitas Solutions, Inc. (Novitas)
+
+AR, CO, DC, DE, LA, MD, MS, NJ, NM, OK, PA, TX, VA**
+
+Palmetto GBA (Palmetto) Wisconsin Physicians Service Insurance Corporation (WPS)*
+
+AL, GA, NC, SC, TN, VA**, WV
+
+IA, IN, KS, MI, MO, NE
+
+Gastroesophageal and Gastrointestinal (GI)Services and Procedures UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 3 of 5 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Medicare Administrative Contractor (MAC) With Corresponding States/Territories
+
+Notes *Wisconsin Physicians Service Insurance Corporation: Contract Number 05901 applies only to WPS Legacy Mutual of Omaha MAC A Providers. **For the state of Virginia: Part B services for the city of Alexandria and the counties of Arlington and Fairfax are excluded for the Palmetto GBA jurisdiction and included within the Novitas Solutions, Inc. jurisdiction.
+
+Policy History/Revision Information
+
+Date 10/01/2025
+
+Summary of Changes
+
+Coverage Rationale Gastric Electrical Stimulation Therapy (e.g., Enterra®) Replaced instruction to “refer to the UnitedHealthcare Medicare Advantage Medical Policy titled Electrical Stimulators when CPT code 64590 is used for peripheral nerve stimulation” with “refer to the UnitedHealthcare Medicare Advantage Medical Policy titled Electrical Stimulators for peripheral nerve stimulation”
+
+Per Oral Endoscopic Myotomy (POEM) Gastric Per Oral Endoscopic Myotomy (G-POEM) Revised language to indicate:
+
+o Medicare does not have a National Coverage Determination (NCD) for gastric per oral
+
+endoscopic myotomy
+
+o Local Coverage Determinations (LCDs)/Local Coverage Articles (LCAs) do not exist o For coverage guidelines, refer to the UnitedHealthcare Commercial Medical Policy titled
+
+Minimally Invasive Procedures for Gastric and Esophageal Diseases Centers for Medicare and Medicaid Services (CMS) Related Documents Updated list of documents available in the Medicare Coverage Database to reflect the most
+
+current information Supporting Information Archived previous policy version MMP039.15
+
+Instructions for Use
+
+The Medicare Advantage Policy documents are generally used to support UnitedHealthcare coverage decisions. It is expected providers retain or have access to appropriate documentation when requested to support coverage. This document may be used as a guide to help determine applicable: Medical necessity coverage guidelines; including documentation requirements, and/or Medicare coding or billing requirements.
+
+Medicare Advantage Policies are applicable to UnitedHealthcare Medicare Advantage Plans offered by UnitedHealthcare and its affiliates. This Policy is provided for informational purposes and does not constitute medical advice. It is intended to serve only as a general reference and is not intended to address every aspect of a clinical situation. Physicians and patients should not rely on this information in making health care decisions. Physicians and patients must exercise their independent clinical discretion and judgment in determining care. Treating physicians and healthcare providers are solely responsible for determining what care to provide to their patients. Members should always consult their physician before making any decisions about medical care.
+
+Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service. The member specific benefit plan document identifies which services are covered, which are excluded, and which are subject to limitations. In the event of a conflict, the member specific benefit plan document supersedes this policy. For more information on a specific member's benefit coverage, please call the customer service number on the back of the member ID card or refer to the Administrative Guide.
+
+Medicare Advantage Policies are developed as needed, are regularly reviewed, and updated, and are subject to change. They represent a portion of the resources used to support UnitedHealthcare coverage decision making. UnitedHealthcare may modify these Policies at any time by publishing a new version on this website. Medicare source materials used to develop these policies may include, but are not limited to, CMS statutes, regulations, National Coverage Determinations (NCDs), Local Coverage Determinations (LCDs), and manuals. This document is not a replacement for the Medicare
+
+Gastroesophageal and Gastrointestinal (GI)Services and Procedures UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 4 of 5 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+source materials that outline Medicare coverage requirements. The information presented in this Policy is believed to be accurate and current as of the date of publication. Where there is a conflict between this document and Medicare source materials, the Medicare source materials apply. Medicare Advantage Policies are the property of UnitedHealthcare. Unauthorized copying, use, and distribution of this information are strictly prohibited.
+
+UnitedHealthcare follows Medicare coverage guidelines found in statutes, regulations, NCDs, and LCDs to determine coverage. The clinical coverage criteria governing certain items or services referenced in this Medical Policy have not been fully established in applicable Medicare guidelines because there is an absence of any applicable Medicare statutes, regulations, NCDs, or LCDs setting forth coverage criteria and/or the applicable NCDs or LCDs include flexibility that explicitly allows for coverage in circumstances beyond the specific indications that are listed in a NCD or LCD. As a result, in these circumstances, UnitedHealthcare applies internal coverage criteria as referenced in this Medical Policy. The internal coverage criteria in this Medical Policy was developed through an evaluation of the current relevant clinical evidence in acceptable clinical literature and/or widely used treatment guidelines. UnitedHealthcare evaluated the evidence to determine whether it was of sufficient quality to support a finding that the items or services discussed in the policy might, under certain circumstances, be reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member.
+
+Providers are responsible for submission of accurate claims. Medicare Advantage Policies are intended to ensure that coverage decisions are made accurately. UnitedHealthcare Medicare Advantage Policies use Current Procedural Terminology (CPT®), Centers for Medicare and Medicaid Services (CMS), or other coding guidelines. References to CPT® or other sources are for definitional purposes only and do not imply any right to reimbursement or guarantee claims payment.
+
+For members in UnitedHealthcare Medicare Advantage plans where a delegate manages utilization management and prior authorization requirements, the delegate’s requirements need to be followed.
+
+Gastroesophageal and Gastrointestinal (GI)Services and Procedures UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 5 of 5 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.

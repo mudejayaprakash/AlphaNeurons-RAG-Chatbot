@@ -1,0 +1,239 @@
+UnitedHealthcare® Medicare Advantage Medical Policy
+
+Electrical Stimulators
+
+Policy Number: MMP090.16 Last Committee Approval Date: April 9, 2025 Effective Date: May 1, 2025
+
+ Instructions for Use
+
+Table of Contents Page Coverage Rationale ........................................................ 1 Applicable Codes ............................................................ 2 CMS Related Documents ................................................ 3 Policy History/Revision Information ................................ 4 Instructions for Use ......................................................... 4 .
+
+Related Medicare Advantage Policies • Skilled Nursing Facility, Rehabilitation, and Long-Term
+
+Acute Care Hospital
+
+Spinal Cord Stimulators for Chronic Pain
+
+Related Commercial Policies • Electrical Stimulation for the Treatment of Pain and
+
+Muscle Rehabilitation
+
+Occipital Nerve Injections and Ablation (Including
+
+Occipital Neuralgia and Headache)
+
+Vagus and External Trigeminal Nerve Stimulation
+
+Coverage Rationale
+
+Electrical Stimulation of Auricular Acupuncture Points Electrical stimulation of auricular acupuncture points is also known as electro-acupuncture stimulation, peripheral subcutaneous field stimulation (PSFS), or peripheral nerve field stimulation (PNFS).
+
+Medicare does not have a National Coverage Determination (NCD) specific for electrical stimulation of auricular acupuncture points. Local Coverage Determinations (LCDs)/Local Coverage Articles (LCAs) exist and compliance with these policies is required where applicable. For specific LCDs/LCAs, refer to the table for Electrical Stimulation of Auricular Acupuncture Points.
+
+For coverage guidelines for states/territories with no LCDs/LCAs, refer to the UnitedHealthcare Commercial Medical Policy titled Electrical Stimulation for the Treatment of Pain and Muscle Rehabilitation.
+
+Electrical Stimulation for Dysphagia Medicare does not have a NCD specifically for electrical stimulation for the treatment of dysphagia. LCDs/LCAs exist and compliance with these policies is required where applicable. For specific LCDs/LCAs, refer to the table for Electrical Stimulation for Dysphagia.
+
+For coverage guidelines for states/territories with no LCDs/LCAs, refer to the UnitedHealthcare Commercial Medical Policy titled Electrical Stimulation for the Treatment of Pain and Muscle Rehabilitation.
+
+For speech-language pathology services for the treatment of dysphagia, refer the Medicare Advantage Medical Policy titled Skilled Nursing Facility, Rehabilitation, and Long-Term Acute Care Hospital.
+
+Occipital Nerve Stimulation for Occipital Neuralgia or Headaches Medicare does not have an NCD specifically for occipital nerve stimulation for the treatment of occipital neuralgia or headaches. LCDs/LCAs exist and compliance with these policies is required where applicable. For specific LCDs/LCAs, refer to the table for Occipital Nerve Stimulation for Occipital Neuralgia or Headaches.
+
+Electrical Stimulators UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 1 of 5 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+For coverage guidelines for states/territories with no LCDs/LCAs, refer to the UnitedHealthcare Commercial Medical Policy titled Occipital Nerve Injections and Ablation (Including Occipital Neuralgia and Headache).
+
+Percutaneous Electrical Nerve Stimulation (PENS) or Percutaneous Neuromodulation Therapy (PNT) for Pain Therapy Medicare does not have an NCD for PENS or PNT for pain therapy. LCDs/LCAs do not exist.
+
+For coverage guidelines, refer to the UnitedHealthcare Commercial Medical Policy titled Electrical Stimulation for the Treatment of Pain and Muscle Rehabilitation.
+
+Implanted Peripheral Nerve Stimulation Implanted peripheral nerve stimulation is covered when criteria are met. Refer to the NCD for Electrical Nerve Stimulators (160.7).
+
+Percutaneous Peripheral Nerve Stimulation Medicare does not have an NCD specifically for percutaneous peripheral nerve stimulation. LCDs/LCAs exist and compliance with these policies is required where applicable. For specific LCDs/LCAs, refer to the table for Percutaneous Peripheral Nerve Stimulation.
+
+For coverage guidelines for states/territories with no LCDs/LCAs, refer to the UnitedHealthcare Commercial Medical Policy titled Electrical Stimulation for the Treatment of Pain and Muscle Rehabilitation.
+
+Vagus Nerve Stimulation for Chronic Pain Syndrome Medicare does not have an NCD specifically for vagus nerve stimulation for the treatment of chronic pain syndrome. LCDs/LCAs do not exist.
+
+For coverage guidelines, refer to the UnitedHealthcare Commercial Medical Policy titled Vagus and External Trigeminal Nerve Stimulation.
+
+Applicable Codes
+
+The following list(s) of procedure and/or diagnosis codes is provided for reference purposes only and may not be all inclusive. Listing of a code in this policy does not imply that the service described by the code is a covered or non-covered health service; however, language may be included in the listing below to indicate if a code is non-covered. Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service. The inclusion of a code does not imply any right to reimbursement or guarantee claim payment. Other Policies and Guidelines may apply.
+
+CPT Code 61885
+
+Description
+
+Insertion or replacement of cranial neurostimulator pulse generator or receiver, direct or inductive coupling; with connection to a single electrode array Insertion or replacement of cranial neurostimulator pulse generator or receiver, direct or inductive coupling; with connection to 2 or more electrode arrays Percutaneous implantation of neurostimulator electrode array, epidural Percutaneous implantation of neurostimulator electrode array; peripheral nerve (excludes sacral nerve) Insertion or replacement of peripheral, sacral, or gastric neurostimulator pulse generator or receiver, requiring pocket creation and connection between electrode array and pulse generator or receiver
+
+61886
+
+63650 64555
+
+64590
+
+Electrical Stimulation of Auricular Acupuncture Points
+
+64999
+
+Unlisted procedure, nervous system [Refer to the UnitedHealthcare Commercial Medical Policy titled Electrical Stimulation for the Treatment of Pain and Muscle Rehabilitation]
+
+CPT® is a registered trademark of the American Medical Association
+
+Electrical Stimulators UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 2 of 5 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+HCPCS Code E0764
+
+Description
+
+Functional neuromuscular stimulation, transcutaneous stimulation of sequential muscle groups of ambulation with computer control, used for walking by spinal cord injured, entire system, after completion of training program Functional electrical stimulator, transcutaneous stimulation of nerve and/or muscle groups, any type, complete system, not otherwise specified
+
+E0770
+
+Centers for Medicare and Medicaid Services (CMS) Related Documents
+
+After checking the table below and searching the Medicare Coverage Database, if no NCD, LCD, or LCA is found, refer to the criteria as noted in the Coverage Rationale section above.
+
+NCD
+
+LCD
+
+LCA
+
+Contractor Type
+
+Contractor Name
+
+Electrical Stimulation for Dysphagia N/A
+
+L34578 Surface Electrical Stimulation in the Treatment of Dysphagia L34565 Home Health-Surface Electrical Stimulation in the Treatment of Dysphagia
+
+A56584 Billing and Coding: Surface Electrical Stimulation in the Treatment of Dysphagia A56648 Billing and Coding: Home Health - Surface Electrical Stimulation in the Treatment of Dysphagia
+
+Part A and B MAC
+
+Palmetto**
+
+Part A and B MAC
+
+Palmetto**
+
+Occipital Nerve Stimulation for Occipital Neuralgia or Headaches N/A
+
+L34328 Peripheral Nerve Stimulation
+
+A55530 Billing and Coding: Peripheral Nerve Stimulation A55531 Billing and Coding: Peripheral Nerve Stimulation
+
+Part A and B MAC
+
+Noridian
+
+L37360 Peripheral Nerve Stimulation
+
+Part A and B MAC
+
+Noridian
+
+Percutaneous Peripheral Nerve Stimulation N/A
+
+L34328 Peripheral Nerve Stimulation
+
+A55530 Billing and Coding: Peripheral Nerve Stimulation A55531 Billing and Coding: Peripheral Nerve Stimulation
+
+Part A and B MAC
+
+Noridian
+
+L37360 Peripheral Nerve Stimulation
+
+Part A and B MAC
+
+Noridian
+
+Electrical Stimulation of Auricular Acupuncture Points N/A
+
+N/A
+
+Billing and Coding: Auricular Peripheral Nerve Stimulation (Electro- Acupuncture Device)
+
+Part A and B MAC
+
+Novitas**
+
+Medicare Administrative Contractor (MAC) With Corresponding States/Territories
+
+MAC Name (Abbreviation) CGS Administrators, LLC (CGS) First Coast Service Options, Inc. (First Coast) National Government Services, Inc. (NGS) Noridian Healthcare Solutions, LLC (Noridian)
+
+States/Territories KY, OH FL, PR, VI CT, IL, ME, MA, MN, NH, NY, RI, VT, WI AS, AK, AZ, CA, GU, HI, ID, MT, NV, ND, Northern Mariana Islands, OR, SD, UT, WA, WY AR, CO, DC, DE, LA, MD, MS, NJ, NM, OK, PA, TX, VA** AL, GA, NC, SC, TN, VA**, WV
+
+Novitas Solutions, Inc. (Novitas) Palmetto GBA (Palmetto)
+
+Electrical Stimulators UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 3 of 5 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Medicare Administrative Contractor (MAC) With Corresponding States/Territories
+
+MAC Name (Abbreviation) Wisconsin Physicians Service Insurance Corporation (WPS)* Notes *Wisconsin Physicians Service Insurance Corporation: Contract Number 05901 applies only to WPS Legacy Mutual of Omaha MAC A Providers. **For the state of Virginia: Part B services for the city of Alexandria and the counties of Arlington and Fairfax are excluded for the Palmetto GBA jurisdiction and included within the Novitas Solutions, Inc. jurisdiction.
+
+States/Territories IA, IN, KS, MI, MO, NE
+
+Policy History/Revision Information
+
+Date 05/01/2025
+
+Summary of Changes
+
+Related Policies • Added reference link to the:
+
+o UnitedHealthcare Medicare Advantage Medical Policy titled Skilled Nursing Facility,
+
+Rehabilitation, and Long-Term Acute Care Hospital o UnitedHealthcare Commercial Medical Policy titled:
+
+ Electrical Stimulation for the Treatment of Pain and Muscle Rehabilitation  Occipital Nerve Injections and Ablation (Including Occipital Neuralgia and Headache)  Vagus and External Trigeminal Nerve Stimulation
+
+Applicable Codes • Removed CPT/HCPCS codes 64553 and E0745 Centers for Medicare and Medicaid Services (CMS) Related Documents • Updated list of documents available in the Medicare Coverage Database to reflect the most
+
+current information Supporting Information • Archived previous policy version MMP090.15
+
+Instructions for Use
+
+The Medicare Advantage Policy documents are generally used to support UnitedHealthcare coverage decisions. It is expected providers retain or have access to appropriate documentation when requested to support coverage. This document may be used as a guide to help determine applicable: • Medical necessity coverage guidelines; including documentation requirements, and/or • Medicare coding or billing requirements.
+
+Medicare Advantage Policies are applicable to UnitedHealthcare Medicare Advantage Plans offered by UnitedHealthcare and its affiliates. This Policy is provided for informational purposes and does not constitute medical advice. It is intended to serve only as a general reference and is not intended to address every aspect of a clinical situation. Physicians and patients should not rely on this information in making health care decisions. Physicians and patients must exercise their independent clinical discretion and judgment in determining care. Treating physicians and healthcare providers are solely responsible for determining what care to provide to their patients. Members should always consult their physician before making any decisions about medical care.
+
+Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service. The member specific benefit plan document identifies which services are covered, which are excluded, and which are subject to limitations. In the event of a conflict, the member specific benefit plan document supersedes this policy. For more information on a specific member's benefit coverage, please call the customer service number on the back of the member ID card or refer to the Administrative Guide.
+
+Medicare Advantage Policies are developed as needed, are regularly reviewed, and updated, and are subject to change. They represent a portion of the resources used to support UnitedHealthcare coverage decision making. UnitedHealthcare may modify these Policies at any time by publishing a new version on this website. Medicare source materials used to develop these policies may include, but are not limited to, CMS statutes, regulations, National Coverage Determinations (NCDs), Local Coverage Determinations (LCDs), and manuals. This document is not a replacement for the Medicare
+
+Electrical Stimulators UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 4 of 5 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+source materials that outline Medicare coverage requirements. The information presented in this Policy is believed to be accurate and current as of the date of publication. Where there is a conflict between this document and Medicare source materials, the Medicare source materials apply. Medicare Advantage Policies are the property of UnitedHealthcare. Unauthorized copying, use, and distribution of this information are strictly prohibited.
+
+UnitedHealthcare follows Medicare coverage guidelines found in statutes, regulations, NCDs, and LCDs to determine coverage. The clinical coverage criteria governing certain items or services referenced in this Medical Policy have not been fully established in applicable Medicare guidelines because there is an absence of any applicable Medicare statutes, regulations, NCDs, or LCDs setting forth coverage criteria and/or the applicable NCDs or LCDs include flexibility that explicitly allows for coverage in circumstances beyond the specific indications that are listed in an NCD or LCD. As a result, in these circumstances, UnitedHealthcare applies internal coverage criteria as referenced in this Medical Policy. The internal coverage criteria in this Medical Policy was developed through an evaluation of the current relevant clinical evidence in acceptable clinical literature and/or widely used treatment guidelines. UnitedHealthcare evaluated the evidence to determine whether it was of sufficient quality to support a finding that the items or services discussed in the policy might, under certain circumstances, be reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member.
+
+You are responsible for submission of accurate claims. Medicare Advantage Policies are intended to ensure that coverage decisions are made accurately. UnitedHealthcare Medicare Advantage Policies use Current Procedural Terminology (CPT®), Centers for Medicare and Medicaid Services (CMS), or other coding guidelines. References to CPT® or other sources are for definitional purposes only and do not imply any right to reimbursement or guarantee claims payment.
+
+For members in UnitedHealthcare Medicare Advantage plans where a delegate manages utilization management and prior authorization requirements, the delegate’s requirements need to be followed.
+
+Electrical Stimulators UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 5 of 5 Effective 05/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.

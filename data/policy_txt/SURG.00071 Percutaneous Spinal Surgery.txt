@@ -1,0 +1,595 @@
+10/25/25, 12:07 PM
+
+SURG.00071 Percutaneous Spinal Surgery
+
+Medical Policy
+
+Subject: Percutaneous Spinal Surgery
+
+Document #: SURG.00071
+
+Publish Date: 07/25/2025
+
+Status: Revised
+
+Last Review Date: 05/08/2025
+
+Description/Scope
+
+This document addresses percutaneous spinal discectomy and disc decompression, as well as image-guided minimally invasive spinal decompression procedures.
+
+During a percutaneous image-guided spinal procedure, the surgeon does not have direct visualization of the anatomic site with the naked eye. Visual guidance is provided indirectly using fluoroscopy.
+
+During open and minimally invasive procedures, the surgeon is able to directly visualize the operative site. This document does not address discectomy and disc decompression procedures under direct visualization with the naked eye, microscope, or loupe.
+
+Note: Please see the following related documents for additional information:
+
+SURG.00052 Percutaneous Vertebral Disc and Vertebral Endplate Procedures SURG.00073 Epiduroscopy SURG.00111 Axial Lumbar Interbody Fusion SURG.00134 Interspinous Process Fixation Devices
+
+Position Statement
+
+Investigational and Not Medically Necessary:
+
+F e e d b a c k
+
+Percutaneous spinal surgical techniques are considered investigational and not medically necessary.
+
+Rationale
+
+Percutaneous Discectomy and Disc Decompression
+
+Automated percutaneous lumbar discectomy (APLD) was introduced in the 1980s using a suction curettage device for disc removal. Initial case series focusing on lumbar disc disease reported encouraging results and the technique was widely adopted. However, controlled trials reported less impressive results. For example, Revel and colleagues reported on a controlled randomized study comparing chemonucleolysis and APLD (Revel, 1993). A total of 61% of those treated with chemonucleolysis reported favorable results compared to 44% in those treated with APLD. Chaterjee reported on the results of a randomized study that compared APLD with open surgical microdiscectomy (Chaterjee, 1995). A total of 29% of individuals in the APLD group reported satisfactory results compared to 80% in the microdiscectomy group.
+
+The LAPDOG study was a randomized trial to compare APLD and open discectomy in individuals with lumbar disc herniation (Haines, 2002). This trial was designed to recruit 330 participants, but was only able to enroll 36. Of 27 evaluable participants, 41% of the percutaneous discectomy group and 40% of the conventional discectomy group were judged to have a successful outcome at 6 months. However, the authors concluded the trial was unable to enroll sufficient numbers to reach a definitive conclusion.
+
+Amoretti and colleagues (2006) reported an uncontrolled case series of 50 individuals presenting with lumbar disc disease that were treated with a percutaneous discectomy probe, the DeKompressor® (Stryker, Inc., Kalamazoo, Michigan). This device, which received clearance from the U.S. Food and Drug Administration (FDA) through the 510(k) process in 2003, is used to aspirate disc material during percutaneous discectomies in the lumbar, thoracic, and cervical regions of the spine. When activated, the probe rotates to create suction and removes the nucleus pulposus. The clinical outcome measured in
+
+https://www.anthem.com/medpolicies/abcbs/active/mp_pw_a053367.html
+
+1/12
+
+10/25/25, 12:07 PM
+
+SURG.00071 Percutaneous Spinal Surgery
+
+the Amoretti study was a visual analog scale (VAS) assessment of pain at 2, 7, 30, and 180 days following treatment. A decrease of baseline pain of more than 70% was observed in 39 of 50 individuals treated. Of the 39 individuals with a successful pain reduction outcome, 31 required no further medication therapies and the remaining 8 individuals were able to reduce medication therapies. A limitation of this study includes a lack of randomization for comparison of surgical versus non-surgical therapies.
+
+In a 2007 Cochrane review of 40 randomized controlled trials of surgical interventions treating spinal disc disease, Gibson and Waddell found that microdiscectomy gives broadly comparable results to standard open discectomy. This review also concluded that considerable evidence exists that surgical discectomy provides effective clinical relief for select individuals with sciatica due to lumbar disc prolapse that fails to resolve with conservative management. Evidence suggested that surgical discectomy provides faster relief from an acute attack of sciatica, but its impact on the long-term natural history of underlying disc disease was unclear. There was a lack of evidence to establish the efficacy and safety of automated percutaneous discectomy, coblation therapy, and laser discectomy.
+
+In a 2014 Cochrane review, Rasouli and colleagues compared the benefits and harms of minimally invasive discectomy (MID) procedures to microdiscectomy or open discectomy. They included 11 randomized controlled trials or quasi-controlled trials (n=1172) that compared conventional surgery to percutaneous endoscopic lumbar discectomy (PELD), transmuscular tubular microdiscectomy, or APLD. Primary outcomes included pain related to sciatica or low back pain (as measured by a VAS) and sciatic specific outcomes. They found that 7 out of 11 studies had a high overall risk of bias. MID procedures were found to be potentially inferior for relief of leg pain, lower back pain and rehospitalization. Differences in pain relief were small and may not have been clinically significant. MID had the advantage of lower risk of infection. They recommended more research to define appropriate indications for MID as an alternative to conventional surgery.
+
+Percutaneous Laser Discectomy and Disc Decompression
+
+Ahn and colleagues (2004) reported on a case series of 111 consecutive individuals undergoing cervical laser discectomy. With a mean follow-up of 49.4 months, the outcomes were considered either excellent or fair in 80% of individuals. Hellinger and colleagues reported on a case series of 42 individuals with thoracic discogenic pain who were treated with laser discectomy (Hellinger, 2003). At 6 weeks, 41 of the 42 individuals were considered to have a successful outcome. However, the lack of a control group and randomization limits scientific interpretation of either of these studies.
+
+In a multicenter, randomized controlled trial, Brouwer and colleagues (2015) compared the effectiveness of percutaneous laser disc decompression to traditional surgical microdiscectomy for individuals with sciatica from lumbosacral disc herniation. The researchers included 115 participants who were randomized 1:1. Inclusion criteria included sciatica refractory to 6-8 weeks of conservative management, ages 18-70, disc herniation verified by magnetic resonance imaging (MRI), and herniated fragment size smaller than one-third of the spinal canal. The primary outcome was self-reported functional disability on the Roland Morris Disability Questionnaire (RDQ) for sciatica. At a 1-year follow-up, the primary outcome was analyzed for the laser group (n=53) and the surgery group (n=54). The RDQ showed non-inferiority of the laser group at 8 weeks (-0.1; 95% confidence interval [CI], -2.3 to 2.1) and at 52 weeks (-1.1; 95% CI, -3.4 to 1.1) compared to the surgery group. The surgery group had a higher speed of recovery (hazard ratio [HR] 0.64; 95% CI, 0.42 to 0.97) and less re-operations; a total of 24 participants (44%) in the laser group underwent additional surgery during the first year compared to 9 participants (16%) in the surgery group. For 5 participants (9%), the laser treatment could not be performed due to laser malfunction or inability to reach the disc space. At a 2-year follow-up (laser group n=48, surgery group n=51), the researchers did not find a significant difference between the two groups (Brouwer, 2017). However, the re-operation rate for the laser group was 52% compared to 21% in the surgery group. The researchers concluded that percutaneous laser disc decompression, followed with surgery when symptoms were not relieved, had comparable outcomes to traditional microdiscectomy surgery alone. They stated that further comparative studies are needed.
+
+Percutaneous Nucleoplasty Discectomy and Disc Decompression
+
+Nardi and colleagues (2005) studied 50 consecutive individuals who underwent a cervical disc nucleoplasty and reported that 80% had pain resolution. Although the results were encouraging, the study authors acknowledged the limited participant numbers and need for longer follow-up.
+
+Gerszten and colleagues (2006) reported a prospective nonrandomized longitudinal cohort study of 67 participants with a contained lumbar disc herniation who underwent nucleoplasty in an outpatient setting. In this study, the authors evaluated pain, functioning, and quality of life (QOL) pre and postoperatively. The authors found that compared with preoperative QOL, there was a statistically significant improvement in QOL at 3 and 6 months. In another prospective study (n=69), Al- Zain and colleagues (2008) reported 1-year outcomes for lumbar nucleoplasty, which showed a statistically significant reduction in analgesic consumption, disability, and occupational incapacitation. However, both of these studies had limited follow-up and were not randomized or controlled.
+
+https://www.anthem.com/medpolicies/abcbs/active/mp_pw_a053367.html
+
+2/12
+
+10/25/25, 12:07 PM
+
+SURG.00071 Percutaneous Spinal Surgery
+
+Calisaneller and colleagues (2007) studied 29 individuals who underwent lumbar nucleoplasty and found that there were statistically significant reductions (p<0.001) in VAS scores post-operatively as compared to preoperative values. The authors concluded that although nucleoplasty appeared to be a safe minimally invasive procedure, the value of this new technique for the treatment of discogenic low back pain remains unproven. Further randomized placebo-controlled studies with longer follow-up are needed.
+
+Abrishamkar and colleagues (2018) reported on a randomized clinical trial that compared open cervical discectomy to nucleoplasty. A total of 70 participants were enrolled; however, 13 participants discontinued the study leaving 28 in the nucleoplasty group and 29 in the cervical discectomy group. The participants were followed for 6 months and evaluated using the VAS for pain. The researchers did not find a significant pain difference between the two groups and did not observe any discitis, infection, or hematomas. In the nucleoplasty group, 1 subject had a repeat procedure, and 1 subject continued to have pain after 6 months. In the cervical discectomy group, 1 subject continued to have radicular pain 6 months post-surgery. Overall satisfaction was not significantly different between the two groups. The authors concluded that nucleoplasty was as effective as traditional cervical discectomy. The study had limited follow-up duration.
+
+Image-guided minimally invasive lumbar decompression (MILD®) for Spinal Stenosis
+
+Image-guided minimally invasive lumbar decompression (MILD) is being investigated as a treatment for lumbar spinal stenosis. Lingreen and colleagues (2010) conducted a retrospective review of self-reported improvement and post- procedure findings after MILD. A total of 42 consecutive participants between the ages of 52-86, with spinal stenosis and ligamentum flavum hypertrophy as the primary feature on MRI, were included in the study. All of the surgical procedures were performed by two interventional pain management physicians working at the same center. The results of self-reported pre- and post-procedure VAS, markers of global function, major and minor adverse events, self-reported outcomes, and need for follow-up procedures were evaluated. Measurements of functional improvement were assessed by ability to stand and ambulate for greater than 15 minutes, whereas prior to the procedure 98% reported significant functional limitations. VAS decreased by 40% from baseline and no major adverse events were reported. The most frequently reported minor adverse event was soreness lasting 3.8 days. Five of the study participants requested post-procedure opioid analgesia. Thirty-six participants indicated they would recommend this procedure, 1 was unsure, and 5 indicated they would not recommend the procedure. A total of 8 participants reported marginal improvement (change < 3 on VAS) yet 4/8 participants in this category still stated they would recommend MILD to others. The authors concluded that the MILD procedure appears to be a safe and likely effective option. Limitations of this study include its uncontrolled design.
+
+Chopko and colleagues (2010) assessed the safety and functional outcomes of the MILD procedure as a treatment of symptomatic central canal spinal stenosis. This multicenter, non-blinded prospective study consisted of 78 participants who underwent the MILD procedure. Measures of outcomes included the VAS, ODI, Zurich Claudication Questionnaire (ZCQ), and SF-12v2 Health Survey at baseline and at 6 weeks post-treatment. The authors reported that at 6 weeks post-treatment the VAS, ZCQ, and SF-12v2 all reflected a reduction in pain. The ODI, ZCQ, and SF-12v2 reflected an improvement in physical function and mobility. The authors concluded that the MILD procedure was safe, improved mobility, and reduced the pain associated with lumbar spinal canal stenosis. Limitations of the study included the lack of a control group and short follow-up.
+
+Brown and colleagues (2012) reported the results of a double-blind, randomized, prospective study of epidural steroid injections (ESI) and the MILD procedure at a single pain management center. A total of 38 individuals with symptomatic lumbar spinal stenosis (LSS) participated in the study and were randomized into two treatment groups: 21 participants in the MILD arm and 17 individuals in the ESI arm. Outcome measures were reported using the VAS, the ODI, and ZCQ patient satisfaction score. The authors reported that at 6 weeks, the MILD participants improved from an average VAS baseline of 6.3 (95% CI ± 0.7) to a mean of 3.8 (95% CI ± 1.3). The ESI group had a mean VAS score of 6.4 (95% CI ± 1.0) at baseline compared with 6.3 (95% CI ± 1.4) at 6 weeks follow-up. Using the ODI, at 6 weeks follow-up, participants in the MILD group demonstrated a decrease from a baseline mean ODI from 38.8 (95% CI ± 4.2) to 27.4 (95% CI ± 7.0). In the ESI group, the initial ODI was 40.5 (95% CI ± 5.9) and at 6 weeks follow-up, the ODI was 34.8 (95% CI ± 8.2). In the MILD group, there was no significant change in the VAS and ODI scores from weeks 6 to 12. Participants in the ESI group were not measured at week 12. The ZCQ difference between the MILD group and the ESI group was not significant at week 6. Participants were allowed to cross over from the ESI group to the MILD group before 12 weeks, and eventually all of the participants in the ESI group had the MILD procedure. A total of 14 of the 17 participants in the cross-over ESI group experienced an improvement in their VAS scores after the MILD procedure. A limitation of the study included its short follow-up.
+
+In another study, Chopko (2013) evaluated the long-term effectiveness and safety of MILD as a treatment of neurogenic claudication associated with lumbar spinal stenosis. The 2-year data are reported for 45 participants that were treated with MILD at 11 U.S. facilities. Outcome measurements included the VAS, ODI, and ZCQ. Interim data on the participants are included for 1 week, 6 months, and 1 year follow-up. The authors reported that at 2 years, the participants demonstrated a
+
+https://www.anthem.com/medpolicies/abcbs/active/mp_pw_a053367.html
+
+3/12
+
+10/25/25, 12:07 PM
+
+SURG.00071 Percutaneous Spinal Surgery
+
+statistically significant reduction of pain as measured by VAS and significant improvement in physical function and mobility as measured by ZQC and ODI. The authors also reported major improvement occurred by 1 week follow-up and showed no difference between each subsequent follow-up, suggesting considerable stability and durability of the initial result over time. There were no major adverse events or complications related to the procedure. Limitations of this study include its uncontrolled design.
+
+In 2014, the Centers for Medicare & Medicaid Services (CMS) determined that percutaneous image guided lumbar decompression (PILD) for lumbar spinal stenosis (LSS) is not reasonable and necessary under section 1862(a)(1)(A) of the Social Security Act. The decision memo also states the following regarding the PILD procedure for LSS:
+
+In reviewing the evidence on PILD we are confronted with weak studies, questions about missing information, questions about adverse events and conflicts of interest. After thoroughly reviewing the evidence for PILD for LSS, we have determined the evidence does not support a conclusion of improved health outcomes for our Medicare beneficiaries. However, we recognize that LSS is a real and important source of pain and functional limitation for patients, and that the development of effective minimally invasive procedures could have a potential place in the treatment armamentarium, but that more evidence is clearly needed. In order to support additional research on the development of effective minimally invasive procedures for the treatment of LSS, we will cover this procedure under section 1862(a)(1)(E) of the Social Security Act (CMS, 2014).
+
+Benyamin and colleagues (2016) performed the industry-supported, multicenter, MiDAS ENCORE randomized controlled trial to assess outcomes of MILD compared to ESI in individuals with lumbar spinal stenosis and neurogenic claudication symptoms. A total of 302 participants were enrolled who were 65 years old or older, had refractory neurogenic claudication for at least 3 months, and had ligamentum flavum greater than 2.5 mm. After 28 participants withdrew before the study started, the remaining participants received the MILD procedure (n=143) or up to four epidural steroid injections (n=131). At a 1-year follow-up, there were no significant differences between the groups for medication usage. However, for the MILD group, the ODI was significantly higher (58.0% versus 27.1%; p<0.001), as were the numeric pain rating scale (NPRS) scores (difference of 30.2%; p<0.001), ZCQ scores (difference of 20.0%; p=0.001), and the satisfaction score (2.4 ± 0.1 versus 3.1 ± 0.1; p<0.001). A total of 2 participants in each group had adverse events, the worst being 1 MILD subject having a non-serious procedural hemorrhage and 1 ESI subject having sinus bradycardia after treatment that was resolved with no complications. The authors concluded that MILD is statistically superior to epidural injections for lumbar spinal stenosis with neurogenic claudication. Limitations of the study included lack of blinding in the participants, potential high non-responder rates, enrollment not limited to participants that had never received epidural steroid injections, and loss to follow-up (22 participants in the MILD group and 32 in the ESI group withdrew before the 1-year follow-up).
+
+Staats and colleagues (2018) published 2-year results of the MiDAS ENCORE study (Benyamin, 2016) to establish long- term safety and efficacy of MILD for the treatment of lumbar spinal stenosis with neurogenic claudication. At 2 years, 99 out of the original 143 participants were available for follow-up. At 2 years, ODI improved by 22.7 points (95% CI, 18.5 to 26.9), NPRS improved by 3.6 points (95% CI, 3.1 to 4.2), and ZCQ symptom severity improved by 1.0 point (95% CI, 0.8 to 1.2) and physical function domains improved by 0.8 point (95% CI, 0.6 to 0.9). The mean change from baseline exceeded the clinically meaningful threshold and achieved statistical significance for all efficacy end points and follow-up times (p<0.001). Responder rates for ODI, NPRS, and ZCQ symptom severity, physical function and patient satisfaction were 72.4%, 71.7%, 73.5%, 59.6% and 76.8%, respectively. None of the participants underwent a subsequent MILD procedure; however, out of the original 143 participants, 8 underwent a subsequent surgical procedure at the index level, 22 had an ESI or nerve block at the level of surgery (1 of which also received a spinal cord stimulator), 1 received a rhizotomy at the index level, and 1 received an intrathecal infusion pump. There were no serious adverse events reported. Limitations of the study included lack of a control group at 2 years and loss to follow-up.
+
+In 2025, Mekhail and colleagues published an analysis of complications following the MILD procedure. They identified 10 reports of complications in the FDA’s Manufacturer and User facility Device Experience (MAUDE) database through December 2021. Of these, 8 were classified as surgical complications and included weakness and numbness, damage to the intrathecal pump, epidural hematoma, and dural tear. Two were classified as device-related and consisted of small blue plastic fragments present on the trocar.
+
+Other Percutaneous Spine Surgery Procedures
+
+Researchers are exploring the use of percutaneous posterior cervical nerve root decompression using an expandable intervertebral cervical cage and concomitant posterior arthrodesis as a treatment for single-level cervical radiculopathy due to spondylosis. McCormack and colleagues (2013) reported the 1-year results of a prospective multicenter single-arm study that assessed clinical and radiographic outcomes of individuals with cervical radiculopathy due to spondylosis and stenosis
+
+https://www.anthem.com/medpolicies/abcbs/active/mp_pw_a053367.html
+
+4/12
+
+10/25/25, 12:07 PM
+
+SURG.00071 Percutaneous Spinal Surgery
+
+who were treated at a single level with the DTRAX® Facet System (Providence Medical Technology, Walnut Creek, California, United States). A total of 60 individuals with symptomatic clinical radiculopathy and who had failed conservative treatment were included in the study. Preoperative assessments were conducted using the Neck Disability Index, VAS, QOL questionnaire (Short Form-12 version 2), CT scans, MRI, and dynamic radiographs. All participants underwent percutaneous posterior bilateral facet implantation consisting of a screw and expandable washer and iliac crest bone aspirate. Study participants were assessed postoperative at 2 weeks, 6 weeks, 3 months, 6 months, and 1 year with validated outcome questionnaires. Changes in segmental and overall cervical lordosis, foraminal dimensions, device retention and fusion criteria were evaluated for up to 1 year with CT reconstructions and radiographs. Fusion criteria were defined as bridging trabecular bone between the facets, translational motion less than 2 mm, and angular motion less than 5°. All participants were postoperatively followed for 1 year. Participants in the study ranged from 40 to 75 years, with a mean of 53 years. A total of 42 individuals were treated at C5-6, 8 at C6-7, 7 at C4-5, and 3 at C3-4. Of the 60 participants, 56 had bilateral implants; 4 had unilateral implants due to intraoperative facet fracture (n=2) and inability to access the facet (n=2). The Neck Disability Index, VAS, and QOL questionnaire were significantly improved at 2 weeks and continued to be significantly improved up to 1 year. At the treated level, 93% of participants demonstrated intrafacet bridging trabecular bone on CT scans, translational motion was less than 2 mm in 100% and angular movement was less than 5° in 83% at the 1- year follow-up. There was no significant alteration in overall cervical lordosis. There was a 1.6° decrease in segmental lordosis at the treated level at 1 year that was significant. Foraminal width, volume, and posterior disc height had significantly increased at the 6 month follow-up but returned to baseline levels by 1 year. No significant decline in foraminal width and height at adjacent levels was reported. No reoperations or surgery- or device-related complications, including implant failure or retained hardware, were reported. Based on the results of this study, the authors concluded that the DTRAX Facet System is a safe and effective treatment for cervical radiculopathy. Limitations of this study include the lack of a control group and the limited follow-up duration (1 year).
+
+Sieminonow and colleagues (2016) reported the 2-year clinical and radiographic results of treatment for single-level cervical radiculopathy using the DTRAX cage. A total of 53 of the original 60 participants reported on in the study reported by McCormack and colleagues in 2013 (88%) were available at the 2-year follow-up. The 2-year clinical and radiologic outcomes were similar to those reported at 1 year. The mean preoperative and 2-year scores were VAS Neck Pain: 7.4 compared to 2.6 (p<0.0001); VAS Arm Pain: 7.4 compared to 2.6 (p<0.0001); SF-12 Physical Component Summary: 34.6 compared to 43.6 (p<0.0001), NDI: 32.3 compared to 9.1 (p<0.0001); and SF-12 Mental Component Summary: 40.8 compared to 51.4 (p<0.0001). Participants experienced a slight but statistically significant decrease in the posterior disk height at the treated level at 2-year follow-up. Radiographic fusion rate was 98.1%. No device failure, implant lucency or surgical reinterventions were reported. The authors concluded that indirect decompression and posterior cervical fusion using the expandable intervertebral cage may be an effective tissue-sparing option in select individuals with single-level cervical radiculopathy. As with the initial report by McCormack, this study is limited by the lack of a control group and relatively short follow-up duration (now 2 years). Several authors in both studies had consulting relationships with the study sponsors. Sieminonow noted that a randomized controlled study would be needed to show the comparative effectiveness of the DTRAX technique.
+
+Background/Overview
+
+Spinal surgery is generally performed in the cervical and lumbar regions of the spine because the degree of mobility in these areas is greater and can cause misalignment and instability of the vertebral structures. Disc disease is most common and usually due to a protrusion (herniation) of a vertebral disc. The disc may tear through surrounding tissue (annulus fibrosus), resulting in an extruded disc, or may remain intact but stretched resulting in a contained disc prolapse, compressing one or more nerve roots and resulting in pain, numbness, or weakness. Percutaneous discectomy and disc decompression have been investigated over the years as a treatment of back pain related to disc disease and bone structure.
+
+Techniques using imaging for guidance include automated percutaneous lumbar discectomy (APLD), laser discectomy, and nucleoplasty. APLD involves the percutaneous insertion of a probe into the disc space with fluoroscopic guidance and then physical removal of the disc material using a suction curettage device. For laser discectomy, a variety of different lasers have been investigated, including the YAG, KTP, holmium, argon, and carbon dioxide lasers. Regardless of the type of laser, the procedure involves placement of the laser probe within the nucleus under fluoroscopic guidance. Due to differences in absorption, the energy requirements and the rate of application differ among the lasers. Additionally, it is unknown how much disc material must be removed to achieve decompression. Therefore, protocols vary according to the length of treatment, but typically the laser is activated for brief periods.
+
+The nucleoplasty procedure is similar to the laser procedure but uses bipolar radiofrequency energy in a process referred to as Coblation technology. The technique consists of small, multiple electrodes that emit a fraction of the energy required by
+
+https://www.anthem.com/medpolicies/abcbs/active/mp_pw_a053367.html
+
+5/12
+
+10/25/25, 12:07 PM
+
+SURG.00071 Percutaneous Spinal Surgery
+
+traditional radiofrequency energy systems. The result is that a portion of nucleus tissue is ablated not with heat, but with a low-temperature plasma field of ionized particles. These particles have sufficient energy to break organic molecular bonds within tissue, creating small channels in the disc. The proposed advantage of this Coblation technology is that the procedure provides for a controlled and highly localized ablation, resulting in minimal therapy damage to surrounding tissue. Complications following percutaneous disc procedures include reherniation, disc instability, and device malfunction.
+
+MILD (also known as image-guided minimally invasive lumbar decompression) is a percutaneous spinal decompression procedure used as a treatment of spinal stenosis. The MILD procedure is performed with the assistance of a contrast medium and fluoroscopic guidance. According to the manufacturer, the “mild Devices are designed to access the interlaminar space from the posterior lumbar spine, enabling the user to remove small portions of the lamina and preferentially resect and debulk the thickened ligamentum flavum, accomplishing a lumbar decompression.” This procedure does not involve a discectomy. The procedure can be performed on an outpatient basis under local anesthesia (Vertos Medical Mild Device Kit).
+
+The original FDA premarket approval for the X-Sten MILD Tool Kit was granted in 2006 and is a set of specialized surgical instruments intended to be used to perform lumbar decompressive procedures for the treatment of various spinal conditions. In 2010, the FDA granted 510(k) premarket approval (K093062) for the modification of the X-Sten MILD Tool Kit (Vertos, San Jose, CA). According to the FDA approval letter, the Vertos Medical MILD Device Kit is substantially equivalent to the X-Sten MILD Tool Kit (K062038) and the Baxano Ultra Low Profile Rongeur and Access Tools (K062711) which had been granted FDA premarket approval at an earlier date. According to the Vertos MILD instructions for use, the device should be used for tissue resection at the perilaminar space, within the interlaminar space and at the ventral aspect of the lamina. The device is not intended to be used to remove the spinal disc.
+
+Additional percutaneous discectomy devices have also been cleared by the FDA through the 510(k) substantial equivalence process, including the DeKompressor Percutaneous Discectomy Probe (Stryker Instruments, Kalamazoo, MI), Herniatome Percutaneous Discectomy Device (Gallini Medical Devices, South Euclid, OH), and the Nucleotome® Probe Set (Clarus Medical, LLC, Minneapolis, MN). The FDA indications for these products is, “For aspiration of disc material during percutaneous discectomies in the lumbar, thoracic and cervical regions of the spine."
+
+Percutaneous posterior cervical nerve root decompression using an expandable intervertebral cervical cage has been explored as an alternative surgical treatment for single-level cervical radiculopathy. According to information on the FDA we site, the “PMT Cervical Cage is an intervertebral fusion device intended to be used in cervical spinal fusion surgery. The FDA premarket approval stipulates that the PMT cervical cage is intended to be used as follows:
+
+PMT Cervical Cage is indicated for use in skeletally mature patients with degenerative disc disease (DDD) of the cervical spine (C3-C7) with accompanying radicular symptoms at one disc level. DDD is defined as discogenic pain with degeneration of the disc confirmed by patient history and radiographic studies. Patients should have received at least six weeks of non-operative treatment prior to treatment with the device. Devices are intended to be used with autogenous bone graft and supplemental fixation, such as an anterior plating system (USFDA PMT Cervical Cage, 2013).
+
+Definitions
+
+Chemonucleolysis: An injection of a drug to dissolve the disc, facilitating removal.
+
+Curretage: The removal of unwanted tissue using a small, spoon shaped device called a curette.
+
+Disc decompression: Reducing pressure within the disc by reducing the volume of nuclear material inside the disc.
+
+Disc degeneration: The normal aging process of intervertebral discs that begins soon after puberty. The degenerative process begins with loss of water content of the nucleus (the center of the disc) and progresses to include decreased height of the disc, the development of annular fissures (cracks in the outer fibers), and circumferential enlargement of the disc.
+
+Discectomy: Surgical removal of a part or all of an intervertebral disc, with or without removal of the nucleus pulposus. This surgery is performed via an open incision (considered the gold standard) allowing the surgeon the greatest ability to see and explore the surgical site.
+
+Discogenic pain: Pain generated by the disc itself which is externally intact, as opposed to disc prolapse or herniation which put pressure on nearby nerve roots.
+
+https://www.anthem.com/medpolicies/abcbs/active/mp_pw_a053367.html
+
+6/12
+
+10/25/25, 12:07 PM
+
+SURG.00071 Percutaneous Spinal Surgery
+
+Herniated disc: Rupture of an intervertebral disc with protrusion of disc material and/or nucleus pulposus material into the intervertebral canal. This may result in nerve compression causing pain.
+
+Lamina: A thin broad plate of bone forming the most posterior portion of the neural arch. The two laminae of each vertebra meet in the midline to form the spinous process.
+
+Laminectomy: Surgical removal of a spinal lamina, often done to decompress underlying spinal nerves or to provide access for another surgical procedure.
+
+Laminotomy: Partial removal of the spinal lamina to provide access to the neural canal.
+
+Ligamentum flavum: Ligaments connecting adjacent spinal lamina.
+
+Lumbar stenosis: A narrowing of the lumbar spinal canal.
+
+The MacNab Clinical Outcome Measures:
+
+Excellent- No pain; no restriction of activity; Good- Occasional back or leg pain of sufficient severity to interfere with the ability to do normal work or capacity to enjoy leisure activities; Fair- Improved functional capacity but handicapped by intermittent pain of sufficient severity to curtail or modify work or leisure activities; Poor- No improvement or insufficient improvement to enable increase in activities; further operative intervention required.
+
+Minimally invasive lumbar decompression (MILD): Decompression of the lumbar neural canal using indirect visualization (for example endoscopy or fluoroscopy).
+
+Percutaneous: Access through the skin (puncture as opposed to "open" surgical incision).
+
+Radicular pain: A type of pain that radiates to the upper or lower extremity directly along the course of a spinal nerve root. Radicular pain is caused by compression, inflammation, or injury to a spinal nerve root.
+
+Spine anatomy: The spine is divided into three major sections: the cervical (neck), the thoracic (mid-back), and lumbar spine (lower back). These sections are made up of individual bones called vertebrae, which are the primary weight bearing structures of the torso alternating with intervertebral discs.
+
+Surgical approaches:
+
+Percutaneous - The surgeon uses fluoroscopic imaging or other forms of indirect visualization during the surgical procedure. The surgery is performed using instruments passed directly through the skin (percutaneous). Endoscopic - The surgeon uses video or camera guidance during the procedure and performs the surgery through the endoscope working channel. Minimally Invasive - The surgeon directly visualizes the anatomy being operated on with the naked eye. The operative field may be developed using small profile (tubular or other) retraction to limit damage to surrounding normal tissues. The surgeon uses standard microdiscectomy techniques and instrumentation. Visualization may be assisted with a microscope or an endoscope. Open - The surgeon directly visualizes the anatomy being operated on with the naked eye. The surgery performed through an open incision utilizing direct visualization and muscle stripping and retraction. Standard surgical instrumentation and techniques are used and may involve the removal of both bony and ligamentous structures.
+
+Coding
+
+The following codes for treatments and procedures applicable to this document are included below for informational purposes. Inclusion or exclusion of a procedure, diagnosis or device code(s) does not constitute or imply member coverage or provider reimbursement policy. Please refer to the member's contract benefits in effect at the time of service to determine coverage or non-coverage of these services as it applies to an individual member.
+
+When services are Investigational and Not Medically Necessary: When the code describes a procedure indicated in the Position Statement section as investigational and not medically necessary.
+
+CPT
+
+https://www.anthem.com/medpolicies/abcbs/active/mp_pw_a053367.html
+
+7/12
+
+10/25/25, 12:07 PM
+
+SURG.00071 Percutaneous Spinal Surgery
+
+22899
+
+Unlisted procedure, spine [when specified as a percutaneous procedure for decompression for example DTRAX cage procedure] Decompression procedure, percutaneous, of nucleus pulposus of intervertebral disc, any method utilizing needle based technique to remove disc material under fluoroscopic imaging or other form of indirect visualization, with discography and/or epidural injection(s) at the treated level(s), when performed, single or multiple levels, lumbar Percutaneous laminotomy/laminectomy (intralaminar approach) for decompression of neural elements, (with or without ligamentous resection, discectomy, facetectomy and/or foraminotomy) any method under indirect image guidance (eg, fluoroscopic, CT), single or multiple levels, unilateral or bilateral; cervical or thoracic Percutaneous laminotomy/laminectomy (intralaminar approach) for decompression of neural elements, (with or without ligamentous resection, discectomy, facetectomy and/or foraminotomy) any method under indirect image guidance (eg, fluoroscopic, CT), single or multiple levels, unilateral or bilateral; lumbar Unlisted procedure, nervous system [when specified as percutaneous decompression or laser procedures of cervical or thoracic spine]
+
+62287
+
+0274T
+
+0275T
+
+64999
+
+HCPCS C2614 S2348
+
+Probe, percutaneous lumbar discectomy Decompression procedure, percutaneous, of nucleus pulposus of intervertebral disc, using radiofrequency energy, single or multiple levels, lumbar [DISC nucleoplasty]
+
+ICD-10 Procedure 0R533ZZ-0R5B3ZZ
+
+Destruction of vertebral disc, percutaneous approach [cervical, cervicothoracic, thoracic or thoracolumbar; includes codes 0R533ZZ, 0R553ZZ, 0R593ZZ, 0R5B3ZZ] Excision of vertebral disc, percutaneous approach [cervical, cervicothoracic, thoracic or thoracolumbar; includes codes 0RB33ZZ, 0RB53ZZ, 0RB93ZZ, 0RBB3ZZ] Release vertebral disc, percutaneous approach [cervical, cervicothoracic, thoracic or thoracolumbar; includes codes 0RN33ZZ, 0RN53ZZ, 0RN93ZZ, 0RNB3ZZ] Destruction of vertebral disc, percutaneous approach [lumbar or lumbosacral; includes codes 0S523ZZ, 0S543ZZ] Excision of vertebral disc, percutaneous approach [lumbar or lumbosacral; includes codes 0SB23ZZ, 0SB43ZZ] Release vertebral disc, percutaneous approach [lumbar or lumbosacral; includes codes 0SN23ZZ, 0SN43ZZ]
+
+0RB33ZZ-0RBB3ZZ
+
+0RN33ZZ-0RNB3ZZ
+
+0S523ZZ-0S543ZZ
+
+0SB23ZZ-0SB43ZZ
+
+0SN23ZZ-0SN43ZZ
+
+ICD-10 Diagnosis
+
+All diagnoses
+
+References
+
+Peer Reviewed Publications:
+
+1. Abrishamkar S, Salimi S, Pirmoradi H. Comparison the postoperation results of discectomy with nucleoplasty in
+
+single cervical disc herniation. Adv Biomed Res. 2018; 7:29.
+
+2. Agarwal S, Bhagwat AS. Ho: Yag laser-assisted lumbar disc decompression: a minimally invasive procedure under
+
+local anesthesia. Neurol India. 2003; 51(1):35-38.
+
+3. Aldahshory AR, Mashaly H, El Molla ST, et al. Comparative study of minimally invasive lumbar decompression versus decompressive laminectomy with posterolateral transpedicular fixation for the treatment of degenerative Lumbar canal stenosis. Asian J Neurosurg. 2020; 15(2):293-301.
+
+4. Al-Zain F, Lemcke J, Killeen T, et al. Minimally invasive spinal surgery using nucleoplasty: a 1-year follow-up study.
+
+Acta Neurochir (Wien). 2008; 150(12):1257-1262.
+
+5. Amoretti N, David P, Grimaud A, et al. Clinical follow-up of 50 patients treated by percutaneous lumbar discectomy.
+
+Clin Imaging. 2006; 30(4):242-244.
+
+6. Bai X, Lian Y, Wang J, et al. Percutaneous endoscopic lumbar discectomy compared with other surgeries for lumbar
+
+disc herniation: a meta-analysis. Medicine (Baltimore). 2021; 100(9):e24747.
+
+7. Benyamin RM, Staats PS, MiDAS Encore I. MILD® is an effective treatment for lumbar spinal stenosis with neurogenic claudication: MiDAS encore randomized controlled trial. Pain Physician. 2016; 19(4):229-242.
+
+https://www.anthem.com/medpolicies/abcbs/active/mp_pw_a053367.html
+
+8/12
+
+10/25/25, 12:07 PM
+
+SURG.00071 Percutaneous Spinal Surgery
+
+8. Brouwer PA, Brand R, van den Akker-van Marle ME, et al. Percutaneous laser disc decompression versus conventional microdiscectomy in sciatica: a randomized controlled trial. Spine J. 2015; 15(5):857-865. 9. Brouwer PA, Brand R, van den Akker-van Marle ME, et al. Percutaneous laser disc decompression versus
+
+conventional microdiscectomy for patients with sciatica: two-year results of a randomized controlled trial. Interv Neuroradiol. 2017; 23(3):313-324.
+
+10. Brown LL. A double-blind, randomized, prospective study of epidural steroid injection vs. the mild® procedure in
+
+patients with symptomatic lumbar spinal stenosis. Pain Pract. 2012; 12(5):333-341.
+
+11. Calisaneller T, Ozdemir O, Karadeli E, Altinors N. Six months post-operative clinical and 24 hour post-operative MRI
+
+examinations after nucleoplasty with radiofrequency energy. Acta Neurochir (Wien). 2007; 149(5):495-500.
+
+12. Ceylan A, Asik İ. Percutaneous navigable intradiscal decompression in treatment of lumbar disc herniation: A single-
+
+center experience. Turk J Med Sci. 2019; 49(2):519-524.
+
+13. Chaterjee S, Foy PM, Findlay GF. Report of a controlled clinical trial comparing automated percutaneous lumbar
+
+discectomy and microdiscectomy in the treatment of contained lumbar disc disease. Spine (Phila Pa 1976). 1995; 20(6):734-738.
+
+14. Chen Z, Zhang L, Dong J, et al. Percutaneous transforaminal endoscopic discectomy compared with
+
+microendoscopic discectomy for lumbar disc herniation: 1-year results of an ongoing randomized controlled trial. J Neurosurg Spine. 2018; 28(3):300-310.
+
+15. Chen Z1, Zhang L, Dong J, et al. Percutaneous transforaminal endoscopic discectomy versus microendoscopic
+
+discectomy for lumbar disc herniation: two-year results of a randomized controlled trial. Spine (Phila Pa 1976). 2020; 45(8):493-503.
+
+16. Chopko BW. Long-term results of percutaneous lumbar decompression for LSS: two-year outcomes. Clin J Pain.
+
+2013; 29(11):939-943.
+
+17. Chopko B, Caraway DL. MiDAS I (mild Decompression Alternative to Open Surgery): a preliminary report of a
+
+prospective, multi-center clinical study. Pain Physician. 2010; 13(4):369-378.
+
+18. Gerszten PC, Welch WC, King JT Jr. Quality of life assessment in patients undergoing nucleoplasty-based
+
+percutaneous discectomy. J Neurosurg Spine. 2006; 4(1):36-42.
+
+19. Haines SJ, Jordan N, Boen JR, et al. Discectomy strategies for lumbar disc herniation: results of the LAPDOG trial.
+
+J Clin Neurosci. 2002; 9(4):411-417.
+
+20. Hellinger J, Stern S, Hellinger S. Nonendoscopic Nd-YAG 1064 nm PLDN in the treatment of thoracic discogenic
+
+pain syndromes. J Clin Laser Med Surg. 2003; 21(2):61-66.
+
+21. Hermantin FU, Peters T, Quartararo L, Kambin P. A prospective, randomized study comparing the results of open
+
+discectomy with those of video-assisted arthroscopic microdiscectomy. J Bone Joint Surg Am. 1999; 81(7):958-965. 22. Kreiner DS, MacVicar J, Duszynski B, Nampiaparampil DE. The mild® procedure: a systematic review of the current
+
+literature. Pain Med. 2014; 15(2):196-205.
+
+23. Lewis RA, Williams NH, Sutton AJ, et al. Comparative clinical effectiveness of management strategies for sciatica:
+
+systematic review and network meta-analyses. Spine J. 2015; 15(6):1461-1477.
+
+24. Lingreen R, Grider JS. Retrospective review of patient self-reported improvement and post-procedure findings for
+
+mild (minimally invasive lumbar decompression). Pain Physician. 2010; 13(6):555-560.
+
+25. Liu WG, Wu XT, Guo JH, et al. Long-term outcomes of patients with lumbar disc herniation treated with
+
+percutaneous discectomy: comparative study with microendoscopic discectomy. Cardiovasc Intervent Radiol. 2010; 33(4):780-786.
+
+26. Liu X, Yuan S, Tian Y, et al. Comparison of percutaneous endoscopic transforaminal discectomy, microendoscopic discectomy, and microdiscectomy for symptomatic lumbar disc herniation: minimum 2-year follow-up results. J Neurosurg Spine. 2018; 28(3):317-325.
+
+27. Manchikanti L, Singh V, Falco FJ, et al. An updated review of automated percutaneous mechanical lumbar
+
+discectomy for the contained herniated lumbar disc. Pain Physician. 2013; 16(2 Suppl):SE151-184.
+
+28. McCormack BM, Bundoc RC, Ver MR, et al. Percutaneous posterior cervical fusion with the DTRAX Facet System
+
+for single-level radiculopathy: results in 60 patients. J Neurosurg Spine. 2013; 18(3):245-254.
+
+29. Mekhail N, Costandi S, Nageeb G, et al. The durability of minimally invasive lumbar decompression procedure in
+
+patients with symptomatic lumbar spinal stenosis: long-term follow-up. Pain Pract. 2021; 21(8):826-835.
+
+30. Mekhail N, Costandi S, Botros M, et al. Analysis of complications of minimally invasive approaches for symptomatic
+
+lumbar spinal stenosis. Reg Anesth Pain Med. 2025 Feb 12: Epub before print.
+
+31. Merkow J, Varhabhatla N, Manchikanti L, et al. Minimally invasive lumbar decompression and interspinous process device for the management of symptomatic lumbar spinal stenosis: a literature review. Curr Pain Headache Rep. 2020; 24(4):13.
+
+32. Nardi PV, Cabezas D, Cesaroni A. Percutaneous cervical nucleoplasty using coblation technology. Clinical results in
+
+fifty consecutive cases. Acta Neurochir Suppl. 2005; 92:73-78.
+
+https://www.anthem.com/medpolicies/abcbs/active/mp_pw_a053367.html
+
+9/12
+
+10/25/25, 12:07 PM
+
+SURG.00071 Percutaneous Spinal Surgery
+
+33. Revel M, Payan C, Vallee C, et al. Automated percutaneous lumbar discectomy versus chemonucleolysis in the
+
+treatment of sciatica. A randomized multicenter trial. Spine (Phila Pa 1976). 1993; 18(1):1-7.
+
+34. Ricciardi L, Stifano V, Sturiale CL, et al. Minimally invasive decompression with posterior elements preservation
+
+versus laminectomy and fusion for lumbar degenerative spondylolisthesis: a systematic review and meta-analysis of surgical, clinical and radiological outcomes. Surg Technol Int. 2020; 36:457-463.
+
+35. Shi R, Wang F, Hong X, et al. Comparison of percutaneous endoscopic lumbar discectomy versus microendoscopic
+
+discectomy for the treatment of lumbar disc herniation: a meta-analysis. Int Orthop. 2019; 43(4):923-937.
+
+36. Siemionow K, Janusz P, Phillips FM, et al. Clinical and radiographic results of indirect decompression and posterior cervical fusion for single-level cervical radiculopathy using an expandable implant with 2-year follow-up. J Neurol Surg A Cent Eur Neurosurg. 2016; 77(6):482-488.
+
+37. Staats PS, Chafin TB, Golovac S, et al. Long-term safety and efficacy of minimally invasive lumbar decompression
+
+procedure for the treatment of lumbar spinal stenosis with neurogenic claudication: 2-year results of MiDAS ENCORE. Reg Anesth Pain Med. 2018; 43(7):789-794.
+
+38. Tassi GP. Comparison of results of 500 microdiscectomies and 500 percutaneous laser disc decompression
+
+procedures for lumbar disc herniation. Photomed Laser Surg. 2006; 24(6):694-697.
+
+39. Wang FF, Guo DD, Sun TT, Guan KK. A comparative study on short-term therapeutic effects of percutaneous
+
+transforaminal endoscopic discectomy and microendoscopic discectomy on lumbar disc herniation. Pak J Med Sci. 2019; 35(2):426-431.
+
+40. Weinstein JN, Lurie JD, Tosteson TD, et al. Surgical versus nonoperative treatment for lumbar disc herniation: four- year results for the Spine Patient Outcomes Research Trial (SPORT). Spine (Phila Pa 1976). 2008; 33(25):2789- 2800.
+
+Government Agency, Medical Society, and Other Authoritative Publications:
+
+1. American College of Occupational and Environmental Medicine. Practice Guidelines. Low Back Disorders. Effective March 7, 2019. Copyright © 2019. American College of Occupational and Environmental Medicine (ACOEM), All Rights Reserved.
+
+2. Centers for Medicare and Medicaid Services. Decision Memo for Percutaneous Image-guided Lumbar
+
+Decompression for Lumbar Spinal Stenosis (CAG-00433N). January 9, 2014. Available at: https://www.cms.gov/Medicare/Coverage/Coverage-with-Evidence-Development/PILD. Accessed on March 12, 2025.
+
+3. Centers for Medicare and Medicaid Services. National Coverage Determinations for Laser Procedures. NCD #140.5.
+
+Effective May 1, 1997. Available at https://www.cms.gov/medicare-coverage-database/details/ncd-details.aspx? NCDId=69&ncdver=1&DocID=140.5&bc=gAAAAAgAAAAAAA%3D%3D. Accessed on March 12, 2025.
+
+4. Centers for Medicare and Medicaid Services. National Coverage Determination for Thermal Intradiscal Procedures
+
+(TIPs) NCD#150.11. Effective January 5, 2009. Available at: https://www.cms.gov/medicare-coverage- database/details/ncd-details.aspx?NCDId=324&ncdver=1&bc=AAAAQAAAAAAA. Accessed on March 12, 2025. 5. Chou R, Loeser JD, Owens DK, et al. Interventional therapies, surgery, and interdisciplinary rehabilitation for low back pain: an evidence-based clinical practice guideline from the American Pain Society. Spine (Phila Pa 1976). 2009; 34(10):1066-1077.
+
+6. Deer TR, Grider JS, Pope JE, et al. The MIST Guidelines: The Lumbar Spinal Stenosis Consensus Group
+
+Guidelines for Minimally Invasive Spine Treatment. Pain Pract. 2019; 19(3):250-274.
+
+7. Gibson JN, Waddell G. Surgical interventions for lumbar disc prolapse. Cochrane Database Syst Rev. 2007;
+
+(2):CD001350.
+
+8. North American Spine Society (NASS). Coverage Policy Recommendations. Guidelines. Available at:
+
+https://www.spine.org/Research-Clinical-Care/Quality-Improvement/Clinical-Guidelines. Accessed on March 12, 2025.
+
+9. North American Spine Society (NASS). Clinical Guidelines. Evidence based clinical guidelines for multidisciplinary
+
+spine care. Diagnosis and Treatment of Low Back Pain. 2020. North American Spine Society. June 9, 2020. Available at: https://www.spine.org/Portals/0/assets/downloads/ResearchClinicalCare/Guidelines/LowBackPain.pdf. Accessed on March 12, 2025.
+
+10. Rasouli MR, Rahimi-Movaghar V, Shokraneh F, et al. Minimally invasive discectomy versus microdiscectomy/open
+
+discectomy for symptomatic lumbar disc herniation. Cochrane Database Syst Rev. 2014;(9):CD010328. 11. U.S. Food and Drug Administration 510(k) Premarket Notification Summary. Providence Cervical Cage
+
+(Providence™ Medical Technology, Inc., Pleasanton, CA). K122801. May 24, 2013. Rockville, MD:FDA. Available at: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K122801. Accessed on March 12, 2025. 12. U.S. Food and Drug Administration 510(k) Premarket Notification Summary. X-Sten MILD Tool Kit (X-Sten Corp. San
+
+Jose, CA). K062038. Dec. 19, 2006. Rockville, MD:FDA. Available at: http://www.accessdata.fda.gov/cdrh_docs/pdf6/K062038.pdf. Accessed on March 12, 2025.
+
+https://www.anthem.com/medpolicies/abcbs/active/mp_pw_a053367.html
+
+10/12
+
+10/25/25, 12:07 PM
+
+SURG.00071 Percutaneous Spinal Surgery
+
+13. U.S. Food and Drug Administration 510(k) Premarket Notification Database. Vertos Mild Device Kit (Vertos Medical, Inc. San Jose, CA). K093062. Modification Premarket Notification. February 4, 2010. Rockville, MD:FDA. Available at: http://www.accessdata.fda.gov/cdrh_docs/pdf9/K093062.pdf. Accessed on March 12, 2025.
+
+Websites for Additional Information
+
+1. U.S. National Library of Medicine. Diskectomy. Updated March 21, 2022. Available at:
+
+https://medlineplus.gov/ency/article/007250.htm. Accessed on March 12, 2025.
+
+Index
+
+AccuraScope DND Automated Percutaneous Lumbar Discectomy (APLD) Baxano iO-Flex® System Cervical cage Cervical Deuk Laser Disc Repair Coblation Disc Decompression Discectomy Disc-FX™ System DTRAX Herniatome Percutaneous Discectomy Device Jho Procedure Laser Discectomy Minimally Invasive Lumbar Decompression (MILD) Nucleoplasty Nucleotome Probe Set Percutaneous Endoscopic Discectomy Providence Cervical Cage Stryker DeKompressor Percutaneous Discectomy Probe
+
+The use of specific product names is illustrative only. It is not intended to be a recommendation of one product over another, and is not intended to represent a complete listing of all products available.
+
+Document History
+
+Status
+
+Date
+
+Action
+
+Revised
+
+05/08/2025
+
+Medical Policy & Technology Assessment Committee (MPTAC) review. Removed “and endoscopic” from Title. Removed “or endoscopic” from INV/NMN statement. Revised Rationale and References sections. Revised Coding section, removed CPT 62380 and ICD-10-PCS endoscopic codes. MPTAC review. Updated Rationale and References section. Updated Coding section to add 22899 NOC code. Updated Coding section; added HCPCS code C2614. MPTAC review. Updated References section.
+
+Reviewed
+
+05/09/2024
+
+09/27/2023 05/11/2023
+
+Reviewed
+
+Reviewed Reviewed Reviewed Reviewed Reviewed
+
+05/12/2022 05/13/2021 05/14/2020 06/06/2019 07/26/2018
+
+MPTAC review. References were updated. MPTAC review. References and Index sections were updated. MPTAC review. The Background, Index and References sections were updated. MPTAC review. Rationale, References, and Websites sections updated. MPTAC review. The document header wording updated from “Current Effective Date” to “Publish Date.” Rationale, References, and Websites sections updated. MPTAC review. Updated the Description/Scope, Rationale, Background/Overview, References, Websites for Additional Information, Index and History sections. Updated Coding section with 01/01/2017 CPT changes and clarified Description/Scope section. MPTAC review. Updated the Description/Scope, Rationale, Definitions, Reference, Index and History sections. Removed ICD-9 codes from Coding section.
+
+Reviewed
+
+08/03/2017
+
+01/01/2017
+
+Reviewed
+
+08/04/2016
+
+https://www.anthem.com/medpolicies/abcbs/active/mp_pw_a053367.html
+
+11/12
+
+10/25/25, 12:07 PM
+
+SURG.00071 Percutaneous Spinal Surgery
+
+Reviewed Reviewed Reviewed
+
+08/06/2015 08/14/2014 08/08/2013
+
+MPTAC review. Updated Rationale, References and History sections. MPTAC review. Updated Rationale, References and History sections. MPTAC review. Updated document to address minimally invasive lumbar decompression (MILD). Updated Description/Scope, Rationale, Background/Overview, Definitions, References, Index and History sections. MPTAC review. References updated. MPTAC review. Rationale, Background, Definitions and References updated. Updated Coding section with 01/01/2012 CPT code descriptor changes. MPTAC review. Description, Rationale, Background, Definitions and References updated. Updated Coding section with 07/01/2011 CPT and HCPCS changes; removed C9729 deleted 06/30/2011. MPTAC review. Description clarified. Additional information added to Rationale and Definitions. References updated. Updated Coding section with 04/01/2011 HCPCS changes. Information regarding the Vertos Minimally Invasive Lumbar Decompression (MILD®) device added to the Rationale. References updated. MPTAC review. Coding and references updated. MPTAC review. Position statement revised, title changed, rationale, background, coding and references updated. MPTAC review. Updated review date, references and history sections. Updated Coding section with 01/01/2009 CPT changes. MPTAC review. Updated review date, rationale, background/overview, references and history sections. The phrase “investigational/not medically necessary” was clarified to read “investigational and not medically necessary.” MPTAC review. Rationale and references sections updated. MPTAC review. Added reference for Centers for Medicare and Medicaid Services (CMS) - National Coverage Determination (NCD). MPTAC review. Revision based on Pre-merger Anthem and Pre-merger WellPoint Harmonization.
+
+Reviewed Reviewed
+
+05/09/2013 05/10/2012 01/01/2012 05/19/2011
+
+Reviewed
+
+Reviewed
+
+02/17/2011
+
+04/29/2010
+
+Reviewed Revised
+
+02/25/2010 02/26/2009
+
+Reviewed
+
+11/20/2008
+
+Reviewed
+
+11/29/2007
+
+Reviewed Reviewed
+
+12/07/2006 03/23/2006 11/18/2005
+
+Revised
+
+07/14/2005
+
+Pre-Merger Organizations
+
+Last Review Date
+
+Document Number SURG.00052
+
+Title
+
+Anthem, Inc.
+
+07/27/2004
+
+Chronic Spine Pain Treatments/Procedures (Minimally Invasive) Percutaneous Techniques for Disc Decompression
+
+WellPoint Health Networks, Inc.
+
+09/23/2004
+
+3.07.04
+
+Federal and State law, as well as contract language, including definitions and specific contract provisions/exclusions, take precedence over Medical Policy and must be considered first in determining eligibility for coverage. The member’s contract benefits in effect on the date that services are rendered must be used. Medical Policy, which addresses medical efficacy, should be considered before utilizing medical opinion in adjudication. Medical technology is constantly evolving, and we reserve the right to review and update Medical Policy periodically.
+
+No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without permission from the health plan.
+
+© CPT Only – American Medical Association
+
+https://www.anthem.com/medpolicies/abcbs/active/mp_pw_a053367.html
+
+12/12

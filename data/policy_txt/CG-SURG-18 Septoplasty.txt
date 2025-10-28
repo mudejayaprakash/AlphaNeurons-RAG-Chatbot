@@ -1,0 +1,285 @@
+10/25/25, 11:46 AM
+
+CG-SURG-18 Septoplasty
+
+Clinical UM Guideline
+
+Subject: Septoplasty
+
+Guideline #: CG-SURG-18
+
+Publish Date: 04/16/2025
+
+Status: Reviewed
+
+Last Review Date: 02/20/2025
+
+Description
+
+This document addresses indications for septoplasty. This document may also be used to review the septoplasty component of procedures which combine both rhinoplasty and septoplasty (that is, septorhinoplasty). Medically necessary criteria for the rhinoplasty component of the combined procedure and relevant coding instructions can be found in ANC.00008 Cosmetic and Reconstructive Services of the Head and Neck.
+
+Note: Please see the following related documents for additional information:
+
+ANC.00008 Cosmetic and Reconstructive Services of the Head and Neck SURG.00079 Nasal Valve Repair SURG.00096 Surgical and Ablative Treatments for Chronic Headaches CG-SURG-87 Nasal Surgery for the Treatment of Obstructive Sleep Apnea and Snoring
+
+Clinical Indications
+
+Medically Necessary:
+
+Nasal septoplasty is considered medically necessary for symptomatic septal deviation or deformity when the following criteria are met (1 and 2):
+
+F e e d b a c k
+
+1. One or more of the following:
+
+a. Distressing symptoms of nasal obstruction when other treatable causes of obstruction (for example, nasal
+
+polyps) are either not documented, documented as absent, or documented as unlikely to be responsible for the symptoms; or
+
+b. Persistent or recurrent epistaxis; or c. Chronic sinusitis or recurrent acute sinusitis;
+
+and
+
+2. An appropriate and reasonable trial of conservative management has been attempted and failed (including use of
+
+any of the following, either alone or in combination: topical nasal corticosteroids, decongestants, antibiotics, allergy evaluation, and therapy, etc.).
+
+Nasal septoplasty is considered medically necessary for deformity that prevents surgical access to other intranasal or paranasal areas (for example, sinuses, turbinates).
+
+Not Medically Necessary:
+
+Septoplasty is considered not medically necessary when the above criteria are not met and for all other indications.
+
+Coding
+
+The following codes for treatments and procedures applicable to this document are included below for informational purposes. Inclusion or exclusion of a procedure, diagnosis or device code(s) does not constitute or imply member coverage or provider reimbursement policy. Please refer to the member's contract benefits in effect at the time of service to determine coverage or non-coverage of these services as it applies to an individual member.
+
+When services may be Medically Necessary when criteria are met:
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_a051158.html
+
+1/6
+
+10/25/25, 11:46 AM
+
+CG-SURG-18 Septoplasty
+
+CPT 30520
+
+Septoplasty or submucous resection, with or without cartilage scoring, contouring or replacement with graft Septal or other intranasal dermatoplasty (does not include obtaining graft)
+
+30620
+
+ICD-10 Procedure 09BM0ZZ 09BM3ZZ 09BM4ZZ 09SM0ZZ 09SM4ZZ 09TM0ZZ 09TM4ZZ
+
+Excision of nasal septum, open approach Excision of nasal septum, percutaneous approach Excision of nasal septum, percutaneous endoscopic approach Reposition nasal septum, open approach Reposition nasal septum, percutaneous endoscopic approach Resection of nasal septum, open approach Resection of nasal septum, percutaneous endoscopic approach
+
+ICD-10 Diagnosis J32.0-J32.9 J34.0 J34.1 J34.2 J34.81-J34.89 Q67.4 R04.0 S02.2XXA-S02.2XXS
+
+Chronic sinusitis Abscess, furuncle and carbuncle of nose Cyst and mucocele of nose and nasal sinus Deviated nasal septum Other specified disorders of nose and nasal sinuses Other congenital deformities of skull, face and jaw Epistaxis Fracture of nasal bones
+
+When services are Not Medically Necessary: For the procedure and diagnosis codes listed above when criteria are not met or for all other diagnoses not listed.
+
+Discussion/General Information
+
+Septoplasty is a surgical procedure performed to correct airway obstruction related to the nasal septum. These obstructions can be caused by structural deformity, disease or trauma.
+
+Deviation of the nasal septum is a common cause for nasal obstruction. Septal deviation occurs when the septum, which divides the two sides of the nasal cavity, is displaced from a straight vertical alignment causing blockage of airflow through one or both sides of the nose. The change in airflow can contribute to mucosal drying leading to epistaxis and sinusitis. Sinusitis can be acute; meaning the symptoms can occur for less than 4 weeks duration. Sinusitis can also be chronic which means symptoms last for longer than 12 weeks with or without acute exacerbations. Recurrent acute sinusitis is when there are 4 or more episodes of acute sinusitis over a 12-month timeframe without symptoms of sinusitis between episodes. The Centers for Disease Control and Prevention (CDC) estimates sinusitis affects more than 28.9 million adults in the United States.
+
+Frequently these conditions respond to conservative management. Analgesics, intranasal steroids or nasal saline irrigation can be recommended for symptomatic relief of sinusitis. Antibiotics may be prescribed for bacterial infections. A mild septal deviation may be treated with antihistamines, steroids, or decongestants. When conservative management is not successful, a septoplasty may be considered. This surgical procedure, usually performed under local or general anesthesia, corrects nasal septum defects or deformities by alteration, splinting, or partial removal of obstructing structures. Septoplasty is usually done to improve breathing, but it also may be performed to assist in the management of polyps, tumors or epistaxis.
+
+Septoplasty has also been proposed for septal deviation when there is intolerance to continuous positive airway pressure (CPAP) for obstructive sleep apnea. Current literature is limited to small group sizes with short-term follow-up for CPAP compliance (Modica, 2018; Poirier, 2013; Reilly, 2021).
+
+Moore and Eccles (2011) reported on a review of 14 articles in which nasal airflow was measured before and after septoplasty due to nasal obstruction because of septal deviation. The articles were limited to those with surgery on the nasal septum (including septoplasty, submucous resection and septal deviation corrective surgery) and articles with different forms of objective measurement of nasal airflow including rhinomanometry, acoustic rhinometry and peak nasal inspiratory flow. The 14 articles included 536 participants, and all studies showed “objective evidence that septal surgery improves nasal patency.”
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_a051158.html
+
+2/6
+
+10/25/25, 11:46 AM
+
+CG-SURG-18 Septoplasty
+
+In a 2019 open, multicenter, pragmatic, randomized controlled trial in the Netherlands, van Egmond and colleagues reported on individuals who had nasal obstruction, a deviated septum, and an indication to have septoplasty. The participants were randomly assigned (1:1) to receive either septoplasty (n=102) with or without concurrent turbinate surgery or non-surgical treatment (n=101). The primary objective of the study was to assess the effectiveness of septoplasty when compared to nonsurgical treatment of nasal obstruction in adults using the self-reported Glasgow Health Status Inventory (GHSI). Secondary objective outcomes included nasal patency measured by peak nasal inspiratory flow (PNIF) and 4-phase rhinomanometry (4PR). Secondary subjective outcomes included the Nasal Obstruction Symptom Evaluation (NOSE) scale, sino-nasal outcome test-22 (SNOT-22), the three-level EuroQol, five dimensions (EQ-5D-3L), and Glasgow Benefit Inventory (GBI). Participants were included if there was a primary diagnosis of nasal obstruction as the main indication for septoplasty. Participants were excluded if the primary indication for septoplasty was based on concurrent complaints such as sleep disorders, headaches, or impairment of normal sinus drainage. Other exclusions included history of nasal septal surgery, untreated allergic rhinitis or allergic rhinitis unresponsive to medical treatment, septal perforation, or if the septoplasty was being done as part of a cosmetic rhinoplasty or in participants with a cleft lip or palate. For those in the non-surgical treatment group, there was no pre-specified treatment regimen. The decision between watchful waiting and medical treatment (usually local corticosteroids) was made on an individual basis. The median duration of nasal obstruction before trial entry was 7 years, and most participants (79% in the septoplasty group; 86% in the non-surgical management group) had received previous treatment for nasal obstruction. Primary analysis was done at 12 months on 94 participants who had septoplasty and 95 participants who had non-surgical treatment. In the septoplasty group, GHSI mean score was 72.2, NOSE score was 67.5, SNOT-22 score was 76.8, EQ-5D-3L utility score was 0.89, EQ-5D-3L visual analog score (VAS) score was 74.0, PNIF before decongestion was 124.3, PNIF after decongestion was 133.0. In the non-surgical group, GHSI mean score was 63.9, NOSE score was 49.6, SNOT-22 score was 67.0, EQ-5D-3L utility score was 0.87, EQ-5D-3L VAS score was 74.9, PNIF before decongestion was 95.0, PNIF after decongestion was 109.7. Overall 4PR differences were small and less consistent than were the results from PNIF. For the participants in the non-surgical treatment group, if complaints persisted during the 24 months of follow-up, they were able to cross-over to the surgical group and monitored as planned. A total of 30% of the participants did cross over. Due to the nature of the trial (surgery versus non-surgical arm), masking was not possible. Participants were followed for a total of 24 months and benefits (both objective and subjective) continued. The authors conclude that the trial:
+
+Shows that many patients, despite medical treatment, continue to live with nasal obstruction for years before being referred to the ear, nose, and throat surgeon. In these patients, septoplasty offered considerable subjective and objective benefits compared with non-surgical management, which were sustained up to 24 months of follow-up.
+
+A 2021 retrospective case series by Law and colleagues sought to determine if mean NOSE scores at 1 month post septoplasty with inferior turbinate reduction were similar to scores at greater than 6 months postoperatively. Participants were included if they had symptoms of nasal obstruction due to septal deviation with no resolution of symptoms following a greater than 1 month trial of topical intranasal corticosteroids, or intranasal or oral antihistamines. NOSE scores were collected preoperatively, at 1 month and 6 months following surgery. With 98 participants included, mean NOSE score preoperatively was 72.1, 1 month was 17.1, and 6 months was 12. All participants had significant reductions in NOSE score from preoperative time to 6 months postoperatively, although the reductions were not statistically significant between 1 and 6 months postoperative. While limitations include the retrospective design and procedures performed by two surgeons with differing techniques, NOSE scores showed improvement following septoplasty and inferior turbinate resection for septal deviation after failed conservative treatment.
+
+A 2022 randomized clinical trial by Srinivasan and colleagues assessed and compared the efficacy of septoplasty (n=70) to nonsurgical management (n=70) in individuals with deviated nasal septum using subjective measures (VAS, NOSE scale and SNOT-22 scores) and objective measures by PNIF. Nonsurgical management included topical nasal decongestants for 1 week during each visit and topical nasal corticosteroid sprays (1 spray in each nostril, twice a day). Diagnosis of deviated nasal septum was made by history of nasal obstruction, nasal endoscopy and anterior rhinoscopy. Nasal patency was assessed at baseline and 1, 3, and 6 months after initiation of treatment. In the septoplasty group, mean VAS score ranged from 6.28 at baseline to 2.9 after 6 months. Median SNOT-22 ranged from 19.5 at baseline to 10 at 6 months. Median NOSE score ranged from 70 at baseline to 40 after 6 months. Median PNIF ranged from 50-60 on the left and right sides respectively to 60-70 after 6 months. In the nonsurgical management group, mean VAS score ranged from 6.0 at baseline to 5.26 at 6 months. Median SNOT-22 ranged from 15 at baseline to 12 at 6 months. Median NOSE score ranged from 60 at baseline to 70 at 6 months. Median PNIF ranged from 60 to 70 at 6 months (for right and left sides). There were 10 participants in the septoplasty group and 13 participants in the nonsurgical management group which were lost to follow-up at the end of 6 months. Limitations included lack of nasal obstruction based on degree of septal deviation, lack of evaluation of long-term complications, and septoplasties were done by different surgeons.
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_a051158.html
+
+3/6
+
+10/25/25, 11:46 AM
+
+CG-SURG-18 Septoplasty
+
+Another randomized trial comparing septoplasty to nonsurgical management was published in 2023 by Carrie and colleagues. In this study, participants with symptoms of nasal obstruction associated with septal deviation were randomized to either septoplasty (n=188) or medical management (n=190). Medical management was defined as nasal steroid and saline spray for 6 months. Primary outcome was the SNOT-22 score at 6 months. There were 152 septoplasty participants available at 6 months with a mean SNOT-22 score of 19.9 9 (95% confidence interval [CI] 17.0 to 22.7). There were 155 participants in the medical management group available at the 6 month visit with a mean SNOT-22 score of 39.5 (CI 36.1 to 42.9). As measured by SNOT-22 scores, those who had septoplasty reported greater improvement compared to those who had medical management (95% CI improvement 16.4 to 23.6).
+
+A 2020 Clinical Practice Guideline by the American Academy of Otolaryngology/Head and Neck Surgery for nosebleed (epistaxis) notes that septoplasty can be done in individuals with recurrent nosebleeds and septal deviation stating, “control of bleeding likely from some combination of improved nasal airflow, interruption of mucosal vasculature, and/or more effective packing.”
+
+Clinical trials are in progress to assess the effect of conservative management versus septoplasty for septal deviation with nasal obstruction.
+
+Definitions
+
+Epistaxis: Nose bleeding.
+
+Rhinoseptoplasty: A surgical procedure, also referred to as a septorhinoplasty, performed on the nose and the nasal septum (cartilage and bony structure that separates the two nostrils).
+
+Septoplasty: A surgical procedure intended to repair the nasal septum.
+
+Sinusitis: Inflammation of the sinuses.
+
+References
+
+Peer Reviewed Publications:
+
+1. Carrie S, O'Hara J, Fouweather T, et al. Clinical effectiveness of septoplasty versus medical management for nasal
+
+airways obstruction: multicentre, open label, randomised controlled trial. BMJ. 2023; 383:e075445.
+
+2. Law RH, Bazzi TD, Van Harn M, et al. Predictors of long-term nasal obstruction symptom evaluation score stability
+
+following septoplasty with inferior turbinate reduction. Laryngoscope. 2021; 131(7):E2105-E2110.
+
+3. Lawrence R. Pediatric septoplasty: a review of the literature. Int J Pediatr Otorhinolaryngol. 2012; 76(8):1078-1081. 4. Modica DM, Marchese D, Lorusso F, et al. Functional nasal surgery and use of CPAP in OSAS patients: our
+
+experience. Indian J of Otolaryngol Head Neck Surg. 2018; 70(4):559-565.
+
+5. Moore M, Eccles R. Objective evidence for the efficacy of surgical management of the deviated septum as a treatment for chronic nasal obstruction: a systematic review. Clinical Otolaryngology, 2011; 36(2):106-113. 6. Poirier J, George C, Rotenberg B. The effect of nasal surgery on nasal continuous positive airway pressure
+
+compliance. Laryngoscope. 2014; 124(1):317-319.
+
+7. Reilly EK, Boon MS, Vimawala S, et al. Tolerance of continuous positive airway pressure after sinonasal surgery.
+
+Laryngoscope. 2021; 131(3):E1013-E1018.
+
+8. Sedaghat AR, Busaba NY, Cunningham MJ, Kieff DA. Clinical assessment is an accurate predictor of which
+
+patients will need septoplasty. Laryngoscope. 2013; 123(1):48-52.
+
+9. Srinivasan DG, Hegde J, Ramasamy K, et al. Comparison of the efficacy of septoplasty with nonsurgical
+
+management in improving nasal obstruction in patients with deviated nasal septum - a randomized clinical trial. Int Arch Otorhinolaryngol. 2021; 26(2):e226-e232.
+
+10. Stewart MG, Smith TL, Weaver EM, et al. Outcomes after nasal septoplasty: results from the Nasal Obstruction
+
+Septoplasty Effectiveness (NOSE) study. Otolaryngol Head Neck Surg. 2004; 130(3):283-290.
+
+11. van Egmond MMHT, Rovers MM, Hannink G, et al. Septoplasty with or without concurrent turbinate surgery versus
+
+non-surgical management for nasal obstruction in adults with a deviated septum: a pragmatic, randomised controlled trial. Lancet. 2019; 394(10195):314-321.
+
+Government Agency, Medical Society, and Other Authoritative Publications:
+
+1. American Academy of Otolaryngology – Head and Neck Surgery (AAO-HNS). Clinical Consensus Statement: septoplasty with or without inferior turbinate reduction. Otolaryngol Head Neck Surg. 2015; 153(5):708-720.
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_a051158.html
+
+4/6
+
+10/25/25, 11:46 AM
+
+CG-SURG-18 Septoplasty
+
+2. American Academy of Otolaryngology – Head and Neck Surgery (AAO-HNS). Clinical Practice Guideline:
+
+Nosebleed (Epistaxis). 2020; 162(1S):S1-S38.
+
+3. Cummings CW, Flint P, Haughey B, et al. Otolaryngology: Head & Neck Surgery, 4th ed. Philadelphia: Mosby.
+
+2005.
+
+4. Rosenfeld RM, Piccirillo JF, Chandrasekhar SS, et al. Clinical practice guideline (update): adult sinusitis.
+
+Otolaryngology--head and neck surgery: official journal of American Academy of Otolaryngology-Head and Neck Surgery. 2015; 152(2 Suppl):S1-S39.
+
+Websites for Additional Information
+
+1. American Academy of Otolaryngology – Head and Neck Surgery (AAO-HNS). Fact sheet: deviated septum.
+
+Available at: https://www.enthealth.org/conditions/deviated-septum/. Accessed on December 23, 2024.
+
+2. Centers for Disease Control and Prevention. Chronic Sinusitis. January 27, 2022. Available at:
+
+https://www.cdc.gov/nchs/fastats/sinuses.htm. Accessed on December 23, 2024.
+
+Index
+
+Nasal Obstruction Septal Deviation
+
+History
+
+Status Reviewed
+
+Date 02/20/2025
+
+Action Medical Policy & Technology Assessment Committee (MPTAC) review. Revised Discussion/General Information section. MPTAC review. Revised formatting in Clinical Indications section. Revised Discussion/General Information, References and Websites for Additional Information sections. MPTAC review. Re-formatted hierarchy in Clinical Indications section. Revised MN criteria related to conservative management. Revised “chronic recurrent sinusitis” to “chronic or recurrent acute sinusitis.” Revised NMN statement to remove bulleted list below statement. Updated Description, Discussion/General Information, and References sections. MPTAC review. Updated Discussion/General Information and References sections. MPTAC review. Administrative edits to Clinical Indications. Updated Discussion/General Information and References sections. Reformatted Coding section. MPTAC review. Added Definitions section. Updated Discussion/General Information and References sections. MPTAC review. Updated References section. MPTAC review. The document header wording updated from “Current Effective Date” to “Publish Date.” Updated Websites section. MPTAC review. MPTAC review. Updated Description/Scope, Background/Overview, and References sections. Removed ICD-9 codes from Coding section. MPTAC review. MPTAC review. Updated Description and Coding sections. MPTAC review. Updated References. MPTAC review. Updated Discussion/General Information and References. Clarification to Clinical Indications. MPTAC review. Updated Discussion/General Information and References. MPTAC review. Updated References. MPTAC review. Updated References. MPTAC review. Updated References and Web Sites. Removed Place of Service. MPTAC review. References and Coding updated. MPTAC review. References and Coding updated.
+
+Revised
+
+02/15/2024
+
+Revised
+
+02/16/2023
+
+Reviewed
+
+02/17/2022
+
+Revised
+
+02/11/2021
+
+Reviewed
+
+02/20/2020
+
+Reviewed Reviewed
+
+3/21/2019 05/03/2018
+
+Reviewed Reviewed
+
+05/04/2017 05/05/2016
+
+Reviewed Reviewed Reviewed Revised
+
+05/07/2015 05/15/2014 08/08/2013 08/09/2012
+
+Reviewed Reviewed Reviewed Reviewed
+
+11/17/2011 11/18/2010 02/25/2010 02/26/2009
+
+Reviewed Reviewed
+
+02/21/2008 03/08/2007
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_a051158.html
+
+5/6
+
+10/25/25, 11:46 AM
+
+CG-SURG-18 Septoplasty
+
+New
+
+03/23/2006
+
+MPTAC initial document development.
+
+Federal and State law, as well as contract language, and Medical Policy take precedence over Clinical UM Guidelines. We reserve the right to review and update Clinical UM Guidelines periodically. Clinical guidelines approved by the Medical Policy & Technology Assessment Committee are available for general adoption by plans or lines of business for consistent review of the medical necessity of services related to the clinical guideline when the plan performs utilization review for the subject. Due to variances in utilization patterns, each plan may choose whether to adopt a particular Clinical UM Guideline. To determine if review is required for this Clinical UM Guideline, please contact the customer service number on the member's card.
+
+Alternatively, commercial or FEP plans or lines of business which determine there is not a need to adopt the guideline to review services generally across all providers delivering services to Plan’s or line of business’s members may instead use the clinical guideline for provider education and/or to review the medical necessity of services for any provider who has been notified that his/her/its claims will be reviewed for medical necessity due to billing practices or claims that are not consistent with other providers, in terms of frequency or in some other manner.
+
+No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without permission from the health plan.
+
+© CPT Only - American Medical Association
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_a051158.html
+
+6/6

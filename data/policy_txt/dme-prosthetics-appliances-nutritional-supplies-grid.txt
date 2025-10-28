@@ -1,0 +1,1775 @@
+UnitedHealthcare® Medicare Advantage Medical Policy
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid
+
+Policy Number: MMP028.23 Last Committee Approval Date: September 10, 2025 Effective Date: October 1, 2025
+
+ Instructions for Use
+
+Table of Contents Page Coverage Rationale ..................................................................................... 1 DME, Prosthetic, Orthotic, and Medical Supplies Grid ................................ 3 Definitions ................................................................................................... 27 Policy History/Revision Information ........................................................... 28 Instructions for Use .................................................................................... 28
+
+Related Medicare Advantage Medical Policies • Cosmetic and Reconstructive Procedures • Skilled Nursing Facility, Rehabilitation, and Long-Term Acute Care Hospital • Urinary and Fecal Incontinence: Diagnosis and Treatment
+
+Related Commercial Policies • Beds and Mattresses • Electrical Stimulation for the Treatment of Pain and Muscle Rehabilitation • Mechanical Stretching Devices • Omnibus Codes • Treatment of Temporomandibular Joint Disorders • Upper Extremity Prosthetic Devices
+
+Coverage Rationale
+
+DME MACs and Jurisdictions DME MACs and Jurisdictions are as follows:
+
+(J-A) Noridian Healthcare Solutions - CT, DC, DE, MA, MD, ME, NH, NJ, NY, PA, RI, VT (J-B) CGS Administrators - IL, IN, KY, MI, MN, OH, WI (J-C) CGS Administrators - AL, AR, CO, FL, GA, LA, MS, NC, NM, OK, PR, SC, TN, TX, VA, VI, WV (J-D) Noridian Healthcare Solutions - AK, AS, AZ, CA, GU, HI, IA, ID, KS, MO, MT, NV, ND, NE, Northern Mariana Is, OR, SD, UT, WA, WY
+
+Important Note: This grid does not include all the covered DME, Prosthetics, Orthotics and Medical Supplies. The benefit information in this Medicare Advantage Medical Policy is based on existing national coverage policy, however, Local Coverage Determinations (LCDs) may exist and compliance with these policies is required where applicable. LCDs are available at http://www.cms.gov/medicare-coverage-database/. Refer to the specific DME Medicare Administrative Contractor (MAC) Local Coverage policies for coverage criteria and claims processing and coding information.
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 1 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+DME Face-to-Face Requirement Section 6407 of the Affordable Care Act (ACA) established a face-to-face encounter requirement for certain items of Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS).
+
+The law requires that a physician must document that a physician, nurse practitioner, physician assistant, or clinical nurse specialist has had a face-to-face encounter with the patient. The encounter must occur within the 6 months before the order is written for the DME. For face-to-face encounter information regarding Power Mobility Devices (PMDs), refer to the Mobility Assistive Equipment (MAE) section.
+
+For the most current Medicare face-to-face encounter requirement guidance and DMEPOS List, refer to CMS Durable Medical Equipment, Prosthetics, Orthotics and Supplies (DMEPOS) Order Requirements. Also refer to LCA for Standard Documentation Requirements for All Claims Submitted to DME MACs (A55426).
+
+Corrections and Amendments to the Face-to-Face Visit and Written Order Prior to Delivery: For instructions for remedy when the face-to-face visit documentation does not describe a medical condition for which the DME is being prescribed or the written order prior to delivery (WOPD) is defective, refer to the Joint DME MAC Article-ACA 6407 Requirements - Corrections and Amendments to the Face-to-Face Visit and Written Order Prior to Delivery (WOPD).
+
+DME Rental or Purchase DME may be rented or purchased and must meet all of the following criteria: The equipment meets the definition of DME (refer to the Definitions section) • The equipment is necessary and reasonable for the treatment of the member’s illness or injury or to improve the functioning of his/her malformed body
+
+member
+
+The equipment is used in the Member’s Home (refer to the Definitions section)
+
+Notes: • Capped-rental DME: For payment rules for capped-rental DME, refer to the 42 CFR Title 42, Chapter IV, §414.229 Other Durable Medical Equipment -
+
+Capped Rental.
+
+Also refer to the Medicare Benefit Policy Manual, Chapter 15, §110 – Durable Medical Equipment – General.
+
+Prosthetic and Orthotics Prosthetic Devices and Orthotics must meet all of the following criteria: The item meets the definition of Prosthetic or Orthotics (refer to the Definitions) • The item is furnished on a physician's order
+
+Refer to the Medicare Benefit Policy Manual, Chapter 15, §120 – Prosthetic Devices.
+
+Supplies for DME Items and Prosthetic Devices Supplies for DME items and Prosthetic Devices (e.g., oxygen, batteries for an artificial larynx) are covered only when they are necessary for the effective use of the item/device. For specific coverage guidelines, refer to the Medicare Benefit Policy Manual, Chapter 15, §110.3 – Coverage of Supplies and Accessories and Medicare Benefit Policy Manual, Chapter 15, §120 - Prosthetic Devices.
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 2 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Repairs, Maintenance, and Replacement Durable Medical Equipment Repairs, maintenance, and replacement of medically required DME are covered when criteria are met. For coverage guidelines, refer to the Medicare Benefit Policy Manual, Chapter 15, §110.2 – Repairs, Replacement and Maintenance and Delivery.
+
+Prosthetic Devices Payment may be made for the replacement of a Prosthetic Device that is an artificial limb, or replacement part of a device if the ordering physician determines that the replacement device or part is necessary because of any of the following: A change in the physiological condition of the patient; • An irreparable change in the condition of the device, or in a part of the device; or The condition of the device, or the part of the device, requires repairs and the cost of such repairs would be more than 60 percent of the cost of a replacement
+
+device, or, as the case may be, of the part being replaced.
+
+Refer to the Medicare Benefit Policy Manual, Chapter 15, §120 – Prosthetic Devices.
+
+Medical Supplies
+
+Medical supplies are covered only when they are incident to a physician's professional services or authorized home health services and are furnished as an integral, although incidental, part of those services in the course of diagnosis or treatment of an injury or illness. Refer to the Medicare Benefit Policy, Manual, Chapter 15, §110.3 – Coverage of Supplies and Accessories and Medicare Benefit Policy, Manual, Chapter 15, §60.1 - Incident To Physician’s Professional Services.
+
+Medical supplies of an expendable nature, such as incontinent pads, lambs wool pads, catheters, ace bandages, elastic stockings, surgical facemasks,
+
+irrigating kits, sheets, and bags are not considered “durable” within the meaning of the definition. Refer to the Medicare Benefit Policy Manual, Chapter 15, §110.1 – Definition of Durable Medical Equipment.
+
+Medical supplies may not be billed as Implantable Devices (refer to Definitions section).
+
+For additional coverage guidelines, refer to the Medicare Benefit Policy Manual, Chapter 15, §110 – §130.
+
+For general instructions on billing and claims processing, refer to the Medicare Claims Processing Manual, Chapter 20 – Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS).
+
+DME, Prosthetic, Orthotic, and Medical Supplies Grid
+
+Item
+
+Coverage Orthotic
+
+Guidelines/Notes Clear plastic splints inflated by air used temporarily on fractured, broken, crushed, or burned limbs. Refer to the Medicare Claims Processing Manual, Chapter 20, §170 Billing for Splints and Casts.
+
+Air Splint
+
+Air-Fluidized Bed (e.g., HCPCS code E0194)
+
+See Alternating Pressure Pads and Mattress/Pressure Reducing Support Surfaces-Group 3.
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 3 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage DME
+
+Guidelines/Notes
+
+Coverage criteria apply. Refer to the National Coverage Determination (NCD) for Durable
+
+Alternating Pressure Pads and Mattress (Pressure Reducing Support Surfaces) (e.g., HCPCS code E0277 and E0373) Refer to the Face-to-Face Requirement.
+
+Medical Equipment Reference List (280.1).
+
+Group 1 (Gel Flotation Devices, Lamb’s Wool Pads/Sheep Skins, Egg Crate Mattress);
+
+refer to the DME MAC LCD for Pressure Reducing Support Surfaces - Group 1 (L33830).
+
+Group 2 (Low Air Loss or Powered Flotation without Low Air Loss ); refer to the DME
+
+MAC LCD for Pressure Reducing Support Surfaces - Group 2 (L33642).
+
+Group 3 [Air-Fluidized Bed (Bead Bed), (e.g., Clinitron)]; refer to the NCD for Air-
+
+Fluidized Bed (280.8). Also refer to the DME MAC LCD for Pressure Reducing Support Surfaces – Group 3 (L33692).
+
+Ankle-Foot Orthosis (AFO)/Knee-Ankle-Foot Orthosis (KAFO) Refer to the Face-to-Face Requirement.
+
+Orthotic
+
+Coverage criteria apply. Refer to the DME MAC LCD for Ankle-Foot/Knee-Ankle-Foot Orthosis (L33686). Note: A foot drop splint/recumbent positioning device and replacement interface will be denied as not medically necessary in a patient with foot drop who is non-ambulatory because there are other more appropriate treatment modalities.
+
+Prosthetic Covered for member with absence or shrinkage of an eye due to birth defect, trauma, or surgical removal. Coverage includes polishing and resurfacing on a twice per year basis. Orbital implants are reimbursed as surgical implants. Refer to the: DME MAC LCD for Eye Prosthesis (L33737). Medicare Benefit Policy Manual, Chapter 15, §120 – Prosthetic Devices and §130 – Leg,
+
+Artificial Eye (Eye Prosthesis)
+
+Arm, Back, and Neck Braces, Trusses, and Artificial Legs, Arms, and Eyes.
+
+Prosthetic Covered as prosthetic; refer to the Medicare Benefit Policy Manual, Chapter 15, §120 –
+
+Artificial Larynx or Electrolarynx (e.g., UltraVoice)
+
+Prosthetic Devices.
+
+Prosthetic Covered when criteria are met. Refer to the DME MAC LCD for Lower Limb Prostheses
+
+Standard Microprocessors
+
+Artificial Limbs - Lower Limb
+
+(L33787) and LCA for Lower Limb Prostheses - Policy Article (A52496) for coverage guidelines. Also refer to the Medicare Benefit Policy Manual, Chapter 15, §130 – Leg, Arm, Back, and Neck Braces, Trusses, and Artificial Legs, Arms, and Eyes.
+
+Artificial Limbs – Upper Limb
+
+Prosthetic Coverage criteria apply; refer to the Medicare Benefit Policy Manual, Chapter 15, §130 –
+
+Standard
+
+Leg, Arm, Back, and Neck Braces, Trusses, and Artificial Legs, Arms, and Eyes.
+
+Myoelectric (Upper Limb) (HCPCS codes L6026, L6611, L6621, L6629, L6632, L6677, L6680, L6682, L6686, L6687, L6688, L6694, L6695, L6696, L6697, L6698, L6715, L6880, L6881, L6882, L6883,
+
+Medicare does not have an NCD for myoelectric upper limbs. LCDs/LCAs do not exist at this time. For coverage guidelines, refer to the UnitedHealthcare Commercial Medical Policy titled Upper Extremity Prosthetic Devices.
+
+Prosthetic
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 4 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage Prosthetic Medicare does not have a National Coverage Determination (NCD) for myoelectric upper
+
+Guidelines/Notes
+
+Artificial Limbs – Upper Limb
+
+L6884, L6925, L6935, L6945, L6955, L6975, L7007, L7008, L7009, L7045, L7180, L7181, L7190, L7191, L7259, L7364, L7366, L7367, L7368, L7400, L7401, L7403, L7404, L8465)
+
+limbs. Local Coverage Determinations (LCDs)/Local Coverage Articles (LCAs) do not exist at this time. For coverage guidelines, refer to the UnitedHealthcare Commercial Medical Policy titled Upper Extremity Prosthetic Devices.
+
+Augmentative Communication Devices
+
+See Speech Generating Devices.
+
+Back Brace/Orthosis
+
+See Spinal Orthosis.
+
+Bead Bed
+
+See Air Fluidized Bed.
+
+Beds
+
+See Hospital Beds and Accessories.
+
+Bed Cradle
+
+See Hospital Beds and Accessories.
+
+Bed Specs
+
+See Hospital Beds and Accessories.
+
+Effective June 9, 2025, coverage criteria apply for Respiratory Assist Device (RADs) with or without a backup rate feature and Home Mechanical Ventilators (HMVs), in the home, as treatment for patients with Chronic Respiratory Failure (CRF) consequent to Chronic Obstructive Pulmonary Disease (COPD). Refer to the NCD for Noninvasive Positive Pressure Ventilation (NIPPV) in the Home for the Treatment of Chronic Respiratory Failure (CRF) Consequent to Chronic Obstructive Pulmonary Disease (COPD) (240.9). For coverage guidelines for all other conditions other than Chronic Respiratory Failure (CRF) consequent to Chronic Obstructive Pulmonary Disease (COPD), refer to the LCD for Respiratory Assist Devices (L33800).
+
+Bi-Level Positive Airway Pressure (BiPAP)
+
+DME
+
+Blood Glucose Analyzer-Reflectance Colorimeter Not covered Unsuitable for home use. Refer to the NCD for Durable Medical Equipment Reference List
+
+(280.1). Also refer to the NCD for Home Blood Glucose Monitors (40.2). Home blood glucose monitors and supplies (e.g., blood testing strips and lancets, replacement batteries) are covered when the following criteria are met. Refer to the NCD for Home Blood Glucose Monitors (40.2). Note: For guidelines on the appropriate quantities of strips and lancets, refer to the DME MAC LCD for Glucose Monitors (L33822).
+
+Blood Glucose Monitors
+
+DME
+
+Only for members on home dialysis; fully and semi-automatic (member activated) portable monitors are not covered. Refer to the Medicare Benefit Policy Manual, Chapter 11, § 20.4 – Equipment and Supplies.
+
+Blood Pressure Monitor /Sphygmomanometer
+
+DME
+
+Coverage criteria apply; refer to the NCD for Osteogenic Stimulators (150.2) and DME MAC LCD for Osteogenesis Stimulators (L33796).
+
+Bone Stimulator Refer to the Face-to-Face Requirement.
+
+DME
+
+Braces
+
+See AFO/KAFO or Knee Orthosis or Spinal Orthosis.
+
+Refer to the: Medicare Benefit Policy Manual, Chapter 15, §120 – Prosthetic Devices.
+
+Bras (Mastectomy)
+
+Prosthetic
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 5 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage Prosthetic
+
+Guidelines/Notes
+
+Bras (Mastectomy)
+
+DME MAC LCD for External Breast Prostheses (L33317). Also see Breast Prosthesis. Also refer to the Medicare Advantage Medical Policy titled Cosmetic and Reconstructive Procedures.
+
+Breast Prosthesis (External)
+
+Prosthetic Covered for members who have had a mastectomy or lumpectomy.
+
+An external breast prosthesis of the same type can be replaced at any time if it is lost or is irreparably damaged (this does not include ordinary wear and tear). An external breast prosthesis of a different type can be covered at any time if there is a change in the patient's medical condition necessitating a different type of item. The Medicare program will pay for only one breast prosthesis per side for the useful lifetime of the prosthesis. Two prostheses, one per side, are allowed for those persons who have had bilateral mastectomies. More than one external breast prosthesis per side will be denied as not reasonable and necessary. Refer to the DME MAC LCD for External Breast Prostheses (L33317). Also refer to the Medicare Benefit Policy Manual, Chapter 15, §120 – Prosthetic Devices. Also see Bras (mastectomy) and Lymphedema Compression Treatment Items. Also refer to the Medicare Advantage Medical Policy titled Cosmetic and Reconstructive Procedures.
+
+Cam Walkers (also known as Walking Boot)
+
+See AFO/KAFO.
+
+Canes
+
+Quad or Straight
+
+DME
+
+See Mobility Assistive Equipment.
+
+White
+
+Not covered See Mobility Assistive Equipment.
+
+Catheters and Supplies
+
+Closed Drainage Bags
+
+See Urinary Drainage Bags.
+
+External Urinary Collection Devices (e.g., male external catheters and female pouches/meatal cups)
+
+Prosthetic Only for members with non-functioning bladder or permanent incontinence when used as an
+
+alternative to an indwelling catheter. Male external catheters are limited to no more than 35 per month and female external urinary collection devices are limited to no more than one metal cup per week or one pouch per day. Requests for a greater quantity must be documented by a participating physician as medically necessary. Refer to the DME MAC LCD for Urological Supplies (L33803).
+
+Prosthetic Only for members with non-functioning bladder or permanent incontinence as medically
+
+Foley/Indwelling
+
+required. Limited to no more than one catheter per month for routine catheter maintenance. Requests for a greater quantity must be documented by a participating physician as medically necessary. Refer to the DME MAC LCD for Urological Supplies (L33803). Intermittent catheterization is covered when basic coverage criteria are met and the patient or caregiver can perform the procedure. Refer to the DME MAC LCD for Urological Supplies (L33803). Notes: Any patient who utilizes intermittent catheterization can receive one sterile urological
+
+Intermittent Urinary Catheters
+
+Prosthetic
+
+catheter and one packet of lubricant for each catheterization. Important Points:
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 6 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage Prosthetic
+
+Guidelines/Notes o First, the prescription should reflect the actual number of times that the patient
+
+Catheters and Supplies
+
+Intermittent Urinary Catheters
+
+actually catheterizes him/herself per day. For example, if the patient self-catheterizes four times per day, the prescription should be for approximately 120 catheters per month.
+
+o Although the LCD says that Medicare will cover up to 200 intermittent catheters per month, this is a maximum number and most patients self-catheterize less than 6 times per day. It would be inappropriate to order 200 catheters per month for every patient. The prescription must be individualized for each patient.
+
+o The second important point is that the provider should clearly document in the chart the number of times per day that the patient performs self-catheterization. Just listing that value on the prescription or on a separate form provided by the supplier is not sufficient.
+
+Refer to the Joint DME MAC Letter – Intermittent Urinary Catheterization.
+
+Leg Bags (Leg Drainage Bags)
+
+Prosthetic Only for members with non-functioning bladder or permanent incontinence who is
+
+ambulatory or are chair or wheelchair bound. Refer to the DME MAC LCD for Urological Supplies (L33803).
+
+Covered as a brace; refer to the Medicare Benefit Policy Manual, Chapter 15, §130 – Leg, Arm, Back, and Neck Braces, Trusses, and Artificial Legs, Arms, and Eyes.
+
+Cervical Collar (Semi-rigid, Soft and Rigid)
+
+Orthotic
+
+Cervical Thoracic Lumbar Sacral Orthosis (CTLSO)
+
+See Spinal Orthosis.
+
+Only for members on home dialysis. Refer to the Medicare Benefit Policy Manual, Chapter 11, §20.4 - Equipment and Supplies.
+
+Chair (Adjustable)
+
+DME
+
+Chemical Test Strips
+
+Coverage criteria apply; refer to the NCD for Home Blood Glucose Monitors (40.2).
+
+Not covered Not medically necessary. Alternative therapy available with the same outcomes. Refer to the
+
+Cold Therapy Cold Packs/Cool Jackets Water circulating cold pad with pump (e.g.,
+
+DME MAC LCD for Cold Therapy (L33735).
+
+Polar Units) Colostomy Bag
+
+See Ostomy Supplies.
+
+Covered when member is physically incapable of utilizing regular toilet facilities. This would occur when: The member is confined to a single room; or The member is confined to one level of the home environment and there is not toilet on
+
+Commode, Bedside (without wheels only)
+
+DME
+
+that level; or
+
+The member is confined to the home and there are no toilet facilities in the home. Refer to the NCD for Durable Medical Equipment Reference List (280.1). Also refer to the DME MAC LCD for Commodes (L33736).
+
+Commode Chair with Seat Lift Mechanism (e.g., HCPCS codes E0170 and E0171)
+
+DME
+
+Coverage criteria apply; refer to the DME MAC LCD for Commodes (L33736).
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 7 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage
+
+Guidelines/Notes
+
+Compression Garments/Bandages for Lymphedema
+
+See Lymphedema Compression Treatment Items.
+
+Prosthetic Coverage criteria apply; refer to the NCD for Hydrophilic Contact Lens For Corneal Bandage
+
+Contact Lens, Hydrophilic Soft (External)
+
+(80.1) and NCD for Hydrophilic Contact Lenses (80.4). Coverage criteria apply; refer to the DME MAC Local Coverage Determination (LCD) for Glucose Monitors (L33822).
+
+Continuous Glucose Monitoring (CGM) Device or System
+
+DME
+
+Continuous passive motion devices are covered for patients who have received a total knee replacement. To qualify for coverage, use of the device must commence within 2 days following surgery. In addition, coverage is limited to that portion of the 3-week period following surgery during which the device is used in the patient’s home. There is insufficient evidence to justify coverage of these devices for longer periods of time or for other applications. Refer to the NCD for Durable Medical Equipment Reference List (280.1).
+
+Continuous Passive Motion (CPM) Devices
+
+DME
+
+Continuous Positive Airway Pressure (CPAP) Devices (e.g., HCPCS code E0618)
+
+Coverage criteria apply; refer to the NCD for Continuous Positive Airway Pressure (CPAP) Therapy for Obstructive Sleep Apnea (OSA) (240.4) and DME MAC LCD for Positive Airway Pressure (PAP) Devices for the Treatment of Obstructive Sleep Apnea (L33718).
+
+DME
+
+A hernia support (whether in the form of a corset or truss) which meets the definition of a brace is covered. Refer to the NCD for Corset Used as Hernia Support (280.11).
+
+Corset
+
+Orthotic
+
+Cough Assist Devices/Mechanical In-exsufflation Devices
+
+Mechanical in-exsufflation devices are covered for patients who meet both of the following criteria: They have a neuromuscular disease; and This condition is causing a significant impairment of chest wall and/or diaphragmatic
+
+DME
+
+movement, such that it results in an inability to clear retained secretions. Refer to the DME MAC LCD for Mechanical In-exsufflation Devices (L33795).
+
+Cranial Orthosis
+
+See Helmet (Safety Equipment).
+
+DME
+
+Medicare does not have an NCD for pediatric cribs. LCDs/LCAs do not exist at this time. For coverage guidelines, refer to the UnitedHealthcare Commercial Medical Policy titled Beds and Mattresses.
+
+Crib (Pediatric) (HCPCS Code E0300)
+
+Crutches
+
+DME
+
+See Mobility Assistive Equipment.
+
+Deep Brain Stimulation (DBS)
+
+Unilateral or Bilateral Thalamic Ventralis Intermedius Nucleus (VIM) DBS
+
+For the treatment of essential tremor (ET) and/or Parkinsonian tremor; for specific coverage criteria; refer to the NCD for Deep Brain Stimulation for Essential Tremor and Parkinson’s Disease (160.24).
+
+DME
+
+Unilateral or Bilateral Subthalamic Nucleus (STN) or Globus Pallidus Interna (GPI) DBS
+
+For the treatment of Parkinson’s disease (PD); for specific coverage criteria, refer to the NCD for Deep Brain Stimulation for Essential Tremor and Parkinson’s Disease (160.24).
+
+DME
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 8 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage DME
+
+Guidelines/Notes Supplies (e.g., blood testing strips and lancets, replacement batteries) are covered when the following criteria are met. Refer to the NCD for Home Blood Glucose Monitors (40.2). Note: For guidelines on the appropriate quantities of strips and lancets, refer to the DME MAC LCD for Glucose Monitors (L33822).
+
+Diabetic Supplies
+
+Only for members on home dialysis. Refer to the Medicare Benefit Policy Manual, Chapter 11, §20.4 – Equipment and Supplies.
+
+Dialysis Home Kit, Peritoneal
+
+DME
+
+Diathermy Machines (Standard Pulses Wave Type, e.g., Diapulse)
+
+Not covered
+
+Inappropriate for home use. Refer to the: NCD for Durable Medical Equipment Reference List (280.1). NCD for Diathermy Treatment (150.5). Also refer to the Medicare Advantage Medical Policy titled Skilled Nursing Facility, Rehabilitation, and Long-Term Acute Care Hospital.
+
+Disposable Items
+
+Not covered Examples include but are not limited to:
+
+Disposable Sheets and Bags Elastic Stockings
+
+Incontinence Pads Irrigating Kits
+
+Support Hose/Fabric Support (e.g., Ted Hose) Surgical Face Mask Surgical Leggings Refer to the NCD for Durable Medical Equipment Reference List (280.1). Wedge Pillow Syringes (Ear bulb & Hypodermic) Refer to the Social Security Act §1861(n), Social Security Act §1862(a)(6) and the Medicare Benefit Policy Manual, Chapter 16, §80 – Personal Comfort Items. Diapers Refer to the DME MAC LCD for Urological Supplies (L33803) and the LCA for Urological Supplies (A52521). Only when provided in the physician’s office, otherwise considered over the counter. Refer to the Medicare Benefit Policy Manual, Chapter 15, §60.1 – Incident To Physician’s Professional Services.
+
+Non-surgical Dressings/Bandages (e.g., Ace bandages)
+
+Medical Supply*
+
+Dressings/Bandages
+
+Medical Supply* DME Prosthetic
+
+Surgical Dressings
+
+Surgical dressings may be covered as: Medical supply when provided the physician’s office. Refer to the Medicare Benefit Policy Manual, Chapter 15, §60.1 – Incident To Physician’s Professional Services. DME when ordered by the treating physician or other healthcare professional for the patient’s home use in conjunction with a Durable Medical Equipment (e.g., infusion pumps). Refer to the Medicare Benefit Policy Manual, Chapter 15, §110.3 - Coverage of Supplies and Accessories.
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 9 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage Medical Supply* DME Prosthetic
+
+Guidelines/Notes Prosthetic when ordered by the treating physician or other healthcare professional for the
+
+Dressings/Bandages
+
+Surgical Dressings
+
+patient’s home use as dressing for surgical wound or for wound debridement or in conjunction with a Prosthetic Device (e.g., tracheostomy). Refer to the Medicare Benefit Policy Manual, Chapter 15, §120(D) - Supplies, Repairs, Adjustments, and Replacement.
+
+Surgical dressings are limited to primary dressings (therapeutic or protective coverings applied directly to a wound) or secondary dressings (dressings that serve a therapeutic or protective function and are needed to secure a primary dressing, e.g., tape, roll gauze, transparent film) that are medically necessary for the treatment of a wound caused by, or treated by, a surgical procedure or wound debridement. Refer to the Medicare Benefit Policy Manual, Chapter 15, §100 - Surgical Dressings, Splints, Casts, and Other Devices Used for Reductions of Fractures and Dislocations. For specific coverage guidelines for surgical dressings, refer to the DME MAC LCD for Surgical Dressings (L33831).
+
+Porcine Skin Surgical Dressings
+
+Medical Supply* DME
+
+Covered, if reasonable and necessary for the individual patient as an occlusive dressing for burns, donor sites of a homograft, and decubiti and other ulcers. Refer to the NCD for Porcine Skin and Gradient Pressure Dressings (270.5).
+
+Gradient Pressure Dressings (e.g., Jobst elasticized heavy duty stockings)
+
+Medical Supply* DME
+
+Covered when used to reduce hypertrophic scarring and joint contractures following burn injury. Refer to the NCD for Porcine Skin and Gradient Pressure Dressings (270.5). LCDs/ LCAs exist and compliance with these policies is required where applicable. Refer to the DME MAC LCD for Surgical Dressings (L33831).
+
+Egg Crate (With Waterproof Cover Only)
+
+See Alternating Pressure Pads and Mattress.
+
+Used for compression of tissue or to limit motion. Custom molded covered only when member cannot be fitted with a prefabricated elbow support. Refer to the Medicare Benefit Policy Manual, Chapter 15, §130 – Leg, Arm, Back, and Neck Braces, Trusses, and Artificial Legs, Arms, and Eyes.
+
+Elbow Orthosis Refer to the Face-to-Face Requirement.
+
+Orthotic
+
+Interferential Stimulation Device
+
+Not covered Medicare does not have an NCD for interferential stimulation device LCDs/LCAs do not exist
+
+Electrical Stimulation Devices
+
+at this time. For coverage guidelines, refer to the UnitedHealthcare Commercial Medical Policy titled Electrical Stimulation for the Treatment of Pain and Muscle Rehabilitation.
+
+Coverage criteria apply; refer to the NCD for Transcutaneous Electrical Nerve Stimulation (TENS) for Acute Post-Operative Pain (10.2). LCDs/LCAs exist and compliance with these policies is required where applicable. Refer to the DME MAC LCD for Transcutaneous Electrical Nerve Stimulators (TENS) (L33802). For coverage of supplies necessary for TENS; refer to the NCD for Supplies Used in the Delivery of Transcutaneous Electrical Nerve Stimulation (TENS) and Neuromuscular Electrical Stimulation (NMES) (160.13). For an explanation of coverage for assessing patients’ suitability for electrical nerve stimulation therapy; refer to the NCD for Assessing Patient's Suitability for Electrical Nerve
+
+Transcutaneous Electrical Nerve Stimulator (TENS) Unit
+
+DME
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 10 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage DME
+
+Guidelines/Notes
+
+Electrical Stimulation Devices
+
+Transcutaneous Electrical Nerve Stimulator (TENS) Unit
+
+Stimulation Therapy (160.7.1). Note: TENS is not reasonable and necessary for the treatment of CLBP under section 1862(a) (1)(A) of the Act. As of June 8, 2015, The Centers for Medicare & Medicaid Services (CMS) coverage for Transcutaneous Electrical Nerve Stimulation (TENS) for chronic low back pain (CLBP) under Coverage with Evidence Development (CED) expired. Refer to the NCD for Transcutaneous Electrical Nerve Stimulation (TENS) for Chronic Low Back Pain (CLBP) (160.27).
+
+Electrical Stimulation Devices or Electromagnetic Therapy for Wound Healing
+
+Coverage criteria apply; refer to the NCD for Electrical Stimulation (ES) and Electromagnetic Therapy for the Treatment of Wounds (270.1). Note: Electrical stimulation devices for wound healing in the home setting is not covered. Refer to the NCD for Durable Medical Equipment Reference List (280.1).
+
+DME
+
+Electronic Speech Aid
+
+Prosthetic Coverage for member post laryngectomy or permanently inoperative larynx condition.
+
+Refer to the NCD for Electronic Speech Aids (50.2).
+
+For urinary incontinence; refer to the Medicare Benefit Policy Manual, Chapter 15, §120 - Prosthetic Devices.
+
+Enuresis Training Item (Penile Clamp)
+
+Prosthetic
+
+Eye Prosthesis
+
+See Artificial Eye.
+
+External Breast Prostheses
+
+See Breast Prosthesis.
+
+Face Masks – Oxygen
+
+DME
+
+Covered if oxygen is covered. Coverage criteria for oxygen apply. For coverage criteria, refer to the NCD for Home Use of Oxygen (240.2). Also refer to the DME MAC LCD for Oxygen and Oxygen Equipment (L33797).
+
+A facial prosthesis is covered when there is loss or absence of facial tissue due to disease, trauma, surgery, or a congenital defect. Refer to the DME MAC LCD for Facial Prostheses (L33738).
+
+Facial Prosthesis
+
+Prosthetic
+
+Fluidic Breathing Assister
+
+See Intermittent Positive Pressure Breathing (IPPB) Machines.
+
+Fomentation Devices
+
+See Heating Pads.
+
+Foot Cradle
+
+See Bed Cradle.
+
+Formula (Enteral Feedings)
+
+See Nutritional Therapy.
+
+Gradient Pressure Stockings (e.g., Jobst Stockings)
+
+See Stockings.
+
+Covered if patient’s condition is one for which the application of heat in the form of heat lamp is therapeutically effective. Refer to the NCD for Durable Medical Equipment Reference List (280.1).
+
+Heat Lamp
+
+DME
+
+Electrical or Non- Electrical
+
+Covered if patient’s medical condition is one for which the application of heat in the form of heat pad is therapeutically effective. Refer to the: NCD for Durable Medical Equipment Reference List (280.1). DME MAC LCD for Heating Pads and Heat Lamps (L33784).
+
+Heating Pads, Steam Packs or Hot Packs
+
+DME
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 11 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage Not covered Not primarily medical in nature.
+
+Guidelines/Notes
+
+Heating Pads, Steam Packs or Hot Packs
+
+Infrared
+
+Refer to the: NCD for Infrared Therapy Devices (270.6). DME MAC LCD for Infrared Heating Pad Systems (L33825).
+
+Not covered Refer to the Social Security Act §1861(n) and Social Security Act §1862(a)(6). Also refer to the Medicare Benefit Policy Manual, Chapter 15, §130 – Leg, Arm, Back, and Neck Braces, Trusses, and Artificial Legs, Arms, and Eyes.
+
+Helmet (Safety Equipment)
+
+High Frequency Chest Wall Oscillation Devices (e.g., ThAIRapy® vest) (HCPCS code E0483) Hospital Beds and Accessories (e.g., HCPCS codes E0302, E0304, E0316, E0328, and E0329) Refer to the Face-to-Face Requirement.
+
+Coverage criteria apply; refer to the DME MAC LCD for High Frequency Chest Wall Oscillation Devices (L33785).
+
+DME
+
+Covered when criteria are met. Refer to the NCD for Hospital Beds (280.7) and DME MAC LCD for Hospital Beds and Accessories (L33820). The following are not covered: • A total electric hospital bed; height adjustment feature is a convenience feature. For
+
+DME
+
+further details, refer to the DME MAC LCD for Hospital Beds and Accessories (L33820). • Bed specs or prism glasses (i.e., glasses use to read while lying flat on bed); refer to the Social Security Act §1861(n) and the Social Security Act §1862(a)(6). Also refer to the Medicare Benefit Policy Manual, Chapter 15, §110.1 (B)(2) – Equipment Presumptively Non-Medical.
+
+Lounge (power or manual), Oscillating, and over bed tables; refer to the NCD for Durable
+
+Medical Equipment Reference List (280.1).
+
+Hot Packs
+
+See Heating Pads.
+
+For use with C-PAP or BiPAP (Heated or Non- Heated)
+
+Coverage criteria apply. See Continuous Positive Airway Pressure (CPAP) & Bi-level Positive Airway Pressure (BiPAP).
+
+Humidifiers
+
+DME
+
+For use with Respiratory Assist Devices
+
+For coverage criteria for RADs; refer to the DME MAC LCD for Respiratory Assist Devices (L33800).
+
+DME
+
+For use with Oxygen System
+
+DME
+
+Coverage criteria for oxygen apply. For coverage criteria, refer to the NCD for Home Use of Oxygen (240.2). Also refer to the DME MAC LCD for Oxygen and Oxygen Equipment (L33797).
+
+Room or Central Heating System Types
+
+Not covered Environmental control equipment; not medical in nature. Refer to the NCD for Durable
+
+Medical Equipment Reference List (280.1).
+
+Hydraulic Lifts
+
+See Lifts.
+
+Immobilizer (extremity)
+
+See Knee Orthosis.
+
+Incontinence Control Devices (Mechanical and Hydraulic)
+
+Prosthetic Coverage criteria apply; refer to the NCD for Incontinence Control Devices (230.10).
+
+Infusion Pump
+
+See Pumps.
+
+Inhalation Machine
+
+See Nebulizers, or Humidifiers, or IPPB Machines.
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 12 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage DME
+
+Guidelines/Notes
+
+Insulin Pump, Including Insulin and Necessary Supplies
+
+Coverage criteria apply; refer to the NCD for Insulin Syringe (40.4) and NCD for Infusion Pumps (280.14). Also refer to the DME MAC LCD for External Infusion Pumps (L33794).
+
+Intermittent Positive Pressure Breathing (IPPB) Machines
+
+Covered if patient’s ability to breathe is severely impaired. (Includes fluidic breathing assisters). Refer to the NCD for Durable Medical Equipment Reference List (280.1).
+
+DME
+
+Iron Lungs
+
+See Ventilators.
+
+Jaw Motion Rehabilitation System (Passive Rehabilitation Therapy) (HCPCS Codes E1700, E1701, and E1702)
+
+Not covered Medicare does not have an NCD for jaw motion rehabilitation system. LCDs/LCAs do not
+
+exist at this time. For coverage guidelines, refer to the UnitedHealthcare Commercial Medical Policy titled Treatment of Temporomandibular Joint Disorders.
+
+Knee Orthosis (e.g., knee immobilizer, range of motion knee orthosis, rigid ace design knee orthosis, anterior cruciate ligament/ACL brace) Refer to the Face-to-Face Requirement.
+
+Orthotic
+
+Coverage criteria apply. Refer to the DME MAC LCD for Knee Orthoses (L33318).
+
+Lamb’s Wool Pads/Sheep Skins
+
+See Alternating Pressure Pads and Mattresses.
+
+Hydraulic (Hoyer) Lift/ Patient Lift (e.g., HCPCS codes E0635, E0636, E0639, E0640, E1035, E1036)
+
+Covered if the patient’s condition is such that periodic movement is necessary to effect improvement or to arrest or retard deterioration in his condition. Refer to the: NCD for Durable Medical Equipment Reference List (280.1). • Also refer to the DME MAC LCD for Patient Lifts (L33799).
+
+Lifts
+
+DME
+
+Motorized (Electric), Ceiling Modified
+
+Not covered Refer to the Medicare Benefit Policy Manual, Chapter 15, §110.2 – Equipment Presumptively
+
+Non-Medical. Also refer to the Social Security Act §1861(n) and 1862(a)(6).
+
+Seat Lift Mechanism
+
+DME
+
+Covered when criteria are met. Notes: Coverage is limited to the seat lift mechanism and installation of the mechanism only.
+
+Other related items and services such as costs for the chair or chair upholstery are not covered.
+
+Lift mechanism which operates by spring release with a sudden, catapult-like motion and
+
+jolts the patient from a seated to a standing position is not covered.
+
+Refer to the: NCD for Seat Lift (280.4). DME MAC LCD for Seat Lift Mechanisms (L33801).
+
+For wheelchairs/ scooters/POVs
+
+Not covered Not primarily medical in nature. Refer to the Social Security Act §1861(n), Social Security Act
+
+§1862(a)(6) and the Medicare Benefit Policy Manual, Chapter 16, §80 – Personal Comfort Items. Also see Wheelchairs.
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 13 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage Not covered Not primarily medical in nature. Other devices and equipment used for environmental control
+
+Guidelines/Notes
+
+Light Therapy Box (e.g., HCPCS codes E0692, E0693, and E0694)
+
+or to enhance the environmental setting in which the patient is placed are not considered covered DME. Refer to the Medicare Benefit Policy Manual, Chapter 15, §110.1 – Equipment Presumptively Non-Medical. Also see Ultraviolet Cabinet. See Spinal Orthosis.
+
+Lumbar Orthosis (LO) Lumbar-Sacral Orthosis (LSO)
+
+Coverage criteria apply; refer to the: Medicare Benefit Policy Manual, Chapter 15, §145 Lymphedema Compression
+
+Lymphedema Compression Treatment Items (e.g., HCPCS codes A6530, A6533, A6534, A6535, A6536, A6537, A6538, A6539, A6540, A6541, A6544, and A6549)
+
+DME
+
+Treatment Items.
+
+Medicare Claims Processing Manual, Chapter 20; §181 Lymphedema Compression
+
+Treatment Benefit.
+
+CMS Lymphedema Compression Treatment Items. MLN Article MM13286, Lymphedema Compression Treatment Items: Implementation. Palmetto GBA PDAC – Lymphedema Compression Treatment Items – Correct Coding
+
+and Billing – Revised (dmepdac.com).
+
+Lymphedema Compression Treatment Items – Correct Coding and Billing - Revised - JA
+
+DME – Noridian.
+
+Lymphedema Compression Treatment Items – Correct Coding and Billing – JB CGS. Lymphedema Compression Treatment Items – Correct Coding and Billing – JC CGS. Lymphedema Compression Treatment Items - Correct Coding and Billing – Revised - JD
+
+DME – Noridian.
+
+Lymphedema Pumps
+
+See Pneumatic Compression Devices.
+
+Coverage criteria apply; refer to the DME MAC LCD for Oral Appliances for Obstructive Sleep Apnea (L33611).
+
+Mandibular Device (for sleep apnea)
+
+DME
+
+Mattress
+
+See Hospital Beds and Accessories.
+
+Mechanical In-exsufflation Devices
+
+See Cough Assist Devices.
+
+Coverage criteria apply; refer to the NCD for Mobility Assistive Equipment (MAE) (280.3). Also refer to the DME MAC LCD for Canes and Crutches (L33733) and the NCD for Durable Medical Equipment Reference List (280.1). White canes are not covered; not primarily medical in nature; not considered Mobility Assistive Equipment. Refer to the NCD for White Cane for Use by a Blind Person (280.2).
+
+Mobility Assistive Equipment (MAE)
+
+Canes
+
+DME
+
+Coverage criteria apply; refer to the NCD for Mobility Assistive Equipment (MAE) (280.3). Also refer to the DME MAC LCD for Canes and Crutches (L33733). Note: Crutch substitute (HCPCS code E0118) is not covered. There is insufficient published clinical literature demonstrating safety and effectiveness in the Medicare population to establish the medical necessity for this device. Refer to the Noridian Article E0118 - Crutch Substitute. Coverage criteria apply; refer to the NCD for Mobility Assistive Equipment (MAE) (280.3) and DME MAC LCD for Power Mobility Devices (L33789).
+
+Crutches
+
+DME
+
+Power Mobility Device (PMDs) [includes
+
+DME
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 14 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage DME
+
+Guidelines/Notes
+
+Mobility Assistive Equipment (MAE) (continued)
+
+Power Wheelchairs and Power Operated Vehicle (also known as POVs or scooters)] (e.g., HCPCS codes E0984, E0986, E0988, E1002, E1003, E1004, E1005, E1006, E1007, E1008, E1009, E1010, E1017, E1230, E1239, K0801, K0806, K0808, K0831, K0835, K0836, K0837, K0838, K0839, K0840, K0841, K0843, K0848, K0849, K0850, K0851, K0852, K0854, K0855, K0856, K0857, K0858, K0859, K0860, K0861, K0863, K0864, K0877, K0884, K0890, K0891, K0898, and K0899) Refer to the Face-to- Face Requirement.
+
+For guidelines for repairs, replacements and maintenance, refer to the Medicare Benefit Policy Manual, Chapter 15, §110.2 – Repairs, Replacement and Maintenance and Delivery. For guidelines for PMD options and accessories, refer to DME MAC LCD for Wheelchair Options/Accessories (L33792). For guidelines for PMD seating, refer to the DME MAC LCD for Wheelchair Seating (L33312). For documentation and face-to-face requirements for PMDs, refer to the LCD for Power Mobility Devices (L33789) and MLN Matters SE1112 – Power Mobility Device Face-to-Face Examination Checklist. Notes: Home Assessment: Prior to or at the time of delivery of a POV or PWC, the supplier or practitioner must perform an on-site evaluation of the Member’s Home to verify that the member can adequately maneuver the device that is provided considering physical layout, doorway width, doorway thresholds, and surfaces. There must be a written report of this evaluation available on request. Refer to the DME MAC LCD for Power Mobility Devices (L33789).
+
+Battery replacement (purchased equipment) are covered only when the member owns or is purchasing (not renting) the electric wheelchair or POV. Refer to the Medicare Benefit Policy Manual, Chapter 15, §110.3 – Coverage of Supplies and Accessories. Also refer to the DME MAC LCD for Wheelchair Options/Accessories (L33792).
+
+The following are not covered: POVs for members who are capable of ambulation within the home but require a power
+
+vehicle for movement outside of the home. Refer to the DME MAC LCD for Power Mobility Devices (L33789).
+
+POVs that are primarily used to allow the member to perform leisure or recreational
+
+activities. Refer to the DME MAC LCD for Power Mobility Devices (L33789).
+
+Replacement of a wheelchair due to malicious damage, neglect or abuse; refer to the Medicare Benefit Policy Manual, Chapter 15, §110.2 – Repairs, Replacement and Maintenance and Delivery.
+
+Repairs on rented DME items (DME provider is responsible for such repairs); refer to the Medicare Benefit Policy Manual, Chapter 15, §110.2 – Repairs, Replacement and Maintenance and Delivery. Coverage criteria apply; refer to the NCD for Mobility Assistive Equipment (MAE) (280.3). Also refer to the DME MAC LCD for Walkers (L33791). Note: The medical necessity for a walker with an enclosed frame (E0144) has not been established. Therefore, if an enclosed frame walker is provided, it will be denied as not reasonable and necessary. Refer to the DME MAC LCD for Walkers (L33791). Coverage criteria apply; refer to the NCD for Mobility Assistive Equipment (MAE) (280.3) and DME MAC LCD for Manual Wheelchair Bases (L33788).
+
+Walkers
+
+DME
+
+Wheelchairs (manual) (e.g., HCPCS codes E1161, E1232, E1233,
+
+DME
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 15 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage DME
+
+Guidelines/Notes
+
+Mobility Assistive Equipment (MAE) (continued)
+
+E1234, E1235, E1236, E1237, and E1238)
+
+For guidelines for wheelchair options and accessories, refer to DME MAC LCD for Wheelchair Options/Accessories (L33792). For guidelines for wheelchair seating, refer to the DME MAC LCD for Wheelchair Seating (L33312). For guidelines for repairs, replacements and maintenance, refer to the Medicare Benefit Policy Manual, Chapter 15, §110.2 – Repairs, Replacement and Maintenance and Delivery. Notes: Mobile Geriatric Chairs may be covered when criteria are met; refer to the NCD for
+
+Durable Medical Equipment Reference List (280.1). Also refer to the NCD for Mobility Assistive Equipment (MAE) (280.3).
+
+Payment is made for only one wheelchair at a time. Backup chairs are denied as not reasonable and necessary. One month's rental for a standard manual wheelchair is covered if a member-owned wheelchair is being repaired. Refer to the DME MAC LCD for Manual Wheelchair Bases (L33788).
+
+The following are not covered: Ramp for a wheelchair is not covered; not primarily medical in nature. Refer to the
+
+Medicare Benefit Policy Manual, Chapter 15, § 110.1 (B)(2) – Equipment Presumptively Non-Medical.
+
+Wheelchair upgrades that are beneficial primarily in allowing the member to perform
+
+leisure or recreational activities; refer to the Medicare Benefit Policy Manual, Chapter 16, §20 – Services Not Reasonable and Necessary and §10 - General Exclusions from Coverage and the DME MAC LCD for Power Mobility Devices (L33789) and LCA for Power Mobility Devices - Policy Article (A52498).
+
+Deluxe items or features; refer to the Medicare Benefit Policy Manual, Chapter 16, §20 – Services Not Reasonable and Necessary and §10 - General Exclusions from Coverage. Items purchased for comfort or added convenience for the member or the member’s caretaker; refer to the Medicare Benefit Policy Manual, Chapter 16, §20 – Services Not Reasonable and Necessary and §10 - General Exclusions from Coverage.
+
+Replacement of a wheelchair due to malicious damage, neglect or abuse; refer to the Medicare Benefit Policy Manual, Chapter 15, §110.2 – Repairs, Replacement, and Maintenance and Delivery.
+
+Repairs on rented DME items (DME provider is responsible for such repairs); refer to the
+
+Medicare Benefit Policy Manual, Chapter 15, §110.2 – Repairs, Replacement, and Maintenance and Delivery.
+
+Myoelectric Arm Orthosis (i.e., MyoPro®) (HCPCS codes L8701 and L8702)
+
+Prosthetic Medicare does not have an NCD for myoelectric arm orthosis (i.e., MyoPro®). LCDs/LCAs do
+
+not exist at this time. For coverage guidelines, refer to the UnitedHealthcare Commercial Medical Policy titled Omnibus Codes.
+
+Maybe covered when criteria are met. For specific coverage guideline, refer to the NCD for Durable Medical Equipment Reference List (280.1). Also refer to the DME MAC LCD for Nebulizers (L33370) for specific coverage guidelines.
+
+Nebulizers and Supplies
+
+DME
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 16 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage
+
+Guidelines/Notes
+
+Negative Pressure Wound Therapy Pump
+
+See Vacuum Assisted Closure Device.
+
+Non-Contact Normothermic Wound Therapy (NNWT)
+
+Insufficient scientific or clinical evidence to be considered reasonable and necessary. Refer to the NCD for Noncontact Normothermic Wound Therapy (NNWT) (270.2).
+
+Not covered
+
+Enteral nutritional therapy is covered when criteria are met. Refer to the DME MAC LCD for Enteral Nutrition (L38955).
+
+Nutritional Therapy, Enteral
+
+Prosthetic
+
+Parenteral nutritional therapy is covered when criteria are met. Refer to the DME MAC LCD for Parenteral Nutrition (L38953). Also refer to the Medicare Prescription Drug Benefit Manual, Chapter 6, Appendix C – Medicare Part B versus Part D Coverage Issues.
+
+Nutritional Therapy, Parenteral
+
+Prosthetic
+
+Coverage criteria apply. Refer to the Medicare Benefit Policy Manual, Chapter 15, §140 - Therapeutic Shoes for Individuals with Diabetes.
+
+Orthopedic Shoes
+
+Orthotic
+
+LCDs/LCAs exist and compliance with these policies is required where applicable. Refer to the DME MAC LCD for Therapeutic Shoes for Persons with Diabetes (L33369).
+
+Prosthetic Colostomy (and other ostomy) bags and necessary accouterments required for attachment
+
+Ostomy Supplies
+
+are covered as Prosthetic Devices. This coverage also includes irrigation and flushing equipment and other items and supplies directly related to ostomy care, whether the attachment of a bag is required. Refer to the Medicare Benefit Policy Manual, Chapter 15, § 120 – Prosthetic Devices. For coverage guidelines, refer to the DME MAC LCD for Ostomy Supplies (L33828). Examples of items that are not primarily medical in nature, does not meet the definition of DME and/or are personal comfort items, include but are not limited to: Air Cleaner/Purifier Air Conditioner Bathtub Lifts and Seats Bed Baths (home type) Bed Boards Bed Lifter (bed elevator) Braille Teaching Text Carafes Commode - elevated seat (raised toilet seat) Dehumidifier (room or central heating system type) Electrostatic Machines Elevators Emesis Basin Esophageal Dilator Exercise Equipment (e.g., barbells, all types of tricycles) Grab Bars (for bath and toilet) Heat and Massage Foam Cushion Pads Heater (portable room heater) Heating and Cooling Plants
+
+Other Non-Covered Items (e.g., HCPCS codes E0761 and E1399)
+
+Not covered
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 17 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage Not covered
+
+Guidelines/Notes Injectors (hypodermic jet pressure powered injectors
+
+Other Non-Covered Items
+
+Leotard (pressure garment) Massage Devices Parallel Bars Pulse Tachometer Sauna Baths Stair Lifts/Stair Elevator Shower/Bathtub Seat Speech Teaching Machines Standing Tables/Standing Frame System (Includes Easy Stand, Tilt Stand and Mobile
+
+Stander)
+
+Telephone Alert System Toilet Seat, Elevated Bidet Treadmill Exerciser Refer to the NCD for Durable Medical Equipment Reference List (280.1). Back Support (posture chair) Bed Wetting Alarm Breast Pump (Electric or Manual) Commode - Chair Foot Rest Gait Belt Spirometer Vitrectomy Face Support (Positioning Pillow) Wig/Hairpiece Refer to the Medicare Benefit Policy Manual, Chapter 15, §110.1 – Definition of DME.
+
+Jacuzzi
+
+Personal or Comfort Items Telephone Arms/Cradle Transfer Bench (for tub or toilet) Vehicle/Trunk Modification Walk-in bathtub/showers Refer to the Medicare Benefit Policy Manual, Chapter 16, §80 – Personal Comfort Items.
+
+Oxygen and Oxygen Equipment
+
+DME
+
+For coverage criteria, refer to the NCD for Home Use of Oxygen (240.2). Also refer to the DME MAC LCD for Oxygen and Oxygen Equipment (L33797).
+
+Covered when the patient has undergone a successful trial period of paraffin therapy ordered by a physician and the patient’s condition is expected to be relieved by a long term use of this modality. Refer to the NCD for Durable Medical Equipment Reference List (280.1).
+
+Paraffin Bath Unit
+
+Portable
+
+DME
+
+Institutional equipment; not appropriate for home use. Refer to the NCD for Durable Medical Equipment Reference List (280.1).
+
+Standard
+
+Not covered
+
+Patient Lift
+
+See Lifts.
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 18 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage Medical Supply*
+
+Guidelines/Notes For the self-monitoring of patients with pure asthma when used as part of a comprehensive asthma management program. HCPCS code A4614; listed in the July 2014 DMEPOS Fee Schedule under payment class IN (inexpensive or other routinely purchased items). Inexpensive or other routinely purchased DME is defined as equipment with a purchase price not exceeding $150, or equipment that the Secretary determines is acquired by purchase at least 75 percent of the time, or equipment that is an accessory used in conjunction with a nebulizer, aspirator, or ventilators that are either continuous airway pressure devices or intermittent assist devices with continuous airway pressure devices. Suppliers and providers other than HHAs bill the DMERC or, in the case of implanted DME only, the local carrier. Refer to the following sections of the Medicare Claims Processing Manual, Chapter 20: §30.1 – Inexpensive or Other Routinely Purchased DME. §130.2 – Billing for Inexpensive or Other Routinely Purchased DME.
+
+Peak Expiratory Flow Meter, hand-held
+
+Penile Prosthesis
+
+Prosthetic Coverage criteria apply; refer to the NCD for Diagnosis and Treatment of Impotence (230.4).
+
+Percussor (Non-Vest Type)
+
+Electric or Pneumatic, Home Model
+
+Covered for mobilizing respiratory tract secretions in patients with chronic obstructive lung disease, chronic bronchitis, or emphysema, when patient or operator of powered percussor has received appropriate training by a physician or therapist, and no one competent to administer manual therapy is available. Refer to the NCD for Durable Medical Equipment Reference List (280.1). For ThAIRapy® Vest System, see High Frequency Chest Wall Oscillation Devices.
+
+DME
+
+Intrapulmonary Percussive Ventilator (IPV)
+
+Not covered No data to support the effectiveness of the device in the home setting. Refer to the NCD for
+
+Intrapulmonary Percussive Ventilator (IPV) (240.5). Also refer to the DME MAC LCD for Intrapulmonary Percussive Ventilation System (L33786).
+
+Medical Supply*
+
+Covered when performed as part of the physician services. Refer to the Medicare Benefit Policy Manual, Chapter 15, §60.1 – Services and Supplies Incident To Physician’s Professional Services.
+
+Pessary
+
+Pneumatic Compression Devices (e.g., HCPCS codes E0651, E0652, and E0667)
+
+For the treatment of lymphedema or chronic venous insufficiency with venous stasis ulcer
+
+Pneumatic devices are covered for the treatment of lymphedema or for the treatment of chronic venous insufficiency with venous stasis ulcers. Coverage criteria apply; refer to the: NCD for Pneumatic Compression Devices (280.6). LCA for Standard Documentation Requirements for All Claims Submitted to DME MACs
+
+DME
+
+(A55426).
+
+Medicare Claims Processing Manual, Chapter 20; §181 Lymphedema Compression
+
+Treatment Benefit.
+
+CMS Lymphedema Compression Treatment Items. MLN Article MM13286, Lymphedema Compression Treatment Items: Implementation. Palmetto GBA PDAC - Lymphedema Compression Treatment Items - Correct Coding
+
+and Billing - Revised (dmepdac.com).
+
+For the prevention of illnesses/disease
+
+Pneumatic compression devices (E0676 and A4600) for the prevention of illnesses/disease including DVT are not covered. Devices for the prevention of disease or illness are statutorily
+
+Not covered
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 19 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage Not covered non-covered under Social Security Act §1862(a)(1)(A). Refer to the Medicare Benefit Policy
+
+Guidelines/Notes
+
+Pneumatic Compression Devices (e.g., HCPCS codes E0651, E0652, and E0667)
+
+including deep vein thrombosis (DVT)
+
+Manual, Chapter 16, §20 – Services Not Reasonable and Necessary. For the treatment of lymphedema or for the treatment of chronic insufficiency of the lower extremity, refer to the NCD for Pneumatic Compression Devices (280.6).
+
+For the treatment of peripheral arterial disease
+
+Not covered Pneumatic compression devices (e.g., E0675) for arterial insufficiency are not covered.
+
+Medicare does not have an NCD for pneumatic compression devices for the treatment of peripheral arterial disease. LCDs/LCAs do not exist at this time. For coverage guidelines, refer to the UnitedHealthcare Commercial Medical Policy titled Pneumatic Compression Devices.
+
+Pneumatic Splints
+
+See AFO/KAFO.
+
+For members with chronic pulmonary condition. Refer to the NCD for Durable Medical Equipment Reference List (280.1).
+
+Postural Drainage Boards
+
+DME
+
+Power Mobility Devices
+
+See Mobility Assistive Equipment.
+
+Power Operated Vehicles (POV)/Scooters
+
+See Mobility Assistive Equipment.
+
+Power Traction Equipment/Devices (e.g., VAX- D®, DRX9000, SpineMED™, Spina System™, Lordex® Decompression Unit, DRS System™)
+
+See Traction Equipment.
+
+Medical Supply*
+
+Not covered as DME; billed as part of an inpatient hospital or SNF care or as incident to a physician’s service. Refer to the Medicare Benefit Policy Manual, Chapter 15, §60.1 - Incident To Physician’s Professional Services.
+
+Protector, heel, or elbow
+
+Not covered Oximeters (E0445) and replacement probes (A4606) will be denied as non-covered because
+
+Pulse Oximeter
+
+they are monitoring devices that provide information to physicians to assist in managing the member’s treatment. Refer to the DME MAC LCD for Oxygen and Oxygen Equipment (L33797).
+
+Pumps, including Medications and Necessary Supplies
+
+Enteral
+
+See Nutritional Therapy (Enteral).
+
+Infusion (e.g., HCPCS code E0784)
+
+DME
+
+Coverage criteria apply. LCDs/ LCAs exist and compliance with these policies is required where applicable. Refer to the: NCD for Infusion Pumps (280.14). • DME MAC LCD for External Infusion Pumps (L33794). External continuous subcutaneous insulin infusion (CSII) pump and related drugs and supplies are covered when coverage criteria are met. Refer to the NCD for Infusion Pumps (280.14). Also refer to DME MAC LCD for External Infusion Pumps (L33794).
+
+Insulin, External
+
+DME
+
+Insulin, Implantable
+
+Not covered Refer to the NCD for Infusion Pumps (280.14).
+
+LCDs/LCAs exist and compliance with these policies is required where applicable. These LCDs/LCAs are available at https://www.cms.gov/medicare-coverage-database/new- search/search.aspx.
+
+Lymphedema
+
+DME
+
+Coverage criteria apply; refer to the NCD for Pneumatic Compression Devices (280.6).
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 20 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage
+
+Guidelines/Notes
+
+Pumps, including Medications and Necessary Supplies
+
+Parenteral
+
+See Nutritional Therapy.
+
+Negative Pressure Wound
+
+See Vacuum Assisted Closure Device.
+
+For Erectile Dysfunction
+
+See Vacuum Pump.
+
+PureWick™ Urine Collection System (HCPCS code E2001)
+
+Refer to the Medicare Advantage Medical Policy titled Urinary and Fecal Incontinence: Diagnosis and Treatment.
+
+Member must be on home dialysis. Refer to the Medicare Benefit Policy Manual, Chapter 11, §20.4 (A)(1) Equipment and Supplies.
+
+Recliner (Chair)
+
+DME
+
+Reflectance Colorimeters
+
+See Blood Glucose Analyzer-Reflectance Colorimeter.
+
+Respirators
+
+See Ventilators.
+
+Rolling Chair/Roll-about Chair (Geriatric Chair)
+
+DME
+
+Covered if member meets Mobility Assistive Equipment clinical criteria. Coverage is limited to those roll-about chairs having casters of at least 5 inches in diameter and officially designed to meet the needs of ill, injured, or otherwise impaired individuals. Not covered for the wide range of chairs with smaller casters as are found in general use in homes, offices, and institutions for many purposes not related to the care/treatment of ill/injured persons. This type is not primarily medical in nature. Refer to the: NCD for Mobility Assistive Equipment (MAE) (280.3). NCD for Durable Medical Equipment Reference List (280.1). See Mobility Assistive Equipment.
+
+Safety Rollers
+
+Scleral Shell
+
+Prosthetic
+
+Scleral shell (or shield) is a catchall term for different types of hard scleral contact lenses. Scleral shell may be covered as prosthetic when: • Used as an artificial eye when the eye has been rendered sightless and shrunken by
+
+inflammatory disease; or
+
+Used in combination with artificial tears in the treatment of “dry eye” of diverse etiology. Refer to the NCD for Scleral Shell (80.5).
+
+Scoliosis Orthosis
+
+See Spinal Orthosis/CTLSO and TLSO.
+
+Coverage criteria apply; refer to the Medicare Benefit Policy Manual, Chapter 15, § 290 – Foot Care and Medicare Benefit Policy Manual, Chapter 15, §140 – Therapeutic Shoes for Individuals with Diabetes. LCDs/LCAs exist and compliance with these policies is required where applicable. Refer to the DME MAC LCD for Therapeutic Shoes for Persons with Diabetes (L33369) and LCA for Therapeutic Shoes for Persons with Diabetes – Policy Article (A52501).
+
+Shoes
+
+Orthotic
+
+Inserts/Orthotics.
+
+Orthopedic. Prosthetic. Therapeutic (e.g., diabetic shoes).
+
+Covered if patient has an infection or injury of the perineal area and the item has been prescribed by the patient’s physician as a part of his planned regimen of treatment in the patient’s home. Refer to the NCD for Durable Medical Equipment Reference List (280.1).
+
+Sitz Bath (Portable)
+
+DME
+
+Sleep Apnea Device
+
+See Mandibular Device.
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 21 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage Medical Supply*
+
+Guidelines/Notes
+
+Used to support and limit motion of an injured upper arm. Refer to the Medicare Benefit Policy Manual, Chapter 15, §60.1 – Incident To Physician’s Professional Services.
+
+Slings
+
+Speech Generating Device (e.g., HCPCS code E2510)
+
+DME
+
+Coverage criteria apply. Refer to the NCD for Speech Generating Devices (50.1). LCDs/LCAs exist and compliance with these policies is required where applicable. Refer to the DME MAC LCD for Speech Generating Devices (SGD) (L33739).
+
+Coverage criteria apply. Refer to the DME MAC LCD for Spinal Orthoses: TLSO and LSO (L33790).
+
+Spinal Orthosis (Body Jacket) Cervical-Thoracic-Lumbar Sacral Orthosis
+
+Orthotic
+
+(CTLSO)
+
+Lumbar Orthosis (LO) Lumbar-Sacral Orthosis (LSO) Thoracic-Lumbar-Sacral Orthosis (TLSO) Refer to the Face-to-Face Requirement. Splints
+
+Bi-Directional Static Progressive Stretch Splinting (e.g., HCPCS Codes E1801, E1806, E1811, E1816, E1818, E1831, E1841) Static progressive
+
+Not covered Medicare does not have an NCD for bi-directional static progressive stretch splinting.
+
+LCDs/LCAs do not exist at this time. For coverage guidelines, refer to the UnitedHealthcare Commercial Medical Policy titled Mechanical Stretching Devices.
+
+(SP) stretch (splinting) devices, e.g., Joint Active Systems (JAS). Patient-actuated serial stretch (PASS), e.g., ERMI system.
+
+Low-Load Prolonged- Duration Stretch (LLPS) Devices such as the Dynasplint System (e.g., HCPCS codes E1800, E1810, E1812, E1815, E1830)
+
+Medicare does not have an NCD for low-load prolonged-duration stretch (LLPS) devices such as the Dynasplint System. LCDs/LCAs do not exist at this time. For coverage guidelines, refer to the UnitedHealthcare Commercial Medical Policy titled Mechanical Stretching Devices.
+
+DME
+
+Foot (e.g., Denis- Browne)
+
+Orthotic
+
+Refer to the DME MAC LCD for Orthopedic Footwear (L33641). Also refer to the Medicare Benefit Policy Manual, Chapter 15, §130 – Leg, Arm, Back, and Neck Braces, Trusses, and Artificial Legs, Arms, and Eyes.
+
+For mild sprains, strains, and carpal tunnel conditions. Custom molded covered only when member cannot be fitted with the prefabricated wrist/hand/finger/splint/brace. Refer to the
+
+Wrist/Hand/Finger
+
+Orthotic
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 22 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage Orthotic
+
+Guidelines/Notes
+
+Splints
+
+Wrist/Hand/Finger
+
+Medicare Benefit Policy Manual, Chapter 15, §130 – Leg, Arm, Back, and Neck Braces, Trusses, and Artificial Legs, Arms, and Eyes.
+
+Steam Packs
+
+See Heating Pads (Covered under the same condition as heating pads).
+
+Gradient Compression Stockings, Below Knee
+
+Prosthetic Covered when used to secure a primary dressing over an open venous stasis ulcer that has been treated by a physician or other healthcare professional requiring medically necessary debridement or treatment of a wound caused by, or treated by, a surgical procedure. Refer to the: DME MAC LCD for Surgical Dressings (L33831). Medicare Benefit Policy Manual, Chapter 15, §100 – Surgical Dressings, Splints, Casts,
+
+Stockings
+
+and Other Devices Used for Reductions of Fractures and Dislocations.
+
+Stump Socks
+
+See Artificial Limbs.
+
+Covered for members who have difficulty raising and clearing secretions secondary to one of the following: 1) Cancer or surgery of the throat or mouth 2) Dysfunction of the swallowing muscles 3) Unconsciousness or obtunded state 4) Tracheostomy. Must be appropriate for use without professional supervision. Refer to the: DME MAC LCD for Suction Pumps (L33612). NCD for Durable Medical Equipment Reference List (280.1). Coverage criteria apply. Refer to the NCD for Sykes Hernia Control (280.12).
+
+Suction Pump or Machine
+
+DME
+
+Sykes Hernia Control
+
+Orthotic
+
+TENS Unit/Muscle Stimulator
+
+See Electrical Stimulation Devices.
+
+Thoracic-lumbar-sacral Orthosis (TLSO)
+
+See Spinal Orthosis.
+
+Toe Filler
+
+Prosthetic Refer to the Medicare Benefit Policy Manual, Chapter 15, § 290 – Foot Care.
+
+LCDs/LCAs exist and compliance with these policies is required where applicable. These LCDs/LCAs are available at https://www.cms.gov/medicare-coverage-database/search.aspx.
+
+Speaking Valve and Tubes
+
+A trachea tube has been determined to satisfy the definition of a Prosthetic Device, and the tracheostomy speaking valve is an add-on to the trachea tube which may be considered a medically necessary accessory that enhances the function of the tube, which makes the system a better prosthesis. As such, a tracheostomy speaking valve is covered as an element of the trachea tube which makes the tube more effective. Refer to the NCD for Tracheostomy Speaking Valve (50.4).
+
+Tracheostomy
+
+Prosthetic
+
+Care Kit (Initial and Replacements)
+
+A tracheostomy care or cleaning started kit is covered for a member following an open surgical tracheostomy up to 2 weeks post-operatively. Replacement kits are covered at one per day only. Refer to the DME MAC LCD for Tracheostomy Care Supplies (L33832).
+
+Prosthetic
+
+General Coverage Guidelines
+
+Covered if patient has orthopedic impairment requiring traction equipment that prevents ambulation during the period of use (Consider covering devices usable during ambulation; e.g., cervical traction collar, under the brace provision). Refer to the NCD for Durable Medical Equipment Reference List (280.1).
+
+Traction Equipment
+
+DME
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 23 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage DME
+
+Guidelines/Notes
+
+Traction Equipment
+
+Cervical (Over-the-Door or Cervical Portable Traction Unit
+
+Covered if both of the following criteria are met: The patient has a musculoskeletal or neurologic impairment requiring traction equipment;
+
+and
+
+The appropriate use of a home cervical traction device has been demonstrated to the
+
+patient and the patient tolerated the selected device.
+
+Cervical (Over-the-Door or Cervical Portable Traction Unit
+
+Refer to the DME MAC LCD for Cervical Traction Devices (L33823).
+
+Cervical Attached To Headboard
+
+Not covered No proven clinical advantage compared to over-the-door traction mechanism. Refer to the
+
+DME MAC LCD for Cervical Traction Devices (L33823).
+
+Cervical, Not Requiring Additional Stand or Frame (e.g., Orthotrac Pneumatic Vest or Pronex)
+
+Not covered No proven clinical advantage compared to over-the-door traction mechanism.
+
+Refer to the DME MAC LCD for Cervical Traction Devices (L33823).
+
+Freestanding Traction Stand
+
+Not covered No proven clinical advantage compared to over-the-door traction. Refer to the DME MAC
+
+LCD for Cervical Traction Devices (L33823).
+
+Pneumatic, Free- Standing Cervical, Free-Standing Stand/Frame. Applying traction force to other than mandible (e.g., Saunders Home Trac)
+
+Covered if member meets criteria for over-the-door traction unit and one of the following 3 criteria are met: The treating physician orders greater than 20 pounds of cervical traction in the home
+
+DME
+
+setting; or,
+
+The member has:
+
+o A diagnosis of temporomandibular joint (TMJ) dysfunction; and o Received treatment for the TMJ condition; or
+
+The member has distortion of the lower jaw or neck anatomy (e.g., radical neck
+
+dissection) such that a chin halter is unable to be utilized.
+
+Refer to the DME MAC LCD for Cervical Traction Devices (L33823).
+
+Power Traction Equipment/Devices (e.g., VAX-D®, DRX9000, SpineMED™, Spina System™, Lordex® Decompression Unit, DRS System™
+
+Not covered Refer to the NCD for Vertebral Axial Decompression (VAX-D) and Medicare Benefit Policy
+
+Manual, Chapter 16, §20 – Services Not Reasonable and Necessary and §10 – General Exclusions from Coverage.
+
+Transfer (Sliding) Board
+
+DME
+
+Covered when part of an authorized treatment plan necessary to treat an illness or injury.
+
+A trapeze bar attached to a bed is covered if the patient has a covered hospital bed and the patient needs this device to sit up because of a respiratory condition, to change body position for other medical reasons, or to get in or out of bed. Not covered when used on an ordinary bed. Refer to the NCD for Durable Medical Equipment Reference List (280.1). Also see Hospital Beds and Accessories.
+
+Trapeze Bar
+
+DME
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 24 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage Orthotic
+
+Guidelines/Notes
+
+Covered as prosthetic when used as a holder for surgical dressings or for lumbar strains, sprains, or hernia. Refer to the: Medicare Benefit Policy Manual, Chapter 15, §120 – Prosthetic Devices and §130 Leg,
+
+Truss
+
+Arm, Back, and Neck Braces, Trusses, and Artificial Legs, Arms, and Eyes.
+
+NCD for Corset Used as Hernia Support (280.11). Covered for selected patients with generalized intractable psoriasis. Using appropriate consultation, the contractor should determine whether medical and other factors justify treatment at home rather than at alternative sites, e.g., outpatient department of a hospital. Refer to the NCD for Durable Medical Equipment Reference List (280.1).
+
+Ultraviolet Cabinet
+
+DME
+
+Medical Supply*
+
+Generally used to treat chronic ulcers that are usually caused by varicosities of the leg. Refer to the DME MAC LCD for Surgical Dressings (L33831).
+
+Unna Boot/Strapping
+
+If member is confined to bed. Refer to the NCD for Durable Medical Equipment Reference List (280.1).
+
+Urinal (Autoclavable)
+
+DME
+
+Prosthetic Urinary collection and retention system that replace bladder function in the case of
+
+Urinary Drainage Bags
+
+permanent urinary incontinence are covered as Prosthetic Devices. There is insufficient evidence to support the medical necessity of a single use system bag rather than the multi- use bag. Therefore, a single use drainage system is subject to the same coverage parameters as the multi-use drainage bags. Refer to the NCD for Urinary Drainage Bags (230.17).
+
+Urological Supplies
+
+See Catheters and Supplies.
+
+Vacuum Assisted Closure Device (VAC) or Negative Pressure Wound Therapy Pump (e.g., HCPCS codes E2402, A6550, and A7000)
+
+Coverage criteria apply; refer to the DME MAC LCD for Negative Pressure Wound Therapy Pumps (L33821).
+
+DME
+
+Not covered Vacuum erection devices and related accessories are statutorily non-covered based on the
+
+Vacuum Pump or Device (e.g., ErecAid)
+
+Achieving a Better Life Experience (ABLE) Act of 2014. Refer to the DME MAC LCD for Vacuum Erection Devices (VED) (L34824).
+
+Only for members with a respiratory illness. Refer to the NCD for Durable Medical Equipment Reference List (280.1).
+
+Vaporizers
+
+DME
+
+Covered for treatment of neuromuscular diseases, thoracic restrictive diseases, and chronic respiratory failure consequent to chronic obstructive pulmonary disease. Includes both positive and negative pressure types. Refer to the NCD for Durable Medical Equipment Reference List (280.1). Effective June 9, 2025, coverage criteria apply for Respiratory Assist Device (RADs) with or without a backup rate feature and Home Mechanical Ventilators (HMVs), in the home, as treatment for patients with Chronic Respiratory Failure (CRF) consequent to Chronic Obstructive Pulmonary Disease (COPD). Refer to the NCD for Noninvasive Positive Pressure Ventilation (NIPPV) in the Home for the Treatment of Chronic Respiratory Failure (CRF) Consequent to Chronic Obstructive Pulmonary Disease (COPD) (240.9).
+
+Ventilators (including Supplies) (HCPCS codes E0465, E0466, E0467, and E0468)
+
+DME
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 25 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage DME
+
+Guidelines/Notes Coding and Billing Clarification (Note: For coverage requirements, refer to the applicable NCD and available LCDs, and Palmetto GBA PDAC Advisory Articles.): HCPCS codes E0465 and E0466: Products currently classified as HCPCS code E0465 or E0466 when used to provide CPAP or bi-level PAP (with or without backup rate) therapy, regardless of the underlying medical condition, shall not be paid in the FSS payment category. A ventilator is not eligible for reimbursement for any of the conditions described in the Respiratory Assist Devices (RADs) LCD even though the ventilator equipment may have the capability of operating in a bi-level PAP (E0470, E0471) mode. Claims for ventilators used to provide CPAP or bi-level CPAP therapy for conditions described in this RAD policy (e.g., Trilogy) will be denied as not reasonable and necessary. Refer to the DME MAC LCD for Respiratory Assist Devices (L33800) and Palmetto GBA PDAC Correct Coding and Coverage of Ventilators – Advisory Article. HCPCS code E0467 and E0468: Medicare’s multi-function ventilator policy applies to members who are prescribed and meet the medical necessity coverage criteria for a ventilator and at least one of the four additional functions (namely, oxygen concentrator, cough stimulator, suction pump, and nebulizer). HCPCS codes E0467 and E0468 are used to describe multi-function ventilators. For detailed coding and billing information, refer to the CMS Medicare Learning Network (MLN) (SE20012) and Palmetto GBA PDAC Correct Coding and Coverage of Ventilators – Advisory Article.
+
+Ventilators (including Supplies) (HCPCS codes E0465, E0466, E0467, and E0468)
+
+Note: Using the HCPCS codes for CPAP (E0601) or bi-level PAP (E0470, E0471)
+
+devices for a ventilator (E0465, E0466, E0467 or E0468) used to provide CPAP or bi- level PAP therapy is incorrect coding. Refer to the DME MAC LCD for Respiratory Assist Devices (L33800) and Palmetto GBA PDAC Correct Coding and Coverage of Ventilators – Advisory Article.
+
+Walkers
+
+DME
+
+See Mobility Assistive Equipment.
+
+Wheelchairs (Manual, Motorized, Power Operated, Scooters, POVs, Specially Sized) Refer to the Face-to- Face Requirement.
+
+General Coverage Guidelines
+
+DME
+
+See Mobility Assistive Equipment.
+
+Ramp for Wheelchair
+
+Not covered See Mobility Assistive Equipment.
+
+Coverage criteria apply for Group 2 power wheelchair with power options that can accommodate rehabilitative features (for example, tilt in space) or Group 3 power wheelchair; refer to the NCD for Seat Elevation Equipment (Power Operated) on Power Wheelchairs (280.16).
+
+Seat Elevator for PWC
+
+DME
+
+Whirlpool Bath Equipment (Standard/ Non-Portable)
+
+Covered if patient is homebound and has a (standard) condition for which the whirlpool bath can be expected to provide substantial therapeutic benefit justifying its cost. Where patient is not homebound but has such a condition, payment is restricted to the cost of providing the services elsewhere; e.g., an outpatient department of a participating hospital, if that alternative is less costly. In all cases, refer claim to medical staff for a determination. Refer to the NCD for Durable Medical Equipment Reference List (280.1).
+
+DME
+
+Not covered Not primarily medical in nature. Refer to the NCD for Durable Medical Equipment Reference
+
+Whirlpool Pump (Portable)
+
+List (280.1).
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 26 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Item
+
+Coverage
+
+Guidelines/Notes
+
+Wrist splint
+
+See Splints.
+
+Definitions
+
+Durable Medical Equipment (DME): Equipment that can withstand repeated use, is primarily and customarily used to serve a medical purpose, generally is not useful to a person in the absence of an illness or injury, and is appropriate for use in the home. Medicare Benefit Policy Manual, Chapter 15, §110.1 – Definition of Durable Medical Equipment.
+
+Implantable Devices: Defined by the FDA as a device that is placed into a surgically or naturally formed cavity of the human body if the device is intended to remain there for a period of 30 days or more. In order to protect public health, the FDA may determine that devices placed in subjects for shorter periods of time are also implants.
+
+According to Medicare, these devices are used as an integral and subordinate part of the procedure performed, are used for one patient only, are single use, come in contact with human tissue, and are surgically implanted or inserted whether or not they remain with the patient when the patient is released from the hospital outpatient department. The following are not considered to be Implantable Devices: sutures, customized surgical kits, or clips, other than radiological site markers, furnished incident to a service or procedure. They are also not materials such as biologicals or synthetics that may be used to replace human skin. FDA – Medical Devices, IDE Definitions and Acronyms and Medicare Claims Processing Manual, Chapter 4, §60.3 – Devices Eligible for Transitional Pass-Through Payments.
+
+Member’s Home: For the purposes of rental and purchase of DME, the Member’s Home may be his own dwelling, an apartment, a relative's home, a home for the aged, or some other type of institution. However, an institution may not be considered the Member’s Home if it: Meets at least the basic requirement in the definition of a hospital (i.e., it is primarily engaged in providing, by or under the supervision of physicians, to
+
+inpatients, diagnostic and therapeutic services for medical diagnosis, treatment, and care of injured, disabled, and sick persons, or rehabilitation services for the rehabilitation of injured, disabled, or sick persons).
+
+Meets at least the basic requirement in the definition of a skilled nursing facility (i.e., it is primarily engaged in providing skilled nursing care and related services to inpatients who require medical or nursing care, or rehabilitation services for the rehabilitation of injured, disabled, or sick persons). Medicare Benefit Policy Manual, Chapter 15, §110.1 – Definition of Durable Medical Equipment (4) (D).
+
+Orthotic: Devices that are designed to support a weakened body part. (These appliances are manufactured or custom-fitted to an individual member. This definition does not include foot Orthotics or specialized footwear which may be covered for member with diabetic foot disease.) Medicare Claims Processing Manual, Chapter 20, §10.1.3 – Prosthetics and Orthotics (Leg, Arm, Back, and Neck Braces, Trusses, and Artificial Legs, Arms, and Eyes) – Coverage Definition.
+
+Prosthetic Device: Articles or equipment, other than dental, that replace all or part of an internal body organ (including contiguous tissue) or replace all or part of the function of a permanently inoperative or malfunctioning internal body organ. In this policy the test of permanence is met if the medical record, including the judgment of the attending physician, indicates that the member’s condition is of long and indefinite duration. Medicare Benefit Policy Manual, Chapter 15, §120 – Prosthetic Devices.
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 27 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+Policy History/Revision Information
+
+Date 10/01/2025
+
+Summary of Changes
+
+Coverage Rationale DME, Prosthetic, Orthotic, and Medical Supplies Grid Bi-Level Positive Airway Pressure (BiPAP) Added language to indicate coverage criteria apply for respiratory assist devices (RADs) with or without a backup rate feature and home
+
+mechanical ventilators (HMVs), in the home, as treatment for patients with chronic respiratory failure (CRF) consequent to chronic obstructive pulmonary disease (COPD) (effective Jun. 9, 2025)
+
+Added instruction to refer to the National Coverage Determination (NCD) for Noninvasive Positive Pressure Ventilation (NIPPV) in the Home for the Treatment of Chronic Respiratory Failure (CRF) Consequent to Chronic Obstructive Pulmonary Disease (COPD) (NCD 240.9)
+
+Replaced language indicating “coverage criteria apply, refer to the DME MAC Local Coverage Determination (LCD) for Respiratory
+
+Assist Devices (L33800)” with “for coverage guidelines for all other conditions other than CRF consequent to COPD, refer to the LCD for Respiratory Assist Devices (L33800)”
+
+Ventilators (Including Supplies) (HCPCS Codes E0465, E0466, E0467, and E0468) Added HCPCS code E0468 to item heading Added language to indicate coverage criteria apply for RADs with or without a backup rate feature and HMVs, in the home, as treatment
+
+for patients with CRF consequent to COPD (effective Jun. 9, 2025)
+
+Added instruction to refer to the NCD for:
+
+o Noninvasive Positive Pressure Ventilation (NIPPV) in the Home for the Treatment of Chronic Respiratory Failure (CRF) Consequent
+
+to Chronic Obstructive Pulmonary Disease (COPD) (NCD 240.9)
+
+o Durable Medical Equipment Reference List (NCD 280.1)
+
+Updated language pertaining to Coding and Billing Clarification; replaced language indicating:
+
+o
+
+“HCPCS code E0467 is used to describe multi-function ventilators” with “HCPCS codes E0467 and E0468 are used to describe multi-function ventilators” “Using the HCPCS codes for CPAP (E0601) or bi-level PAP (E0470, E0471) devices for a ventilator (E0465, E0466, or E0467) used to provide CPAP or bi-level PAP therapy is incorrect coding” with “using the HCPCS codes for CPAP (E0601) or bi-level PAP (E0470, E0471) devices for a ventilator (E0465, E0466, E0467 or E0468) used to provide CPAP or bi-level PAP therapy is incorrect coding”
+
+o
+
+Supporting Information Archived previous policy version MMP028.22
+
+Instructions for Use
+
+The Medicare Advantage Policy documents are generally used to support UnitedHealthcare coverage decisions. It is expected providers retain or have access to appropriate documentation when requested to support coverage. This document may be used as a guide to help determine applicable: Medical necessity coverage guidelines; including documentation requirements, and/or Medicare coding or billing requirements.
+
+Medicare Advantage Policies are applicable to UnitedHealthcare Medicare Advantage Plans offered by UnitedHealthcare and its affiliates. This Policy is provided for informational purposes and does not constitute medical advice. It is intended to serve only as a general reference and is not intended to address every aspect
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 28 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.
+
+of a clinical situation. Physicians and patients should not rely on this information in making health care decisions. Physicians and patients must exercise their independent clinical discretion and judgment in determining care. Treating physicians and healthcare providers are solely responsible for determining what care to provide to their patients. Members should always consult their physician before making any decisions about medical care.
+
+Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service. The member specific benefit plan document identifies which services are covered, which are excluded, and which are subject to limitations. In the event of a conflict, the member specific benefit plan document supersedes this policy. For more information on a specific member's benefit coverage, please call the customer service number on the back of the member ID card or refer to the Administrative Guide.
+
+Medicare Advantage Policies are developed as needed, are regularly reviewed, and updated, and are subject to change. They represent a portion of the resources used to support UnitedHealthcare coverage decision making. UnitedHealthcare may modify these Policies at any time by publishing a new version on this website. Medicare source materials used to develop these policies may include, but are not limited to, CMS statutes, regulations, National Coverage Determinations (NCDs), Local Coverage Determinations (LCDs), and manuals. This document is not a replacement for the Medicare source materials that outline Medicare coverage requirements. The information presented in this Policy is believed to be accurate and current as of the date of publication. Where there is a conflict between this document and Medicare source materials, the Medicare source materials apply. Medicare Advantage Policies are the property of UnitedHealthcare. Unauthorized copying, use, and distribution of this information are strictly prohibited.
+
+UnitedHealthcare follows Medicare coverage guidelines found in statutes, regulations, NCDs, and LCDs to determine coverage. The clinical coverage criteria governing certain items or services referenced in this Medical Policy have not been fully established in applicable Medicare guidelines because there is an absence of any applicable Medicare statutes, regulations, NCDs, or LCDs setting forth coverage criteria and/or the applicable NCDs or LCDs include flexibility that explicitly allows for coverage in circumstances beyond the specific indications that are listed in an NCD or LCD. As a result, in these circumstances, UnitedHealthcare applies internal coverage criteria as referenced in this Medical Policy. The internal coverage criteria in this Medical Policy was developed through an evaluation of the current relevant clinical evidence in acceptable clinical literature and/or widely used treatment guidelines. UnitedHealthcare evaluated the evidence to determine whether it was of sufficient quality to support a finding that the items or services discussed in the policy might, under certain circumstances, be reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member.
+
+Providers are responsible for submission of accurate claims. Medicare Advantage Policies are intended to ensure that coverage decisions are made accurately. UnitedHealthcare Medicare Advantage Policies use Current Procedural Terminology (CPT®), Centers for Medicare and Medicaid Services (CMS), or other coding guidelines. References to CPT® or other sources are for definitional purposes only and do not imply any right to reimbursement or guarantee claims payment.
+
+For members in UnitedHealthcare Medicare Advantage plans where a delegate manages utilization management and prior authorization requirements, the delegate’s requirements need to be followed.
+
+Durable Medical Equipment (DME), Prosthetics, Orthotics (Non-Foot Orthotics), Nutritional Therapy, and Medical Supplies Grid UnitedHealthcare Medicare Advantage Medical Policy
+
+Page 29 of 29 Effective 10/01/2025
+
+Proprietary Information of UnitedHealthcare. Copyright 2025 United HealthCare Services, Inc.

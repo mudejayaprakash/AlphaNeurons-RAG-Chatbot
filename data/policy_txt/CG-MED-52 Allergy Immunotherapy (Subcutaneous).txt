@@ -1,0 +1,247 @@
+10/25/25, 12:06 PM
+
+CG-MED-52 Allergy Immunotherapy (Subcutaneous)
+
+Clinical UM Guideline
+
+Subject: Allergy Immunotherapy (Subcutaneous)
+
+Guideline #: CG-MED-52
+
+Publish Date: 04/16/2025
+
+Status: Reviewed
+
+Last Review Date: 02/20/2025
+
+Description
+
+This document addresses a quantity of allergy immunotherapy preparations provided in a 12-month time period. Allergy immunotherapy is a form of long-term allergy treatment that decreases sensitivity to allergens and often relieves allergy symptoms. Subcutaneous injections of allergy immunotherapy are a standard clinical approach to decrease allergen sensitivity. Typically, an initial induction or build-up phase progressively increases the allergen dose followed by multiple years of maintenance injections.
+
+Clinical Indications
+
+Medically Necessary:
+
+Supervision (including preparation) and provision of 150 allergen/antigen preparations or less per 12 months of subcutaneous allergy immunotherapy is considered medically necessary for the first year, including the build-up phase.
+
+Supervision (including preparation) and provision of 120 allergen/antigen preparations or less per 12 months of subcutaneous allergy immunotherapy is considered medically necessary after the first year as maintenance therapy.
+
+Not Medically Necessary:
+
+Supervision (including preparation) and provision of greater than 150 allergen/antigen preparations per 12 months of subcutaneous allergy immunotherapy is considered not medically necessary for the first year, including the build-up phase.
+
+F e e d b a c k
+
+Supervision (including preparation) and provision of greater than 120 allergen/antigen preparations per 12 months of subcutaneous allergy immunotherapy is considered not medically necessary after the first year as maintenance therapy.
+
+Coding
+
+The following codes for treatments and procedures applicable to this guideline are included below for informational purposes. Inclusion or exclusion of a procedure, diagnosis or device code(s) does not constitute or imply member coverage or provider reimbursement policy. Please refer to the member's contract benefits in effect at the time of service to determine coverage or non-coverage of these services as it applies to an individual member.
+
+When services may be Medically Necessary when criteria are met, based on quantity:
+
+CPT 95144
+
+Professional services for the supervision of preparation and provision of antigens for allergen immunotherapy, single dose vial(s) (specify number of vials) Professional services for the supervision of preparation and provision of antigens for allergen immunotherapy (specify number of doses); single stinging insect venom Professional services for the supervision of preparation and provision of antigens for allergen immunotherapy (specify number of doses); 2 single stinging insect venoms Professional services for the supervision of preparation and provision of antigens for allergen immunotherapy (specify number of doses); 3 single stinging insect venoms Professional services for the supervision of preparation and provision of antigens for allergen immunotherapy (specify number of doses); 4 single stinging insect venoms
+
+95145
+
+95146
+
+95147
+
+95148
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_c183207.html
+
+1/5
+
+10/25/25, 12:06 PM
+
+CG-MED-52 Allergy Immunotherapy (Subcutaneous)
+
+95149
+
+Professional services for the supervision of preparation and provision of antigens for allergen immunotherapy (specify number of doses); 5 single stinging insect venoms Professional services for the supervision of preparation and provision of antigens for allergen immunotherapy; single or multiple antigens (specify number of doses) Professional services for the supervision of preparation and provision of antigens for allergen immunotherapy; whole body extract of biting insect or other arthropod (specify number of doses) Unlisted allergy/clinical immunologic service or procedure [when specified as provision of antigens for allergen immunotherapy]
+
+95165
+
+95170
+
+95199
+
+ICD-10 diagnosis
+
+All diagnoses
+
+When services are Not Medically Necessary: For the procedure codes listed above when quantity criteria are not met or for situations designated in the Clinical Indications section as not medically necessary.
+
+Discussion/General Information
+
+An allergy is an abnormal reaction or increased sensitivity to certain substances in the environment. Substances that cause this sensitivity or reaction are called allergens and may vary from naturally occurring materials, such as pollen and grass, to man-made materials, such as soaps or chemicals. First-line treatment includes avoidance and minimization of exposure when possible. Medication, including antihistamines, bronchodilators, leucotriene inhibitors, and steroids (cortisone), may be used to reverse some of the symptoms of allergic reactions.
+
+Subcutaneous allergy immunotherapy is an established treatment option in the United States designed to prevent or lessen an allergic reaction (Erekosima, 2014; Kim 2013; Mosges 2019). Its mechanism of action is based upon the body’s production of different antibodies to an antigen depending on how the antigen is introduced into the body. It is typically used in individuals after a trial of conservative treatment, such as avoidance and medications, has been found to be inadequate. Allergy immunotherapy does not cure allergies; immunotherapy aims to make a person less sensitive to allergens. In some cases, allergic symptoms may be controlled to the point of disappearance, allowing a person to avoid allergen reactions. Subcutaneous allergy immunotherapy has been used for the management of allergic rhinitis, allergic conjunctivitis, allergic asthma, and hymenoptera (stinging insect) sensitivity.
+
+Allergy immunotherapy consists of two phases which are referred to as the build-up phase and the maintenance phase. The build-up phase begins with exposure to very low doses of the allergen in an attempt to prevent serious reactions and progresses gradually to increased doses typically injected 1 to 3 times per week. This allows the body to slowly develop immunity to the antigen with minimal or no adverse symptoms. After a period of time, an effective dose of antigen is reached, and injections are typically maintained at this dosage. The length of this period depends upon how often injections are given but generally ranges from 8 to 28 weeks. The effective maintenance dose depends on a person’s response to the build-up phase and degree of allergen sensitivity. During the maintenance phase, the period of time between treatments can be longer and can range from 2 to 4 weeks.
+
+A reaction to allergy immunotherapy treatment can occur immediately following an injection, or it may be delayed for up to 24 hours. Most reactions are local, such as itching, pain and swelling. Occasionally, more severe reactions, such as hives or shock, may occur. The most severe reactions usually occur within the first 30 minutes after an injection; reactions occurring after that time are generally mild. To monitor for these effects, treatment is given in a medical office with medical supervision. Environmental interventions, such as avoidance of allergens, and medications may be used in conjunction with allergy immunotherapy.
+
+In 2011, allergen immunotherapy practice parameters were updated by the Joint Task Force on Practice Parameters, representing the American Academy of Allergy, Asthma & Immunology (AAAAI); the American College of Allergy, Asthma & Immunology (ACAAI); and the Joint Council of Allergy, Asthma & Immunology (Cox, 2011). The following information regarding prescribing, scheduling and administering subcutaneous immunotherapy is included in the document:
+
+The physician prescribing immunotherapy should be trained and experienced in prescribing and administering immunotherapy. The prescribing physician must select the appropriate allergen extracts based on that particular patient’s clinical history and allergen exposure history and the results of tests for specific IgE antibodies. The quality of the allergen extracts available is an important consideration. When preparing mixtures of allergen extracts, the prescribing physician must take into account the cross-
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_c183207.html
+
+2/5
+
+10/25/25, 12:06 PM
+
+CG-MED-52 Allergy Immunotherapy (Subcutaneous)
+
+reactivity of allergen extracts and the potential for allergen degradation caused by proteolytic enzymes. The prescribing physician must specify the starting immunotherapy dose, the target maintenance dose, and the immunotherapy schedule. In general, the starting immunotherapy dose is 1,000 to 10,000-fold less than the maintenance dose. For highly sensitive patients, the starting dose might be lower. The maintenance dose is generally 500 to 2000 allergy units (AU; eg, for dust mite) or 1000 to 4000 bioequivalent allergy units (BAU; eg, for grass or cat) for standardized allergen extracts. For nonstandardized extracts, a suggested maintenance dose is 3000 to 5000 protein nitrogen units (PNU) or 0.5 mL of a 1:100 or 1:200 wt/vol dilution of manufacturer’s extract. If the major allergen concentration of the extract is known, a range between 5 and 20 micrograms of major allergen is the recommended maintenance dose for inhalant allergens and 100 micrograms for Hymenoptera venom. Immunotherapy treatment can be divided into 2 periods, which are commonly referred to as the build-up and maintenance phases. The immunotherapy build-up schedule (also called updosing, induction, or the dose-increase phase) entails administration of gradually increasing doses during a period of approximately 8 to 28 weeks. In conventional schedules a single dose increase is given on each visit, and the visit frequency can vary from 1 to 3 times a week. Accelerated schedules, such as rush or cluster immunotherapy, entail administration of several injections at increasing doses on a single visit. Accelerated schedules offer the advantage of achieving the therapeutic dose earlier but might be associated with increased risk of a systemic reaction in some patients (Cox, 2011).
+
+The product inserts for Allergenic Extracts (Stallergenes Greer, Cambridge, MA) indicate that injections usually are given 1 to 3 times per week until the maintenance dose is reached. The injection interval is then increased to 2-4 weeks for maintenance. The usual duration of immunotherapy has not been established; however, a period of 2 to 3 years of injection therapy is an average minimum course of treatment.
+
+Based on the above practice parameter, allergen immunotherapy prescribing information, the clinical need to separate certain allergens into individual injections, and specialty input, the administration of a maximum of 150 allergen/antigen preparations per 12 months of subcutaneous allergy immunotherapy for the first year in the build-up phase and a maximum of 120 allergen/antigen preparations per 12 months of maintenance therapy is considered an appropriate course of treatment.
+
+Definitions
+
+Build-up phase: Phase of allergy immunotherapy in which increasing amounts of allergen are administered until a maintenance dose is reached.
+
+Cluster immunotherapy: An accelerated build-up schedule that allows reaching the maintenance dose more rapidly.
+
+Conventional schedules: Schedules of treatments that are widely accepted and practiced by the medical community.
+
+References
+
+Peer Reviewed Publications:
+
+1. Erekosima N, Suarez-Cuervo C, Ramanathan M, et al. Effectiveness of subcutaneous immunotherapy for allergic
+
+rhinoconjunctivitis and asthma: a systematic review. Laryngoscope. 2014; 124(3):616-627.
+
+2. Kim JM, Lin SY, Suarez-Cuervo C, et al. Allergen-specific immunotherapy for pediatric asthma and
+
+rhinoconjunctivitis: a systematic review. Pediatrics. 2013; 131(6):1155-1167.
+
+3. Mösges R, Valero Santiago A, Allekotte S, et al. Subcutaneous immunotherapy with depigmented-polymerized
+
+allergen extracts: a systematic review and meta-analysis. Clin Transl Allergy. 2019; 9:29.
+
+4. Tabar AI, Arroabarren E, Echechipía S, et al. Three years of specific immunotherapy may be sufficient in house
+
+dust mite respiratory allergy. J Allergy Clin Immunol. 2011; 127(1):57-63.
+
+5. Tabar AI, Echechipía S, García BE, et al. Double-blind comparative study of cluster and conventional
+
+immunotherapy schedules with Dermatophagoides pteronyssinus. J Allergy Clin Immunol. 2005; 116(1):109-118.
+
+Government Agency, Medical Society, and Other Authoritative Publications:
+
+1. Burks AW, Calderon MA, Casale T, et al. Update on allergy immunotherapy: American Academy of Allergy, Asthma & Immunology/European Academy of Allergy and Clinical Immunology/PRACTALL consensus report. J Allergy Clin Immunol. 2013; 131(5):1288-1296.
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_c183207.html
+
+3/5
+
+10/25/25, 12:06 PM
+
+CG-MED-52 Allergy Immunotherapy (Subcutaneous)
+
+2. Calderon MA, Alves B, Jacobson M, et al. Allergen injection immunotherapy for seasonal allergic rhinitis. Cochrane
+
+Database Syst Rev. 2007;(1):CD001936.
+
+3. Cox L, Nelson H, Lockey R, et al. Allergen immunotherapy: a practice parameter third update. J Allergy Clin
+
+Immunol. 2011; 127(1 Suppl):S1-55.
+
+4. Gurgel RK, Baroody FM, Damask CC, et al. Clinical Practice Guideline: Immunotherapy for inhalant allergy.
+
+Otolaryngol Head Neck Surg. 2024; 170 Suppl 1:S1-S42.
+
+5. Jutel M, Agache I, Bonini S, et al. International consensus on allergy immunotherapy. J Allergy Clin Immunol. 2015;
+
+136(3):556-568.
+
+6. Lin SY, Erekosima N, Suarez-Cuervo C, et al. Allergen-Specific Immunotherapy for the Treatment of Allergic Rhinoconjunctivitis and/or Asthma: Comparative Effectiveness Review [Internet]. Rockville (MD): Agency for Healthcare Research and Quality (US); 2013. Available at: http://www.ncbi.nlm.nih.gov/books/NBK133240. Accessed on December 10, 2024.
+
+7. Seidman MD, Gurgel RK, Lin SY, et al.; Guideline Otolaryngology Development Group. AAO-HNSF. Clinical
+
+practice guideline: Allergic rhinitis. Otolaryngol Head Neck Surg. 2015; 152(1 Suppl):S1-43.
+
+8. Stallergenes Greer. Allergy Immunotherapy Package Inserts. Available at: https://www.stagrallergy.com/package-
+
+inserts. Accessed on December 10, 2024.
+
+9. U.S. Food and Drug Administration (FDA). Vaccines, blood & biologics. Allergen Extracts – Injectable. Content current as of 06/14/2019. Available at: http://www.fda.gov/BiologicsBloodVaccines/Allergenics/ucm391303.htm. Accessed on December 10, 2024.
+
+10. Wallace DV, Dykewicz MS, Bernstein DI, et al; Joint Task Force on Practice; American Academy of Allergy; Asthma
+
+& Immunology; American College of Allergy; Asthma and Immunology; Joint Council of Allergy, Asthma and Immunology. The diagnosis and management of rhinitis: an updated practice parameter. J Allergy Clin Immunol. 2008; 122(2 Suppl):S1-84.
+
+Websites for Additional Information
+
+1. American Academy for Allergy, Asthma and Immunology. Allergy Shots (Immunotherapy). Available at:
+
+https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/allergy-shots-(immunotherapy). Assessed on December 10, 2024.
+
+Index
+
+Allergen Immunotherapy
+
+The use of specific product names is illustrative only. It is not intended to be a recommendation of one product over another, and is not intended to represent a complete listing of all products available.
+
+History
+
+Status Reviewed
+
+Date 02/20/2025
+
+Action Medical Policy & Technology Assessment Committee (MPTAC) review. Revised Discussion/General Information, References and Websites for Additional Information. MPTAC review. Updated References and Websites for Additional Information. MPTAC review. Updated References and Websites for Additional Information. MPTAC review. Updated References and Websites for Additional Information. MPTAC review. References and Websites sections updated. Reformatted Coding section. MPTAC review. Discussion/General Information, References and Websites sections updated. MPTAC review. References and Websites sections updated. MPTAC review. The document header wording updated from “Current Effective Date” to “Publish Date.” Discussion/General Information, References, and Websites sections updated. MPTAC review. Discussion and References sections updated. MPTAC review. Clinical indication section updated to reflect that 150 allergen/antigen preparations or less per 12 months of subcutaneous allergy immunotherapy is considered medically necessary for the first year, including the build-up phase and 120 allergen/antigen preparations or less per 12 months of
+
+Reviewed Reviewed Reviewed Reviewed
+
+02/15/2024 02/16/2023 02/17/2022 02/11/2021
+
+Reviewed
+
+02/02/2020
+
+Reviewed Reviewed
+
+03/21/2019 03/22/2018
+
+Reviewed Revised
+
+05/04/2017 05/05/2016
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_c183207.html
+
+4/5
+
+10/25/25, 12:06 PM
+
+CG-MED-52 Allergy Immunotherapy (Subcutaneous)
+
+subcutaneous allergy immunotherapy is considered medically necessary after the first year as maintenance therapy. Rationale, Definition and References sections updated. MPTAC review. Discussion and References sections updated. Removed ICD-9 codes from Coding section. MPTAC review. Initial document development. On 09/18/2015 the MPTAC approved clarifications to the medically necessary and not medically necessary statements for supervision (including preparation) and provision of 120 allergen/antigen preparations. Updated Description, Coding, and Discussion sections.
+
+Reviewed
+
+11/05/2015
+
+New
+
+08/06/2015
+
+Federal and State law, as well as contract language, and Medical Policy take precedence over Clinical UM Guidelines. We reserve the right to review and update Clinical UM Guidelines periodically. Clinical guidelines approved by the Medical Policy & Technology Assessment Committee are available for general adoption by plans or lines of business for consistent review of the medical necessity of services related to the clinical guideline when the plan performs utilization review for the subject. Due to variances in utilization patterns, each plan may choose whether to adopt a particular Clinical UM Guideline. To determine if review is required for this Clinical UM Guideline, please contact the customer service number on the member's card.
+
+Alternatively, commercial or FEP plans or lines of business which determine there is not a need to adopt the guideline to review services generally across all providers delivering services to Plan’s or line of business’s members may instead use the clinical guideline for provider education and/or to review the medical necessity of services for any provider who has been notified that his/her/its claims will be reviewed for medical necessity due to billing practices or claims that are not consistent with other providers, in terms of frequency or in some other manner.
+
+No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without permission from the health plan.
+
+© CPT Only - American Medical Association
+
+https://www.anthem.com/medpolicies/abcbs/active/gl_pw_c183207.html
+
+5/5

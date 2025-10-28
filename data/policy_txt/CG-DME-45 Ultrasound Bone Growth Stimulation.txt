@@ -1,0 +1,611 @@
+10/25/25, 12:11 PM
+
+CG-DME-45 Ultrasound Bone Growth Stimulation
+
+Clinical UM Guideline
+
+Subject: Ultrasound Bone Growth Stimulation
+
+Guideline #: CG-DME-45
+
+Publish Date: 07/01/2025
+
+Status: Revised
+
+Last Review Date: 05/08/2025
+
+Description
+
+This document addresses the use of low-intensity pulsed ultrasound devices as a non-invasive treatment to promote healing of some fresh fractures and to accelerate healing for nonunion of other fracture sites.
+
+Note: Please refer to the following document for additional information related to devices used to stimulate bone growth:
+
+CG-DME-40 Noninvasive Electrical Bone Growth Stimulation of the Appendicular Skeleton
+
+Clinical Indications
+
+Medically Necessary:
+
+A. Fresh Fractures
+
+F e e d b a c k
+
+Non-invasive, low-intensity pulsed ultrasound treatment is considered medically necessary for the treatment of fresh fractures when any of the following are present:
+
+1. Closed radial fractures, posteriorly displaced (Colles' fracture); or 2. Tibial diaphyseal fractures that are either:
+
+a. Closed; or b. Grade I open; or
+
+3. Closed fracture sites at high risk for nonunion due to:
+
+a. Location; and b. Poor vascular supply, for example:
+
+i. Fractures of the carpal navicular bone (scaphoid fracture); or ii. 5th metatarsal bone fractures (Jones fracture); or
+
+c. Fractures associated with:
+
+i. Extensive soft tissue; or ii. Vascular damage; or
+
+4. Closed fractures at high risk for nonunion due to a comorbidity which makes healing likely to be
+
+compromised including any of the following:
+
+a. Diabetes; or b. Renal disease; or c. Other metabolic diseases; or d. History of tobacco use; or e. History of alcoholism; or f. Nutritional deficiency; or g. Obese individuals with:
+
+i. Body Mass Index (BMI) greater than 30; or ii. When greater than 50% over ideal body weight (IBW);* or
+
+h. Severe anemia; or i. Steroid therapy.
+
+B. Fracture Nonunions
+
+Non-invasive, low-intensity pulsed ultrasound treatment is considered medically necessary when all of the following criteria are met:
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_d083855.html
+
+1/13
+
+10/25/25, 12:11 PM
+
+CG-DME-45 Ultrasound Bone Growth Stimulation
+
+1. Treatment for fracture nonunion of any bone of the appendicular skeleton; and 2. At least 45 days have passed since either of the following:
+
+a. The date of fracture; or b. The date of appropriate fracture care; and
+
+3. No progressive signs of healing have occurred on imaging studies (for example, bony bridging and callus
+
+formation); and
+
+4. Fracture gap is less than 1 centimeter.
+
+Not Medically Necessary:
+
+Non-invasive, low-intensity pulsed ultrasound treatment is considered not medically necessary when the above criteria are not met including, but not limited to, treatment of any of the following:
+
+A. As an adjunct to bunionectomy procedures at:
+
+1. The time of surgery; or 2. Immediately after surgery;** or
+
+B. As an adjunct to distraction osteogenesis procedures for any indication, such as:
+
+1. Limb lengthening; or 2. Nonunion corrective surgery; or 3. Repair of tibial defects at either: a. The time of; or b. Immediately after surgery;** or
+
+C. Axial skeleton fractures including:
+
+1. Skull; and 2. Vertebrae; or
+
+D. Congenital pseudoarthrosis; or E. Delayed fracture unions; or F. Fresh open fractures that either:
+
+1. Require surgical intervention;*** or 2. Are too unstable for closed reduction/casting when either:
+
+a. Grade II; or b. Grade III open fractures; or
+
+G. Patellar tendinopathy; or H. Pathological fractures due to:
+
+1. Bone pathology; or 2. Tumor/malignancy; or
+
+I. Stress fractures.
+
+Notes: *See Definitions section for calculation of ideal body weights (IBW). **When surgical procedures result in nonunion the medically necessary criteria above may apply such as after:
+
+A. Bunionectomy; or B. Distraction osteogenesis.
+
+***Fractures that are nonunion following surgical treatment should be considered for ultrasound bone growth stimulation applying the criteria under Fracture Nonunions in this document.
+
+Coding
+
+The following codes for treatments and procedures applicable to this guideline are included below for informational purposes. Inclusion or exclusion of a procedure, diagnosis or device code(s) does not constitute or imply member coverage or provider reimbursement policy. Please refer to the member's contract benefits in effect at the time of service to determine coverage or non-coverage of these services as it applies to an individual member.
+
+When services are Medically Necessary:
+
+CPT 20979
+
+Low intensity ultrasound stimulation to aid bone healing, noninvasive (nonoperative)
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_d083855.html
+
+2/13
+
+10/25/25, 12:11 PM
+
+CG-DME-45 Ultrasound Bone Growth Stimulation
+
+HCPCS E0760
+
+Osteogenic stimulator, low intensity ultrasound, noninvasive
+
+ICD-10 Diagnosis S52.531A, S52.531D S52.532A, S52.532D S52.539A, S52.539D S82.201A, S82.201D S82.202A, S82.202D S82.209A, S82.209D S82.224A, S82.224D
+
+Colles’ fracture of right radius, initial/subsequent encounter for closed fracture Colles’ fracture of left radius, initial/subsequent encounter for closed fracture Colles’ fracture of unspecified radius, initial/subsequent encounter for closed fracture Unspecified fracture of shaft of right tibia, initial/subsequent encounter for closed fracture Unspecified fracture of shaft of left tibia, initial/subsequent encounter for closed fracture Unspecified fracture of shaft of unspecified tibia, initial/subsequent encounter for closed fracture Nondisplaced transverse fracture of shaft of right tibia, initial/subsequent encounter for closed fracture Nondisplaced transverse fracture of shaft of left tibia, initial/subsequent encounter for closed fracture Nondisplaced transverse fracture of shaft of unspecified tibia, initial/subsequent encounter for closed fracture Nondisplaced oblique fracture of shaft of right tibia, initial/subsequent encounter for closed fracture Nondisplaced oblique fracture of shaft of left tibia, initial/subsequent encounter for closed fracture Nondisplaced oblique fracture of shaft of unspecified tibia, initial/subsequent encounter for closed fracture Nondisplaced spiral fracture of shaft of right tibia, initial/subsequent encounter for closed fracture Nondisplaced spiral fracture of shaft of left tibia, initial/subsequent encounter for closed fracture Nondisplaced spiral fracture of shaft of unspecified tibia, initial/subsequent encounter for closed fracture Nondisplaced comminuted fracture of shaft of right tibia, initial/subsequent encounter for closed fracture Nondisplaced comminuted fracture of shaft of left tibia, initial/subsequent encounter for closed fracture Nondisplaced comminuted fracture of shaft of unspecified tibia, initial/subsequent encounter for closed fracture Nondisplaced segmental fracture of shaft of right tibia, initial/subsequent encounter for closed fracture Nondisplaced segmental fracture of shaft of left tibia, initial/subsequent encounter for closed fracture Nondisplaced segmental fracture of shaft of unspecified tibia, initial/subsequent encounter for closed fracture
+
+S82.225A, S82.225D
+
+S82.226A, S82.226D
+
+S82.234A, S82.234D
+
+S82.235A, S82.235D
+
+S82.236A, S82.236D
+
+S82.244A, S82.244D
+
+S82.245A, S82.245D S82.246A, S82.246D
+
+S82.254A, S82.254D
+
+S82.255A, S82.255D
+
+S82.256A, S82.256D
+
+S82.264A, S82.264D
+
+S82.265A, S82.265D
+
+S82.266A, S82.266D
+
+When services may be Medically Necessary when criteria are met: For the procedure codes listed above for all other diagnoses not listed.
+
+When services are Not Medically Necessary: For the procedure codes listed above when criteria are not met or for situations designated in the Clinical Indications section as not medically necessary.
+
+Discussion/General Information
+
+Evidence in the peer-reviewed published literature in the form of randomized, double-blind, placebo-controlled trials and retrospective case series, and data from a registry of users indicate that low-intensity pulsed ultrasound (also referred to as LIPUS) treatment has been shown to be effective as a treatment to promote healing of fresh distal radius and tibial diaphyseal fractures and to accelerate healing for nonunion of other fracture sites, including the clavicle, humerus, femur, tibia, and the metatarsals and metacarpals. The evidence continues to support the efficacy for these uses, even though a number of systematic reviews, meta-analyses, and a technology assessment have concluded that the evidence is of moderate to low quality and at times appears conflicting. A number of weaknesses are apparent in methodological quality across studies, including difficulty in pooling data because of a paucity of sufficient studies with similar inclusion criteria (such as, heterogeneity of study participants and diversity in the type of bones and fracture location), outcome measures,
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_d083855.html
+
+3/13
+
+10/25/25, 12:11 PM
+
+CG-DME-45 Ultrasound Bone Growth Stimulation
+
+type of fracture treatment (that is, conservatively managed versus operatively treated), lack of information about allocation concealment, and inconsistent reporting of acceptable adherence to study protocols (AHRQ, 2005; Bashardoust, 2012; Busse, 2009; Dijkman, 2009; Griffin, 2012; Griffin, 2014; Snyder, 2012).
+
+Low-Intensity Pulsed Ultrasound for Fresh Fractures
+
+The Sonic Accelerated Fracture Healing System (SAHFS®) (Exogen, Inc., West Caldwell, NJ) was initially cleared for marketing by the U.S. Food and Drug Administration (FDA) in October 1994 based on data submitted from two randomized, double-blind, placebo-controlled trials that evaluated low-intensity pulsed ultrasound for the treatment of fresh, closed, posteriorly displaced distal radius (Colles’) fractures and fresh, closed, or grade I open tibial diaphyseal fractures in skeletally mature individuals when the fractures are orthopedically managed by closed reduction and cast immobilization (Heckman, 1994; Kristiansen, 1997). These trials demonstrated an acceleration of clinical and radiographic healing in the active treatment groups compared to the control groups.
+
+Additional studies included a randomized, double-blind, placebo-controlled trial conducted in Sweden which examined the efficacy of ultrasound therapy for treating fresh fractures of the tibia in individuals who had surgery, as well as the effects on serum markers of bone regeneration (Emami, 1999). Other studies include two retrospective case series that examined registry data to evaluate the effect of low-intensity pulsed ultrasound on delayed union, fracture nonunion, and fractures in sites other than the tibia and distal radius.
+
+The use of low-intensity pulsed ultrasound stimulation may also be helpful for individuals with closed fresh fractures where the location of the fracture site places it at high risk for subsequent fracture nonunion. Fracture nonunion is more likely to occur in bones with a poor vascular supply, such as the upper thighbone (femoral head and neck), carpal navicular bone (scaphoid fracture), and the fifth metatarsal bone (Jones fracture). Fracture nonunion may also occur in bones with an adequate blood supply, such as a tibial diaphyseal fracture, in the presence of extensive soft tissue or vascular damage as a result of severe trauma to the skin, muscle, and surrounding internal blood supply. Some bones, such as the toe bones, have an excellent blood supply and inherent stability and can be expected to heal without the use of low-intensity pulsed ultrasound therapy.
+
+Closed fresh fractures at high risk for nonunion may also benefit from the use of low-intensity ultrasound therapy in individuals with pre-existing comorbidities. Factors that may increase the risk of nonunion include alcoholism, use of tobacco or nicotine in any form (Cook, 1997), older age, severe anemia, poor nutrition, diabetes, renal disease or other metabolic disorders, and obesity or the presence of infection. Certain medications, including nonsteroidal anti-inflammatory drugs (NSAIDs), corticosteroids, and anticoagulants are also thought to increase risk for nonunion or infection (AHRQ, 2005). There are, however, no randomized controlled studies in the peer-reviewed literature investigating the relationship between NSAIDs and nonunions. Bhattacharyya and colleagues (2005) examined the association between NSAIDs and fracture nonunion in a cohort of 9995 persons with humeral shaft fractures identified from a Medicare database using diagnosis and procedure codes. Of the 9995 humeral shaft fractures, 105 individuals developed nonunions (1.1%), and 1032 (10.3%) were exposed to NSAIDs in the 90 days after fracture. The authors found no relationship between nonselective NSAID use in the first 60 days after humerus fracture and nonunion. The use of NSAIDs 61 to 90 days after fracture was associated with an increased risk of nonunion, but an increased risk was also observed for individuals exposed to opioid analgesics in the same period 61 to 90 days after humerus fracture. The authors concluded:
+
+The association between NSAIDs and nonunions is complex. Although crude analyses suggest that NSAID exposure is associated with nonunions, analysis of the time course suggests that it is use of NSAIDs late in fracture healing that is most strongly associated with nonunion. Because a similar association is observed with opioids, a drug category without any known effects on fracture healing, it is probable that NSAIDs are being used to treat painful impending nonunions, rather than the NSAIDs causing nonunions.
+
+Lou and colleagues (2017) conducted a meta-analysis to assess the effect of low-intensity pulsed ultrasound for fresh fractures in adults. The literature search included peer reviewed studies from January 1980 through November 2016, and included a total of 12 trials and 1099 participants. The pooled results revealed that low-intensity pulsed ultrasound significantly decreased the time to fracture union (standard mean difference [SMD], 0.65; 95% confidence interval [CI], 1.13 to 0.17), improved the quality of life (SMD, 0.20; 95% CI, 0.03-0.37) without affecting the time to full weight bearing (SMD: 0.76, 95% CI: 1.92 to 0.4), the time to resuming work (SMD, 0.06; 95% CI, 0.14 to 0.27), or the incidence rate of delayed union and nonunion (RR, 1.02; 95% CI, 0.60-1.74).
+
+A subgroup analysis demonstrated that the reduction in healing time with low-intensity pulsed ultrasound was applicable to individuals who were conservatively managed and was not reflected in individuals who underwent surgical intervention.
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_d083855.html
+
+4/13
+
+10/25/25, 12:11 PM
+
+CG-DME-45 Ultrasound Bone Growth Stimulation
+
+While the researchers concluded that individuals with fresh fractures may benefit from the use of low-intensity pulsed ultrasound, the authors also noted that there were several methodologic limitations in the trials, including the inadequate concealment of treatment allocation, the high loss of follow-up, the unclear age baseline, smoking or gender status.
+
+To date, there are no randomized studies in the peer-reviewed literature that demonstrate improved outcomes with low- intensity pulsed ultrasound use in individuals on NSAIDs after long bone fracture.
+
+Low-Intensity Pulsed Ultrasound for Fracture Nonunion
+
+In February 2000, the labeled indication for the SAFHS (now known as the Exogen® device) (Smith and Nephew, Inc., Biologics & Spine, Durham, NC) was expanded to include the treatment of established fracture nonunions, excluding the skull and vertebra. According to the FDA labeling, a nonunion is considered to be established when the fracture site shows no visibly progressive signs of healing. The approval was based on prospective studies where individuals served as their own control; in addition, the definition of nonunion suggested that nonunions have a zero percent probability of achieving a healed state without an intervention. The individuals had no recent surgical intervention in order to rule out the possibility of spontaneous healing due to surgery; the only treatment variable was the addition of SAFHS. The submitted data included a small case series (n=74) of individuals with established nonunion with a mean fracture age of nearly 3 years. Individuals with pathologic fractures due to malignancy were excluded from these studies. The principal outcome measure was the percentage of individuals with healed nonunions, as determined clinically and by radiographic analysis. A total of 64 of 74 cases (86%) were healed with the use of low-intensity pulsed ultrasound therapy. The time to healing was 5.6 months. The healed rate of scaphoid bones was lower at 33% (2 of 6 cases), which was partially responsible for a significant difference between the healing rates of long bones (92%) versus other bones (67%). Fracture age also affected healing rates, with fractures over 5 years old having a healing rate of 50% compared to a healing rate of 95% in those present for no more than 1 year. The FDA Summary of Safety and Effectiveness also cited a case series of 41 nonunions (Nolte, 2001). Of the 29 individuals that completed the study, the average fracture age was 1.2 years. Only 8 individuals had no prior surgery. Of these 8, 7 individuals healed following ultrasound therapy with an average heal time of 157 days, which is similar to those who had surgery (152 days). In this self-paired analysis of pooled data, heal rates for individuals with prior surgery (86%) and no surgery (87.5%) were similar. The authors concluded noninvasive low-intensity pulsed ultrasound therapy can be useful in the treatment of fracture nonunions. Other evidence of the effectiveness of SAFHS for fracture nonunions was obtained from a United States registry of prescription use of the device.
+
+Mayr and colleagues (2000) reported on a retrospective case series (n=153) from a registry of individuals with fracture nonunions without surgery prior to ultrasound stimulation. These individuals had a success rate of 86% (132 of 153) and an average heal time of 140 days after beginning ultrasound therapy. These results are similar to those nonunion cases with surgery prior to ultrasound stimulation (success rate 85%, average heal time of 169 days).
+
+Following the FDA approval, additional published studies reported consistent results. For example, Jingushi and colleagues (2007) analyzed data from a previous multicenter study on low-intensity pulsed ultrasound treatment for postoperative delayed union and nonunion of long bone fractures. Delayed union was defined as more than 3 months without union or radiological bone reaction; nonunion was defined as additional operative treatment being indicated. The study included 72 long bone fractures (42% open, 56% closed) at an average 11.5 months (range: 3 to 68) since the most recent operation. Monthly clinical and radiological evaluation indicated a 75% union rate, with a mean of 219 (range: 56- 588) treatment days until union; data for the different subgroups were not reported. There was a significant association with the time of the most recent operation; beginning treatment within 6 months from the most recent operation resulted in a higher union rate (90%) than when treatment was started 12 months after surgery (65%).
+
+Rutten and colleagues (2007) published an analysis of 76 individuals with tibial nonunions. Included in the analysis were 71 individuals who were at least 3 months from the last surgical intervention and did not show any healing improvements in the 3 months before ultrasound treatment (average fracture age: 257 days; range: 180-781). All individuals were followed up (average 2.7 years) by questionnaire, or by phone, if needed. There was an overall healing rate of 73%, at an average 184 days to healing (range: 52-739). No difference in healing rate for open or closed fractures was observed.
+
+Hallux valgus, commonly referred to as a bunion, is a complex group of disorders consisting of a lateral deviation of the great toe, outward angulation of the metatarsal toward the other foot, separation of the heads of the first and second metatarsals, and prominent soft-tissue thickening over the medial surface of the head of the first metatarsal. When conservative measures such as pads and cushions and functional foot orthotics fail to reduce the associated pain or slow the progression of the deformity, surgical correction may be indicated. The choice of surgical procedure is based on a biomechanical and radiographic examination of the foot. A bunionectomy procedure (for example, Akin, Chevron, Keller, Lapidus, or Mitchell metatarsal osteotomy) may be performed to correct a symptomatic hallux valgus by reconstructing the bones and joint to restore normal, pain-free function. The most common bunionectomy procedure performed is the first
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_d083855.html
+
+5/13
+
+10/25/25, 12:11 PM
+
+CG-DME-45 Ultrasound Bone Growth Stimulation
+
+metatarsal neck osteotomy, which involves a controlled “surgical fracture” of the bone by cutting and realigning the first metatarsal near the level of the joint; additional procedures may involve soft tissue correction along with concomitant bony correction. Complications following a bunionectomy procedure vary depending on the surgical technique and procedure, including delayed healing of the incision, osseous malunion or nonunion, osteomyelitis, or avascular necrosis. The peer- reviewed medical literature includes prospective, comparative and evaluation studies and retrospective case series reporting low postsurgical complication rates following specific osteotomy procedures for hallux valgus (Dennis, 2011; Enan, 2010; Lee, 2010; Miller, 2011). While there is a lack of published, randomized controlled trials comparing the efficacy of ultrasound bone growth stimulation to sham treatment for postsurgical bunionectomy nonunion, the stimulation device may be a treatment option for individuals to reduce the need for further surgical revision when the individual’s osteotomy site has demonstrated no evidence of progression of healing.
+
+Leighton and colleagues (2017) reported the results of a systematic review and meta-analysis of published literature that explored the use of low-intensity pulsed ultrasound as a treatment of nonunions. A total of 13 eligible papers, (including one randomized controlled trial) reporting the results of low-intensity pulsed ultrasound for the treatment of 1441 nonunions of the tibia, humerus, radius, ulna and femur, were evaluated. The date range of the literature search was not specified. The quality of the studies was scored using the Methodological Index for Non-Randomized Studies. Quality scores ranged from 5 to 12 (with an “ideal” score for a nonrandomized trial being 16). While the pooled estimate of effect size for the healing rate was 82% (95% CI, 77% to 87%), for any anatomical site and a fracture of at least 3 months duration. significant heterogeneity was identified. Another analysis which excluded studies with quality scores of 6 or lower, revealed a comparable heal rate of 80% (95% CI, 74% to 85%). Because some participants in the analysis were treated with conservative measures and others underwent surgical interventions, the researchers did not recommend LIPUS instead of surgery for all nonunions. Instead, the authors concluded that LIPUS might be useful in individuals for whom surgery is high risk.
+
+Low-Intensity Pulsed Ultrasound for other Conditions
+
+There are no controlled studies in the published literature that specifically address the use of low-intensity pulsed ultrasound as a treatment of fresh fractures of the axial skeletal system, fractures due to bone malignancy, congenital pseudoarthroses, or as an adjunct to spinal fusion. There are no studies in the peer-reviewed literature specifically focused on improved healing rates following uncomplicated bunionectomy procedures (first metatarsal osteotomy) as compared to a period of immobilization and limited weight bearing; in addition, these surgeries are not considered at high risk for post- surgical nonunion.
+
+Open Fractures and Distraction Osteogenesis
+
+Data is also conflicting regarding the efficacy of low-intensity pulsed ultrasound for the treatment of open fractures, specifically those treated surgically with placement of an intramedullary nail. Emami and colleagues (1999) conducted a study that randomized 32 individuals with a fresh tibial fracture that was fixed with an intramedullary rod to undergo additional treatment with an active or inactive ultrasound device. The time to healing was not significantly different in the 2 groups. These observations are consistent with a meta-analysis conducted by Busse and colleagues (2002) whose analysis supported the use of low-intensity pulsed ultrasound as a technique for fractures treated nonoperatively. However, the authors concluded that there was no benefit in operatively treated fractures. In contrast, Leung and colleagues (2004) reported on the results of a randomized, prospective study of 30 fractures in 28 individuals with complex tibial fractures treated with internal or external fixation to receive or not receive additional treatment with low-intensity pulsed ultrasound. Based on radiologic assessment, the time to callus formation was significantly less in those in the ultrasound treatment group; however, 2 individuals in the control group experienced delayed union (12%). Due to the inconsistent results in these two small, randomized studies, and the negative results of the meta-analysis, low-intensity pulsed ultrasound is still considered not medically necessary for open fractures.
+
+El-Mowafi and Mohsen (2005) applied low-intensity pulsed ultrasound on 21 participants with tibial defects (range, 5 cm to 8 cm) with distraction osteogenesis using an Ilizarov external fixator. A total of 10 participants received 20 minutes of low- intensity pulsed ultrasound stimulation daily on the bone lengthening site (Group A) while rigid fixation was maintained in the remaining participants (Group B). All participants were followed with weekly radiographs to determine the formation of an external cortex and an intramedullary canal, at which time the fixator was removed. The mean healing index in Group A was reported at 30 (range: 27 to 36) days/centimeter (cm) compared to 48 (range: 42 to 75) days/cm in Group B. One participant in Group B failed to consolidate the regenerated bone. The investigators suggested that low-intensity pulsed ultrasound stimulation was highly effective in achieving maturation of bone and reducing time of distraction osteogenesis. Limitations of this study include the small sample size and heterogeneity of the study participants, in that distraction osteogenesis was performed as primary management in 4 participants (2 participants with open fractures and 2
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_d083855.html
+
+6/13
+
+10/25/25, 12:11 PM
+
+CG-DME-45 Ultrasound Bone Growth Stimulation
+
+participants with congenital anterolateral bowing of the tibia) while the remaining participants were treated after development of nonunion.
+
+Dudda and colleagues (2011) investigated the effect of low-intensity pulsed ultrasound in a prospective randomized controlled trial of 36 participants (n=16 treatment group, n=20 control group) who underwent distraction osteogenesis (> 2 cm) to the lower extremities. The authors did not specify the location of the bone distraction beyond “right” and “left” lower leg” in either the treatment or control group. Fixation devices included Regazzoni, Ilizarov, and hybrid fixators. Evaluation was performed by standard radiographs every 3 to 4 weeks. Treatment outcomes were reported in measures of the length of the “fixator gestation period”, the distraction consolidation index (the ratio of fixator gestation time in days over the distraction gap size in cm), and the Paley index (ratio of fixator gestation period in months over the distraction gap size in cm). The investigators reported a shorter fixation gestation period by 43.6 days for the treatment group versus the control group, 218.6 versus 262.2 days, respectively, but the statistical significance of this outcome was not reported. The mean distraction consolidation index for the treatment group was 32.8 days/cm and 44.6 days/cm for the control group (p=0.116). The mean Paley index for the treatment versus the control group was 1.09 months/cm and 1.49 months/cm, respectively (p=0.116). The difference between the treatment and control groups in these measures did not reach statistical significance. Limitations of this study include the small number of callus distractions performed, heterogeneity of the population (highly variable patterns of injury and medical treatments performed), and the lack of blinding to treatment.
+
+Salem and colleagues (2014) evaluated the use of low-intensity pulsed ultrasound to no treatment (controls) in a nonblinded, randomized trial of 21 individuals undergoing callus distraction for posttraumatic tibial defects. An Ilizarov ring fixator was used in all cases. Outcomes were examined clinically and radiologically, analyzing callus maturation with a computer-assisted measurement. Use of low-intensity pulsed ultrasound shortened healing by 12 days/cm and the total fixator time by 95 days. The results of this study are limited by the small number of participants and nonblinded study design. Larger randomized, sham-controlled trials of homogeneous study populations are needed to evaluate the efficacy of low-intensity pulsed ultrasound as an adjunct to distraction osteogenesis procedures for any indication.
+
+Stress Fractures
+
+Low-intensity pulsed ultrasound has been studied for accelerating healing of stress fractures. In a prospective, randomized, double-blind clinical trial, Rue and colleagues (2004) studied if low-intensity pulsed ultrasound therapy reduces tibial stress fracture healing time. A total of 26 midshipmen (43 tibial stress fractures) were randomized to receive ultrasound therapy or placebo treatment. Twenty-minute daily treatments continued until the individuals were asymptomatic with signs of healing on plain radiographs. The groups were not significantly different in demographics, delay from symptom onset to diagnosis, missed treatment days, total number of treatments, or time to return to duty. Findings of this study demonstrated that low-intensity pulsed ultrasound did not significantly reduce the healing time for tibial stress fractures.
+
+Gan and colleagues (2014) evaluated the effectiveness of low-intensity pulsed ultrasound for the improvement of lower limb bone stress injuries in a civilian population. In this prospective, randomized, double-blind, placebo-controlled trial, individuals with a magnetic resonance imaging (MRI)-diagnosed grade II-IV bone stress injury of either the postero-medial tibia, fibula or second, third, or fourth metatarsal were randomized to either active treatment or placebo device for 20 minutes daily for 4 weeks. A total of 30 participants were initially recruited; 23 participants were included in the final analysis. Six clinical parameters including night pain, pain at rest, pain on walking, pain with running, tenderness, and pain with single leg hop were compared prior to and after the intervention. The investigators reported no significant differences between the treatment and placebo groups for measurements of the six clinical parameters. Regardless of the relatively short duration of 4 weeks and the small sample size consisting of primarily female participants, low-intensity pulsed ultrasound was found to be ineffective for the healing of lower limb bone stress injuries.
+
+Sesamoid Fractures
+
+A sesamoid is a bone entrenched in a tendon. Sesamoids are found in several joints in the body including the knee (patella), the hands (metacarpals) and the feet (metatarsals). Treatment options for sesamoid fractures vary depending on the anatomical location and fracture type (e.g. stress, displaced); however, a review of the peer-reviewed, scientific literature does not reveal any studies investigating the use of low-intensity puled ultrasound as a treatment of sesamoid fractures. At this time, there is insufficient evidence to draw conclusions about the safety or efficacy of low-intensity pulsed ultrasound to assist with the healing of sesamoid fractures.
+
+Clavicle Fractures
+
+The effect of low-intensity pulsed ultrasound on the healing of fresh clavicle fractures was studied in a multicenter, randomized, double-blind, placebo-controlled trial of 120 adults with a non-operatively treated fresh clavicle shaft fracture;
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_d083855.html
+
+7/13
+
+10/25/25, 12:11 PM
+
+CG-DME-45 Ultrasound Bone Growth Stimulation
+
+data were analyzed on an intention-to-treat basis (Lubbert, 2008). The primary outcome measure was subjective fracture healing from clinical symptoms, including pain, range of motion and local instability at the fracture site as reported by the participant. The investigators refrained from the use of radiological evidence of fracture healing, citing the development of visible callus on radiographs is “not always related to clinical signs of fracture healing.” Secondary outcome measures were possible operation, painkiller use, pain (Visual Analogue Scale [VAS]), adverse events, and resumption of sport and professional or household activities. A total of 9 participants in the active treatment group and 10 in the placebo group were excluded from the analysis because of incomplete follow-up or early withdrawal from the study. The day that the fracture clinically healed according to participant perception was determined in 92 participants (47 active treatment; 45 placebo); mean duration time to clinical healing was 26.77 days in the active treatment group versus 27.09 days in the placebo group (mean difference 0.33, p=0.91). Between-group differences in analgesic use (37.21 tablets, active treatment and 32.88 tablets, placebo group; mean difference 4.34, p=0.66) and mean VAS (3.51 active treatment, 3.55 placebo group; mean difference 0.04, p=0.90) were not significant. The investigators concluded that the time to clinical healing of fresh clavicle shaft fractures in the study was not influenced by low-intensity pulsed ultrasound treatment, however, “refraining from radiological appraisal of fracture healing… makes comparison with previous studies difficult.” A subsequent Cochrane review confirmed “there is insufficient evidence from randomized controlled trials to determine which methods of conservative treatment (including therapeutic ultrasound) are the most appropriate for acute middle third clavicle fractures in adolescents and adults” (Lenza, 2009).
+
+Delayed Union of Tibial Shaft Fractures
+
+In a multicenter, randomized, sham-controlled, industry-sponsored trial, Schofer and colleagues (2010) compared the healing response of tibial shaft fractures (delayed union) between participants treated with either low-intensity pulsed ultrasound (n=51) with the Exogen 2000/2000+ or a sham device (n=50). Delayed union was defined as lack of clinical and radiologic evidence of union, bony continuity or bone reaction at the fracture site for no < 16 weeks from the index injury or the most recent intervention. The primary outcome with respect to efficacy (progress to healing) was change in bone mineral density (BMD) as assessed by computed tomography (CT) scans between pre-treatment and 16 weeks. The secondary endpoint was change in gap area at the fracture site. Standard anteroposterior (AP) and lateral radiographs were taken at 1-, 2- and 3-month follow-up intervals. A total of 17 participants had missing post-treatment outcomes; therefore, 84 participants were included in descriptive analyses of ‘completers.’ There were notable differential dropout rates between groups with 24% (12 of 50) of sham-treated participants and 9.8% (5 of 51) of active-treated participants missing post-treatment BMD values. Despite such a high number of dropouts in the sham group, the overall healing rate in that group was not significantly different from the active treatment group (p=0.07, 46% [23 of 50] of sham to 65% [33 of 51] of active treatment), even though the sham group had a significantly higher body mass than the active treatment group, and body mass is a risk factor for nonunion. Further studies with larger, homogeneous populations are warranted to determine the treatment effect of low-intensity pulsed ultrasound on improving healing rates in individuals with delayed fracture union.
+
+Patellar Tendinopathy
+
+Larsson and colleagues (2012) conducted a systematic review of the published randomized controlled trials comparing treatments for patellar tendinopathy. The authors stated low-intensity pulsed ultrasound did not provide any additional benefit over and above placebo in the management of symptoms associated with patellar tendinopathy. This conclusion was based on the results of a small randomized, double-blind, placebo-controlled trial (n=37) measuring changes in “usual” and “worst” tendon pain during the participant's most aggravating activity in the preceding week (Warden, 2008).
+
+Upper Extremity Osteotomy Sites
+
+Urita and colleagues (2013) conducted a small, quasi-randomized study (alternating assignment) of 27 individuals treated with low-intensity pulsed ultrasound after ulnar shortening osteotomy for ulnar impaction syndrome or radial shortening osteotomy for Kienbock disease. Participants in the low-intensity pulsed ultrasound group received once daily 20-minute treatments for at least 12 weeks postoperatively. Blinded evaluation of radiographic healing showed that low-intensity pulsed ultrasound reduced the mean time to cortical union by 27% (57 vs. 76 days) and endosteal union by 18% (121 vs. 148 days). The two groups had similar results on the Modified Mayo Wrist Score and no pain at the osteotomy site at the time of endosteal healing (mean, 121 or 148 days). Limitations of this study include the small sample size, lack of a sham control, and the long interval between the 16-week and 24-week assessments, which may have increased group differences. Additional study is needed to determine the effect of low-intensity pulsed ultrasound on healing of upper extremity osteotomy sites.
+
+Failed Arthrodesis
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_d083855.html
+
+8/13
+
+10/25/25, 12:11 PM
+
+CG-DME-45 Ultrasound Bone Growth Stimulation
+
+Mirza and colleagues (2019) reported the results of a retrospective observational study reviewing the use of low-intensity pulsed ultrasound in participants who had arthrodesis of a variety of foot and ankle joints diagnosed with delayed or non- union. Over a period of 5 years, a total of 18 participants (7 1st metatarsophalangeal joint, 2 subtalar joint, 2 triple fusions, 4 ankle and 3 isolated midfoot joint fusions) with radiologically confirmed delayed union, were treated with a standardized low-intensity pulsed ultrasound therapy. Twelve participants (67%) were confirmed by radiology to have been treated successfully. Additional surgical revision was required in 4 participants while 2 individuals were treated conservatively. A higher incidence of fusion was seen in small foot joints (9/10; 90%) versus larger or multiple joint arthrodesis (3/8; 38%) following low-intensity pulsed ultrasound. While the authors concluded that there may be a role for the use of low-intensity pulsed ultrasound as a treatment for delayed union of isolated, small foot joint arthrodesis, they did not recommend its use in large or multiple foot and ankle joint arthrodesis. Additional studies including large multicenter trials are required to confirm these findings.
+
+Definitions
+
+Appendicular skeleton: Composed of bones of the upper and lower limbs, and the bones that anchor the upper and lower limbs to the axial skeleton:
+
+upper extremities (humerus, radius, ulna, carpal, metacarpal, and phalange bones) lower extremities (femur, tibia, fibula, patella, tarsal, metatarsal, and phalange bones) shoulder or pectoral girdle (clavicle and scapula bones) pelvic or hip girdle
+
+Axial skeleton: Composed of bones that form the axis of the body and support and protect the organs of the head, neck, and trunk; includes the ribs, skull, sternum and vertebral column (including the coccyx and sacrum).
+
+Bunionectomy: A surgical procedure to remove a bony bump (bunion) of the foot and realign the big toe (great toe).
+
+Delayed/incomplete fracture union: A fracture that has not healed in the time frame that would be considered normal for a specific type of fracture considering an individual’s unique medical condition, despite ongoing evidence of bone growth activity. The decelerated healing process of a fracture as determined by serial radiographs or appropriate imaging studies.
+
+Distraction osteogenesis (DO): A procedure that moves two segments of a bone slowly apart in such a way that new bone fills in the gap.
+
+Flat bones: Bones that are thin and have broad surfaces; include the scapula, ribs, and the sternum (breastbone).
+
+Fracture nonunion: A fracture in which all evidence of bone growth activity at the fracture site has ceased, leaving a persistent unhealed fracture of the bone.
+
+Fresh fracture: A fracture that has recently occurred, typically considered ≤ 7 days in duration, and has not had previous treatment, other than emergency splinting prior to evaluation and fixation.
+
+Hallux valgus deformity (bunion): A medial deviation of the first metatarsal and lateral deviation and/or rotation of the hallux, with or without medial soft-tissue enlargement of the first metatarsal head. This condition can lead to painful motion of the joint or difficulty with footwear.
+
+Ideal body weight (IBW): Obesity has been defined as anyone who is 50% over their ideal body weight. The ideal body weight is calculated according to the following formula (Note: 1kg = 2.2 lbs):
+
+Females: IBW = 45.5 kg + 2.3 kg for each inch over 5 feet Males: IBW = 50 kg + 2.3 kg for each inch over 5 feet
+
+Long bones: Bones found in the extremities comprised of a shaft (diaphysis) and 2 ends (epiphyses); includes the humerus, radius, ulna, femur, tibia, fibula, metatarsal, and metacarpal bones.
+
+Osteotomy: A surgical procedure where a bone or segment of a bone is cut or removed, realigned, and allowed to heal in its new position; most often, performed to realign a deformed bone.
+
+Pseudoarthrosis: A condition where a bone fracture has healed with fibrous material instead of bone tissue; also referred to as pseudarthrosis or a “false joint.”
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_d083855.html
+
+9/13
+
+10/25/25, 12:11 PM
+
+CG-DME-45 Ultrasound Bone Growth Stimulation
+
+Sesamoid bones: An ovoid, nodular mass of bone or cartilage within a tendon or joint capsule, principally in the hands and lower extremities; the patella is the largest sesamoid bone in the body.
+
+Short bones: Bones with a tubular shaft and articular surfaces at each end but much smaller in size; includes all of the metacarpals and phalanges in the hands, the metatarsals and phalanges in the feet, and the clavicle (collarbone).
+
+Stress fractures: Microscopic tears or cracks in bones caused by repetitive (rather than sudden) mechanical stress.
+
+Tibial diaphysis: Refers to the shaft of the tibia, also known as the shin bone.
+
+Ultrasound bone growth stimulator: A medical device that uses low-intensity pulsed ultrasound energy to stimulate bone growth.
+
+References
+
+Peer Reviewed Publications:
+
+1. Bashardoust Tajali S, Houghton P, MacDermid JC, Grewal R. Effects of low-intensity pulsed ultrasound therapy on
+
+fracture healing: a systematic review and meta-analysis. Am J Phys Med Rehabil. 2012; 91(4):349-367. 2. Bhattacharyya T, Levin R, Vrahas MS, Solomon DH. Nonsteroidal anti-inflammatory drugs and nonunion of
+
+humeral shaft fractures. Arthritis Rheum. 2005; 53(3):364-367.
+
+3. Busse JW, Bhandari M, Einhorn TA, et al. Trial to re-evaluate ultrasound in the treatment of tibial fractures
+
+(TRUST): a multicenter randomized pilot study. Trials. 2014; 15(1):206.
+
+4. Busse JW, Bhandari M, Kulkarni AV, Tunks E. The effect of low-intensity pulsed ultrasound therapy on time to
+
+fracture healing: a meta-analysis. CMAJ. 2002; 166(4):437-441.
+
+5. Busse JW, Kaur J, Mollon B, et al. Low intensity pulsed ultrasonography for fractures: systematic review of
+
+randomised controlled trials. BMJ. 2009; 338:b351.
+
+6. Cook SD, Ryaby JP, McCabe J, et al. Acceleration of tibia and distal radius fracture healing in patients who smoke.
+
+Clin Orthop. 1997; 337:198-207.
+
+7. Dennis NZ, Das De S. Modified Mitchell's osteotomy for moderate to severe hallux valgus--an outcome study. J
+
+Foot Ankle Surg. 2011; 50(1):50-54.
+
+8. Dijkman BG, Sprague S, Bhandari M. Low-intensity pulsed ultrasound: nonunions. Indian J Orthop. 2009;
+
+43(2):141-148.
+
+9. Dudda M, Hauser J, Muhr G, Esenwein SA. Low-intensity pulsed ultrasound as a useful adjuvant during distraction
+
+osteogenesis: a prospective, randomized controlled trial. J Trauma. 2011; 71(5):1376-1380.
+
+10. El-Mowafi H, Mohsen M. The effect of low intensity pulsed ultrasound on callus maturation in tibial distraction
+
+osteogenesis. Int Orthop. 2005; 29:121-124.
+
+11. Emami A, Petren-Mallmin M, Larsson S. No effect of low-intensity ultrasound on healing time of intramedullary fixed
+
+tibial fractures. J Orthop Trauma. 1999; 13(4):252-257.
+
+12. Enan A, Abo-Hegy M, Seif H. Early results of distal metatarsal osteotomy through minimally invasive approach for
+
+mild-to-moderate hallux valgus. Acta Orthop Belg. 2010; 76(4):526-535.
+
+13. Frankel VH, Mizuho K. Management of non-union with pulsed low-intensity ultrasound therapy--international
+
+results. Surg Technol Int. 2002; 10:195-200.
+
+14. Gan TY, Kuah DE, Graham KS, Markson G. Low-intensity pulsed ultrasound in lower limb bone stress injuries: a
+
+randomized controlled trial. Clin J Sport Med. 2014; 24(6):457-460.
+
+15. Hadjiargyrou M, McLeod K, Ryaby J, Clinton R. Enhancement of fracture healing by low intensity ultrasound. Clin
+
+Orthop. 1998; 355(Suppl):S216-S229.
+
+16. Heckman JD, Ryaby JP, McCabe J, et al. Acceleration of tibial fracture-healing by non-invasive, low-intensity
+
+pulsed ultrasound. J Bone Joint Surg. 1994; 76(1):26-34.
+
+17. Jan D, Frederic VC Luc S. Case report: oblique fracture of the ulnar sesamoid bone of the metacarpophalangeal
+
+joint, a rare pathology. J Orthop Case Rep. 2017; 7(2):29-32.
+
+18. Jingushi S, Mizuno K, Matsushita T, et al. Low-intensity pulsed ultrasound treatment for postoperative delayed
+
+union or nonunion of long bone fractures. J Orthop Sci. 2007; 12(1):35-41.
+
+19. Kristiansen T, Ryaby J, McCabe J, et al. Accelerated healing of distal radial fractures with the use of specific, low- intensity ultrasound. A multicenter, prospective, randomized, double-blind, placebo-controlled study. JBJS. 1997; 79(7):961-973.
+
+20. Larsson ME, Käll I, Nilsson-Helander K. Treatment of patellar tendinopathy-a systematic review of randomized
+
+controlled trials. Knee Surg Sports Traumatol Arthrosc. 2012; 20(8):1632-1646.
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_d083855.html
+
+10/13
+
+10/25/25, 12:11 PM
+
+CG-DME-45 Ultrasound Bone Growth Stimulation
+
+21. Lee HJ, Chung JW, Chu IT, Kim YC. Comparison of distal chevron osteotomy with and without lateral soft tissue
+
+release for the treatment of hallux valgus. Foot Ankle Int. 2010; 31(4):291-295.
+
+22. Leighton R, Watson JT, Giannoudis P, et al. Healing of fracture nonunions treated with low-intensity pulsed
+
+ultrasound (LIPUS): a systematic review and meta-analysis. Injury. 2017; 48(7):1339-1347.
+
+23. Leung KS, Lee WS, Tsui HF, et al. Complex tibial fracture outcomes following treatment with low-intensity pulsed
+
+ultrasound. Ultrasound Med Biol. 2004; 30(3):389-395.
+
+24. Lou S, Lv H, Li Z, et al. The effects of low-intensity pulsed ultrasound on fresh fracture: a meta-analysis. Medicine
+
+(Baltimore). 2017; 96(39):e8181.
+
+25. Lubbert PH, van der Rijt RH, Hoorntje LE, et al. Low-intensity pulsed ultrasound (LIPUS) in fresh clavicle fractures:
+
+a multi-centre double blind randomised controlled trial. Injury. 2008; 39(12):1444-1452.
+
+26. Mayr E, Frankel V, Rüter A. Ultrasound: an alternative healing method for nonunions? Arch Orthop Trauma Surg.
+
+2000; 120(1-2):1-8.
+
+27. Miller JM, Ferdowsian VN, Collman DR. Inverted Z-scarf osteotomy for hallux valgus deformity correction:
+
+intermediate-term results in 55 patients. J Foot Ankle Surg. 2011; 50(1):55-61.
+
+28. Mirza YH, Teoh KH, Golding D, et al. Is there a role for low intensity pulsed ultrasound (LIPUS) in delayed or
+
+nonunion following arthrodesis in foot and ankle surgery? Foot Ankle Surg. 2019; 25(6):842-848.
+
+29. Nolte P, van der Krans A, Patka P, et al. Low-intensity pulsed ultrasound in the treatment of nonunions. J Trauma.
+
+2001; 51(4):693-703.
+
+30. Rue JP, Armstrong DW III, Frassica FJ, et al. The effect of pulsed ultrasound in the treatment of tibial stress
+
+fractures. Orthopedics. 2004; 27(11):1192-1195.
+
+31. Rutten S, Nolte PA, Guit GL, et al. Use of low-intensity pulsed ultrasound for posttraumatic nonunions of the tibia: a
+
+review of patients treated in the Netherlands. J Trauma. 2007; 62(4):902-908.
+
+32. Salem KH, Schmelz A. Low-intensity pulsed ultrasound shortens the treatment time in tibial distraction
+
+osteogenesis. Int Orthop. 2014; 38(7):1477-1482.
+
+33. Schofer MD, Block JE, Aigner J, Schmelz A. Improved healing response in delayed unions of the tibia with low- intensity pulsed ultrasound: results of a randomized sham-controlled trial. BMC Musculoskelet Disord. 2010; 11:229.
+
+34. Snyder BM, Conley J, Koval KJ. Does low-intensity pulsed ultrasound reduce time to fracture healing? A meta-
+
+analysis. Am J Orthop (Belle Mead NJ). 2012; 41(2):E12-E19.
+
+35. Urita A, Iwasaki N, Kondo M, et al. Effect of low-intensity pulsed ultrasound on bone healing at osteotomy sites
+
+after forearm bone shortening. J Hand Surg Am. 2013; 38(3):498-503.
+
+36. Warden SJ, Metcalf BR, Kiss ZS, et al. Low-intensity pulsed ultrasound for chronic patellar tendinopathy: a
+
+randomized, double-blind, placebo-controlled trial. Rheumatology (Oxford). 2008; 47(4):467-471.
+
+Government Agency, Medical Society, and Other Authoritative Publications:
+
+1. Centers for Medicare and Medicaid Services (CMS). Medicare Coverage Database. Decision memo for ultrasound
+
+stimulation for nonunion fracture healing (CAG-00022R). Effective April 27, 2005. Available at: https://www.cms.gov/medicare-coverage-database/details/nca-decision-memo.aspx?NCAId=135&fromdb=true. Accessed on March 21, 2024.
+
+2. Centers for Medicare and Medicaid Services (CMS). National Coverage Determination: Osteogenic Stimulators.
+
+NCD #150.2. Effective April 27, 2005. Available at: https://www.cms.gov/medicare-coverage-database/details/ncd- details.aspx?NCDId=65&ncdver=2&DocID=150.2&id=135&bc=gAAAABAAAAAA& . Accessed on April 14, 2025. 3. Griffin XL, Parsons N, Costa ML, et al. Ultrasound and shockwave therapy for acute fractures in adults. Cochrane
+
+Database Syst Rev. 2014;(6):CD008579.
+
+4. Griffin XL, Smith N, Parsons N, Costa ML. Ultrasound and shockwave therapy for acute fractures in adults.
+
+Cochrane Database Syst Rev. 2012;(2):CD008579.
+
+5. Lenza M, Belloti JC, Andriolo RB, et al. Conservative interventions for treating middle third clavicle fractures in
+
+adolescents and adults. Cochrane Database Syst Rev. 2009;(2):CD007121.
+
+6. Schoelles K, Snyder D, Kaczmarek J, et al. The role of bone growth stimulating devices and orthobiologics in
+
+healing nonunion fractures [Internet]. Rockville (MD): Agency for Healthcare Research and Quality (US); 2005. 7. U.S. Food and Drug Administration (FDA). Center for Devices and Radiological Health (CDRH). PMA - Premarket Approval P900009. Trade name: Sonic Accelerated Fracture Healing System Model 2A (Exogen™). November 9, 1994. Available at: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P900009. Accessed on April 14, 2025.
+
+Websites for Additional Information
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_d083855.html
+
+11/13
+
+10/25/25, 12:11 PM
+
+CG-DME-45 Ultrasound Bone Growth Stimulation
+
+1. American Academy of Orthopaedic Surgeons (AAOS). OrthoInfo. Nonunions. Last reviewed May 2024. Available
+
+at: http://orthoinfo.aaos.org/topic.cfm?topic=A00374. Accessed April 14, 2025.
+
+Index
+
+Exogen 2000™ Exogen 2000+™ Exogen 3000™ Exogen 4000+ Exogen Pulsed Low-Intensity Bone Healing System SAFHS Model 2000
+
+The use of specific product names is illustrative only. It is not intended to be a recommendation of one product over another, and is not intended to represent a complete listing of all products available.
+
+History Status Revised
+
+Date 05/08/2025
+
+Action Medical Policy & Technology Assessment Committee (MPTAC) review. In MN criteria: (1) Added blank line above criteria set B - Fracture Non-unions; (2) Added “:” at the end of the first sentence in criteria set B; and (3) In criterion B-1, deleted extra space after the word “appendicular”. Revised Discussion/General Information, References and Websites for Additional Information sections. MPTAC review. Updated References and Websites for Additional Information sections. MPTAC review. Updated References and Websites for Additional Information sections. MPTAC review. Revised formatting and made minor language revisions to MN and NMN criteria. MPTAC review. Updated Discussion/General Information, References and Websites for Additional Information sections. MPTAC review. Updated References and Websites for Additional Information sections. Reformatted Coding section. MPTAC review. Updated References and Websites for Additional Information sections. MPTAC review. In the medically necessary statement, bullet “3a”, clarified what is meant by “location and poor vascular supply”. Updated Discussion/General Information, Definitions, References and Websites for Additional Information sections. MPTAC review. Initial document development. Moved content of DME.00027 Ultrasound Bone Growth Stimulation to new clinical utilization management guideline document with the same title.
+
+Reviewed
+
+05/09/2024
+
+Reviewed
+
+05/11/2023
+
+Revised
+
+02/16/2023
+
+Reviewed
+
+05/12/2022
+
+Reviewed
+
+05/13/2021
+
+Reviewed
+
+05/14/2020
+
+Revised
+
+06/06/2019
+
+New
+
+07/26/2018
+
+Federal and State law, as well as contract language, and Medical Policy take precedence over Clinical UM Guidelines. We reserve the right to review and update Clinical UM Guidelines periodically. Clinical guidelines approved by the Medical Policy & Technology Assessment Committee are available for general adoption by plans or lines of business for consistent review of the medical necessity of services related to the clinical guideline when the plan performs utilization review for the subject. Due to variances in utilization patterns, each plan may choose whether to adopt a particular Clinical UM Guideline. To determine if review is required for this Clinical UM Guideline, please contact the customer service number on the member's card.
+
+Alternatively, commercial or FEP plans or lines of business which determine there is not a need to adopt the guideline to review services generally across all providers delivering services to Plan’s or line of business’s members may instead use
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_d083855.html
+
+12/13
+
+10/25/25, 12:11 PM
+
+CG-DME-45 Ultrasound Bone Growth Stimulation
+
+the clinical guideline for provider education and/or to review the medical necessity of services for any provider who has been notified that his/her/its claims will be reviewed for medical necessity due to billing practices or claims that are not consistent with other providers, in terms of frequency or in some other manner.
+
+No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, or otherwise, without permission from the health plan.
+
+© CPT Only - American Medical Association
+
+https://www.anthem.com/medpolicies/abc/active/gl_pw_d083855.html
+
+13/13

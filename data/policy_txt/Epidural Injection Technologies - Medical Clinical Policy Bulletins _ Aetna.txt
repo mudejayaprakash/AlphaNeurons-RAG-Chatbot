@@ -1,0 +1,2053 @@
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+-->
+
+(https://www.aetna.com/)
+
+Epidural Injection Technologies
+
+Medical Clinical Policy Bulletins
+
+Clinical Policy Bulletins
+
+Number: 0934
+
+Table Of Contents
+
+Policy History
+
+Policy
+
+Applicable CPT / HCPCS / ICD-10 Codes
+
+Last Review
+
+Background
+
+04/08/2025
+
+References
+
+Effective: 08/20/2018
+
+Next Review: 10/08/2026
+
+Review History
+
+Deﬁnitions
+
+Policy
+
+Additional Information
+
+Scope of Policy
+
+Clinical Policy Bulletin
+
+This Clinical Policy Bulletin addresses epidural injection technologies.
+
+Notes
+
+I. Medical Necessity
+
+A. Aetna considers epidural blood patching (EBP) medically
+
+necessary for the following indications:
+
+1. Treatment of post-dural puncture headache (PDPH) if
+
+member exhibited prolonged headaches (greater than 24
+
+hours);
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+1/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+2. Treatment of spontaneous intracranial hypotension in
+
+members with orthostatic headache for more than 2 weeks
+
+if either of the following selection criteria is met:
+
+a. Brain MRI documenting dural enhancement; or
+
+b. Spinal imaging documenting epidural collection of CSF
+
+or site of CSF leak;
+
+3. Repeat epidural blood patching (EBP) if the initial patch
+
+does not produce prolonged relief and additional spinal
+
+imaging identiﬁes a site of CSF leak.
+
+B. Aetna considers transforaminal EBP medically necessary for
+
+the treatment of post-dural puncture headache when EBP
+
+using an interlaminar approach was ineﬀective.
+
+II. Experimental, Investigational, or Unproven
+
+The following procedures are considered experimental,
+
+investigational, or unproven because the eﬀectiveness of these
+
+approaches has not been established:
+
+Prophylactic EBP
+
+EBP for the treatment of post-dural puncture tinnitus
+
+EBP for the treatment of suspected cerebrospinal ﬂuid (CSF)
+
+leak not conforming to 3rd edition International Classiﬁcation
+
+of Headache Disorders (ICHD-3) criteria for spontaneous
+
+intracranial hypotension (absence of features of a CSF leak via
+
+imaging; or CSF opening pressure of 6 cm H2O or greater)
+
+Epidural ﬁbrin glue patching for the treatment of PDPH
+
+Epidural autologous platelet-rich-plasma patching for the
+
+treatment of PDPH
+
+Real-time pressure-sensing epidural guidance.
+
+III. Related Policies
+
+CPB 0722 - Transforaminal Epidural Injections
+
+(..700_799/0722.html)
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+2/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+CPT Codes / HCPCS Codes / ICD-10 Codes
+
+CPT codes covered if selection criteria are met:
+
+Code
+
+Code Description
+
+Injection, epidural, of blood or clot patch
+
+62273
+
+CPT codes not covered for indications listed in the CPB:
+
+Injection(s), platelet rich plasma, any site, including image
+
+0232T
+
+guidance, harvesting and preparation when performed [epidural
+
+autologous platelet-rich-plasma patching]
+
+Real-time pressure-sensing epidural guidance system (List
+
+0777T
+
+separately in addition to code for primary procedure)
+
+Other CPT codes related to the CPB:
+
+62320 - 62323 Injection(s), of diagnostic or therapeutic substance(s) (eg,
+
+anesthetic, antispasmodic, opioid, steroid, other solution), not
+
+including neurolytic substances, including needle or catheter
+
+placement, interlaminar epidural or subarachnoid, cervical or
+
+thoracic or lumbar or sacral (caudal) [not covered for epidural
+
+fibrin glue patching]
+
+70551 - 70553 Magnetic resonance (eg, proton) imaging, brain
+
+Ultrasonic guidance for needle placement (eg, biopsy,
+
+76942
+
+aspiration, injection, localization device), imaging supervision
+
+and interpretation
+
+Fluoroscopic guidance and localization of needle or catheter tip
+
+77003
+
+for spine or paraspinous diagnostic or therapeutic injection
+
+procedures (epidural or subarachnoid) (List separately in
+
+addition to code for primary procedure)
+
+Computed tomography guidance for needle placement (eg,
+
+77012
+
+biopsy, aspiration, injection, localization device), radiological
+
+supervision and interpretation
+
+HCPCS codes not covered for indications listed in the CPB:
+
+Platelet rich plasma, each unit [epidural autologous platelet-
+
+P9020
+
+rich-plasma patching]
+
+Other HCPCS codes related to the CPB:
+
+Injection, hydrocortisone sodium succinate, up to 100 mg
+
+J1720
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+3/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+Code
+
+Code Description
+
+ICD-10 codes covered if selection criteria are met:
+
+Cerebrospinal fluid leak
+
+G96.00 -
+
+G96.09
+
+Intracranial hypotension, spontaneous [Absence of features of a
+
+G96.811
+
+CSF leak via imaging; or CSF opening pressure of 6 cm H2O or
+
+greater]
+
+Other reaction to spinal and lumbar puncture [covered for post-
+
+G97.1
+
+dural puncture headache (PDPH)] [not covered for post-dural
+
+puncture tinnitus]
+
+Intracranial hypotension following ventricular shunting
+
+G97.2
+
+[spontaneous intracranial hypotension]
+
+Spinal and epidural anesthesia induced headache during
+
+O29.40 -
+
+pregnancy
+
+O29.43
+
+Spinal and epidural anesthesia-induced headache during the
+
+O89.4
+
+puerperium
+
+Headache with orthostatic component, not elsewhere classified
+
+R51.0
+
+Other complications of anesthesia [covered for post-dural
+
+T88.59xA -
+
+puncture headache (PDPH)] [not covered for post-dural
+
+T88.59xS
+
+puncture tinnitus]
+
+ICD-10 codes not covered for indications listed in the CPB:
+
+Tinnitus [post-dural puncture tinnitus]
+
+H93.11 -
+
+H93.19
+
+Background
+
+Epidural Blood Patching (EBP) for the Treatment of Post-Dural
+
+Puncture Headache
+
+Post-dural-puncture headache (PDPH) is a complication of puncture of
+
+the dura mater. The headache can be severe and it entails the back and
+
+front of the head, and spreading to the neck and shoulders, sometimes
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+4/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+involving neck stiffness. It is exacerbated by movement, and sitting or
+
+standing, and relieved to some degree by lying down. Nausea, vomiting,
+
+pain in arms and legs, hearing loss, tinnitus, vertigo, dizziness and
+
+paresthesia of the scalp are common. It is a common side-effect of spinal
+
+anesthesia and lumbar puncture and may occasionally accidentally occur
+
+in epidural anesthesia. Leakage of cerebrospinal fluid (CSF) through the
+
+dura mater puncture causes reduced fluid levels in the brain and spinal
+
+cord, and may lead to the development of PDPH hours or days later.
+
+Some individuals require no other treatment than pain medications and
+
+bed rest. Persistent and severe PDPH may require an epidural blood
+
+patching (EBP), which entails injection of a small amount of autologous
+
+blood into the epidural space to stop certain types of spinal headaches.
+
+This resulting blood clot patches the hole in the spine and treats the
+
+patient’s headache symptoms. It is also believed that EBP causes
+
+compression and relieves the pressure state in the head, which causes
+
+the headache. In a very small percentage of cases, the headache can
+
+recur, and EBP may need to be repeated. Epidural blood patching is
+
+generally well-tolerated, and has a low incidence of complications, which
+
+include slight back pain, stiffness in the neck and low-grade fever.
+
+Success rates of EBP varying from 60 to 95 % have been reported; this
+
+variability may be a consequence of a higher efficacy rate when EBP is
+
+used for small dural punctures. Epidural blood patching usually takes
+
+approximately 15 minutes and is carried out in an out-patient setting (No
+
+authors listed, 2001; Turnbull and Shepherd, 2003).
+
+In a Cochrane review, Boonmak and Boonmak (2010) examined the
+
+possible benefits and harms of EBP in both prevention and treatment of
+
+post-dural puncture headache (PDPH). These investigators searched the
+
+Cochrane PaPaS Group Trials Register; CENTRAL; Medline and Embase
+
+in April 2009. They sought all randomized controlled trials (RCTs) that
+
+compared EBP versus no EBP in the prevention or treatment of PDPH
+
+among all types of participants undergoing dural puncture for any
+
+reason. One review author extracted details of trial methodology and
+
+outcome data from studies considered eligible for inclusion. These
+
+researchers invited authors of all such studies to provide any details that
+
+were unavailable in the published reports. They performed intention-to-
+
+treat (ITT) analyses using the Peto O-E method. They also extracted
+
+information about adverse effects (AEs; post-dural puncture backache
+
+and epidural infection). A total of 9 studies (379 participants) were eligible
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+5/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+for inclusion. Prophylactic EBP improved PDPH compared to no
+
+treatment (odds ratio [OR] 0.11, 95 % confidence interval [CI]: 0.02 to
+
+0.64, 1 study), conservative treatment (OR 0.06, 95 % CI: 0.03 to 0.14, 2
+
+studies) and epidural saline patch (OR 0.16, 95 % CI: 0.04 to 0.55, 1
+
+study). However, prophylactic EBP did not result in less PDPH than a
+
+sham procedure (1 study). Therapeutic EBP resulted in less PDPH than
+
+conservative treatment (OR 0.18, 95 % CI: 0.04 to 0.76, 1 study) and a
+
+sham procedure (OR 0.04, 95 % CI: 0.00 to 0.39, 1 study). Backache
+
+was more common with EBP. However, these studies had very small
+
+numbers of participants and outcome events, as well as uncertainties
+
+about trial methodology, which precluded reliable assessments of the
+
+potential benefits and harms of the intervention. The authors did not
+
+recommend prophylactic EBP over other treatments because there were
+
+too few trial participants to allow reliable conclusions to be drawn.
+
+However, therapeutic EBP showed a benefit over conservative treatment,
+
+based on the limited available evidence.
+
+Gottschalk (2015) stated that in most cerebrospinal fluid (CSF) leaks are
+
+iatrogenic and caused by medical interventions (e.g., lumbar puncture,
+
+peri-dural anesthesia and surgical interventions on the spine). However,
+
+spontaneous cerebral hypotension is currently detected more frequently
+
+due to improvements in diagnostic possibilities but often the cause cannot
+
+be clarified with certainty. There are various diagnostic tools for
+
+confirming the diagnosis and searching for the site of CSF leakage, such
+
+as post-myelography computed tomography (postmyelo-CT), indium-111
+
+radioisotope cisternography and (myelo) magnetic resonance imaging
+
+(MRI), which show different sensitivities. In accordance with the authors’
+
+experience, native MRI with fat-saturated T2-weighted sequences is often
+
+sufficient for diagnosing CSF leakage and the site. For the remaining
+
+cases, an additional postmyelo-CT or alternatively myelo-MRI is
+
+recommended. In some patients with spontaneous cranial hypotension
+
+multiple CSF leaks are found at different spinal levels. The main
+
+symptom in most cases is an orthostatic headache. While post-puncture
+
+syndrome is self-limiting in many cases, spontaneous CSF leakage
+
+usually requires EBP. Lumbar EBP can be safely carried out under
+
+guidance by fluoroscopy. In the case of a cervical or dorsal blood patch,
+
+CT guidance is recommended, which ensures epidural application of the
+
+blood patch and minimizes the risk of damaging the spinal cord. Despite
+
+a high success rate at the 1st attempt with a blood patch of up to 85 %,
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+6/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+some cases require repeating blood patching. A targeted blood patch of
+
+a CSF leak should generally be favored over a blindly placed blood patch;
+
+nevertheless, if a CSF leak cannot be localized by CT or MRI a
+
+therapeutic attempt with a lumbar blood patch can be carried out. After a
+
+successful blood patch, intracranial hygromas and pachymeningeal
+
+enhancement in the head showed fast regression; however, epidural
+
+hygromas of the spine could persist for a period of several months, even
+
+though patients are already symptoms-free. The authors concluded that
+
+EBP is a safe and relatively simple method with a high success rate; thus;
+
+it represents the therapy of choice in patients with spontaneous CSF
+
+leakage as well as in cases of PDPH refractory to conservative therapy.
+
+Kapoor and Ahmed (2015) stated that EBP is rarely performed at the
+
+cervical levels, primarily due to fear of neurological complications such as
+
+spinal cord compression. These investigators reviewed the literature to
+
+provide an evidence-based review of performance of cervical EBPs, with
+
+a specific focus on indication, technique, safety, and efficacy. They
+
+performed a comprehensive electronic literature search to include studies
+
+that reported on performance of cervical EBPs in patients with CSF leak
+
+at the cervical level. Data regarding indication, level of CSF leak, level of
+
+cervical EBP, volume of blood used, efficacy, and complications were
+
+collected. A total of 15 studies, reporting on 19 patients were included.
+
+All patients presented with a headache that increased in the standing
+
+position, and improved in the supine position. All patients were identified
+
+to have a CSF leak at the cervical level; 8 patients first underwent a
+
+lumbar EBP, without complete, long-term relief. All these patients, along
+
+with 11 patients who did not undergo a lumbar EPB prior to cervical EBP,
+
+reported complete, long-term pain relief; EBPs were mostly done in the
+
+prone position, using imaging guidance. An average of 5 to 8 ml of
+
+autologous blood was injected in the epidural space. No major
+
+neurological complications were reported in any patient. The authors
+
+concluded that the findings of this review suggested that cervical EBP
+
+can be performed for cervical CSF leaks associated with positional
+
+headache without a significant risk of serious AEs. This review provided
+
+Class II level of evidence that cervical EBPs were safe and effective in
+
+reliving positional headache due to CSF leak.
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+7/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+Suescun and associates (2016) noted that PDPH due to accidental dural
+
+puncture during epidural catheter placement is a source of morbidity for
+
+new mothers. It can interfere with maternal-newborn bonding and
+
+increase the length of hospitalization. This evidence-based article
+
+examined the question: For obstetric patients experiencing an accidental
+
+dural puncture during epidural placement, which non-pharmacologic
+
+prophylactic neuraxial interventions safely and effectively decrease the
+
+incidence of PDPH? A search of online databases revealed 4 systematic
+
+reviews with meta-analysis and a RCT meeting the inclusion criteria; 3 of
+
+the 4 systematic reviews used rigorous appraisal methods; 2 systematic
+
+reviews included non-obstetric populations and 3 included additional
+
+interventions. Subgroup analyses allowed examination of the
+
+interventions of interest. Non-pharmacologic prophylactic neuraxial
+
+interventions included prophylactic EBP, epidural saline administration,
+
+and intra-thecal catheter placement. There was a lack of standardization
+
+of interventions. The authors concluded that the evidence suggested
+
+there may be value in performing a prophylactic blood patch or placing an
+
+intra-thecal catheter. The risk of the intervention must be carefully
+
+weighed with the benefits. They stayed that further rigorous studies are
+
+needed to help determine the best methods to decrease the incidence of
+
+PDPH in obstetric patients experiencing an accidental dural puncture
+
+during epidural placement.
+
+Furthermore, an UpToDate review on “Post-lumbar puncture headache”
+
+(Sun-Edelstein and Lay, 2018a) states that “Other agents that have been
+
+evaluated for the treatment of PLPHA in small controlled trials or case
+
+series include oral and intravenous caffeine, epidural saline,
+
+intramuscular adrenocorticotropic hormone (ACTH) and intravenous
+
+synthetic ACTH, oral gabapentin, intravenous hydrocortisone, oral
+
+theophylline, and subcutaneous sumatriptan, and sphenopalatine block
+
+… Of these, the limited available data suggest modest effectiveness for
+
+gabapentin, hydrocortisone, and theophylline. For patients with moderate
+
+to severe PLPHA that is prolonged (greater than 24 hours) and refractory
+
+to conservative measures, we suggest treatment with epidural blood
+
+patch (Grade 1B)”.
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+8/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+EBP for the Treatment of Spontaneous Intracranial Hypotension
+
+Girgis and co-workers (2015) noted that spontaneous intracranial
+
+hypotension (SIH) is caused by spinal CSF leakage. Treatment is
+
+directed at sealing the site of leak, which is often difficult to localize.
+
+These researchers presented a case of near fatal SIH that was treated
+
+with thoracic EBP. A 47-year old man presented with orthostatic
+
+headache and bilateral cranial nerve VI palsies progressing over several
+
+weeks. Brain MRI showed features typical of SIH and identified an
+
+epidural collection stretching from spinal levels C6 to T4, but further
+
+imaging with MR myelography and radionuclide cisternography failed to
+
+identify a precise site of leak. The patient worsened in the hospital
+
+requiring craniotomy for evacuation of an evolving subdural hematoma
+
+(SDH). Epidural blood patch was performed at the T1 to T2 level, the
+
+presumed location of the leak due to presence of a bone spur on CT and
+
+the large corresponding CSF collection. This quickly led to resolution of
+
+the headache and cranial nerve palsies, and later to the complete
+
+resolution of his SDH. Through this case and review of the literature, the
+
+authors demonstrated that directed cervical or thoracic EBP should be
+
+considered for SIH as an alternative to the conventional lumbar EBP.
+
+Ansel and co-workers (2016) stated that patients with a spontaneous
+
+CSF leak, normally at a spinal level, typically present with low-pressure
+
+headache. In refractory cases, EBP may be attempted. These
+
+investigators evaluated the efficacy of lumbar EBP in spontaneous, low-
+
+pressure headaches. They retrospectively analyzed notes of patients
+
+who had EBP performed for SIH in a single-center. Information regarding
+
+demographics, radiology and clinic follow-up was extracted from an
+
+electronic patient record system. Questionnaires regarding outcome
+
+were sent to patients a minimum of 6 months post-procedure. All patients
+
+received EBP in the lumbar region irrespective of the site of CSF leak. A
+
+total of 16 patients who underwent lumbar EBP were analyzed (11
+
+women; mean age of 43 years). The site of CSF leak was evident in only
+
+3/16 patients; 13 patients attended clinic follow-up; 3 reported complete
+
+headache resolution, 4 reported improvement in intensity or frequency
+
+and 6 described no change; 5 of 8 questionnaire respondents reported
+
+reduction in pain, and in these responders, mean headache severity
+
+improved from 9/10 to 3/10; 5 of 8 patients returning follow-up
+
+questionnaires reported sustained improvement in headache symptoms.
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+9/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+The authors concluded that EBP can provide sustained improvement in
+
+headache symptoms in selected patients with SIH, but an untargeted
+
+approach had a lower success rate than reported in other case series.
+
+Rettenmaier and co-workers (2017) noted that SIH is a more common
+
+than previously noted condition (1 to 2.5 per 50,000 persons) typically
+
+caused by CSF leakage. Initial treatment involves conservative
+
+therapies, but the mainstay of treatment for patients who fail conservative
+
+management is EBP. Subdural hematoma (SDH) is a common
+
+complication occurring with SIH, but its management remains
+
+controversial. In this report, these researchers discussed a 62-year old
+
+woman who presented with a 5-week history of orthostatic headaches
+
+associated with nausea, emesis, and neck pain. Despite initial imaging
+
+being negative, the patient later developed classic imaging evidence
+
+characteristic of SIH; MRI was unrevealing for the source of the CSF
+
+leak. Radionuclide cisternography showed possible CSF leak at the
+
+right-sided C7 to T1 nerve root exit site. After failing a blind lumbar EBP,
+
+subsequent targeted EBP at C7 to T1 improved the patient's symptoms.
+
+Two days later she developed a new headache with imaging evidence of
+
+worsening SDH with mid-line shift requiring burr hole drainage. This
+
+yielded sustained symptomatic relief and resolution of previously
+
+abnormal imaging findings at 2-month follow-up. These investigators
+
+performed a literature review and revealed 174 cases of SIH complicated
+
+by SDH. This revealed conflicting opinions concerning the management
+
+of this condition. The authors concluded that although blind lumbar EBP
+
+was often successful, targeted EBP had a lower rate of patients requiring
+
+a 2nd EBP or other further treatment. On the other hand, targeted EBP
+
+had a larger risk profile. Depending on the clinic situation, treatment of
+
+the SDH via surgical evacuation may be necessary.
+
+Staudt and colleagues (2018) noted that SIH is a progressive clinical
+
+syndrome characterized by orthostatic headaches, nausea, emesis, and
+
+occasionally focal neurological deficits. Rarely, SIH is associated with
+
+neurocognitive changes. An EBP is commonly used to treat SIH when
+
+conservative measures are inadequate, although some patients require
+
+multiple EBP procedures or do not respond at all. Recently, the use of a
+
+large-volume (LV) EBP has been described to treat occult leak sites in
+
+treatment-refractory SIH. These investigators described the management
+
+of a patient with profound neurocognitive decline associated with SIH,
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+10/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+who was refractory to conservative management and multiple
+
+interventions. The authors described the successful use of an ultra-LV-
+
+EBP of 120 ml across multiple levels, the largest volume reported in the
+
+literature, and described the technical aspects of the procedure. This
+
+procedure has resulted in dramatic and sustained symptom resolution.
+
+He and co-workers (2018) noted that EBP is the mainstay of treatment for
+
+refractory SIH. These researchers evaluated the treatment efficacy of
+
+targeted EBP in refractory SIH. All patients underwent brain MRI with
+
+contrast and heavily T2-weighted spine MRI. Whole spine CT
+
+myelography with non-ionic contrast was performed in 46 patients, and
+
+whole spine MR myelography with intra-thecal gadolinium was performed
+
+in 119 patients. Targeted EBPs were placed in the prone position 1 or 2
+
+vertebral levels below the CSF leaks. Repeat EBPs were offered at 1-
+
+week intervals to patients with persistent symptoms, continued CSF
+
+leakage, or with multiple leakage sites. Brain MRIs showed
+
+pachymeningeal enhancement in 127 patients and subdural hematomas
+
+in 32 patients; 152 patients had CSF leakages on heavily T2-weighted
+
+spine MRIs; CSF leaks were also detected on CT and MR myelography
+
+in 43 and 111 patients, respectively. Good recovery was achieved in all
+
+patients after targeted EBP. No serious complications occurred in
+
+patients treated with targeted EBP during the 1 to 7 years of follow-up.
+
+The authors concluded that targeted and repeat EBPs are rational
+
+choices for treatment of refractory SIH caused by CSF leakage.
+
+Furthermore, an UpToDate review on “Spontaneous intracranial
+
+hypotension: Treatment and prognosis” (Sun-Edelstein and Lay, 2018b)
+
+states that “The most conservative treatment for spontaneous intracranial
+
+hypotension is avoidance of the upright position, with strict bed rest and
+
+the possible addition of analgesics … We suggest epidural blood patch
+
+(EBP) for patients with spontaneous intracranial hypotension who fulfill
+
+any of the following conditions (Grade 2C)”:
+
+An aggressive precipitating injury, a history of connective tissue
+
+disease, or joint hypermobility
+
+Headache unresponsive to a reasonable period of conservative
+
+treatment (e.g., bed rest and oral analgesics for 1 to 2 weeks)
+
+Severe headache or other disabling symptoms, regardless of
+
+duration
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+11/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+Symptomatic for 2 weeks or longer at the time of diagnosis.
+
+Cheema et al (2023) created a multi-disciplinary consensus clinical
+
+guideline for best practice in the diagnosis, investigation, and
+
+management of SIH due to CSF leak based on current evidence and
+
+consensus from a multi-disciplinary specialist interest group (SIG). A 29-
+
+member SIG was established, with members from neurology,
+
+neuroradiology, anesthetics, neurosurgery, and patient representatives.
+
+The scope and purpose of the guideline were agreed by the SIG by
+
+consensus. The SIG then developed guideline statements for a series of
+
+question topics using a modified Delphi process. This process was
+
+supported by a systematic literature review, surveys of patients and
+
+healthcare professionals and review by several international experts on
+
+SIH. The SIG stated that SIH and its differential diagnoses should be
+
+considered in any patient presenting with orthostatic headache; 1st-line
+
+imaging should be MRI of the brain with contrast and the whole spine.
+
+First-line treatment is non-targeted EBP, which should be performed as
+
+early as possible. The SIG provided criteria for performing myelography
+
+depending on the spine MRI result and response to EBP, and it outlined
+
+principles of treatments. Recommendations for conservative
+
+management, symptomatic treatment of headache and management of
+
+complications of SIH were also provided.
+
+EBP Treatment of Post-Dural Puncture Tinnitus
+
+Jia and Fadhlillah (2018) stated that audiometric disturbances are
+
+recognized as potential complications after spinal or epidural anesthesia;
+
+however, incidences of tinnitus occur less frequently. These researchers
+
+reported the case of a patient with severe bilateral tinnitus post-lumbar
+
+puncture who was treated with EBP. Subject was a 40-yearold ASA I
+
+woman (a medically fit patient with no known medical problem) presented
+
+with ongoing bilateral severe tinnitus for 6 days after a lumbar puncture.
+
+Venous blood (18 ml) was injected into the epidural space using a 16-G
+
+needle. The patient completed the Tinnitus Handicap Inventory (THI)
+
+Questionnaire before EBP, 3 hours, 24 hours and 1-month post-
+
+procedure. An audiogram was also conducted before and 1 month after
+
+EBP. The patient scored 84 (grade 5) on the THI before EBP; 3 hours
+
+post-procedure, her score improved to 16 (grade 1), with complete
+
+resolution by 24 hours. Audiogram revealed a low-frequency mild
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+12/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+sensorineural hearing loss in the left ear prior to the procedure. By her 1-
+
+month follow-up, her hearing was back to normal. The authors concluded
+
+that EBP is an effective treatment for post-dural puncture tinnitus. Its
+
+effects are instantaneous and complete resolution is achieved by 24
+
+hours. These preliminary findings need to be validated by well-designed
+
+studies.
+
+Epidural Fibrin Glue Patching for the Treatment of Post-Dural
+
+Puncture Headache
+
+Wong and Monroe (2017) stated that EBP is the gold standard for the
+
+treatment of PDPH when conservative treatments have failed to provide
+
+any relief. However, alternative therapies are lacking when EBP
+
+persistently fails to improve symptoms. This case described a woman
+
+who developed PDPH secondary to accidental dural puncture during a
+
+spinal cord stimulator trial. She was successfully treated with epidural
+
+fibrin glue patch after multiple trials of EBP. The authors concluded that
+
+percutaneous injection of fibrin glue to seal the dural defect demonstrated
+
+promising outcomes for both immediate and long-lasting resolution of
+
+persistent PDPH in this patient. They stated that in the event of EBP
+
+failure, epidural fibrin glue patching may be a reasonable alternative for
+
+the treatment of persistent PDPH. These preliminary findings need to be
+
+validated by well-designed studies.
+
+Furthermore, an UpToDate review on “Post-lumbar puncture headache”
+
+(Sun-Edelstein and Lay, 2018a) states that “Epidural patching with fibrin
+
+glue at the site of the CSF leak has been used successfully in small
+
+numbers of patients. Anecdotal evidence suggests that this method is
+
+effective, and thereby avoids surgery, in about 1/3 of patients who have
+
+failed epidural blood patch treatment. Further evidence of benefit in
+
+larger studies is needed before this technique can be routinely
+
+recommended”.
+
+Epidural Autologous Platelet-Rich-Plasma Patching for the Treatment of Post-Dural Puncture Headache
+
+Gunaydin and colleagues (2017) performed epidural patching using
+
+platelet-rich-plasma (PRP), which has the potential to regenerate and
+
+heal tissues via degranulation of platelets, in a 34-year old parturient
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+13/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+suffering from persistent PDPH after failed EBP. After her admission to
+
+the authors’ unit, these researchers re-confirmed the clinical and
+
+radiologic diagnosis of PDPH. Cranial MRI with contrast showed diffuse
+
+pachymeningeal thickening and contrast enhancement with enlarged
+
+pituitary consistent with intracranial hypotension. Clinical and radiological
+
+improvements were observed 1 week after epidural patching using
+
+autologous PRP. The authors recommended using autologous PRP for
+
+epidural patching in patients with incomplete recovery after standard EBP
+
+as a novel successful approach. These preliminary findings need to be
+
+validated by well-designed studies.
+
+Transforaminal Epidural Blood Patching
+
+Amrhein and co-workers (2016) noted that EBP treatment of spontaneous
+
+intracranial hypotension arising from ventral CSF leaks can be difficult
+
+secondary to challenges in achieving ventral spread of patching material.
+
+Ina retrospective study, these researchers examined the safety profile
+
+and technical success rates of direct needle placement into the ventral
+
+epidural space via a posterior transforaminal approach. They reviewed
+
+consecutive CT fluoroscopy-guided EBP from June 2013 through July
+
+2015. Cases were included if a posterior transforaminal approach was
+
+taken to place the needle directly in the ventral epidural space. Rates of
+
+technical success (defined as contrast in the spinal canal ventral epidural
+
+space) and optimal epidurogram (defined as contrast spreading into or
+
+beyond the middle third of the spinal canal ventral epidural space) were
+
+determined. Factors influencing these rates were assessed. All
+
+complications, inadvertent intra-vascular injections, and intra-thecal
+
+punctures were recorded. A total of 72 ventral epidural blood patches
+
+were identified; immediate technical success was achieved in 95.8 % and
+
+an optimal epidurogram in 47.2 %. Needle position within the spinal
+
+canal ventral epidural space was associated with obtaining an optimal
+
+epidurogram (p = 0.005). Inadvertent intra-vascular injection was
+
+identified in 29.3 % of cases, but all were venous. There were no
+
+inadvertent intra-thecal punctures or complications. The authors
+
+concluded that direct needle placement in the ventral epidural space via a
+
+transforaminal approach for treatment of ventral CSF leaks has an
+
+excellent technical success rate and safety profile. This technique can be
+
+considered as a therapeutic option in selected patients with ventral CSF
+
+leaks for whom traditional techniques are unsuccessful.
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+14/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+Choi and associates (2019) stated that post-dural puncture headache
+
+(PDPH) is a leak of CSF that lowers intra-cranial pressure and usually
+
+presents as a positional headache. If conservative treatments are not
+
+successful, EBP is the gold standard of treatment for dural puncture. The
+
+interlaminar approach is the most commonly used technique for an EBP.
+
+These investigators described a patient who was treated with a
+
+transforaminal EBP for PDPH following an acupuncture procedure on his
+
+lower back after 2 EBPs using an interlaminar approach had failed. The
+
+patient underwent an acupuncture therapy for management of chronic
+
+low back pain (LBP) due to post-laminectomy syndrome. After the
+
+procedure, the patient had a severe headache and the conservative
+
+treatment was ineffective. The 2 interlaminar EBPs (at the L2 to L3 and
+
+L3 to L4 levels) failed. These researchers performed transforaminal EBP
+
+at the L3 to L4 and L4 to L5 levels on the left side, the site of leakage in
+
+the MRI myelogram. His symptoms finally subsided without
+
+complication. The authors concluded that this case demonstrated that
+
+targeted transforaminal EBP was a therapeutic option for the treatment
+
+PDPH when EBP using an interlaminar approach was ineffective or when
+
+a ventral or far-lateral CSF leak was identified with imaging studies.
+
+Choi and colleagues (2020) noted that EBP is a vital tool in the treatment
+
+of PDPH. Traditional interlaminar epidural needle insertion into the
+
+epidural space, however, may be challenging due to anatomical
+
+variations. As an alternative method, these researchers successfully
+
+performed an EBP via a transforaminal approach. In this single-case
+
+study, a mid-50-year old man with multi-level spinal fusion developed
+
+PDPH following a failed spinal cord stimulator electrode placement. A
+
+transforaminal EBP was carried out by injecting a total of 8-ml of
+
+autologous blood into the neuroforamen at the L1 to L2 level bilaterally.
+
+The patient's positional headache resolved immediately after the
+
+procedure. The authors concluded that this was the 1st case reported of
+
+a transforaminal EBP in a patient with diffuse epidural adhesive fibrosis
+
+secondary to multi-level laminectomies and spinal fusion. This case
+
+report highlighted potential risks and benefits of this novel technique and
+
+also discussed its therapeutic mechanism of action. These researchers
+
+believed that a transforaminal EBP should be considered in patients who
+
+are poor candidates for the traditional interlaminar EBP.
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+15/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+Real-Time Pressure-Sensing Epidural Guidance System
+
+On July 6, 2022, the American Medical Association (AMA) issued a new
+
+technology-specific Category III Current Procedural Terminology (CPT®)
+
+to report the use of the CompuFlo Epidural system (Milestone Scientific,
+
+Inc.). The CompuFlo Epidural system is a real-time pressure sensing
+
+guidance system designed to accurately identify the location of the
+
+needle in real-time. According to the company, the clinical and safety
+
+benefits of the CompuFlo Epidural System are supported by numerous
+
+published studies showing reductions in epidural punctures and
+
+complication rates (yahoo!life, 2022).
+
+Gebhard and colleagues (2019) conducted a study to compare
+
+continuous, quantitative, real-time, needle-tip pressure sensing using a
+
+novel computer-controlled epidural space (ES) identification technology
+
+(CompuFlo Epidural Computer Controlled Anesthesia System [CEI];
+
+Milestone Scientific, Livingston, NJ) to fluoroscopy (FC) and traditional
+
+loss of resistance (LOR) for lumbar ES identification in labor and delivery
+
+(L&D) and chronic pain (CP) management. The study was a prospective
+
+randomized controlled non-inferiority trial consisting of 400 patients in
+
+total. Patients in the CP management arm (n=240) were scheduled to
+
+receive a lumbar epidural steroid injection and had their ES identified
+
+either with FC or with needle-tip pressure measurement. Female patients
+
+in the L&D arm (n=160) underwent lumbar epidural catheter placements
+
+and were randomized to either LOR or needle-tip pressure measurement.
+
+The primary outcome was successful ES identification which was protocol
+
+defined. Secondary outcomes included the performance of the procedure
+
+using one attempt, the absence of accidental dural puncture (ADP),
+
+subject-reported adequate pain relief 45 minutes after dosing of the
+
+epidural catheter (EAPR 45), and the duration of the ES identification
+
+procedure (in minutes). Non-inferiority of needle-tip pressure
+
+management was observed in relation to FC where pain management
+
+patients showed a 100% success rate of ES identification with both
+
+methodologies (OR, 1.1; 97.27% Confidence Interval [CI], 0.52–8.74;
+
+p=0.021 for noninferiority), and L&D patients experienced a non-inferior
+
+success rate with the novel technology (97.1% vs 91%; OR, 3.3; 97.27%
+
+CI, 0.62–21.54; p=0.019) using a a priori noninferiority delta of 0.50. The
+
+study concluded that objective lumbar ES identification using continuous,
+
+quantitative, real-time, needle-tip pressure measurement with the
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+16/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+CompuFlo Epidural Computer Controlled Anesthesia System
+
+demonstrated non-inferior success rates in comparison to FC and LOR
+
+for CP management and L&D, respectively.
+
+Hidalgo (2019) conducted an open, prospective, single operator study to
+
+®
+
+report the clinical experience with the CompuFlo Epidural Instrument.
+
+®
+
+Epidural block was given with the CompuFlo Epidural Instrument in all
+
+consecutive patients receiving an epidural or thoracic block under the
+
+investigator’s care over a two year time frame. The epidural needle was
+
+determined to have reached the epidural space marked by an increase in
+
+pressure (accompanied by an increase of the pitch of the audible tone)
+
+and then followed by a sudden and sustained drop in pressure of greater
+
+than 5 seconds accompanied by a sudden decrease of the pitch of the
+
+audible tone with resultant formation of a low and stable pressure plateau
+
+on the instrument’s visual display. Outcomes evaluation included:
+
+incidence of accidental dural puncture, success of anesthesia, procedure
+
+time, volume of saline used for the epidural procedure, number of
+
+epidural attempts to reach the epidural space, number of needle
+
+redirections, and the operator’s agreement with his tactile sensation of
+
+®
+
+loss of resistance and the CompuFlo pattern. The results for the 600
+
+total cases studied noted success with all epidural blocks and no
+
+accidental dural punctures. Ninety-one percent of cases involved the
+
+correct identification of epidural space on the first attempt, and in 95% of
+
+cases there was a perfect correlation between an operator’s tactile
+
+®
+
+sensations and the CompuFlo recordings as judged by the operator.
+
+®
+
+This study concluded that epidural blocks via the CompuFlo Epidural
+
+Instrument were associated with a very high success rate regardless of
+
+clinical setting (obstetrical, surgical or blood patch intervention) or at
+
+which vertebral level (thoracic or epidural) were done. Additionally, there
+
+was zero incidence of any accidental dural puncture.
+
+Capogna et al (2020) conducted a prospective, simulation study to verify
+
+®
+
+whether the high sensitivity of the CompuFlo epidural system could aid
+
+the anesthesiologist to identify the epidural space very early, thereby,
+
+limiting the extension of the Tuohy needle into the epidural space. This
+
+study evaluated the Tuohy needle extension through a simulated
+
+ligamentum flavum during epidural procedure performed by 52 expert
+
+®
+
+anesthesiologists utilizing the CompuFlo epidural instrument or their
+
+standard loss of resistance to saline technique (LORT). The results
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+17/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+showed the mean (SD) needle extension length as 3.90 (3.71) mm in the
+
+standard technique group and 0.68 (0.46) mm in the CompuFlo® group
+
+®
+
+(p<000001). The CompuFlo group presented with extremely reduced
+
+variability of the data (F test 0.01) showing that results obtained with it are
+
+highly predictable. It was concluded that the needle arrested prematurely
+
+®
+
+when using CompuFlo to puncture a simulated ligamentum flavum in
+
+comparison to traditional LORT.
+
+Babazade and colleagues (2022) conducted a study on cost-minimization
+
+analysis of real-time pressure sensing technology in parturient requesting
+
+labor epidural analgesia. The cost-minimization analysis involved total
+
+cost estimation, from the hospital perspective, for the hospital stay for
+
+delivery and readmission for epidural blood patch (EBP), if any. Patients
+
+were categorized into two groups by the presence of epidural
+
+replacement. Epidural placement success was determined as baby
+
+delivered without epidural replacement or additional analgesia technique
+
+or medications. Each patient group was further categorized into three
+
+groups: 1) No post-dural puncture headache (PDPH) or EBP; 2) With
+
+PDPH but no EBP; 3) With EBP. Patients receiving multiple epidural
+
+procedures for epidural anesthesia during hospitalization were
+
+considered to have epidural replacement. PDPH following epidural
+
+anesthesia was identified using the International Classification of
+
+Diseases (ICD), 10th Revision, Clinical Modification (ICD-10-CM) codes
+
+074.5 and 0.89. Adjustment of all costs to the same time period (February
+
+2019) was performed using the Consumer Price Index for medical care.
+
+Cost-minimization analysis compared real-time pressure sensing
+
+technology and traditional loss-of-resistance (LOR) technique. Cost-
+
+estimation included 4483 deliveries among 4353 parturient. In the 4483
+
+deliveries, 469 (10.5%) had epidural replacement and 101 (2.25%) had
+
+post-dural puncture headache. To no surprise, patients who had epidural
+
+replacement and epidural blood patch incurred the highest cost, while
+
+those without, incurred the lowest cost (median cost $25,279.51 vs.
+
+$16,272.40). Real-time pressure sensing technology costs were about
+
+504 US dollars less per hospital stay on average compared to the
+
+traditional LOR technique. Based on the same cost estimate for delivery
+
+and complication treatment on both arms in each of the six scenarios,
+
+real-time pressure sensing technology achieved a cost savings due to the
+
+lower likelihood of epidural replacement.
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+18/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+Treatment of Suspected CSF Leak
+
+Carroll et al (2024) noted that spinal CSF leaks result in spontaneous
+
+intracranial hypotension (SIH). While 3rd edition International
+
+Classification of Headache Disorders (ICHD-3) criteria necessitate
+
+imaging confirmation or low opening pressure (OP) for SIH diagnosis,
+
+their sensitivity may be limited. The diagnostic criteria of ICHD-3 can be
+
+applied already on presentation or as soon after as the underlying
+
+disorder is confirmed. Criterion A is presence of the headache; criterion B
+
+is presence of the causative disorder; and criterion C is the evidence of
+
+causation. These investigators offered EBPs to patients with symptoms
+
+suggestive of SIH, with and without a documented low OP or confirmed
+
+leak on imaging. In a prospective, cohort study, these researchers
+
+examined the effectiveness of this strategy. This study employed a
+
+nested case-control design including all patients who presented to a
+
+tertiary headache clinic with clinical symptoms of SIH who completed
+
+study measures both before and after receiving an EBP between August
+
+2016 and November 2018. The mean duration of symptoms was 8.7 ±
+
+8.1 years. Of 85 patients assessed, 69 did not meet ICHD-3 criteria for
+
+SIH. At an average of 521 days after the initial EBP, this ICHD-3-negative
+
+subgroup exhibited significant improvements in Patient-Reported
+
+Outcomes Measurement Information System (PROMIS) Global Physical
+
+Health score of +3.3 (95 % CI: 1.5 to 5.1), PROMIS Global Mental Health
+
+score of +1.8 (95 % CI: 0.0 to 3.5), Headache Impact Test (HIT)-6 head
+
+pain score of -3.8 (95 % CI: -5.7 to -1.8), Neck Disability Index (NDI) of
+
+4.8 (95 % CI: -9.0 to -0.6) and PROMIS Fatigue of -2.3 (95 % CI: -4.1 to
+
+0.6); 54 % of ICHD-3-negative patients achieved clinically meaningful
+
+improvements in PROMIS Global Physical Health; and 45% in HIT-6
+
+scores. Pain relief following lying flat before treatment was strongly
+
+associated with sustained clinically meaningful improvement in global
+
+physical health at an average of 521 days (OR 1.39, 95 % CI: 1.1 to 1.79;
+
+p < 0.003). ICHD-3-positive patients showed high rates of response and
+
+previously unreported, treatable levels of fatigue and cognitive deficits.
+
+The authors concluded that patients who did not conform to the ICHD-3
+
+criteria for SIH showed moderate rates of sustained, clinically meaningful
+
+improvements in global physical health, global mental health, neck pain,
+
+fatigue, and head pain following EBP therapy. Pre-treatment
+
+improvement in head pain when lying flat was associated with later,
+
+sustained improvement after EBP therapy among patients who did not
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+19/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+meet the ICHD-3 criteria. Moreover, these investigators stated that
+
+further research is needed to confirm these findings. Classification of
+
+Evidence = IV.
+
+The authors stated that this study had several drawbacks. First, in the
+
+absence of a control group given sham patches, these researchers could
+
+not exclude non-specific treatment effects as responsible for some of the
+
+improvement seen. Furthermore, it was possible that some portion of the
+
+improved patients had a primary headache disorder and the improvement
+
+was not related to the EBP. However, patients' pre-patch relief when lying
+
+flat was strongly associated with the subsequent likelihood of clinically
+
+meaningful benefit over a year after patching. In addition, the positive
+
+effects of patching appeared to increase, rather than diminish, over
+
+extended time periods and repeated patching. This pattern among
+
+responders strengthened a causal inference that patches had a specific
+
+therapeutic effect. Second, non-random completion of a post-treatment
+
+questionnaire (non-participation bias) could limit generalizability to
+
+outside groups of patients with orthostatic headache. These investigators
+
+compared available baseline measures of the patients who did not
+
+complete follow-up with those who did and found no significant
+
+differences, suggesting the participating cohort was representative of the
+
+larger group of all patients who received patches after completing
+
+baseline measures. Third, a recent report (Callen et al, 2023) suggested
+
+that 10 % of patients with an orthostatic headache and negative brain and
+
+spine MRI later had a CSF-venous fistulas (CVFs) identifiable with lateral
+
+decubitus digital subtraction myelogram -- a technique not available at the
+
+time of these data acquisition. These findings would suggest that 10 %
+
+of these researchers’ subset of patients who did not meet the ICHD-3
+
+criteria might have had an undiagnosed CVF and might have responded
+
+to epidural patching on that basis. Fourth, HIT-6 head pain scores
+
+improved to 64.1 ± 8.23 (p < 0.001) at a mean 521 days after the 1st
+
+patch, and these scores after patching were still in the severe range on
+
+average. Additionally, differing estimates of the within-person clinically
+
+meaningful change in the HIT-6 existed, and would yield different
+
+calculated rates of meaningful responders. Fifth, owing to the exploratory
+
+analysis of this project, p values were not adjusted for multiple testing;
+
+increasing the risk that any one of the significant findings reflected a type
+
+I error due to multiple testing; therefore, significant results must be
+
+interpreted with caution and bear repetition.
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+20/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+Cervical Epidural Blood Patch for the Treatment of Spontaneous
+
+Intracranial Hypotension
+
+Ghatge et al (2024) noted that lumbar EBP is not successful in all cases
+
+of CSF leak, especially in the cervico-thoracic region. Ina retrospective
+
+study, these investigators analyzed the findings of a cohort of patients
+
+who had undergone computed tomography (CT)-guided cervical EBP for
+
+the treatment of SIH due to CSF leak in the cervical region. These
+
+researchers collected data from March 2009 to 2020. The inclusion
+
+criteria were clinical syndrome associated with CSF leak, headache
+
+coming on shortly after assuming the erect position and relief achieved by
+
+lying down, CT myelography evidence of CSF leak in the cervical region,
+
+and patient not responding to conservative management for 7 days.
+
+Exclusion criteria were patients with bleeding diathesis and infection.
+
+There were 6 women and 4 men; ages ranged from 32 to 57 years, with
+
+an average of 42. On presentation, all subjects underwent contrast-
+
+enhanced MRI and CT myelography. Cervical EBP was carried out under
+
+CT guidance. Assessment of headache was conducted on a 10-point
+
+numerical rating scale (NRS) before and after the procedure. Results
+
+were categorized into complete relief, partial relief, and no relief
+
+categories. A total of 9 out of 10 patients were completely recovered; and
+
+1 patient was partially recovered. The average NRS scale was 9.6 before
+
+treatment, which was lowered to 0.4 following EBP. No neurological or
+
+vascular complications were observed. The authors concluded that CT-
+
+guided cervical EBP was an optimum and effective way for the treatment
+
+of SIH as a consequence of a leak in the cervical region. It exhibited a
+
+higher success rate than lumbar EBP. Moreover, these researchers
+
+stated that prospective RCTs of cervical versus lumbar EBP are needed
+
+to validate these preliminary findings.
+
+Su et al (2025) stated that EBP is a minimally invasive and effective
+
+treatment for SIH); however, cervical EBP for SIH has little attention.
+
+These investigators examined the treatment the safety and effectiveness
+
+of cervical EBP in the treatment of SIH. A total of 59 cases of intractable
+
+SIH were examined by CT-guided cervical EBP at the Chinese PLA
+
+General Hospital from August 2014 to March 2024. The mean age of the
+
+59 patients at symptom onset was 40.8 ± 9.5 years; 54/59 (91.5 %)
+
+patients experienced orthostatic headache. Pre-operative spine T2 scans
+
+with extensive fluid collection at the upper cervical region in 43/46 (93.5
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+21/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+%); 45/59 (76.3 %) patients had symptomatic relief with initial cervical
+
+EBP, and 14/59 (23.7 %) patients received further cervical EBPs. In the
+
+first 1 to 3 days following the EBP procedure, 11 (18.6 %) patients
+
+reported pain at the puncture site, and 15 (25.4 %) experienced neck
+
+pain. No other complications were observed during or after the
+
+procedure. At the latest follow-up, all patients showed good recovery.
+
+The mean follow-up was 28.9 ± 22.7 months. The authors concluded
+
+that CT-guided cervical EBP was a safe and effective treatment for
+
+patients with intractable SIH, especially in patients who had extensive
+
+fluid collection at the upper cervical region.
+
+References
+
+The above policy is based on the following references:
+
+1. Amrhein TJ, Befera NT, Gray L, Kranz PG. CT ﬂuoroscopy-guided
+
+blood patching of ventral CSF leaks by direct needle placement in
+
+the ventral epidural space using a transforaminal approach.
+
+AJNR Am J Neuroradiol. 2016;37(10):1951-1956.
+
+2. Amrhein TJ, Kranz PG. Spontaneous intracranial hypotension:
+
+Imaging in diagnosis and treatment. Radiol Clin North Am.
+
+2019;57(2):439-451.
+
+3. Amrhein TJ, Kranz PG, Cantrell S, et al. Eﬃcacy of epidural blood
+
+patching or surgery in spontaneous intracranial hypotension: An
+
+evidence map protocol. Syst Rev. 2022;11(1):116.
+
+4. Amrhein TJ, Williams JW, Jr., Gray L, et al. Eﬃcacy of epidural
+
+blood patching or surgery in spontaneous intracranial
+
+hypotension: A systematic review and evidence map. AJNR Am J
+
+Neuroradiol. 2023;44(6):730-739.
+
+5. Ansel S, Rae A, Tyagi A. Eﬃcacy of epidural blood patches for
+
+spontaneous low-pressure headaches: A case series. J R Coll
+
+Physicians Edinb. 2016;46(4):234-237.
+
+6. Babazade R, Lin Y-I., Valles GH, et al. Cost-minimization analysis
+
+of the continuous real-time pressure sensing technology in
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+22/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+parturients requesting labor epidural analgesia, Braz J
+
+Anesthesiol. 2022;S0104-0014(22)00076-8.
+
+7. Boonmak P, Boonmak S. Epidural blood patching for preventing
+
+and treating post-dural puncture headache. Cochrane Database
+
+Syst Rev. 2010;(1):CD001791.
+
+8. Callen AL, Jones LC, Timpone VM, et al. Factors predictive of
+
+treatment success in CT-guided ﬁbrin occlusion of CSF-venous
+
+ﬁstulas: A multicenter retrospective cross-sectional study. AJNR
+
+Am J Neuroradiol. 2023;44(11):1332-1338.
+
+9. Capogna E, Coccoluto A, Velardo M. Epidural needle extension
+
+through the ligamentum ﬂavum using the standard versus the
+
+CompuFlo®-assisted loss of resistance to saline technique: A
+
+simulation study. Anesthesiol Res Pract. 2020;2020:9651627.
+
+10. Carroll I, Han L, Zhang N, et al. Long-term epidural patching
+
+outcomes and predictors of beneﬁt in patients with suspected
+
+CSF leak nonconforming to ICHD-3 criteria. Neurology.
+
+2024;102(12):e209449.
+
+11. Cheema S, Anderson J, Angus-Leppan H, et al. Multidisciplinary
+
+consensus guideline for the diagnosis and management of
+
+spontaneous intracranial hypotension. J Neurol Neurosurg
+
+Psychiatry. 2023;94(10):835-843.
+
+12. Choi HR, Fuller B, Bottros MM. Successful transforaminal
+
+epidural blood patch in a patient with multilevel spinal fusion.
+
+Reg Anesth Pain Med. 2020;45(9):746-749.
+
+13. Choi YN, Kang SJ, Joo JD, et al. Targeted transforaminal epidural
+
+blood patch for postdural puncture headache in patients with
+
+postlaminectomy syndrome. Case Rep Neurol Med.
+
+2019;2019:1968314.
+
+14. Gebhard RE, Moeller-Bertram T, Dobecki D, et al. Objective
+
+epidural space identiﬁcation using continuous real-time pressure
+
+sensing technology: A randomized controlled comparison with
+
+ﬂuoroscopy and traditional loss of resistance. Anesth Analg.
+
+2019;129(5):1319-1327.
+
+15. Ghatge S, Mehta R, Shah AB, Surya N. Spontaneous intracranial
+
+hypotension: Role of computed tomography-guided cervical
+
+epidural blood patch. J Assoc Physicians India. 2024;72(8):48-51.
+
+16. Girgis F, Shing M, Duplessis S. Thoracic epidural blood patch for
+
+spontaneous intracranial hypotension: Case report and review of
+
+the literature. Turk Neurosurg. 2015;25(2):320-325.
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+23/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+17. Gottschalk A. Cerebrospinal ﬂuid leakage. Indications, technique
+
+and results of treatment with a blood patch. Radiologe.
+
+2015;55(6):471-478.
+
+18. Gunaydin B, Acar M, Emmez G, et al. Epidural patch with
+
+autologous platelet rich plasma: A novel approach. J Anesth.
+
+2017;31(6):907-910.
+
+19. He FF, Li L, Liu MJ, et al. Targeted epidural blood patch treatment
+
+for refractory spontaneous intracranial hypotension in China. J
+
+Neurol Surg B Skull Base. 2018;79(3):217-223.
+
+20. Hidalgo G. Epidural space indentiﬁcation using continuous real-
+
+®
+
+time pressure sensing technology (CompuFlo ): A report of 600
+
+consecutive cases. Open J Anesthesiol. 2019;9:189-195.
+
+21. Jia W, Fadhlillah F. Blood patch for the treatment of post-dural
+
+puncture tinnitus. SAGE Open Med Case Rep.
+
+2018;6:2050313X18759445.
+
+22. Kapoor SG, Ahmed S. Cervical epidural blood patch -- A literature
+
+review. Pain Med. 2015;16(10):1897-1904.
+
+23. Milestone Scientiﬁc, Inc. American Medical Association issues
+
+®
+
+technology-speciﬁc CPT code for Milestion Scientiﬁc's CompuFlo
+
+epidural system. yahoo!life, July 6,
+
+2022. https://www.yahoo.com/lifestyle/american-medical-
+
+association-issues-technology-150000368.html. Accessed
+
+February 1, 2023.
+
+24. No authors listed. Prevention is key but an epidural blood patch
+
+is standard treatment in postdural puncture headache. Drug
+
+Ther Perspect. 2001;17(5). Available at:
+
+https://www.medscape.com/viewarticle/406474_6.
+
+25. Piechowiak EI, Aeschimann B, Hani L, et al. Epidural blood
+
+patching in spontaneous intracranial hypotension -- Do we really
+
+seal the leak? Clin Neuroradiol. 2023;33(1):211-218.
+
+26. Ranganath YS. CompuFlo thoracic epidural study.
+
+ClinicalTrials.gov Identiﬁer: NCT03826186. Bethesda, MD:
+
+National Library of Medicine; updated October 19, 2022.
+
+Available at: https://clinicaltrials.gov/ct2/show/NCT03826186.
+
+Accessed February 1, 2023.
+
+27. Rettenmaier LA, Park BJ, Holland MT, et al. Value of targeted
+
+epidural blood patch and management of subdural hematoma in
+
+spontaneous intracranial hypotension: Case report and review of
+
+the literature. World Neurosurg. 2017;97:27-38.
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+24/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+28. Roberts JM, Peterson VE, Heran MKS. Percutaneous CT-guided
+
+epidural ﬁbrin sealant injection for refractory pediatric post-
+
+dural puncture headache. Pediatr Radiol. 2020;50(8):1156-1158.
+
+29. Signorelli F, Caccavella VM, Giordano M, et al. A systematic
+
+review and meta-analysis of factors aﬀecting the outcome of the
+
+epidural blood patching in spontaneous intracranial
+
+hypotension. Neurosurg Rev. 2021;44(6):3079-3085.
+
+30. Staudt MD, Pasternak SH, Sharma M, et al. Multilevel, ultra-large-
+
+volume epidural blood patch for the treatment of neurocognitive
+
+decline associated with spontaneous intracranial hypotension:
+
+Case report. J Neurosurg. 2018;129(1):205-210.
+
+31. Su H, Lan X, Cao Y, et al. Cervical epidural blood patch treatment
+
+is a choice for spontaneous intracranial hypotension. Technol
+
+Health Care. 2025;33(1):567-575.
+
+32. Suescun H, Austin P, Gabaldon D. Nonpharmacologic neuraxial
+
+interventions for prophylaxis of postdural puncture headache in
+
+the obstetric patient. AANA J. 2016;84(1):15-22.
+
+33. Sun-Edelstein C, Lay CL. Post-lumbar puncture headache.
+
+UpToDate [online serial]. Waltham, MA: UpToDate; reviewed
+
+April 2018a.
+
+34. Sun-Edelstein C, Lay CL. Spontaneous intracranial hypotension:
+
+Treatment and prognosis. UpToDate [online serial]. Waltham,
+
+MA: UpToDate; reviewed April 2018b.
+
+35. Turnbull DK, Shepherd DB. Post-dural puncture headache:
+
+Pathogenesis, prevention and treatment. Br J Anaesth.
+
+2003;91(5):718-729.
+
+36. Wong K, Monroe BR. Successful treatment of postdural puncture
+
+headache using epidural ﬁbrin glue patch after persistent failure
+
+of epidural blood patches. Pain Pract. 2017;17(7):956-960.
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+25/26
+
+10/25/25, 12:00 PM
+
+Epidural Injection Technologies - Medical Clinical Policy Bulletins | Aetna
+
+Copyright Aetna Inc. All rights reserved. Clinical Policy Bulletins are developed by Aetna to assist in administering plan benefits and
+
+constitute neither offers of coverage nor medical advice. This Clinical Policy Bulletin contains only a partial, general description of plan or
+
+program benefits and does not constitute a contract. Aetna does not provide health care services and, therefore, cannot guarantee any
+
+results or outcomes. Participating providers are independent contractors in private practice and are neither employees nor agents of Aetna
+
+or its affiliates. Treating providers are solely responsible for medical advice and treatment of members. This Clinical Policy Bulletin may be
+
+updated and therefore is subject to change.
+
+Copyright © 2001-2025 Aetna Inc.
+
+Language services can be provided by calling the number on your member ID card. For additional language assistance: Español Tiếng Việt 한국어 Tagalog Pусский ةيبرعلا Kreyòl Français Polski Português Italiano Deutsch ⽇本語 یسراف Other
+
+Languages…
+
+(http://www.aetna.com/individuals-families/contact-aetna/information-in-other-languages.html)
+
+https://www.aetna.com/cpb/medical/data/900_999/0934.html?utm_source=chatgpt.com
+
+26/26

@@ -1,0 +1,451 @@
+10/10/25, 5:29 PM
+
+NCD - Percutaneous Image-Guided Lumbar Decompression for Lumbar Spinal Stenosis (150.13)
+
+National Coverage Determination (NCD)
+
+Percutaneous Image-Guided Lumbar Decompression for Lumbar Spinal Stenosis
+
+150.13
+
+Links in PDF documents are not guaranteed to work. To follow a web link, please use the MCD
+
+Website.
+
+Tracking Information
+
+Publication Number
+
+100-3
+
+Manual Section Number
+
+150.13
+
+Manual Section Title
+
+Percutaneous Image-Guided Lumbar Decompression for Lumbar Spinal Stenosis
+
+Version Number
+
+2
+
+Effective Date of this Version
+
+12/07/2016
+
+Implementation Date
+
+06/27/2017
+
+Description Information
+
+Beneﬁt Category
+
+Outpatient Hospital Services Incident to a Physician's Service Physicians' Services
+
+Please Note: This may not be an exhaustive list of all applicable Medicare beneﬁt categories for this item or service.
+
+Item/Service Description A. General
+
+https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?ncdid=358
+
+1/8
+
+10/10/25, 5:29 PM
+
+NCD - Percutaneous Image-Guided Lumbar Decompression for Lumbar Spinal Stenosis (150.13)
+
+PILD is a posterior decompression of the lumbar spine performed under indirect image
+
+guidance without any direct visualization of the surgical area. This is a procedure proposed
+
+as a treatment for symptomatic LSS unresponsive to conservative therapy. This procedure is
+
+generally described as a non-invasive procedure using specially designed instruments to
+
+percutaneously remove a portion of the lamina and debulk the ligamentum ﬂavum. The
+
+procedure is performed under x-ray guidance (e.g., ﬂuoroscopic, CT) with the assistance of
+
+contrast media to identify and monitor the compressed area via epiduragram.
+
+Indications and Limitations of Coverage
+
+B. Nationally Covered Indications
+
+Effective for dates of service speciﬁed below, the Centers for Medicare & Medicaid Services
+
+(CMS) has determined that PILD will be covered by Medicare when provided in a clinical
+
+study under section 1862(a)(1)(E)of the Social Security Act (the Act) through Coverage with
+
+Evidence Development (CED) for beneﬁciaries with LSS who are enrolled in an approved clinical study that meets the criteria in section I or II below:
+
+I. Effective for services performed on or after January 9, 2014, PILD will be covered by
+
+Medicare through CED for beneﬁciaries with LSS who are enrolled in an approved clinical study that meets the following criteria. CMS has a particular interest in improved
+
+beneﬁciary function and quality of life, speciﬁc characteristics that identify patients who
+
+may beneﬁt from the procedure, and the duration of beneﬁt. A clinical study seeking Medicare payment for PILD for LSS must address one or more aspects of the following
+
+questions in a prospective, randomized, controlled design using current validated and reliable measurement instruments and clinically appropriate comparator treatments,
+
+including appropriate medical or surgical interventions or a sham controlled arm, for patients randomized to the non-PILD group.
+
+The study protocol must specify a statistical analysis and a minimum length of patient follow up time that evaluates the effect of beneﬁciary characteristics on patient health
+
+outcomes as well as the duration of beneﬁt.
+
+i. Does PILD provide a clinically meaningful improvement of function and/or quality of
+
+life in Medicare beneﬁciaries with LSS compared to other treatments?
+
+ii. Does PILD provide clinically meaningful reduction in pain in Medicare beneﬁciaries
+
+with LSS compared to other treatments?
+
+iii. Does PILD affect the overall clinical management of LSS and decision making,
+
+including use of other medical treatments or services, compared to other
+
+treatments?
+
+These studies must be designed so that the contribution of treatments in addition to the
+
+procedure under study are either controlled for or analyzed in such a way as to determine their impact.
+
+https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?ncdid=358
+
+2/8
+
+10/10/25, 5:29 PM
+
+NCD - Percutaneous Image-Guided Lumbar Decompression for Lumbar Spinal Stenosis (150.13)
+
+a. The principal purpose of the research study is to test whether a particular
+
+intervention potentially improves the participants’ health outcomes.
+
+b. The research study is well supported by available scientiﬁc and medical information
+
+or it is intended to clarify or establish the health outcomes of interventions already
+
+in common clinical use.
+
+c. The research study does not unjustiﬁably duplicate existing studies.
+
+d. The research study design is appropriate to answer the research question being
+
+asked in the study.
+
+e. The research study is sponsored by an organization or individual capable of
+
+executing the proposed study successfully.
+
+f. The research study is in compliance with all applicable Federal regulations concerning the protection of human subjects found at 45 Code of Federal
+
+Regulations (CFR) Part 46. If a study is regulated by the Food and Drug
+
+Administration (FDA), it must be in compliance with 21 CFR parts 50 and 56.
+
+g. All aspects of the research study are conducted according to appropriate standards
+
+of scientiﬁc integrity (see http://www.icmje.org).
+
+h. The research study has a written protocol that clearly addresses, or incorporates by
+
+reference, the standards listed here as Medicare requirements for CED coverage.
+
+i. The clinical research study is not designed to exclusively test toxicity or disease
+
+pathophysiology in healthy individuals. Trials of all medical technologies measuring therapeutic outcomes as one of the objectives meet this standard only if the disease
+
+or condition being studied is life threatening as deﬁned in 21 CFR§312.81(a) and
+
+the patient has no other viable treatment options.
+
+j. The clinical research study is registered on the ClinicalTrials.gov website by the
+
+principal sponsor/investigator prior to the enrollment of the ﬁrst study subject.
+
+k. The research study protocol speciﬁes the method and timing of public release of all
+
+prespeciﬁed outcomes to be measured including release of outcomes if outcomes are negative or study is terminated early. The results must be made public within 24
+
+months of the end of data collection. If a report is planned to be published in a peer reviewed journal, then that initial release may be an abstract that meets the
+
+requirements of the International Committee of Medical Journal Editors
+
+(http://www.icmje.org
+
+).
+
+l. The research study protocol must explicitly discuss subpopulations affected by the treatment under investigation, particularly traditionally underrepresented groups in
+
+clinical studies, how the inclusion and exclusion criteria effect enrollment of these populations, and a plan for the retention and reporting of said populations on the trial. If the inclusion and exclusion criteria are expected to have a negative effect on the recruitment or retention of underrepresented populations, the protocol must
+
+discuss why these criteria are necessary.
+
+m. The research study protocol explicitly discusses how the results are or are not
+
+expected to be generalizable to the Medicare population to infer whether Medicare
+
+https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?ncdid=358
+
+3/8
+
+10/10/25, 5:29 PM
+
+NCD - Percutaneous Image-Guided Lumbar Decompression for Lumbar Spinal Stenosis (150.13)
+
+patients may beneﬁt from the intervention. Separate discussions in the protocol
+
+may be necessary for populations eligible for Medicare due to age, disability or Medicaid eligibility.
+
+Consistent with section 1142 of the Act, the Agency for Healthcare Research and
+
+Quality (AHRQ) supports clinical research studies that CMS determines meet the above- listed standards and address the above-listed research questions.
+
+II. Effective for services performed on or after December 7, 2016, CMS will cover through a prospective, longitudinal study PILD procedures using an FDA-approved/cleared device
+
+that completed a CMS-approved randomized control trial (RCT) that met the criteria listed in section I above. The CMS-approved prospective, longitudinal study must answer at least one of the following questions:
+
+i. Does PILD provide a clinically meaningful improvement of function (e.g., reduced
+
+acute and post-acute hospitalizations, nursing home care or inpatient rehabilitation services) and/or quality of life in Medicare beneﬁciaries with LSS compared to other treatments?
+
+ii. Does PILD provide a clinically meaningful reduction in pain (e.g., as measured by
+
+class, dose, duration of prescription pain medication use) in Medicare beneﬁciaries with LSS compared toother treatments?
+
+iii. Does PILD affect the overall clinical management of LSS and decision making,
+
+including use of other medical treatments or services (e.g., repeat PILD procedures, other interventions and surgical treatments), compared to other treatments?
+
+The prospective, longitudinal study must also meet the following criteria:
+
+1. The protocol must specify a statistical analysis and a minimum length of patient
+
+follow-up time that evaluates the effect of beneﬁciary characteristics on patient health outcomes as well as the duration of the beneﬁt.
+
+2. The eligibility requirements, both inclusion and exclusion criteria that were speciﬁed
+
+in the CMS-approved RCT protocol, must be maintained in the new prospective, longitudinal study.
+
+3. All study sites and study results must be listed in the ClinicalTrials.gov database. All CMS-approved clinical research studies must adhere to the following standards of
+
+scientiﬁc integrity and relevance to the Medicare population:
+
+a. The principal purpose of the study is to test whether the item or service
+
+meaningfully improves health outcomes of affected beneﬁciaries who are represented by the enrolled subjects.
+
+b. The rationale for the study is well supported by available scientiﬁc and medical
+
+evidence.
+
+c. The study results are not anticipated to unjustiﬁably duplicate existing knowledge.
+
+https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?ncdid=358
+
+4/8
+
+10/10/25, 5:29 PM
+
+NCD - Percutaneous Image-Guided Lumbar Decompression for Lumbar Spinal Stenosis (150.13)
+
+d. The study design is methodologically appropriate and the anticipated number of
+
+enrolled subjects is sufﬁcient to answer the research question(s) being asked in the National Coverage Determination.
+
+e. The study is sponsored by an organization or individual capable of completing it
+
+successfully.
+
+f. The research study is in compliance with all applicable Federal regulations
+
+concerning the protection of human subjects found in the CFR at 45 CFR Part 46. If
+
+a study is regulated by the FDA, it is also in compliance with 21 CFR Parts 50 and 56. In addition, to further enhance the protection of human subjects in studies conducted under CED, the study must provide and obtain meaningful informed consent from patients regarding the risks associated with the study items and/or
+
+services, and the use and eventual disposition of the collected data.
+
+g. All aspects of the study are conducted according to appropriate standards of
+
+scientiﬁc integrity.
+
+h. The study has a written protocol that clearly demonstrates adherence to the
+
+standards listed here as Medicare requirements.
+
+i. The study is not designed to exclusively test toxicity or disease pathophysiology in healthy individuals. Such studies may meet this requirement only if the disease or
+
+condition being studied is life threatening as deﬁned in 21 CFR §312.81(a) and the patient has no other viable treatment options.
+
+j. The clinical research studies and registries are registered on the
+
+www.ClinicalTrials.gov website by the principal sponsor/investigator prior to the
+
+enrollment of the ﬁrst study subject. Registries are also registered in the AHRQ Registry of Patient Registries (RoPR).
+
+k. The research study protocol speciﬁes the method and timing of public release of all
+
+prespeciﬁed outcomes to be measured including release of outcomes if outcomes are negative or study is terminated early. The results must be made public within 12 months of the study’s primary completion date, which is the date the ﬁnal subject had ﬁnal data collection for the primary endpoint, even if the trial does not achieve
+
+its primary aim. The results must include number started/completed, summary results for primary and secondary outcome measures, statistical analyses, and adverse events. Final results must be reported in a publicly accessibly manner; either in a peer-reviewed scientiﬁc journal (in print or on-line), in an on-line publicly
+
+accessible registry dedicated to the dissemination of clinical trial information such as ClinicalTrials.gov, or in journals willing to publish in abbreviated format (e.g., for studies with negative or incomplete results).
+
+l. The study protocol must explicitly discuss beneﬁciary subpopulations affected by the item or service under investigation, particularly traditionally underrepresented groups in clinical studies, how the inclusion and exclusion criteria effect enrollment of these populations, and a plan for the retention and reporting of said populations
+
+in the trial. If the inclusion and exclusion criteria are expected to have a negative
+
+https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?ncdid=358
+
+5/8
+
+10/10/25, 5:29 PM
+
+NCD - Percutaneous Image-Guided Lumbar Decompression for Lumbar Spinal Stenosis (150.13)
+
+effect on the recruitment or retention of underrepresented populations, the protocol must discuss why these criteria are necessary.
+
+m. The study protocol explicitly discusses how the results are or are not expected to be
+
+generalizable to affected beneﬁciary subpopulations. Separate discussions in the protocol may be necessary for populations eligible for Medicare due to age, disability or Medicaid eligibility.
+
+Consistent with section 1142 of the Act, tAHRQ supports clinical research studies that CMS determines meet the above-listed standards and address the above- listed research questions.
+
+All clinical research study protocols must be reviewed and approved by CMS. The
+
+principal investigator must submit the complete study protocol, identify the relevant CMS research question(s) that will be addressed and cite the location of the detailed analysis plan for those questions in the protocol, plus provide a statement addressing how the study satisﬁes each of the standards of scientiﬁc integrity (a. through m. listed
+
+above), as well as the investigator’s contact information, to the address below:
+
+Director, Coverage and Analysis Group Re: PILD CED Centers for Medicare & Medicaid Services (CMS)
+
+7500 Security Blvd., Mail Stop S3-02-01 Baltimore MD 21244-1850
+
+Email address for protocol submissions: clinicalstudynotiﬁcation@cms.hhs.gov Email subject line: “CED [NCD topic (i.e. PILD)] [name of sponsor/primary investigator]”
+
+The information will be reviewed, and approved studies will be identiﬁed on the CMS website - https://www.cms.gov/Medicare/Coverage/Coverage-with-Evidence- Development/index.html
+
+.
+
+C. Nationally Non-Covered Indications
+
+Effective for services performed on or after January 9, 2014, PILD for LSS may only be covered under the context of a clinical trial as described in section B above according to section 1862(a)(1)(E) of the Social Security Act. CMS has determined that PILD for LSS
+
+is not reasonable and necessary under section 1862(a)(1)(A) of the Act.
+
+D. Other
+
+Endoscopically assisted laminotomy/laminectomy, which requires open and direct visualization, as well as other open lumbar decompression procedures for LSS are not within the scope of this NCD and coverage is at contractor discretion.
+
+(This NCD last reviewed December 2016.)
+
+https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?ncdid=358
+
+6/8
+
+10/10/25, 5:29 PM
+
+NCD - Percutaneous Image-Guided Lumbar Decompression for Lumbar Spinal Stenosis (150.13)
+
+Cross Reference
+
+CED page
+
+Claims Processing Instructions
+
+TN 3787 (Medicare Claims Processing)
+
+TN 3811 (Medicare Claims Processing)
+
+Transmittal Information
+
+Transmittal Number
+
+200
+
+Coverage Transmittal Link
+
+https://www.cms.gov/Regulations-and- Guidance/Guidance/Transmittals/2017Downloads/R200NCD.pdf
+
+Revision History
+
+09/2021 - This Change Request (CR) constitutes a maintenance update of ICD-10 conversions and other coding updates speciﬁc to NCDs. These NCD coding changes are the
+
+result of newly available codes, coding revisions to NCDs released separately, or coding feedback received. (TN 11025
+
+) (CR12399)
+
+08/2021 - This Change Request (CR) constitutes a maintenance update of ICD-10 conversions and other coding updates speciﬁc to NCDs. These NCD coding changes are the
+
+result of newly available codes, coding revisions to NCDs released separately, or coding feedback received. (TN 10963
+
+) (CR12399)
+
+07/2017 - Transmittals 199, Pub. 100-03 and 3805, Pub. 100-04, dated July 11, 2017, are being rescinded and replaced by Transmittals 200 and 3811, dated, July 25, 2017, to update
+
+references in the Claims Processing Business Requirements and National Coverage Determinations Requirements documents. The reference in both business requirement documents, in the policy section to Pub.100-04, Chapter 32, Section 68 needs to be changed to Section 69. In the Claims Processing Manual, clarifying language needs to be added to indicate that CMS will cover procedure code 0275T for PILD only when the procedure is performed within any other CED approved clinical trial. All other information remains the same. (TN 200
+
+) (CR10089)
+
+05/2017 - The purpose of this Change Request (CR) is to notify contractors that effective for dates of service on or after December 7, 2016, Medicare will cover PILD under CED for beneﬁciaries with LSS who are enrolled in a CMS-approved prospective longitudinal study. Effective date: 12/07/2016. Implementation date: 06/27/2017. (TN 196
+
+) (CR10089)
+
+https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?ncdid=358
+
+7/8
+
+10/10/25, 5:29 PM
+
+NCD - Percutaneous Image-Guided Lumbar Decompression for Lumbar Spinal Stenosis (150.13)
+
+05/2014 - This Change Request (CR) purpose is effective for claims with dates of service on or after January 9, 2014, PILD is covered by Medicare when provided in a clinical study under section 1862(a)(1)(E) through Coverage with Evidence Development (CED) for beneﬁciaries with LSS who are enrolled in an approved clinical study the necessary criteria. Effective date: 01/09/2014. Implementation date: 10/06/2014. (TN 167
+
+) (CR8757)
+
+National Coverage Analyses (NCAs)
+
+This NCD has been or is currently being reviewed under the National Coverage
+
+Determination process. The following are existing associations with NCAs, from the National Coverage Analyses database.
+
+Original Consideration for Percutaneous Image-guided Lumbar Decompression for Lumbar Spinal Stenosis (CAG-00433N)
+
+First reconsideration for Percutaneous Image-guided Lumbar Decompression for Lumbar Spinal Stenosis (CAG-00433R)
+
+Additional Information
+
+Other Versions
+
+Effective Between
+
+Title
+
+Version
+
+Percutaneous Image-Guided Lumbar Decompression for Lumbar Spinal Stenosis
+
+12/07/2016 - N/A
+
+You are here
+
+2
+
+Percutaneous image-guided lumbar decompression for lumbar spinal stenosis
+
+01/09/2014 - 12/07/2016
+
+1
+
+View
+
+https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?ncdid=358
+
+8/8

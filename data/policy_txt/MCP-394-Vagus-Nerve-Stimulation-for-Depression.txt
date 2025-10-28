@@ -1,0 +1,357 @@
+Subject: Vagus Nerve Stimulation for Depression
+
+Original Effective Date: 2/8/2021
+
+Policy Number: MCP-394
+
+Revision Date(s):
+
+MCPC Approval Date: 2/8/2021
+
+Review Date:
+
+Contents DISCLAIMER ............................................................................................................................................................................ 1
+
+Position Statement .................................................................................................................................................................. 2
+
+CONTINUATION OF THERAPY .................................................................................................................................................. 2
+
+LIMITATIONS ........................................................................................................................................................................... 2
+
+Description of Procedure/Service/Pharmaceutical .................................................................................................................. 2
+
+FDA Indications ...................................................................................................................................................................... 2
+
+Centers for Medicare and Medicaid services .......................................................................................................................... 3
+
+Summary of Medical Evidence ............................................................................................................................................... 3
+
+Professional Society Guidelines .............................................................................................................................................. 6
+
+Coding Information:. ............................................................................................................................................................... 6
+
+References ............................................................................................................................................................................... 7
+
+REVISION/REVIEW HISTORY: ................................................................................................................................................ 11
+
+DISCLAIMER
+
+This Molina clinical policy is intended to facilitate the Utilization Management process. It expresses Molina's determination as to whether certain services or supplies are medically necessary, experimental, investigational, or cosmetic for purposes of determining appropriateness of payment. The conclusion that a particular service or supply is medically necessary does not constitute a representation or warranty that this service or supply is covered (i.e., will be paid for by Molina) for a particular member. The member's benefit plan determines coverage. Each benefit plan defines which services are covered, which are excluded, and which are subject to dollar caps or other limits. Members and their providers will need to consult the member's benefit plan to determine if there are any exclusion(s) or other benefit limitations applicable to this service or supply. If there is a discrepancy between this policy and a member's plan of benefits, the benefits plan will govern. In addition, coverage may be mandated by applicable legal requirements of a State, the Federal government or CMS for Medicare and Medicaid members. CMS's Coverage Database can be found on the CMS website. The coverage directive(s) and criteria from an existing National Coverage Determination (NCD) or Local Coverage Determination (LCD) will supersede the contents of this Molina clinical policy document and provide the directive for all Medicare members.1
+
+Page 1 of 11
+
+POSITION STATEMENT
+
+Vagus Nerve Stimulation as a treatment for severe major depression is considered experimental, investigational and unproved based on insufficient evidence in the peer reviewed medical literature that prove safety and efficacy in this patient population.
+
+CONTINUATION OF THERAPY
+
+N/A
+
+LIMITATIONS
+
+N/A
+
+DESCRIPTION OF PROCEDURE/SERVICE/PHARMACEUTICAL 31
+
+Vagal Nerve Stimulation
+
+A vagal nerve stimulator is composed of an implantable generator, electrodes and an external programming device. The generator is implanted under the collar bone and operates like a. A pacemaker connected by wire to the vagus nerve where it delivers short bursts of electrical signals to the brain. Regular intervals are set by an MD.
+
+The pulse generator is programmed externally through the skin using a computer, special software and a programming wand. Parameters of stimulation that can be programmed include amplitude, pulse width, pulse train frequency, and pulse train on and off times. Patients are educated on how to control the stimulator by using a hand held magnet, the magnet can be worn on the wrist, or clipped onto clothing. The stimulator can be turned on by holding the magnet near the vagus nerve device for approximately 1-2 seconds when the onset of a seizure is sensed. The patient can turn off the stimulator if a malfunction occurs or if any discomfort is experienced by leaving the magnet over the stimulator. The device reactivates once the magnet is removed. The battery powered generator may require replacement from one to five years.
+
+Most commonly reported complications associated with VNS are: voice alteration, hoarseness, throat pain, coughing, shortness of breath, tingling and muscle pain all noted mainly during the delivery of high stimulation. The adjustment of the amount of stimulation can decrease or eliminate the side effects experienced. Other potential complications that may occur include injury to the carotid artery or internal jugular vein and infection at the site of implantation.
+
+FDA INDICATIONS 2
+
+In July 2005, the VNS Therapy system received FDA premarket approval (PMA) with limitations. The VNS Therapy System was approved to be used to treat depression for the following indications: “the VNS Therapy System is indicated for the adjunctive long-term treatment of chronic or recurrent depression for patients 18 years of age or older who are experiencing a major depressive episode and have not had an adequate response to four or more adequate antidepressant treatments.” The FDA limitations stated that post-approval studies must be conducted to further characterize the optimal stimulation dosing and patient selection criteria. 2
+
+Page 2 of 11
+
+CENTERS FOR MEDICARE AND MEDICAID SERVICES (CMS) 1
+
+The coverage directive(s) and criteria from an existing National Coverage Determination (NCD) or Local Coverage Determination (LCD) will supersede the contents of this Molina Clinical Review (MCR) document and provide the directive for all Medicare members. The directives from this MCR document may be followed if there are no available NCD or LCD documents available and outlined below.
+
+In a Decision Memo dated February 15, 2019, the CMS announced a change in this NCD (160.18) reflecting expanded coverage of VNS for treatment-resistant depression (TRD) (see Decision Memo for VAGUS Nerve Stimulation [VNS] for TRD [CAG-00313R2]). The CMS will cover FDA-approved VNS devices for TRD through Coverage with Evidence Development (CED) when offered in a CMS approved, double-blind randomized placebo-controlled trial with a follow-up duration of ≥ 1 year with the possibility of extending the study to a prospective longitudinal study when the CMS approved, double-blind randomized placebo-controlled trial has completed enrollment, and there are positive interim findings. Each study must be approved by CMS and as a fully-described, written part of its protocol, must address whether VNS improves health outcomes for TRD patients compared to a control group, by answering a series of research questions detailed in the decision summary. The details of the prospective longitudinal study must be described in the original protocol for the double-blind randomized placebo-controlled trial. The research questions must be addressed in a separate analysis for patients with bipolar and unipolar disease. 1
+
+VNS is non-covered for the treatment of TRD when furnished outside of a CMS approved CED study. All other indications of VNS for the treatment of depression are nationally non-covered.
+
+SUMMARY OF MEDICAL EVIDENCE 3-23
+
+VNS in the Management of Depression
+
+Summary:
+
+The published peer reviewed literature is insufficient for vagus nerve stimulation as a treatment for major depressive disorder and demonstrates an incomplete assessment of net benefit versus harm. Additional research is needed to assess long term safety and efficacy. A meta-analysis and systematic review of vagus nerve stimulation in the treatment of depression concluded that there was insufficient evidence available to support the effectiveness of vagus nerve stimulation; specifically, only unblinded nonrandomized trials showed any benefit. with treatment-resistant major depression to be of poor quality; one high-quality trial comparing vagus nerve stimulation to sham (the sample included patients with both major depressive disorder and bipolar disorder) reported no difference in depression severity, response, or remission rates between the active therapy and sham A randomized controlled trial of 331 patients with treatment-resistant depression examined the effect groups. of 3 different doses of vagus nerve stimulation as adjunctive treatment and found that while all 3 groups improved over time, there was no difference in improvement between groups; due to the lack of placebo group, it remained unclear if there was any independent effect of vagus nerve stimulation. A prospective, open-label, nonrandomized, industry-sponsored disease registry study of 795 patients with treatment-resistant depression found that vagus nerve stimulation combined with treatment as usual was superior to treatment as usual alone for improving 5-year cumulative response rates (67.6% vs 40.9%, respectively) and remission rates (43.3% vs 25.7%, respectively). A national guideline notes that the evidence for the safety and efficacy of vagus nerve
+
+13
+
+27
+
+A comparative effectiveness review described the evidence for vagus nerve stimulation in patients
+
+24
+
+3
+
+4
+
+Page 3 of 11
+
+29
+
+A specialty society
+
+stimulation for treatment-resistant depression is inadequate in quantity and quality. guideline states that there is limited evidence supporting vagus nerve stimulation for depression; however, it could be considered in patients with chronic or recurrent depression who have not responded to 4 or more antidepressant treatments. effectiveness of VNS for treatment resistant depression (TRD) in adults.
+
+25
+
+Another specialty guideline states that there is a lack of robust evidence on the
+
+31
+
+Rush et al.; (2005) conducted a double-blind, parallel-group, randomized controlled study of VNS for TRD (n=235) (D02 trial) evaluated 235 patients with depressed bipolar disorder or major depressive disorder with a VNS activated 2 weeks following implantation. Only 222 of the 235 patients were evaluated with no documentation of reason for patient loss. A 10 week follow suggested 15 percent of active treatment and 10% of sham treatment had a response. Short term efficacy was not demonstrated. A twelve month follow up on 205 of these patients was performed by the same authors. A 27 percent response rate and 15.8 percent remission rate were reported. The study was noted to be flawed due to concomitant use of antidepressants and treatment adjustments during the study and no comparative group. Thirty study enrollees had worsened depression which required hospitalization.
+
+11
+
+16
+
+A second study reported 24-month outcomes of the D02 study (Sackeim et al., 2007). The study defined those who had ≥ 50% improvement in HDRS24 scores at 3 months as “early responders,” and those who met this criterion at 12 months, but not at 3 months, as “late responders.” Based on this definition, 14.6% of patients were early responders, 19.5% were late responders, and 65.9% did not respond to the treatment. Overall, 63.3% who were early responders maintained the treatment benefit for 12 months and 76.7% were still responders at 24 months. Of the late responders, 65.0% were still responders at 24 months. However, the threshold level defining a successful response to the treatment was lowered to an improvement ≥ 40% rather than ≥ 50% in HDRS24 scores. Therefore, if the original threshold were used to evaluate the data, the rate for maintaining the treatment benefit would likely be lower. The mean changes in HDRS24 scores over the entire study period were significantly greater in early (54.7%) and in late (51.3%) responders, compared with patients who did not respond to the treatment (12.9%) (P<0.0001). This result indicates that the treatment effect may not be entirely attributed to a potential placebo effect. The long-term extension study was uncontrolled and unblinded in the true treatment; therefore, it is not possible to quantify the treatment benefit.
+
+18
+
+A systematic review (2008) was performed (Daban et al.) evaluating the efficacy of VNS in treatment resistant depression. Data was reviewed from January 2000 through September 2007. Ninety-eight references were obtained but only 18 met the quality criteria and were included in the review. Only one double blind, randomized study was performed. The authors concluded, “in a majority of the preliminary open studies selected for this review, VNS was associated with a significant reduction of the depressive symptoms (primary outcome: Hamilton Depression Rating Scale, HDRS) in the short and long term. This double-blind study gave rather inconclusive results. Generally, VNS is reported to be a safe and feasible procedure, despite its invasive nature. However, despite the promising results reported mainly in open studies, further clinical trials are needed to confirm its efficacy in major depression”. 8
+
+The meta-analysis by Berry et al. (2013) pooled data from individual patients (n=1460) who had participated in 6 clinical studies and then performed a patient-level meta-analysis. The study included 1035 patients (mean age, 48 years; 66.2% women) receiving adjunct VNS and 425 patients (mean age, 49 years; 70% women) receiving treatment as usual. The study found that VNS improved the symptoms of depression and that remission rates
+
+Page 4 of 11
+
+were higher for adjunct VNS than in the TAU control group. VNS was associated with a greater likelihood of response based on ≥ 50% improvement on the MADRS scale (odds ratio [OR], 3.19; 95% confidence interval [CI], 2.12 to 4.66), remission based on MADRS scale (OR, 4.99; 95% CI, 2.93 to 7.76), and response based on CGI-I scale (OR, 7; 95% CI, 4.63 to 10.83), compared with TAU. However, because the study was largely based on data from patients who had participated in open-label trials, the benefit seen may have been caused by a placebo effect, which is likely to have biased the meta-analysis. 5
+
+The systematic review and meta-analysis by Martin and Martín-Sánchez (2012) included 9 studies (n=727 patients) in the meta-analysis and analyzed the effectiveness data separately based on study design. The authors reported that, while the open-label studies showed effectiveness (31.8% responders on HDRD scale, range 23.2% to 41.8%; P<0.001), the RCT found no statistically significant difference between VNS therapy and the sham VNS control (OR, 1.61; 95% CI, 0.72 to 3.62; P=0.25), further suggesting that the observed response might have been caused by a placebo effect. 13
+
+Aaronson et al.; (2013) performed a multicenter, double blind study, 331 patients with TRD were randomized to one of three dose groups: LOW (0.25 mA current, 130 μs pulse width), MEDIUM (0.5-1.0 mA, 250 μs), or HIGH (1.25-1.5 mA, 250 μs). A highly treatment-resistant population (>97% had failed to respond to ≥6 previous treatments) was enrolled. Response and adverse effects were assessed for 22 weeks (end of acute phase), after which output current could be increased, if clinically warranted. Assessments then continued until Week 50 (end of long-term phase).The results showed that VNS therapy was well tolerated. During the acute phase, all groups showed statistically significant improvement on the primary efficacy endpoint (change in Inventory of Depressive Symptomatology-Clinician Administered Version [IDS-C]), but not for any between- treatment group comparisons. In the long-term phase, mean change in IDS-C scores showed continued improvement. Post-hoc analyses demonstrated a statistically significant correlation between total charge delivered per day and decreasing depressive symptoms; and analysis of acute phase responders demonstrated significantly greater durability of response at MEDIUM and HIGH doses than at the LOW dose. The authors concluded that TRD patients who received adjunctive VNS showed significant improvement at study endpoint compared with baseline, and the effect was durable over 1 year. Higher electrical dose parameters were associated with response durability. 3
+
+McAllister-Williams RH et al (2020) reported the effects of vagus nerve stimulation on the course and outcomes of patients with bipolar disorder in a treatment-resistant depressive episode. This study sought to compare illness characteristics, treatment history, response and durability, and suicidality scores over a 5-year period in patients with treatment-resistant bipolar depression participating in a prospective, multicenter, open- label registry and receiving Vagus Nerve Stimulation Therapy (VNS Therapy) plus treatment-as-usual (VNS + TAU) or TAU alone. Response was defined as ≥ 50% decrease from baseline Montgomery-Åsberg Depression Rating Scale (MADRS) total score at 3, 6, 9, or 12 months post-baseline. Response was retained while MADRS score remained ≥ 40% lower than baseline. Time-to-events was estimated using Kaplan-Meier (KM) analysis and compared using log-rank test. Suicidality was assessed using the MADRS Item 10 score. RESULTS: At baseline (entry into registry), the VNS + TAU group (N = 97) had more episodes of depression, psychiatric hospitalizations, lifetime suicide attempts and higher suicidality score, more severe symptoms (based on MADRS and other scales), and higher rate of prior electroconvulsive therapy than TAU group (N = 59). Lifetime use of medications was similar between the groups (a mean of 9) and was consistent with the
+
+Page 5 of 11
+
+severe treatment-resistant nature of their depression. Over 5 years, 63% (61/97) in VNS + TAU had an initial response compared with 39% (23/59) in TAU. The time-to-initial response was significantly quicker for VNS + TAU than for TAU (p < 0.03). Among responders in the first year after implant, the KM estimate of the median time-to-relapse from initial response was 15.2 vs 7.6 months for VNS + TAU compared with TAU (difference was not statistically significant). The mean reduction in suicidality score across the study visits was significantly greater in the VNS + TAU than in the TAU group (p < 0.001). The authors concluded that the patients who received VNS + TAU included in this analysis had severe bipolar depression that had proved extremely difficult to treat. The TAU comparator group were similar though had slightly less severe illnesses on some measures and had less history of suicide attempts. Treatment with VNS + TAU was associated with a higher likelihood of attaining a response compared to TAU alone. VNS + TAU was also associated with a significantly greater mean reduction in suicidality. Reported limitations of this study include: Participants were not randomized to the study treatment group, VNS Therapy stimulation parameters were not controlled, and there was a high attrition rate over 5 years. 14
+
+PROFESSIONAL SOCIETY GUIDELINES 24-31
+
+The Institute for Clinical Systems Improvement (ICSI) Adult Depression in Primary Care Guideline (2013) indicates that vagal nerve stimulation is approved by the FDA for treatment-resistant depression on the basis of its potential benefit with long-term use. The evidence primarily stems from open labeled uncontrolled trials. It is not indicated for use in the acute treatment phase, and it has been studied only in treatment-resistant depression. 28
+
+The California Technology Assessment Forum (2011) Assessment on Vagal Nerve Stimulation for Treatment Resistant Depression indicates that the use of vagal nerve stimulation for treatment resistant depression does not meet CTAF Technology Assessment Criteria 3 through 5 for safety, effectiveness, and improvement in health outcomes. 26
+
+The National Institute for Health and Care Excellence (NICE) 2009 Guidance on Vagus nerve stimulation for treatment-resistant depression indicates that the current evidence on the safety and efficacy of vagus nerve stimulation (VNS) for treatment resistant depression is inadequate in quantity and quality. Therefore this procedure should be used only with special arrangements for clinical governance, consent and audit or research. It should be used only in patients with treatment-resistant depression. 29
+
+The Washington State Health Authority Technology Assessment (April, 2020) states that there is a lack of robust evidence on the effectiveness of VNS for TRD in adults. 31
+
+CODING INFORMATION: THE CODES LISTED IN THIS POLICY ARE FOR REFERENCE PURPOSES ONLY. LISTING OF A SERVICE OR DEVICE CODE IN THIS POLICY DOES NOT IMPLY THAT THE SERVICE DESCRIBED BY THIS CODE IS COVERED OR NON-COVERED. COVERAGE IS DETERMINED BY THE BENEFIT DOCUMENT. THIS LIST OF CODES MAY NOT BE ALL INCLUSIVE.
+
+CPT 61885
+
+Description Insertion or replacement of cranial neurostimulator pulse generator or receiver, direct or inductive coupling; with connection to a single electrode array
+
+Page 6 of 11
+
+64553 64568
+
+Percutaneous implantation of neurostimulator electrodes; cranial nerve Incision for implantation of cranial nerve (eg, vagus nerve) neurostimulator electrode array and pulse generator Revision or replacement of cranial nerve (eg, vagus nerve) neurostimulator electrode array, including connection to existing pulse generator Removal of cranial nerve (eg, vagus nerve) neurostimulator electrode array and pulse generator Electronic analysis of implanted neurostimulator pulse generator system (eg, rate, pulse amplitude, pulse duration, configuration of wave form, battery status, electrode selectability, output modulation, cycling, impedance and patient compliance measurements); simple or complex brain, spinal cord, or peripheral (i.e., cranial nerve, peripheral nerve, sacral nerve, neuromuscular) neurostimulator pulse generator/transmitter, without reprogramming Electronic analysis of implanted neurostimulator pulse generator/transmitter (eg, contact group[s], interleaving, amplitude, pulse width, frequency [Hz], on/off cycling, burst, magnet mode, dose lockout, patient selectable parameters, responsive neurostimulation, detection algorithms, closed loop parameters, and passive parameters) by physician or other qualified health care professional; ….with simple cranial nerve neurostimulator pulse generator / transmitter programming by physician or other qualified health care professional
+
+64569
+
+64570 95970
+
+95976
+
+95977 ….with complex cranial nerve neurostimulator pulse generator / transmitter programming by
+
+physician or other qualified health care professional
+
+HCPCS Description L8679 L8680 L8681
+
+Implantable neurostimulator, pulse generator, any type Implantable neurostimulator electrode, each Patient programmer (external) for use with implantable programmable neurostimulator pulse generator, replacement only Implantable neurostimulator radiofrequency receiver Radiofrequency transmitter (external) for use with implantable neurostimulator radiofrequency receiver Implantable neurostimulator pulse generator, single array, rechargeable, includes extension Implantable neurostimulator pulse generator, single array, non-rechargeable, includes extension Implantable neurostimulator pulse generator, dual array, rechargeable, includes extension Implantable neurostimulator pulse generator, dual array, non-rechargeable, includes extension External recharging system for battery (internal) for use with implantable neurostimulator, replacement only
+
+L8682 L8683
+
+L8685 L8686 L8687 L8688 L8689
+
+ICD-10 Description: [For dates of service on or after 10/01/2015]
+
+Any/All
+
+REFERENCES
+
+Government Agency
+
+Page 7 of 11
+
+1. Centers for Medicare & Medicaid Services (CMS). Medicare Coverage Database. National coverage
+
+determination (NCD) Search. Accessed at: http://www.cms.gov/medicare-coverage-database/
+
+Decision Memo for Vagus Nerve Stimulation for Treatment of Resistant Depression (TRD) (CAG- 00313R). Accessed at: http://www.cms.gov/medicare-coverage-database/overview-and-quick- search.aspx?id=195
+
+National Coverage Determination (NCD) for Vagus Nerve Stimulation (VNS) (160.18). Effective
+
+date 2/15/19.
+
+2. Food and Drug Administration (FDA) [website]. Center for Devices and Radiological Health (CDRH). Summary of Safety and Effectiveness Data. VNS Therapy™ System. (Depression). Available at: www.accessdata.fda.gov/cdrh_docs/pdf/P970003S050b.pdf
+
+Peer Reviewed Publications
+
+3. Aaronson ST, Carpenter LL, Conway CR, et al. Vagus nerve stimulation therapy randomized to
+
+different amounts of electrical charge for treatment-resistant depression: acute and chronic effects. Brain Stimul. 2013;6(4):631-640.
+
+4. Aaronson ST, Sears P, Ruvuna F et al. A 5-Year Observational Study of Patients With Treatment-
+
+Resistant Depression Treated With Vagus Nerve Stimulation or Treatment as Usual: Comparison of Response, Remission, and Suicidality. Am J Psychiatry. 2017 Jul 1;174(7):640-648. doi: 10.1176/appi.ajp.2017.16010034. Epub 2017 Mar 31.
+
+5. Berry SM, Broglio K, Bunker M, Jayewardene A, Olin B, Rush AJ. A patient-level meta-analysis of studies evaluating vagus nerve stimulation therapy for treatment-resistant depression. Med Devices (Auckl). 2013;6:17-35.
+
+6. Beekwilder JP, Beems T. Overview of the clinical applications of vagus nerve stimulation. Journal of
+
+Clinical Neurophysiology 2010;27(2):130-138. DOI: 10.1097/WNP.0b013e3181d64d8a.
+
+7. Bottomley JM, LeReun C, Diamantopoulos A, Mitchell S, Gaynes BN. Vagus nerve stimulation (vns)
+
+therapy in patients with treatment resistant depression: A systematic review and meta-analysis. Comprehensive psychiatry. 2019;98:152156.
+
+8. Daban C, Martinez-Aran A, Cruz N, and Vieta E. Safety and efficacy of vagus nerve stimulation in treatment resistant depression. A systematic review. Journal of Affective Disorders. 2008 Mar 27. [Epub abstract ahead of print] Accessed at: http://www.ncbi.nlm.nih.gov/pubmed/18374988
+
+9. García-Pallero MA, García-Navarrete E et al. Effectiveness of vagal nerve stimulation in medication- resistant epilepsy. Comparison between patients with and without medication changes. Acta Neurochir (Wien). 2017 Jan;159(1):131-136. doi: 10.1007/s00701-016-3027-6. Epub 2016 Nov 23. 10. Kumar A, Bunker MT, Aaronson ST, et al. Durability of symptomatic responses obtained with
+
+adjunctive vagus nerve stimulation in treatment-resistant depression. Neuropsychiatric disease and treatment. 2019;15:457-468.
+
+11. Liu AY, Rajji TK, Blumberger DM, Daskalakis ZJ, Mulsant BH. Brain stimulation in the treatment of late-life severe mental illness other than unipolar nonpsychotic depression. American Journal of Geriatric Psychiatry 2014;22(3):216-240. DOI: 10.1016/j.jagp.2013.02.017.
+
+12. Lv H, Zhao YH, Chen JG, Wang DY, Chen H. Vagus nerve stimulation for depression: A systematic
+
+review. Frontiers in psychology. 2019;10:64.
+
+Page 8 of 11
+
+13. Martin JL, Martín-Sánchez E. Systematic review and meta-analysis of vagus nerve stimulation in the treatment of depression: variable results based on study designs. Eur Psychiatry. 2012;27(3):147-155. 14. McAllister-Williams RH, Sousa S, Kumar A, et al. The effects of vagus nerve stimulation on the course and outcomes of patients with bipolar disorder in a treatment-resistant depressive episode: A 5-year prospective registry. International journal of bipolar disorders. 2020;8(1):13.
+
+15. Rush AJ, Marangell LB, Sackeim HA et al. (2005). Vagus nerve stimulation for treatment-resistant
+
+depression: a randomized, controlled acute phase trial. Biol Psychiatry, 58:347-54.
+
+16. Rush AJ, Sackeim HA, Marangell LB et al. (2005). Effects of 12 months of vagus nerve stimulation in
+
+treatment-resistant depression: a naturalistic study. Biol Psychiatry, 58:355-63.
+
+17. Rush AJ, Trivedi MH, Wisniewski SR, et al. Acute and longer-term outcomes in depressed outpatients requiring one or several treatment steps: a STAR*D report. Am J Psychiatry. 2006;163(11):1905-1917.
+
+18. Sackeim HA, Brannan SK, Rush AJ, et al. Durability of antidepressant response to vagus nerve
+
+stimulation (VNS). Int J Neuropsychopharmacol. 2007;10(6):817-826.
+
+19. Shiozawa P, Silva ME, Carvalho TC, Cordeiro Q, Brunoni AR, Fregni F. Transcutaneous vagus and trigeminal nerve stimulation for neuropsychiatric disorders: a systematic review. Arq Neuropsiquiatr. 2014;72(7):542-547.
+
+20. Trottier-Duclos F, Desbeaumes Jodoin V, Fournier-Gosselin MP, et al. A 6-year follow-up study of
+
+vagus nerve stimulation effect on quality of life in treatment-resistant depression: a pilot study. J ECT. 2018;34(4):e58-e60.
+
+21. Tu Y, Fang J, Cao J, et al. A distinct biomarker of continuous transcutaneous vagus nerve stimulation
+
+treatment in major depressive disorder. Brain Stimul. 2018;11(3):501-508.
+
+22. Wang Z, Fang J, Liu J, et al. Frequency-dependent functional connectivity of the nucleus accumbens
+
+during continuous transcutaneous vagus nerve stimulation in major depressive disorder. J Psychiatr Res. 2018;102:123-131.
+
+23. Werremeyer A. Treatment-resistant depression. Mental Health Clinician. 2014;4(5):211. Available at:
+
+http://mhc.cpnp.org/doi/full/10.9740/mhc.n207177
+
+Professional Society Guidelines
+
+24. AHRQ: Bruning WL, et al. Nonpharmacologic Interventions for Treatment-Resistant Depression in Adults. Effective Health Care Program Comparative Effectiveness Review Number 33. AHRQ Publication No. 11-EHC056-EF [Internet] Agency for Healthcare Quality and Research. 2011 Sep (reviewed 2016) Accessed at: https://www.effectivehealthcare.ahrq.gov/
+
+25. British Association for Psychopharmacology guidelines. Cleare A, et al. Evidence-based guidelines for treating depressive disorders with antidepressants: A revision of the 2008 British Association for Psychopharmacology guidelines. Journal of Psychopharmacology 2015;29(5):459-525. DOI: 10.1177/0269881115581093. (Reaffirmed 2019 Jun)
+
+26. California Technology Assessment Forum. Vagal nerve stimulation for treatment resistant depression.
+
+2011. Accessed at: http://www.ctaf.org
+
+27. Canadian Network for Mood and Anxiety Treatments (CANMAT) 2016 clinical guidelines for the
+
+management of adults with major depressive disorder: section 4. neurostimulation treatments. Milev RV, et al. Canadian Journal of Psychiatry 2016;61(9):561-575. DOI: 10.1177/0706743716660033. (Reaffirmed 2019 May)
+
+Page 9 of 11
+
+28. Institute for Clinical Systems Improvement. Health Care Guideline: Major depression in adults in
+
+primary care. March, 2016. Accessed at: https://www.icsi.org/
+
+29. National Institute for Health and Care Excellence (NICE).
+
+Vagus nerve stimulation for treatment-resistant depression. Guidance # IPG330. Dec 2009. This guidance has been updated and replaced by NICE interventional procedures guidance 679. Accessed at: https://www.nice.org.uk/guidance/ipg330 Implanted vagus nerve stimulation for treatment-resistant depression. IPG679. Aug 12, 2020. Accessed at: https://www.nice.org.uk/guidance/ipg679/history 30. National Institute of Mental Health. (2018). Depression. Available at:
+
+
+
+https://www.nimh.nih.gov/health/topics/depression/index.shtml#part_145400
+
+31. Washington State Health Authority. Vagal Nerve Stimulation for Epilepsy and Depression. Final
+
+Evidence Report. April 14, 2020. Accessed at: https://www.hca.wa.gov/assets/program/vns-final-rpt- complete-20200520.pdf
+
+Other Resources
+
+32. Hayes a TractManager Company, Winifred Hayes Inc., Lansdale, PA
+
+Vagus Nerve Stimulation for Treatment Resistant Depression. Feb, 2019. Updated May, 2020.
+
+33. UpToDate: [website]: Waltham, MA: Walters Kluwer Health; 2021.
+
+Sirven J. Evaluation and management of drug-resistant epilepsy.  Schachter SC, Boon P. Vagus Nerve stimulation.
+
+34. MCG Health. Behavioral Health Care. 24th Edition. Vagus Nerve Stimulation, Implantable: Behavioral
+
+Health Care. ORG: B-821-T (BHG)
+
+35. McKesson InterQual 2019 Procedures Criteria. Vagus Nerve Stimulation (VNS). 36. IRO Review: [AMR], Policy reviewed by practicing physician board certified in Board certified in Psychiatry, Psychiatry Child & Adolescent, Sleep Medicine, Psychiatry with Expertise in Eating Disorders. 1/9/2021. References reviewed by the peer reviewer include:
+
+a. Albert U, Maina G, Aguglia A, et al. Vagus nerve stimulation for treatment-resistant mood
+
+disorders: a long-term naturalistic study. BMC Psychiatry. 2015 Mar 31; 15:64.
+
+b. Christmas D, Steele JD, Tolomeo S, et al. Vagus nerve stimulation for chronic major depressive disorder: 12-month outcomes in highly treatment-refractory patients. J Affect Disord. 2013 Sep 25; 150(3):1221-5.
+
+c. Eljamel S. Vagus Nerve Stimulation for Major Depressive Episodes. Prog Neurol Surg. 2015;
+
+29:53-63.
+
+d. Milev RV, Giacobbe P, Kennedy SH, et al; CANMAT Depression Work Group. Canadian Network for Mood and Anxiety Treatments (CANMAT) 2016 Clinical Guidelines for the Management of Adults with Major Depressive Disorder: Section 4. Neurostimulation Treatments. Can J Psychiatry. 2016 Sep; 61(9):561-75.
+
+e. Conway CR, Xiong W. The Mechanism of Action of Vagus Nerve Stimulation in Treatment- Resistant Depression: Current Conceptualizations. Psychiatr Clin North Am. 2018 Sep; 41(3):395-407.
+
+f. Aaronson ST, Sears P, Ruvuna F, et al. A 5-Year Observational Study of Patients With
+
+Treatment-Resistant Depression Treated With Vagus Nerve Stimulation or Treatment as Usual:
+
+Page 10 of 11
+
+Comparison of Response, Remission, and Suicidality. Am J Psychiatry. 2017 Jul 1; 174(7):640- 648.
+
+g. Conway CR, Kumar A, Xiong W, et al. Chronic Vagus Nerve Stimulation Significantly
+
+Improves Quality of Life in Treatment-Resistant Major Depression. J Clin Psychiatry. 2018 Aug 21; 79(5). pii: 18m12178.
+
+h. Carreno FR, Frazer A. Vagal Nerve Stimulation for Treatment-Resistant Depression.
+
+Neurotherapeutics. 2017 Jul; 14(3):716-727.
+
+i. Rush AJ, Marangell LB, Sackeim HA, George MS, Brannan SK, Davis SM, Howland R, Kling MA, Rittberg BR, Burke WJ, Rapaport MH, Zajecka J, Nierenberg AA, Husain MM, Ginsberg D, Cooke RG. Vagus nerve stimulation for treatment-resistant depression: a randomized, controlled acute phase trial. Biol Psychiatry. 2005 Sep 1;58(5):347-54.
+
+j. American Association of Neurological Surgeons; Vagus Nerve Stimulation; Available: https://www.aans.org/Patients/Neurosurgical-Conditions-and-Treatments/Vagus-Nerve- Stimulation
+
+REVISION/REVIEW HISTORY:
+
+2/8/2021: New policy: The content of this policy was removed from the VNS MCR-006 and a new policy was developed specific to this topic for depression. This new policy outlines that VNS for depression as a treatment for severe major depression is considered experimental, investigational and unproved based on insufficient evidence in the peer reviewed medical literature that prove safety and efficacy in this patient population. Policy was reviewed and vetted by practicing physician board certified in Board certified in Psychiatry, Psychiatry Child & Adolescent, Sleep Medicine, Psychiatry with Expertise in Eating Disorders.
+
+Page 11 of 11
