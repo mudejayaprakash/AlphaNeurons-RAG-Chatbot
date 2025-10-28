@@ -4,6 +4,7 @@ from collections import defaultdict
 import traceback
 import numpy as np
 import re
+from langchain_community.retrievers import BM25Retriever
 from utils.config import PERSIST_DIR, POLICY_EMBED_MODEL, open_ai_model,cross_encoder,MAX_CANDIDATES, RATE_LIMIT_TURNS
 
 # Import security validation functions
@@ -111,6 +112,40 @@ def semantic_search(db, queries, k=20):
             all_hits.append(d)
     return all_hits
 
+def hybrid_search(db, queries, k=20):
+    """Combine BM25 keyword search with embedding similarity search, then merge and deduplicate results."""
+    all_hits = []
+    seen = set()
+
+    if isinstance(queries, str):
+        queries = [queries]
+
+    # Extract texts and metadata from Chroma
+    data = db.get(include=["documents", "metadatas"])
+    texts = data["documents"]
+    metadatas = data["metadatas"]
+
+    # Build BM25 retriever
+    bm25 = BM25Retriever.from_texts(texts, metadatas=metadatas)
+
+    for q in queries:
+        if not q:
+            continue
+
+        bm_hits =  bm25.invoke(q)
+        sem_hits = db.similarity_search(q, k=k)
+
+        combined = bm_hits + sem_hits
+        for d in combined:
+            meta = getattr(d, "metadata", {}) or {}
+            key = (meta.get("policy_id") or meta.get("source") or "UNK", meta.get("page", ""))
+            if key in seen:
+                continue
+            seen.add(key)
+            all_hits.append(d)
+
+    return all_hits
+
 # Using Cross-Encoder to rerank the retrieved chunks
 def re_rank_crossencoder(query: str, candidates):
     """Score (query, passage) pairs and return top_k Documents."""
@@ -165,8 +200,8 @@ def retrieve_top_contexts(user_query: str, db: Chroma, llm_client=None, provider
         print("No valid query variants found. Exiting retrieval.")
         return {"variants": [], "ranked_results": [], "top_docs": []}
     print(f"Expanded queries: {variants}")
-    
-    # Semantic search
+     
+    # Semantic search because it is performing better than hybrid search
     candidates = semantic_search(db, variants, k=20)
     if not candidates:
         print("No results found in vector database.")
@@ -182,6 +217,26 @@ def retrieve_top_contexts(user_query: str, db: Chroma, llm_client=None, provider
         # Fallback: approximate by retrieval order (assign descending pseudo-scores)
         pseudo = float(len(candidates))
         ranked_pairs = [(d, pseudo - i) for i, d in enumerate(candidates)]
+    
+    # Check if results are irrelevant or too weak ---
+    if not ranked_pairs:
+        return {
+        "variants": variants,
+        "ranked_results": [],
+        "top_docs": [],
+        "error": " No relevant policy found for your query. Please rephrase or try another term."
+    }
+
+    # Optional threshold check based on score magnitude
+    scores_only = [float(s) for _, s in ranked_pairs]
+    if np.mean(scores_only) < 0.05:
+        return {
+        "variants": variants,
+        "ranked_results": [],
+        "top_docs": [],
+        "error": "⚠️ No relevant context retrieved. Try using more specific keywords."
+    }
+
 
     # Normalize into structured chunk dicts
     ranked_chunks = []
@@ -239,8 +294,12 @@ def group_citations_by_document(citation_map):
     """
     grouped = {}
     for cite_key, cite_info in citation_map.items():
-        doc_name = cite_info["source"]
-        page = cite_info["page"]
+        if isinstance(cite_info, str):
+            doc_name = cite_info
+            page = "N/A"
+        else:
+            doc_name = cite_info.get("source", "Unknown")
+            page = cite_info.get("page", "N/A")
         
         if doc_name not in grouped:
             grouped[doc_name] = []
@@ -249,16 +308,54 @@ def group_citations_by_document(citation_map):
     return grouped
 
 # Summarize the main coverage, exclusions, and medical necessity criteria from the given policy chunks.
-def summarize_policy_chunks(retrieved_chunks, llm_client=None, llm_model: str =open_ai_model):
+def summarize_policy_chunks(retrieved_chunks, llm_client=None, llm_model: str = open_ai_model):
+    import traceback
+
     if not llm_client:
-        return "LLM client unavailable. Please try again later."
+        return {
+            "summary": "LLM client unavailable. Please try again later.",
+            "references": {}
+        }
     if not retrieved_chunks:
-        return "No policy content available for summarization."
+        return {
+            "summary": "No policy content available for summarization.",
+            "references": {}
+        }
 
-    # Build context with citations
-    context_text, citation_map = _build_citation_map(retrieved_chunks)
+    # --- Build context with citations ---
+    try:
+        context_text = "\n\n".join([
+            f"Source: {c.get('metadata', {}).get('source', 'Unknown')}\n"
+            f"Section: {c.get('metadata', {}).get('section', 'N/A')}\n"
+            f"Page: {c.get('metadata', {}).get('page', 'N/A')}\n"
+            f"{c.get('page_content', '')}"
+            if isinstance(c, dict)
+            else f"Source: {getattr(c, 'metadata', {}).get('source', 'Unknown')}\n"
+                 f"Section: {getattr(c, 'metadata', {}).get('section', 'N/A')}\n"
+                 f"Page: {getattr(c, 'metadata', {}).get('page', 'N/A')}\n"
+                 f"{getattr(c, 'page_content', '')}"
+            for c in retrieved_chunks
+        ])
+        # Trim context to prevent token overflow
+        context_text = context_text[:12000]
 
-    system_msg=(
+        # Create a simple reference map (filename to number)
+        sources = []
+        for c in retrieved_chunks:
+            meta = c.get('metadata', {}) if isinstance(c, dict) else getattr(c, 'metadata', {})
+            src = meta.get('source', 'Unknown')
+            if src not in sources:
+                sources.append(src)
+        citation_map = {i + 1: s for i, s in enumerate(sources)}
+
+    except Exception as e:
+        print("Context or citation map creation failed:", e)
+        traceback.print_exc()
+        context_text = ""
+        citation_map = {}
+
+    # --- Build LLM prompt ---
+    system_msg = (
         "You are a healthcare policy summarization assistant. "
         "Summarize the policy content concisely using bullet points and section headers "
         "like 'Coverage Criteria', 'Medical Necessity Conditions', and 'Exclusions'. "
@@ -268,6 +365,7 @@ def summarize_policy_chunks(retrieved_chunks, llm_client=None, llm_model: str =o
 
     user_msg = f"Policy Context:\n{context_text}\n\nSummarize the key criteria clearly."
 
+    # --- Call LLM and handle errors ---
     try:
         response = llm_client.chat.completions.create(
             model=llm_model,
@@ -279,7 +377,8 @@ def summarize_policy_chunks(retrieved_chunks, llm_client=None, llm_model: str =o
             max_tokens=300,
         )
         summary_text = response.choices[0].message.content.strip()
-
+        sources = [c.get("metadata", {}).get("source", "Unknown") for c in retrieved_chunks]
+        citation_map = {i + 1: {"source": s, "page": "N/A"} for i, s in enumerate(sources)}
         return {
             "summary": summary_text,
             "references": citation_map
@@ -290,8 +389,9 @@ def summarize_policy_chunks(retrieved_chunks, llm_client=None, llm_model: str =o
         traceback.print_exc()
         return {
             "summary": "Unable to summarize the policy at this time. Please try again later.",
-            "references":{}
+            "references": citation_map or {}
         }
+
     
 # Multi-turn conversational Q&A - returns answer and references separately
 def conversational_policy_qa(retrieved_chunks, user_question: str, llm_client=None, llm_model: str =open_ai_model, 
@@ -415,6 +515,29 @@ def conversational_policy_qa(retrieved_chunks, user_question: str, llm_client=No
         # Return the error message gracefully
         conversation_history.append({"role": "assistant", "content": answer})
         return answer, conversation_history, rate_limit, {}
+def format_citation_display(citation_map):
+    """Format citation references for display in Streamlit."""
+    if not citation_map:
+        return "No references available."
+
+    formatted_lines = []
+
+    # Handle both dict ({1: {...}}) and list ([("1", {...})]) cases
+    items = citation_map.items() if isinstance(citation_map, dict) else citation_map
+
+    for key, info in items:
+        # If info is a string (legacy citation map)
+        if isinstance(info, str):
+            formatted_lines.append(f"- [{key}] {info}")
+        # If info is a dict with detailed fields
+        elif isinstance(info, dict):
+            source = info.get("source", "Unknown")
+            page = info.get("page", "N/A")
+            formatted_lines.append(f"- [{key}] {source} (Page {page})")
+        else:
+            formatted_lines.append(f"- [{key}] Unknown source")
+
+    return "\n".join(formatted_lines)
 
 # Filters ranked results to return only chunks belonging to one policy - useful for Streamlit UI
 def get_chunks_for_policy(ranked_results, policy_id: str):

@@ -8,6 +8,7 @@ import uuid
 import sqlite3
 import traceback
 from collections import defaultdict
+from utils.rag import format_citation_display 
 
 import streamlit as st
 
@@ -601,7 +602,7 @@ def render_main_tab():
     user_query = st.text_input(
         "Enter your medical question or keyword...",
         key=user_key("user_query"),
-        placeholder="e.g., 'MRI coverage criteria'",
+        placeholder="e.g., 'Colonoscopy'",
         on_change=handle_search_submit
     )
 
@@ -645,13 +646,23 @@ def render_main_tab():
                 llm_client=oai_client,
                 top_k_final=5,
             )
-            
+
+           # Handle no or irrelevant results
+            if result.get("error"):
+                st.warning(result["error"])
+                st.stop()
+
+            ranked_results = result.get("ranked_results", [])
+            if not ranked_results:
+                st.warning(" No relevant policies were found. Please rephrase your query or try a different term.")
+                st.stop()  
+
             st.session_state[user_key("last_results")] = result
             st.session_state[user_key("last_chunks")] = result.get("ranked_results", [])
             st.session_state[user_key("top_docs")] = result.get("top_docs", [])
             st.session_state[user_key("last_expansions")] = result.get("variants", [])
         
-        st.success("✅ Search complete!")
+        st.success(" Search complete!")
 
     # Display expanded queries
     user_expansions = st.session_state.get(user_key("last_expansions"), [])
@@ -811,7 +822,7 @@ def render_previous_conversation_tab(policy_name, tab_id):
                 ):
                     for doc_name in sorted(grouped_refs.keys()):
                         citations = grouped_refs[doc_name]
-                        citations_sorted = sorted(citations, key=lambda x: int(x[0].strip('[]')))
+                        citations_sorted =  sorted(citations, key=lambda x: int(str(x[0]).strip('[]')))
                         st.markdown(f"**Policy Document:** {doc_name}")
                         pages = [page for _, page in citations_sorted]
                         cite_keys = [key for key, _ in citations_sorted]
@@ -942,7 +953,7 @@ def render_policies(top5, user_last_chunks):
 
         # ✅ FIXED #2: Use policy name as unique identifier
         existing_summary = st.session_state.get(user_key(f"summary_{name}"), "")
-        existing_summary_refs = st.session_state.get(user_key(f"summary_refs_{name}"), {})
+        existing_summary_refs = st.session_state.get(user_key(f"summary_refs_{name}_summary"), {})
         existing_chunks = st.session_state.get(user_key(f"chunks_{name}"), [])
 
         # If we have existing data, use it
@@ -955,7 +966,7 @@ def render_policies(top5, user_last_chunks):
             import hashlib
             cache_key = hashlib.md5(name.encode()).hexdigest()[:8]
             summary_key = user_key(f"summary_{cache_key}")
-            summary_refs_key = user_key(f"summary_refs_{cache_key}")
+            summary_refs_key = user_key(f"summary_refs_{cache_key}_summary")
             chunks_key = user_key(f"chunks_{cache_key}")
 
             # Extract chunks if needed
@@ -985,7 +996,7 @@ def render_policies(top5, user_last_chunks):
                 summary_text = st.session_state[summary_key]
                 summary_refs = st.session_state[summary_refs_key]
                 st.session_state[user_key(f"summary_{name}")] = summary_text
-                st.session_state[user_key(f"summary_refs_{name}")] = summary_refs
+                st.session_state[user_key(f"summary_refs_{name}_summary")] = summary_refs
             else:
                 # Generate summary
                 st.markdown("---")
@@ -1017,15 +1028,21 @@ def render_policies(top5, user_last_chunks):
                     st.session_state[summary_key] = summary_text
                     st.session_state[summary_refs_key] = summary_refs
                     st.session_state[user_key(f"summary_{name}")] = summary_text
-                    st.session_state[user_key(f"summary_refs_{name}")] = summary_refs
+                    st.session_state[user_key(f"summary_refs_{name}_summary")] = summary_refs
 
                     status.empty()
                     if current_chunks:
                         st.success(f"Summary for {name} generated!")
+                    
+                    # display generated Summary Text
+                    st.markdown(summary_text)
+                    # Display citations in unified format
+                    if summary_refs:
+                        st.markdown(format_citation_display(summary_refs))
 
         # Display summary ONLY (no chat interface here)
         summary_text = st.session_state.get(user_key(f"summary_{name}"), "").strip()
-        summary_refs = st.session_state.get(user_key(f"summary_refs_{name}"), {})
+        summary_refs = st.session_state.get(user_key(f"summary_refs_{name}_summary"), {})
 
         if summary_text:
             with st.expander(f"Policy Summary: {name}", expanded=True):
@@ -1044,11 +1061,11 @@ def render_policies(top5, user_last_chunks):
                     ):
                         for doc_name in sorted(grouped_refs.keys()):
                             citations = grouped_refs[doc_name]
-                            citations_sorted = sorted(citations, key=lambda x: int(x[0].strip('[]')))
+                            citations_sorted = sorted(citations, key=lambda x: int(str(x[0]).strip('[]')))
                             st.markdown(f"**Policy Document:** {doc_name}")
                             pages = [page for _, page in citations_sorted]
                             cite_keys = [key for key, _ in citations_sorted]
-                            st.markdown(f"- Citations: {', '.join(cite_keys)}")
+                            st.markdown(f"- Citations: {', '.join(map(str, cite_keys))}")
                             st.markdown(f"- Pages: {', '.join(map(str, pages))}")
                             st.markdown("")
         
@@ -1271,11 +1288,13 @@ def process_chat_question(name, user_text, chat_key):
 
         username = st.session_state.auth["user_id"]
         summary = st.session_state.get(user_key(f"summary_{name}"), "")
-        summary_refs = st.session_state.get(user_key(f"summary_refs_{name}"), {})
+        summary_refs = st.session_state.get(user_key(f"summary_refs_{name}_summary"), {})
         chat_refs = st.session_state[chat_key]["message_references"]
 
         save_conversation(username, name, summary, summary_refs, retrieved_chunks, updated_history, chat_refs)
 
+        if references and isinstance(references, dict) and len(references) > 0:
+            st.markdown(format_citation_display(references))
     st.rerun()
 
 
@@ -1299,7 +1318,7 @@ else:
         active_tab_key = "main"
         st.session_state["active_tab"] = "main"
     
-    # ✅ FIXED #1: Set default to active tab
+    #  FIXED #1: Set default to active tab
     default_index = tab_keys.index(active_tab_key) if active_tab_key in tab_keys else 0
     
     tabs = st.tabs(tab_names)
@@ -1317,6 +1336,6 @@ else:
 
 
 st.divider()
-st.caption("✅ Conversations are automatically saved to database and persist across sessions.")
+st.caption(" Conversations are automatically saved to database and persist across sessions.")
 if SECURITY_ENABLED:
     st.caption("🛡️ Security features enabled: Prompt injection detection and domain validation active.")

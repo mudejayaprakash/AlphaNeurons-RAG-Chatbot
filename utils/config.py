@@ -5,7 +5,7 @@ from openai import OpenAI
 from sentence_transformers import CrossEncoder
 
 # Base directory
-BASE_DIR = Path("/Users/sanjana/Desktop/General/Text_Analytics/w8/Assignment_raw/w8_Assignment/data")
+BASE_DIR = Path("C:/Users/sonal/Documents/GitHub/AlphaNeurons-RAG-Chatbot\data")
 
 # Directory structure
 POLICY_INPUT_DIR = BASE_DIR / "raw_policy_pdf"

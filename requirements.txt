@@ -32,6 +32,10 @@ pandas>=2.0.0
 tqdm>=4.66.0
 requests>=2.31.0
 
+# For hybrid (semantic + BM25) search
+rank-bm25
+nltk
+
 # Database (usually included with Python, but listing for completeness)
 # sqlite3 is part of Python standard library
 
