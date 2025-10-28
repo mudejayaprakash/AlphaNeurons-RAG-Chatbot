@@ -6,6 +6,14 @@ import numpy as np
 import re
 from utils.config import PERSIST_DIR, POLICY_EMBED_MODEL, open_ai_model,cross_encoder,MAX_CANDIDATES, RATE_LIMIT_TURNS
 
+# Import security validation functions
+try:
+    from utils.security import validate_user_input, validate_output, log_security_event
+    SECURITY_ENABLED = True
+except ImportError:
+    print("Warning: security.py not found. Security checks disabled.")
+    SECURITY_ENABLED = False
+
 # Loading the existing Chroma vector database with the same embedding model used during ingestion.
 def load_vector_db(persist_dir: str = PERSIST_DIR):
     try:
@@ -86,7 +94,6 @@ def semantic_search(db, queries, k=20):
     all_hits = []
     seen = set()  # de-duplicate by (source, page) if present
 
-    # Normalize queries (list[str])
     if isinstance(queries, str):
         queries = [queries]
 
@@ -95,7 +102,6 @@ def semantic_search(db, queries, k=20):
             continue
         hits = db.similarity_search(q, k=k)  # returns List[Document]
         for d in hits:
-            # Build a dedup key based on metadata if possible
             meta = getattr(d, "metadata", {}) or {}
             key = (meta.get("policy_id") or meta.get("source") or meta.get("doc_id") or meta.get("file_name") or "UNK",
                    meta.get("page") or meta.get("section") or "")
@@ -118,9 +124,7 @@ def aggregate_to_documents(ranked_chunks, top_k_docs: int = 5):
     doc_scores = defaultdict(list)
 
     for item in ranked_chunks:
-        # handle both tuple (doc, score) and dict {"score":..., "metadata":...}
         if isinstance(item, tuple):
-            # determine which element is the Document
             doc, score = (item if hasattr(item[0], "metadata") else (item[1], item[0]))
             meta = getattr(doc, "metadata", {}) or {}
             val = float(score)
@@ -195,23 +199,74 @@ def retrieve_top_contexts(user_query: str, db: Chroma, llm_client=None, provider
 
     return {"variants": variants, "ranked_results": ranked_chunks, "top_docs": top_docs}
 
+# Helper function to build citation map
+def _build_citation_map(retrieved_chunks):
+    """Build citation map from retrieved chunks"""
+    citation_map = {}
+    context_blocks = []
+    
+    for idx, c in enumerate(retrieved_chunks, 1):
+        if isinstance(c, dict):
+            metadata = c.get("metadata", {})
+            text = c.get("page_content", "")
+        else:
+            metadata = getattr(c, "metadata", {})
+            text = getattr(c, "page_content", "")
+
+        source = metadata.get("source") or "Unknown_Source"
+        page = metadata.get("page") or "?"
+
+        citation_key = f"[{idx}]"
+        citation_map[citation_key] = {
+            "source": source,
+            "page": page,
+            "full_citation": f"{source}, p.{page}"
+        }
+        context_blocks.append(f"{citation_key} {text}")
+
+    context_text = "\n\n".join(context_blocks)
+    return context_text, citation_map
+
+# Helper function to group citations by document
+def group_citations_by_document(citation_map):
+    """
+    Group citations by document name
+    Returns: dict with document names as keys and list of (citation_key, page) tuples as values
+    Example: {
+        "policy_abc.pdf": [("[1]", "5"), ("[3]", "12")],
+        "policy_xyz.pdf": [("[2]", "8")]
+    }
+    """
+    grouped = {}
+    for cite_key, cite_info in citation_map.items():
+        doc_name = cite_info["source"]
+        page = cite_info["page"]
+        
+        if doc_name not in grouped:
+            grouped[doc_name] = []
+        grouped[doc_name].append((cite_key, page))
+    
+    return grouped
+
 # Summarize the main coverage, exclusions, and medical necessity criteria from the given policy chunks.
-def summarize_policy_chunks(retrieved_chunks, llm_client=None, llm_model: str =open_ai_model) -> str:
+def summarize_policy_chunks(retrieved_chunks, llm_client=None, llm_model: str =open_ai_model):
     if not llm_client:
         return "LLM client unavailable. Please try again later."
     if not retrieved_chunks:
         return "No policy content available for summarization."
 
-    # Combine all retrieved chunks into one context string
-    context = "\n\n".join([doc.page_content for doc in retrieved_chunks])
-    system_msg = (
+    # Build context with citations
+    context_text, citation_map = _build_citation_map(retrieved_chunks)
+
+    system_msg=(
         "You are a healthcare policy summarization assistant. "
-        "Summarize the policy using these section labels like follows if they are relevant: "
-        " 'Coverage Criteria', 'Medical Necessity Conditions', and 'Exclusions'. "
-        "Return concise bullet points only, with no extra commentary."
+        "Summarize the policy content concisely using bullet points and section headers "
+        "like 'Coverage Criteria', 'Medical Necessity Conditions', and 'Exclusions'. "
+        "Use inline numeric citations (e.g., [1], [2]) to indicate the source "
+        "of each fact or rule. Do not include extra commentary or interpretation."
     )
 
-    user_msg = f"Policy Context:\n{context}\n\nSummarize the key criteria clearly."
+    user_msg = f"Policy Context:\n{context_text}\n\nSummarize the key criteria clearly."
 
     try:
         response = llm_client.chat.completions.create(
@@ -223,22 +278,58 @@ def summarize_policy_chunks(retrieved_chunks, llm_client=None, llm_model: str =o
             temperature=0,
             max_tokens=300,
         )
-        return response.choices[0].message.content.strip()
+        summary_text = response.choices[0].message.content.strip()
+
+        return {
+            "summary": summary_text,
+            "references": citation_map
+        }
 
     except Exception as e:
         print("Summarization failed:", e)
-        return "Unable to summarize the policy at this time. Please try again later."
+        traceback.print_exc()
+        return {
+            "summary": "Unable to summarize the policy at this time. Please try again later.",
+            "references":{}
+        }
     
-#  Multi-turn conversational Q&A about a selected policy. Keeps previous questions/answers in memory (conversation_history) but attaches the policy context only once.
-def conversational_policy_qa(retrieved_chunks, user_question: str, llm_client=None, llm_model: str =open_ai_model, conversation_history: list = None,custom_prompt: str = None):
+# Multi-turn conversational Q&A - returns answer and references separately
+def conversational_policy_qa(retrieved_chunks, user_question: str, llm_client=None, llm_model: str =open_ai_model, 
+                             conversation_history: list = None,custom_prompt: str = None):
     if not llm_client:
         return "LLM client unavailable.", conversation_history
 
     if conversation_history is None:
         conversation_history = []
 
-    # Combine retrieved context (same policy for all turns)
-    context = "\n\n".join([doc.page_content for doc in retrieved_chunks])
+    # ============================================================
+    # SECURITY VALIDATION - Validate user input before processing
+    # ============================================================
+    if SECURITY_ENABLED:
+        is_valid, filtered_question, warning_msg = validate_user_input(
+            user_question,
+            domain="medical_policy",
+            max_length=1000,
+            check_injection=True,
+            check_domain=True
+        )
+        
+        if not is_valid:
+            # Log security event
+            log_security_event(
+                event_type="INPUT_BLOCKED",
+                user_input=user_question,
+                reason=warning_msg,
+                severity="WARNING"
+            )
+            # Return warning message without processing
+            return warning_msg, conversation_history, False, {}
+        
+        # Use filtered question (with sensitive content redacted)
+        user_question = filtered_question
+
+    # Build context with citations
+    context_text, citation_map = _build_citation_map(retrieved_chunks)
 
     # Use the sidebar-defined custom prompt if provided
     base_prompt = custom_prompt or (
@@ -246,23 +337,25 @@ def conversational_policy_qa(retrieved_chunks, user_question: str, llm_client=No
         "Use the provided policy context to answer questions accurately. "
         "If the answer is not present, say 'Not found in policy context.' "
         "Maintain continuity from previous conversation turns."
+        "Use inline citations (e.g., [1], [2]) when referencing specific information."
     )
 
     system_msg = {
         "role": "system",
-        "content": f"{base_prompt}\n\nPolicy Context:\n{context}"
+        "content": f"{base_prompt}\n\nPolicy Context:\n{context_text}"
     }
 
-    # Adds user's question to history- not context.
+    # Adds user's question to history
     conversation_history.append({"role": "user", "content": user_question})
+
     # Keep only last 10 exchanges (user+assistant pairs)
     if len(conversation_history) > 20:
         conversation_history = conversation_history[-20:]
 
-    # Simulate or enforce rate-limit based on config
+    # Check rate limit
     if len(conversation_history) >= RATE_LIMIT_TURNS * 2:
         # Do NOT add this message as assistant content
-        return "RATE_LIMIT_REACHED", conversation_history, True
+        return "RATE_LIMIT_REACHED", conversation_history, True, {}
 
     messages = [system_msg] + conversation_history
     try:
@@ -274,9 +367,35 @@ def conversational_policy_qa(retrieved_chunks, user_question: str, llm_client=No
         )
         answer = response.choices[0].message.content.strip()
 
-        # Save assistant reply to history
+        # ============================================================
+        # SECURITY VALIDATION - Validate LLM output before returning
+        # ============================================================
+        if SECURITY_ENABLED:
+            is_safe, filtered_answer, reason = validate_output(
+                answer,
+                domain="medical_policy"
+            )
+            
+            if not is_safe:
+                # Log security event
+                log_security_event(
+                    event_type="OUTPUT_BLOCKED",
+                    user_input=answer,
+                    reason=reason,
+                    severity="WARNING"
+                )
+                answer = (
+                    "⚠️ I apologize, but I cannot provide that response. "
+                    "Please rephrase your question to focus on policy information."
+                )
+            else:
+                # Use filtered answer
+                answer = filtered_answer
+
+        # Save assistant reply to history (without references appended)
         conversation_history.append({"role": "assistant", "content": answer})
-        return answer, conversation_history, False
+        
+        return answer, conversation_history, False, citation_map
 
     except Exception as e:
         err_msg = str(e).lower()
@@ -295,7 +414,7 @@ def conversational_policy_qa(retrieved_chunks, user_question: str, llm_client=No
 
         # Return the error message gracefully
         conversation_history.append({"role": "assistant", "content": answer})
-        return answer, conversation_history, rate_limit
+        return answer, conversation_history, rate_limit, {}
 
 # Filters ranked results to return only chunks belonging to one policy - useful for Streamlit UI
 def get_chunks_for_policy(ranked_results, policy_id: str):

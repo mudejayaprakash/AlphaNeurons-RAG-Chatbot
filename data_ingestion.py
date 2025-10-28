@@ -1,3 +1,4 @@
+from langchain_core.documents import Document
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_community.document_loaders import UnstructuredPDFLoader
@@ -30,7 +31,7 @@ for pdf_file in POLICY_INPUT_DIR.glob("*.pdf"):
 print("All PDFs processed and saved to:", POLICY_OUTPUT_DIR)
 
 # Creating Chunks using regex-based section detection with token controlled chunking
-def chunk_policy_text(full_text,chunk_size=CHUNK_SIZE,chunk_overlap=CHUNK_OVERLAP):
+def chunk_policy_text(full_text,file_path=None,chunk_size=CHUNK_SIZE,chunk_overlap=CHUNK_OVERLAP):
     """
     Combines regex-based section detection with
     token-controlled chunking (≈800 tokens, 100 overlap).
@@ -49,6 +50,8 @@ def chunk_policy_text(full_text,chunk_size=CHUNK_SIZE,chunk_overlap=CHUNK_OVERLA
     splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
     final_chunks = []
 
+    source_name = os.path.basename(file_path) if file_path else "Unknown_Source"
+
     # Iterating through sections (every even index = header, odd = content)
     for i in range(1, len(sections), 2):
         header = sections[i].strip().title()  # normalize header text
@@ -61,44 +64,89 @@ def chunk_policy_text(full_text,chunk_size=CHUNK_SIZE,chunk_overlap=CHUNK_OVERLA
         for j, sub in enumerate(sub_docs):
             final_chunks.append({
                 "id": f"{header}_{j}",
-                "text": f"{header}\n{sub}",
-                "section": header
+                "page_content": f"{header}\n{sub}",
+                "metadata": {
+                    "source": source_name,     
+                    "page": j + 1,             
+                    "section": header       
+                }
             })
 
     return final_chunks
 
-# Loading all policy text files
-texts, metadata = [], []
+# Database Creation- Ingestion Pipeline
+def build_vector_database():
+    """
+    Reads all .txt policy files, chunks them with metadata, embeds into Chroma DB, and persists locally.
+    """
+    all_docs = []
+    embedder = HuggingFaceEmbeddings(model_name=POLICY_EMBED_MODEL)
 
-for file in POLICY_OUTPUT_DIR.glob("*.txt"):
-    content = file.read_text(encoding="utf-8").strip()
-    if not content:
-        print(f"Skipping empty file: {file.name}")
-        continue
+    for file in POLICY_OUTPUT_DIR.glob("*.txt"):
+        content = file.read_text(encoding="utf-8").strip()
+        if not content:
+            print(f"Skipping empty file: {file.name}")
+            continue
 
-    policy_id = os.path.basename(file).replace(".txt", "")
-    chunks = chunk_policy_text(content)
+        policy_id = os.path.basename(file).replace(".txt", "")
+        chunks = chunk_policy_text(content, file_path=file.name)
 
-    for chunk in chunks:
-        texts.append(chunk["text"])
-        metadata.append({
-            "policy_id": policy_id,
-            "section": chunk["section"]
-        })
+        for idx, chunk in enumerate(chunks):
+            meta = chunk.get("metadata", {})
+            metadata = {
+                "policy_id": policy_id,
+                "source": f"{policy_id}.pdf",
+                "page": idx + 1,
+                "section": meta.get("section", "Unknown_Section")
+            }
 
-print(f"Loaded {len(metadata)} total chunks from {len(list(POLICY_OUTPUT_DIR.glob('*.txt')))} policies")
+            all_docs.append(Document(
+                page_content=chunk.get("page_content") or chunk.get("text", ""),
+                metadata=metadata
+            ))
 
-# Creating embedding model using SapBERT
-embeddings = HuggingFaceEmbeddings(model_name=POLICY_EMBED_MODEL)
+    print(f"Loaded {len(all_docs)} total chunks from {len(list(POLICY_OUTPUT_DIR.glob('*.txt')))} policies")
 
-if texts:
-    vectordb = Chroma.from_texts(
-        texts=texts,
-        embedding=embeddings,
-        metadatas=metadata,
-        persist_directory=str(PERSIST_DIR)
-    )
-    vectordb.persist()
-    print(f"Embeddings saved to: {str(PERSIST_DIR)}")
-else:
-    print("No valid text files found.")
+    if all_docs:
+        print(f"Creating Chroma vector DB at: {PERSIST_DIR}")
+        vectordb = Chroma.from_documents(
+            documents=all_docs,
+            embedding=embedder,
+            persist_directory=str(PERSIST_DIR)
+        )
+        vectordb.persist()
+        print(f"Embeddings successfully saved to: {PERSIST_DIR}")
+    else:
+        print("No valid text files found for ingestion.")
+
+
+# Run the ingestion when file executed
+if __name__ == "__main__":
+    build_vector_database()
+
+#Debug function - use as an alternative to above function while debugging    
+# if __name__ == "__main__":
+#     # Temporarily enable error messages
+#     sys.stderr = sys.__stderr__
+#     warnings.filterwarnings("default")
+    
+#     print("🚀 Starting policy ingestion...")
+    
+#     # Debug info
+#     print(f"📁 Input dir: {POLICY_INPUT_DIR}")
+#     print(f"📁 Output dir: {POLICY_OUTPUT_DIR}")
+#     print(f"📁 Persist dir: {PERSIST_DIR}")
+    
+#     # Check for PDFs
+#     pdf_files = list(POLICY_INPUT_DIR.glob("*.pdf"))
+#     print(f"📄 Found {len(pdf_files)} PDF files")
+    
+#     # Check for TXT files
+#     txt_files = list(POLICY_OUTPUT_DIR.glob("*.txt"))
+#     print(f"📝 Found {len(txt_files)} TXT files")
+    
+#     if len(txt_files) == 0:
+#         print("⚠️  No text files found! Uncomment PDF processing code first.")
+#     else:
+#         build_vector_database()
+#         print("✅ Done building vector database!")
