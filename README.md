@@ -44,7 +44,7 @@ PolicyMind is a RAG-enhanced conversational AI application designed to interpret
 
 ## Demo Video
 
-**[Watch the 7-minute demonstration video here](YOUR_VIDEO_LINK_HERE)**
+**Watch the 5-minute demonstration video here https://youtu.be/pB48ra6Twnc**
 
 The demo showcases:
 - Application walkthrough and key features
