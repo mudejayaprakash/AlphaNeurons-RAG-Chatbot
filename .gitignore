@@ -16,6 +16,12 @@ venv/
 textanalytics_env/
 rag_env/
 
+# --- OS / Editor files ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
 # --- Streamlit ---
 .streamlit/secrets.toml
 .streamlit/config.toml
