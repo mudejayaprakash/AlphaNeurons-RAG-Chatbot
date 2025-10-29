@@ -12,19 +12,19 @@ PolicyMind is a RAG-enhanced conversational AI application designed to interpret
 
 ## Table of Contents
 
-- [Features](#-features)
-- [Prerequisites](#-prerequisites)
-- [Installation](#-installation)
-- [Configuration](#-configuration)
-- [Usage](#-usage)
-- [Project Structure](#-project-structure)
-- [Data Pipeline](#-data-pipeline)
-- [RAG Architecture](#-rag-architecture)
-- [Security Features](#-security-features)
-- [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Acknowledgments](#-acknowledgments)
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Data Pipeline](#data-pipeline)
+- [RAG Architecture](#rag-architecture)
+- [Security Features](#security-features)
+- [Troubleshooting](#troubleshooting)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -425,10 +425,7 @@ lsof -ti:8501 | xargs kill -9
 
 ### Getting Help
 
-If you encounter issues not covered here:
-
-1. Review the [technical report](docs/report.pdf) for detailed architecture
-2. Contact the development team (see [Contributing](#contributing))
+If you encounter issues not covered here please review the [technical report](PolicyMindAPP.pdf) for detailed architecture
 
 ---
 
