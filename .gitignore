@@ -20,8 +20,3 @@ rag_env/
 .streamlit/secrets.toml
 .streamlit/config.toml
 
-# --- OS / Editor files ---
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
